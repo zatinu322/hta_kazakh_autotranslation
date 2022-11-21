@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='windows-1251'?>
+<ObjectNames>
+	<Object Name="LagerGuardian" FullName="Котерілісші" />
+
+	<Object Name="Monastery" FullName="Монастырь" />
+
+	<Object Name="Monastery_Bar" FullName="Жyпарлыk" />
+
+	<Object Name="Monastery_Bar_Barman" FullName="Кyнэкар Дария" />
+
+	<Object Name="Monastery_Cell" FullName="Камера" />
+
+	<Object Name="Monastery_Shop" FullName="Кіре беріс" />
+
+	<Object Name="Monah" FullName="Монашка Джон" />
+
+	<Object Name="SektantMain" FullName="Собелік" />
+
+	<Object Name="Marezzia" FullName="Мэтсия" />
+
+	<Object Name="Marezzia_Shtab" FullName="Штаб-пэтері" />
+
+	<Object Name="Marezzia_Workshop" FullName="Шеберхана" />
+
+	<Object Name="Marezzia_Shop" FullName="Гол" />
+
+	<Object Name="Marezzia_Bar" FullName="Бар '' vasilek ''" />
+
+	<Object Name="Marezzia_Bar_Barman" FullName="Даяшы Антонио" />
+
+	<Object Name="RecruiterInAR" FullName="Оппозициялыk HUX" />
+
+	<Object Name="TrashFarmer" FullName="Гарбер Сакс" />
+
+	<Object Name="Zeon" FullName="Зал" />
+
+	<Object Name="Zeon_CentralHouse" FullName="Бункер" />
+
+	<Object Name="Axel" FullName="Аксель" />
+
+	<Object Name="Zeon_Workshop" FullName="Шеберхана" />
+
+	<Object Name="Zeon_Shop" FullName="Гол" />
+
+	<Object Name="Toskana" FullName="Есерка" />
+
+	<Object Name="Toskana_Workshop" FullName="Шеберхана" />
+
+	<Object Name="Toskana_Shop" FullName="Гол" />
+
+	<Object Name="Toskana_Bar" FullName="Кафе '' Nostalgia ''" />
+
+	<Object Name="Toskana_Bar_Barman" FullName="Бартен Вилли" />
+
+	<Object Name="Agent" FullName="Агент Хрунович" />
+
+	<Object Name="GranicaVillage" FullName="Шекаралдары" />
+
+	<Object Name="GranicaVillage_Bar" FullName="Kyты" />
+
+	<Object Name="GranicaVillage_Bar_Barman" FullName="Бармен" />
+
+	<Object Name="GranicaVillage_Workshop" FullName="Шеберхана" />
+
+	<Object Name="GranicaVillage_Shop" FullName="Гол" />
+
+	<Object Name="ZnakiVillage" FullName="Сараево" />
+
+	<Object Name="ZnakiVillage_Bar" FullName="Ауылдаfы yй" />
+
+	<Object Name="ZnakiVillage_Bar_Barman" FullName="Басшы" />
+
+	<Object Name="ZnakiVillage_Workshop" FullName="Шеберхана" />
+
+	<Object Name="ZnakiVillage_Shop" FullName="Гол" />
+
+	<Object Name="Aborigen" FullName="Рустикалыk серж" />
+
+	<Object Name="NewVillage" FullName="Astria" />
+
+	<Object Name="NewVillage_Bar" FullName="Бар '' жоfалды ''" />
+
+	<Object Name="NewVillage_Bar_Barman" FullName="Басшы" />
+
+	<Object Name="NewVillage_Workshop" FullName="Шеберхана" />
+
+	<Object Name="NewVillage_Shop" FullName="Гол" />
+
+	<Object Name="NewMechanik" FullName="Механикалыk диер" />
+
+	<Object Name="PetrolStationTown1" FullName="Жанжал kою" />
+
+	<Object Name="PetrolStationTown1_Workshop" FullName="Шеберхана" />
+
+	<Object Name="PetrolStationTown2" FullName="Жанжал kою" />
+
+	<Object Name="PetrolStationTown2_Workshop" FullName="Шеберхана" />
+
+	<Object Name="PetrolStationTown3" FullName="Жанжал kою" />
+
+	<Object Name="PetrolStationTown3_Workshop" FullName="Шеберхана" />
+
+	<Object Name="Toskana_enter" FullName="Есерка" />
+
+	<Object Name="ZnakiVillage_enter" FullName="Сараево" />
+
+	<Object Name="NewVillage_enter" FullName="Astria" />
+
+	<Object Name="EnterToSubmarine_loc" FullName="Теніз kаkпасы" />
+
+	<Object Name="ToR2M1" FullName="Либрийге жол" />
+
+	<Object Name="ToR2M1small" FullName="Либерумfа апаратын жол" />
+
+	<Object Name="u1" FullName="Бап" />
+
+	<Object Name="u2" FullName="Баfа" />
+
+	<Object Name="u3" FullName="Тазартkыш" />
+
+	<Object Name="u4" FullName="Бyркент" />
+
+	<Object Name="u5" FullName="Пунту" />
+
+	<Object Name="u6" FullName="Пико" />
+
+	<Object Name="u7" FullName="Пе" />
+
+	<Object Name="u8" FullName="Фосгене" />
+
+	<Object Name="u9" FullName="Дже" />
+</ObjectNames>

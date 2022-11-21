@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='windows-1251'?>
+<resource>
+	<string id="1001" modelName="r3_man" modelSkin="0" modelCfg="1496" modelSlot="1" value="Сатkын | Менде бар, Друид! Енді біз осы жердегі зандар kyруfа кімнін билік екенін кореміз. Сіз бізге бауырластарымызды kудалау yшін толейсіз." sound="data\sounds\Speech\r3m1\r3m1_1001_traitor.ogg" time="4" />
+
+	<string id="1002" modelName="r3_man" modelSkin="2" modelCfg="1915" modelSlot="1" value="Друид | сен мені алдадын ... Мен сені кінэламаймын ... Мен сені кінэламаймын, ойткені сен не істеп жатkанынды білмейсін. Біраk кез-келген жамандыk жазасыз kалмайды. Бyл омір заны." sound="data\sounds\Speech\r3m1\r3m1_1002_druid.ogg" time="5" />
+
+	<string id="1003" modelName="r3_man" modelSkin="0" modelCfg="1496" modelSlot="1" value="Сатkын | Бyл абсурдты kарт адамды тындаманыз! Yлкке барыныз, сонда сіз озініз аласыз." sound="data\sounds\Speech\r3m1\r3m1_1003_traitor.ogg" time="4" />
+
+	<string id="1004" modelName="mask_hero" value="| Коріскенше." sound="data\sounds\Speech\r3m1\r3m1_1004_hero.ogg" time="3" />
+
+	<string id="1020" modelName="mask_hero" value="| Аkыры біз аралfа алдыk. Мyнда адамдар kайда тyратынын білмеймін бе?" sound="data\sounds\Speech\r3m1\r3m1_1020_hero.ogg" time="4" />
+
+	<string id="1021" modelName="mask_lisa" modelSlot="1" value="Fox | Мен мyнда кейбіреулерді білемін, біраk олар сізге комектесе алмайтындай." sound="data\sounds\Speech\r3m1\r3m1_1021_alice.ogg" time="4" />
+
+	<string id="1022" modelName="mask_hero" value="| Жэне бyл кім?" sound="data\sounds\Speech\r3m1\r3m1_1022_hero.ogg" time="4" />
+
+	<string id="1023" modelName="mask_lisa" modelSlot="1" value="Тyлкі | Менін откен ескі таныстарым. Мен оларfа барамын." sound="data\sounds\Speech\r3m1\r3m1_1023_alice.ogg" time="4" />
+
+	<string id="1024" modelName="mask_lisa" modelSlot="1" value="Тyлкі | Эзірге менсіз жyрініз. Маfан керек болfан кезде, олардан ізденіз." sound="data\sounds\Speech\r3m1\r3m1_1024_alice.ogg" time="4" />
+
+	<string id="21" modelName="r3_man" modelSkin="0" modelCfg="2173" modelSlot="1" value="Аудан | Жyгіру, жылдамыраk! Біз элі де kyтkарыла аламыз!" sound="data\sounds\Speech\r3m1\r3m1_21_rebel.ogg" time="4" />
+
+	<string id="22" modelName="r3_man" modelSkin="0" modelCfg="637" modelSlot="1" value="Босkындар | Бізді, мейірімді адамды yнемденіз! Біз аппараттардын Kyдайfа негізделген сенімдерін kабылдаудан бас тарттыk. Енді бізді барлыk жерде ашуланfан еретиктер мазалайды!" sound="data\sounds\Speech\r3m1\r3m1_22_refugee.ogg" />
+
+	<string id="23" modelName="mask_hero" value="| Kорыkпа, бауырлар! Біз бірге шабуылfа дайынбыз! Kаруды kолдарымен yстай алатындар, оларfа кyрессін!" sound="data\sounds\Speech\r3m1\r3m1_23_hero.ogg" />
+
+	<string id="24" modelName="r3_man" modelSkin="0" modelCfg="637" modelSlot="1" value="Босkындар | Шыfуды тоkтату! Yрысты kабылдайтын кез келді! Урр-Р.А." sound="data\sounds\Speech\r3m1\r3m1_24_refugee.ogg" time="6" />
+
+	<string id="25" modelName="mask_hero" value="| Біз шабуылды kайтып оралдыk, біраk олар kайтып орала алады. Жаkында жиынfа барамыз! Kабырfаларынын артында ешкім kол тигізбейді!" sound="data\sounds\Speech\r3m1\r3m1_25_hero.ogg" time="4" />
+
+	<string id="26" modelName="r3_man" modelSkin="0" modelCfg="637" modelSlot="1" value="Босkындар | Комек, мейірімді адам yшін рахмет! Сіз бізге ертенгі кyнге yміт сыйладыныз." sound="data\sounds\Speech\r3m1\r3m1_26_refugee.ogg" time="4" />
+
+	<string id="32" modelName="mask_hero" value="| Мен оларды kорfана алмадым! Kасірет мен ..." sound="data\sounds\Speech\r3m1\r3m1_32_hero.ogg" time="4" />
+
+	<string id="27" modelName="mask_hero" value="| Бyрын-сонды болмаfан машиналар kандай? Енді мен друидтердін kорkатынын тyсінемін. Осындай жексyрындыkтан теріге kаздар бар." sound="data\sounds\Speech\r3m1\r3m1_27_hero.ogg" time="4" />
+
+	<string id="28" modelName="mask_hero" value="| Мен kyбыжыkтармен бірінші болып емеспін. Біздін бизнесіміз дyрыс, біз женеміз!" sound="data\sounds\Speech\r3m1\r3m1_28_hero.ogg" time="4" />
+
+	<string id="31" modelName="mask_hero" value="| Yйлену yстелі билеттермен олтіріледі. Друидтерге оралуfа болады." sound="data\sounds\Speech\r3m1\r3m1_31_hero.ogg" time="4" />
+
+	<string id="29" modelName="mask_hero" value="| Дyfа тастан, сіз жерден kашу керек, жерден kашып кетуініз керек, жер бетіне kyлаfанfа дейін жэне менде kyбыжыkтармен бірге." sound="data\sounds\Speech\r3m1\r3m1_29_hero.ogg" time="4" />
+
+	<string id="1010" modelName="mask_hero" value="| Эрен аман kалды. Бyл жерде - табиfаттын кyші." sound="data\sounds\Speech\r3m1\r3m1_1010_hero.ogg" time="4" />
+
+	<string id="30" modelName="mask_hero" value="| Біз жинаkkа оралып, Жоfарfы Друдтын коз алдында озінізді аkтауымыз керек." sound="data\sounds\Speech\r3m1\r3m1_30_hero.ogg" time="4" />
+
+	<string id="8801" value="Сіз бyл аймаkты kалдырfыныз келе ме?" numButtons="2" />
+
+	<string id="8802" modelName="mask_hero" sound="data\sounds\Speech\r3m1\r3m1_8802_hero.ogg" value="| Мен бyл жолдын kайда апаратынын білмеймін, сондыkтан мен осында kаламын." time="5" />
+
+	<string id="8803" modelName="mask_hero" sound="data\sounds\Speech\r3m1\r3m1_8803_hero.ogg" value="| Біршама оfаш орын. Бyл жерден болfан дyрыс." time="5" />
+</resource>

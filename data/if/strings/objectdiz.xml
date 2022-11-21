@@ -1,0 +1,266 @@
+<?xml version='1.0' encoding='windows-1251'?>
+<resource>
+	<string id="r1m1_TheTown_diz" value="Кішкентай kалаларда бар, тек солтyстік саудагерлермен сауда жасайды." />
+
+	<string id="r1m1_PetrolStationTown1_diz" value="Жанармай kyю. Сіз оны тyзете аласыз." />
+
+	<string id="r1m1_PetrolStationTown2_diz" value="Жанармай kyю. Сіз оны тyзете аласыз." />
+
+	<string id="r1m1_PetrolStationTown3_diz" value="Жанармай kyю. Сіз оны тyзете аласыз." />
+
+	<string id="r1m2_PetrolStationTown1_diz" value="Жанармай kyю. Сіз оны тyзете аласыз." />
+
+	<string id="r1m2_PetrolStationTown2_diz" value="Жанармай kyю. Сіз оны тyзете аласыз." />
+
+	<string id="r1m2_PetrolStationTown3_diz" value="Жанармай kyю. Сіз оны тyзете аласыз." />
+
+	<string id="r1m2_PetrolStationTown4_diz" value="Жанармай kyю. Сіз оны тyзете аласыз." />
+
+	<string id="r1m2_PetrolStationTown5_diz" value="Жанармай kyю. Сіз оны тyзете аласыз." />
+
+	<string id="r1m3_PetrolStationTown1_diz" value="Жанармай kyю. Сіз оны тyзете аласыз." />
+
+	<string id="r1m3_PetrolStationTown2_diz" value="Жанармай kyю. Сіз оны тyзете аласыз." />
+
+	<string id="r1m3_PetrolStationTown3_diz" value="Жанармай kyю. Сіз оны тyзете аласыз." />
+
+	<string id="r1m3_PetrolStationTown4_diz" value="Жанармай kyю. Сіз оны тyзете аласыз." />
+
+	<string id="r1m3_PetrolStationTown5_diz" value="Жанармай kyю. Сіз оны тyзете аласыз." />
+
+	<string id="r2m1_PetrolStationTown1_diz" value="Жанармай kyю. Сіз оны тyзете аласыз." />
+
+	<string id="r2m1_PetrolStationTown2_diz" value="Жанармай kyю. Сіз оны тyзете аласыз." />
+
+	<string id="r2m1_PetrolStationTown3_diz" value="Жанармай kyю. Сіз оны тyзете аласыз." />
+
+	<string id="r2m1_PetrolStationTown4_diz" value="Жанармай kyю. Сіз оны тyзете аласыз." />
+
+	<string id="r2m1_PetrolStationTown5_diz" value="Жанармай kyю. Сіз оны тyзете аласыз." />
+
+	<string id="r2m2_PetrolStationTown1_diz" value="Жанармай kyю. Сіз оны тyзете аласыз." />
+
+	<string id="r2m2_PetrolStationTown2_diz" value="Жанармай kyю. Сіз оны тyзете аласыз." />
+
+	<string id="r2m2_PetrolStationTown3_diz" value="Жанармай kyю. Сіз оны тyзете аласыз." />
+
+	<string id="r4m1_PetrolStationTown1_diz" value="Жанармай kyю. Сіз оны тyзете аласыз." />
+
+	<string id="r4m1_PetrolStationTown2_diz" value="Жанармай kyю. Сіз оны тyзете аласыз." />
+
+	<string id="r4m1_PetrolStationTown3_diz" value="Жанармай kyю. Сіз оны тyзете аласыз." />
+
+	<string id="r4m1_PetrolStationTown4_diz" value="Жанармай kyю. Сіз оны тyзете аласыз." />
+
+	<string id="r4m1_PetrolStationTown5_diz" value="Жанармай kyю. Сіз оны тyзете аласыз." />
+
+	<string id="r4m1_PetrolStationTown6_diz" value="Жанармай kyю. Сіз оны тyзете аласыз." />
+
+	<string id="r4m1_PetrolStationTown7_diz" value="Жанармай kyю. Сіз оны тyзете аласыз." />
+
+	<string id="r4m2_PetrolStationTown61_diz" value="Жанармай kyю. Сіз оны тyзете аласыз." />
+
+	<string id="r1m1_TheContraVillage_diz" value="Осы алыс ауылдын тyрfындары шетелдіктерге yнамайды." />
+
+	<string id="r1m1_TheGloohoe_diz" value="Жылы yя." />
+
+	<string id="r1m1_TheOilVillage_diz" value="Фермердін гyлденуі." />
+
+	<string id="r1m1_TheFreedom_diz" value="Бyл елді мекенге бандиттерге шабуыл жасау ыkтималдыfы жоfары." />
+
+	<string id="r1m1_ToR1M3_diz" value="Ферлендке жол" />
+
+	<string id="r1m1_ToR4M1_diz" value="Вахатkа апаратын жол" />
+
+	<string id="r1m1_ToR1M2_diz" value="Риджинге апаратын жол" />
+
+	<string id="r1m2_ToR1M1_diz" value="Шетіне жол" />
+
+	<string id="r1m2_ToR1M3_diz" value="Ферлендке жол" />
+
+	<string id="r1m4_ToR1M3_diz" value="Ферлендке жол" />
+
+	<string id="r1m4_ToR3M1_diz" value="Друидтердін тоfайына" />
+
+	<string id="r2m1_ToR2M2_diz" value="Аржанfа дейінгі жол" />
+
+	<string id="r2m1_ToR2M2small_diz" value="Аржанfа жол" />
+
+	<string id="r2m1_ToR1M3_diz" value="Ферлендке жол" />
+
+	<string id="r2m1_ToR3M1_diz" value="Друидтердін тоfайына кету" />
+
+	<string id="r2m2_ToR2M1_diz" value="Либрийге жол" />
+
+	<string id="r2m2_ToR2M1small_diz" value="Либерумfа апаратын жол" />
+
+	<string id="r3m1_ToR2M1_diz" value="Либрийге жол" />
+
+	<string id="r3m1_ToR3M2_diz" value="Иготтkа жол" />
+
+	<string id="r3m2_ToR3M1_diz" value="Друидтердін тоfайына кету" />
+
+	<string id="r4m1_ToR1M1_diz" value="Шетіне кету" />
+
+	<string id="r4m1_ToR2M2_diz" value="Аржанfа кету" />
+
+	<string id="r4m1_ToR4M2_diz" value="Zarmek-ке кету" />
+
+	<string id="r1m2_Esting_diz" value="Фермерлер kоршалfан kала. Ол барлыk риджинмен жэне FARDALLEDDERD-тін жаkсы жартысы бар картоп yсынады." />
+
+	<string id="r1m2_Midragd_diz" value="Аfартушылардын негізгі kаласы. «Жанданfан элемнін fылыми капиталы» оз yлестерінде. Мyнда сіз эрkашан сынfан жабдыkтар мен артефактілерді, сонымен kатар белгілі бір сэттілікке ие бола аласыз - кейбір эксклюзивті kyрылfыны сатып алуыныз мyмкін." />
+
+	<string id="r1m2_Porto_diz" value="Озінін yстінгі пікірге kайшы, аfартушылар kала kабырfаларынан тыс жерде fана отырмайды, сонымен kатар бyкіл элем бойынша жоfары денгейдегі kозfалыс жолдарын іздейді. Бyл kала, kайта салынfан жэне толыkтай функционалды порт, теніз тасымалы жандануынын алfашkы kарлыfашы." />
+
+	<string id="r1m2_TheArtefact_diz" value="Жергілікті фермерлер ескі kоймадан ашып, ежелгі іздеушілерге kайта даярлаудан отті." />
+
+	<string id="r1m2_TheSign_diz" value="Фермерді реттеу" />
+
+	<string id="r1m2_TheRace_diz" value="Бірде, мyнда омір сyру жарысы откізіліп, kазір металл фрагменттері бар оріс бар." />
+
+	<string id="r1m2_TheOlimp_diz" value="Жергілікті тyрfындар ан аулау kиын, біраk олар оте ынfайлы омір сyреді." />
+
+	<string id="r1m2_TheTickets_diz" value="Ежелгі амфитеатрдын kирандылары коптеген авантюристерді kызыkтырады." />
+
+	<string id="r1m3_Pesht_diz" value="Ен манызды сауда баfыттарынын kиылысында орналасkан kала-kала - олар ресми тyрде тариф алып жатkан элемдегі жалfыз орын. Сондыkтан эртyрлі топтар бyл толkындарды басып алуды коптен кyткен." />
+
+	<string id="r1m3_Asgard_diz" value="Бір kараfанда, бyл шол далада жоfалfан ауыл. Біраk іс жyзінде - оксипитормен контрабандалыk орталыkтын орталыfы." />
+
+	<string id="r1m3_Minin_diz" value="Еркін сауда бекінісі жэне адал енбек арkылы kол жеткізуге болатын нэрсенін yлгісі. Бэсекелестердін достыk сапарымен толыk кездесуге дайын, наfыз бекініс." />
+
+	<string id="r1m3_TheShahts_diz" value="Жергілікті жyмысшылар kyндылыkтарды іздеуде тонна kyм мен тастарды шыfарады." />
+
+	<string id="r1m3_TheForgotten_diz" value="Шамасы, туа біткен жалkау бyл ауылдын тyрfындарына kолайлы жерде kолма-kол аkша алуfа мyмкіндік бермейді. Немесе бэсекелестерден kорkу мyмкін." />
+
+	<string id="r1m3_TheVozleMinin_diz" value="Тyрfын ауылдары yзаk уаkыт бойы ештене істемейтін кішкентай ауыл." />
+
+	<string id="r1m3_TheBanditOilMine_diz" value="Мyнай козі. Сондай-аk солтyстік саудагерлердін табыстарынын козі." />
+
+	<string id="r1m3_TheBase_diz" value="Осы ежелгі эскери базанын ішектерінде тонна kару жасырылfан." />
+
+	<string id="r1m3_ToR1M1_diz" value="Шетіне жол" />
+
+	<string id="r1m3_ToR2M1_diz" value="Либрийге жол" />
+
+	<string id="r1m3_ToR1M2_diz" value="Риджинге апаратын жол" />
+
+	<string id="r1m3_ToR1M4_diz" value="Рельге апаратын жол" />
+
+	<string id="r1m4_TheOlme_diz" value="Солтyстік жол саудагерлерінін байлыfы, оларды ай сайынfы ондаfан тонна сирек тауарларды жеткізіп, ауа-райынын ауа-райынын kолайсыз жаfдайларында жаkсы саkталады. Окінішке орай, жергілікті тyрfындар эрkашан шетелдіктердін пайда болуына лайыkты жауап бермейді, сондыkтан kала оте байсалды." />
+
+	<string id="r1m4_FVOnOcean_diz" value="Мyхиттаfы балыk аулау ауылы. «Наfыз балыkшылар олмейді», - дейді жергілікті дейді." />
+
+	<string id="r1m4_FVNearOlme_diz" value="Барлыk жолдар kиылысында орналасkан ауыл." />
+
+	<string id="r1m4_FVCalis_diz" value="Есеп айырысу kирандыларда" />
+
+	<string id="r1m4_FVCordan_diz" value="Тіпті батпаkты топыраk тіпті кyндізгі уаkытта мykият онделсе, жомарт жемістер экеледі." />
+
+	<string id="r1m4_FVPerch_diz" value="Алыс тау-кен ауылы. Жергілікті тyрfындар - жандаfы балыkшылар - бyл жаfдайfа ренжіді." />
+
+	<string id="r1m4_FVBerko_diz" value="Одаk саудагерлер ауылы." />
+
+	<string id="r1m4_StorageVil_diz" value="Yнемі балыkшылардын kолынан саудагерлердін kолдарынан коп сауда-саттыkkа жэне керісінше отетін kyнды стратегиялыk объект." />
+
+	<string id="r2m1_TheGelvetcia_diz" value="ТМД-нын астанасы, kабырfасында, шетелдік басkыншылармен кyрес жоніндегі стратегиялыk жоспарлар дyниеге келеді, ал кен интеллект желісінін орталыk блогы орналасkан." />
+
+	<string id="r2m1_TheSel_diz" value="Осы kаланын тyрfындары мен жаkын ауылдар барлыk жаfдайда оз елдерінін kорfауын yсынады. ТМД-нын тамаk жэне ондірістік базасы." />
+
+	<string id="r2m1_TheTuzz_diz" value="Достастыkтын негізгі эскери базасы, онда жyздеген сарбаздар кyндіз-тyні, азаматтыk халыkтын kауіптілігін корсетуге дайын." />
+
+	<string id="r2m1_TheDoubtful_diz" value="Алыс ауыл." />
+
+	<string id="r2m1_TheUnderAttaks_diz" value="Жиілік ауылы, AR-дан жиі шабуыл жасайтын." />
+
+	<string id="r2m1_TheVill2_diz" value="Бyл ауылдын тyрfындары AR-мен кyрестін ортаk себебі yшін бэрін береді." />
+
+	<string id="r2m1_TheVill1_diz" value="Артkы жаfын kамтамасыз ету соfыс кезіндегі манызды міндет, сондыkтан тyрfындар kолмен жyмыс істемей жyмыс істейді." />
+
+	<string id="r2m2_Monastery_diz" value="Білім шіркеуінін kолдау корсеткіші. Онын биік kабырfаларынын артында не жасырылfанын аз адамдар біледі." />
+
+	<string id="r2m2_Marezzia_diz" value="Бітелген адамдар кyн мен тyнде кyн-тyн осымен жyмыс істейді, ойткені аксельдін осіп келе жатkан армиясына тамаk беру." />
+
+	<string id="r2m2_Zeon_diz" value="Аксел жерасты базасы. Онын жаkын жері fана онын дэл орналасkан жері fана біледі. Дэл осы жерде, бір кездері kызыл тyстін kозfалысы пайда болды, ол бyкіл елді kамтыfаннан кейін." />
+
+	<string id="r2m2_Toskana_diz" value="Арханнын халыk милициясы kайсысын бyрfан yрып-соfатын алмасуды yйлестіреді." />
+
+	<string id="r2m2_GranicaVillage_diz" value="Шекара ауылы, ойткені онын атынан корінуі мyмкін. Алайда, kай шекараны білдіреді, ешкім есте саkтамайды." />
+
+	<string id="r2m2_ZnakiVillage_diz" value="Фермерлік кент." />
+
+	<string id="r2m2_NewVillage_diz" value="Бyл ауылдын тyрfындары кейде екі соfыс тараптарына да kызмет корсетуге мэжбyр. Алайда, олар мyны жарнамаламаfанды &#8203;&#8203;жон кореді." />
+
+	<string id="r2m2_EnterToSubmarine_loc_diz" value="Вахатта" />
+
+	<string id="r3m1_TheSet_diz" value="Керемет Друидтердін kаласы, елден жоfары котеріліп жатыр." />
+
+	<string id="r3m1_TheFist_diz" value="Ормандардын ортасындаfы kарапайым елді мекен. Сыртkы элемдегі дауылдын ортасында тыныш бyрыш." />
+
+	<string id="r3m1_TheUluk_diz" value="Дуидтердін сенімдерін озгерткен темірдін балалары сyлулыk туралы идеяларына сэйкес туfан kалаларын kалпына келтірді." />
+
+	<string id="r3m1_TheRazboynik_diz" value="Тоналfан ауыл." />
+
+	<string id="r3m1_ToR1M4_diz" value="Осы жерден сіз Хельге бара аласыз." />
+
+	<string id="r3m2_OracleDefendersVil_diz" value="Oracle компаниясынын kорfаушылары оздерінін жорыkтарын мyнда озіне деген yмітпен атап отеді." />
+
+	<string id="r3m2_AloneDruid_diz" value="Хермиттін yйі." />
+
+	<string id="r4m1_TheGadad_diz" value="Вахата астанасы - Озианын наfыз інжу. Ежелгі уаkытта бyл kала зенбірекшілер мен сэулетшілермен танымал болfан." />
+
+	<string id="r4m1_TheKef_diz" value="Бір кездері гyлденген kала сонfы бірнеше жыл ішінде ыдырауfа yшырады. Алайда, ол бyрынfы yлылыkтын іздерін элі де саkтайды." />
+
+	<string id="r4m1_TheKazif_diz" value="Азаматтар жарыстан толkуды kалайтын барлыk адамдар yшін yлкен окілдіктер yйымдастырады. Окінішке орай, мyнда аз адамдар пайда болады." />
+
+	<string id="r4m1_r4_AlihamVil_diz" value="Шол далада орналасkан олім шолі, бyл ауыл kатты бастан откерді." />
+
+	<string id="r4m1_Buhara_loc_diz" value="Кептірілген теніз жаfасындаfы ежелгі порт. Мyхиттын кеністігін ешkашан кормейтін ондаfан кемелер мyнда олардын жасы тyрады." />
+
+	<string id="r4m1_TheOilCity_diz" value="Жергілікті биліктін kолдауы - ен бай мyнай кен орны." />
+
+	<string id="r4m1_TheZuhel_diz" value="Тyраkты шабуылдардан зардап шегетін елді мекен." />
+
+	<Object Name="PetrolStationTown1_diz" FullName="Заправка" />
+
+	<Object Name="PetrolStationTown2_diz" FullName="Заправка" />
+
+	<Object Name="PetrolStationTown3_diz" FullName="Заправка" />
+
+	<Object Name="PetrolStationTown4_diz" FullName="Заправка" />
+
+	<Object Name="PetrolStationTown5_diz" FullName="Заправка" />
+
+	<Object Name="PetrolStationTown6" FullName="Заправка" />
+
+	<Object Name="PetrolStationTown7" FullName="Заправка" />
+
+	<string id="r4m2_ScientiferVillage_diz" value="Біздін элеміміздін шекарасында сынfан fылыми ауыл жэне шетелдік инфекция козі." />
+
+	<string id="r4m2_MilitaryBase_diz" value="Бyл жер бyкіл оазистен kорkу арkылы yсталады. Мyнда жекпе-жектер жиналады, біреуді олтіруге дайын. Осы жерден олар оздерінін kанды науkандарын бастайды." />
+
+	<string id="r4m2_PetrolStationTower_diz" value="Жанжал kою" />
+
+	<string id="demo_TheOlme_diz" value="Солтyстік жол саудагерлерінін байлыfы, оларды ай сайынfы ондаfан тонна сирек тауарларды жеткізіп, ауа-райынын ауа-райынын kолайсыз жаfдайларында жаkсы саkталады. Окінішке орай, жергілікті тyрfындар эрkашан шетелдіктердін пайда болуына лайыkты жауап бермейді, сондыkтан kала оте байсалды." />
+
+	<string id="demo_FVOnOcean_diz" value="Мyхиттаfы балыk аулау ауылы. Наfыз балыkшылар олмейді », - дейді жергілікті маkал." />
+
+	<string id="demo_FVNearOlme_diz" value="Барлыk жолдар kиылысында орналасkан ауыл." />
+
+	<string id="demo_FVCalis_diz" value="Есеп айырысу kирандыларда" />
+
+	<string id="demo_FVCordan_diz" value="Тіпті батпаkты топыраk тіпті кyндізгі уаkытта мykият онделсе, жомарт жемістер экеледі." />
+
+	<string id="demo_FVPerch_diz" value="Шалfайдаfы шахтер ауылы. Жергілікті тyрfындар - жандаfы балыkшылар - бyл жаfдайfа ренжіді." />
+
+	<string id="demo_FVBerko_diz" value="Одаk саудагерлер ауылы." />
+
+	<string id="r3m1_r3_FarVillage_diz" value="Друдовтын шалfай ауылы. Друидтер мyнда соfысkа kатысkысы келмейтін жерде тyрады, олар машинамен айналысады." />
+
+	<string id="r4m2_CrazyBase_diz" value="Эскери база, kарулы жауынгерлермен бірге жасырыныз, олар kол жетімді радиуста болады." />
+
+	<string id="r3m2_AloneDruidBuilding_diz" value="Жалfыз драйдтын тyрfын yйі. Дyние оfан yнамады немесе ол азайып кетті, ал тарихы yнсіз." />
+
+	<string id="ArcadeScout01_diz" value="Откір колік. Бyл стандартты денеге ие, біраk бэрі бірегей." />
+
+	<string id="Formula01_diz" value="Тек металл сыныkтардан жиналfан жарыс машинасы." />
+</resource>

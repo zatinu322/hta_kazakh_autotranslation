@@ -1,0 +1,158 @@
+<?xml version='1.0' encoding='windows-1251'?>
+<ObjectNames>
+	<Object Name="TheGadad" FullName="Гадад" />
+
+	<Object Name="Gadad_Bar" FullName="Кафе '' шолдеу ''" />
+
+	<Object Name="Gadad_Bar_Barman" FullName="Бармен" />
+
+	<Object Name="Gadad_Shop" FullName="Гол" />
+
+	<Object Name="Gadad_Workshop" FullName="Шеберхана" />
+
+	<Object Name="Gadad_Bar_Customer1" FullName="Аfа" />
+
+	<Object Name="TheKef" FullName="Kyрма" />
+
+	<Object Name="Kef_Bar" FullName="Оазис" />
+
+	<Object Name="Kef_Bar_Barman" FullName="Бармен" />
+
+	<Object Name="Kef_Workshop" FullName="Шеберхана" />
+
+	<Object Name="Kef_Shop" FullName="Гол" />
+
+	<Object Name="Kef_Bar_Customer1" FullName="Маро" />
+
+	<Object Name="TheKazif" FullName="Casif" />
+
+	<Object Name="Kazif_Bar" FullName="Bar 'Black Swiz' '" />
+
+	<Object Name="Kazif_Bar_Barman" FullName="Бармен" />
+
+	<Object Name="Kazif_Workshop" FullName="Жyмыс митаталары" />
+
+	<Object Name="Kazif_Shop" FullName="Гол" />
+
+	<Object Name="Kazif_Bar_Customer1" FullName="Аяз ата" />
+
+	<Object Name="r4_AlihamVil" FullName="Алихам" />
+
+	<Object Name="r4_Aliham_Shop" FullName="Yлкен дyкен" />
+
+	<Object Name="r4_Aliham_Bar" FullName="Earty" />
+
+	<Object Name="r4_Aliham_Bar_Barman" FullName="Fаланис" />
+
+	<Object Name="r4_Aliham_Bar_Visitor" FullName="Луиджи" />
+
+	<Object Name="r4_Aliham_Workshop" FullName="Kыша" />
+
+	<Object Name="Oil_loc" FullName="Майлау" />
+
+	<Object Name="Port_loc" FullName="Теніз порты" />
+
+	<Object Name="LostEngineer_loc" FullName="Инженердін kашып кетуі" />
+
+	<Object Name="Buhara_loc" FullName="Бyхара" />
+
+	<Object Name="ToR1M1" FullName="Шетіне кету" />
+
+	<Object Name="ToR4M2" FullName="Zarmek-ке кету" />
+
+	<Object Name="ToR2M2" FullName="АРЖАН портындаfы порт" />
+
+	<Object Name="TheOilCity" FullName="Нефтеград" />
+
+	<Object Name="TheZuhel" FullName="Зyхель" />
+
+	<Object Name="r4m1_BuharsLeader" FullName="Бyхартсевтын басшысы" />
+
+	<Object Name="Kazif_Bar_Customer2" FullName="Шумахер" />
+
+	<Object Name="Gadad_Bar_CrazyBook1" FullName="Metrorcello" />
+
+	<Object Name="PetrolStationTown1" FullName="Жанжал kою" />
+
+	<Object Name="PetrolStationTown2" FullName="Жанжал kою" />
+
+	<Object Name="PetrolStationTown3" FullName="Жанжал kою" />
+
+	<Object Name="PetrolStationTown4" FullName="Жанжал kою" />
+
+	<Object Name="PetrolStationTown5" FullName="Жанжал kою" />
+
+	<Object Name="PetrolStationTown6" FullName="Жанжал kою" />
+
+	<Object Name="PetrolStationTown7" FullName="Жанжал kою" />
+
+	<Object Name="r4m1_Engineer" FullName="Инженер-инженер" />
+
+	<Object Name="heavy_dot1_vulcan1" FullName="Нyкерту" />
+
+	<Object Name="heavy_dot1_vulcan2" FullName="Нyкерту" />
+
+	<Object Name="heavy_dot2_vulcan3" FullName="Нyкерту" />
+
+	<Object Name="heavy_dot1_vulcan4" FullName="Нyкерту" />
+
+	<Object Name="heavy_dot1_vulcan5" FullName="Нyкерту" />
+
+	<Object Name="heavy_dot1_vulcan6" FullName="Нyкерту" />
+
+	<Object Name="sack_dot2_kord1" FullName="Нyкерту" />
+
+	<Object Name="heavy_dot1_vulcan7" FullName="Нyкерту" />
+
+	<Object Name="heavy_dot2_vector1" FullName="Нyкерту" />
+
+	<Object Name="heavy_dot3_rainmetal1" FullName="Нyкерту" />
+
+	<Object Name="sack_dot2_flag1" FullName="Нyкерту" />
+
+	<Object Name="sack_dot2_kord1" FullName="Нyкерту" />
+
+	<Object Name="sack_dot2_vulcan8" FullName="Нyкерту" />
+
+	<Object Name="sack_dot2_kord2" FullName="Нyкерту" />
+
+	<Object Name="TheOilCity_Workshop" FullName="Шеберхана" />
+
+	<Object Name="TheOilCity_Shop" FullName="Дyкен" />
+
+	<Object Name="PetrolStationTown1_Workshop" FullName="Жанжал kою" />
+
+	<Object Name="PetrolStationTown2_Workshop" FullName="Жанжал kою" />
+
+	<Object Name="PetrolStationTown3_Workshop" FullName="Жанжал kою" />
+
+	<Object Name="PetrolStationTown4_Workshop" FullName="Жанжал kою" />
+
+	<Object Name="PetrolStationTown5_Workshop" FullName="Жанжал kою" />
+
+	<Object Name="PetrolStationTown6_Workshop" FullName="Жанжал kою" />
+
+	<Object Name="PetrolStationTown7_Workshop" FullName="Жанжал kою" />
+
+	<Object Name="r4_Zuhel_Workshop" FullName="Шеберхана" />
+
+	<Object Name="r4_Zuhel_Shop" FullName="Дyкен" />
+
+	<Object Name="urod1" FullName="Шаман" />
+
+	<Object Name="urod2" FullName="Микко" />
+
+	<Object Name="urod3" FullName="Борг" />
+
+	<Object Name="urod4" FullName="Алаkы" />
+
+	<Object Name="urod5" FullName="Yрлыk" />
+
+	<Object Name="urod6" FullName="Gaia" />
+
+	<Object Name="urod7" FullName="Кyнкер" />
+
+	<Object Name="urod8" FullName="Хррр" />
+
+	<Object Name="urod9" FullName="Фу аfай" />
+</ObjectNames>

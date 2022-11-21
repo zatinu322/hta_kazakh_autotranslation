@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='windows-1251'?>
+<ObjectNames>
+	<Object Name="OracleDefendersVil" FullName="Апулко" />
+
+	<Object Name="OracleDefendersVil_Shop" FullName="Yры дyкені" />
+
+	<Object Name="OracleDefendersVil_WorkShop" FullName="Мyгедек - жондеуші" />
+
+	<Object Name="AloneDruid" FullName="Жалfыз драйд" />
+
+	<Object Name="AloneDruidBuilding" FullName="Друид Хут" />
+
+	<Object Name="OracleDefenders_loc" FullName="Oracle kамkоршылары" />
+
+	<Object Name="ToR3M1" FullName="Друидтердін тоfайына кету" />
+
+	<Object Name="Monster_loc" FullName="Kорkынышты kyбыжыk" />
+
+	<Object Name="VK1_loc" FullName="Есептеу кешені 1" />
+
+	<Object Name="VK2_loc" FullName="Есептеу кешені 2" />
+
+	<Object Name="VK3_loc" FullName="Есептеу кешені 3" />
+
+	<Object Name="Factory_loc" FullName="Тасталfан зауытта" />
+
+	<Object Name="Oracle_loc" FullName="Oracle" />
+
+	<Object Name="OracleNPC" FullName="Oracle" />
+
+	<Object Name="OracleGuardian_1" FullName="Oracle-дін kорfаушысы" />
+
+	<Object Name="AloneDruid_Workshop" FullName="Друидтін шеберханасы" />
+
+	<Object Name="heavy_dot3_vulcan1" FullName="Нyкерту" />
+
+	<Object Name="sack_dot2_kord2" FullName="Нyкерту" />
+
+	<Object Name="urod1" FullName="Торус" />
+
+	<Object Name="urod2" FullName="Микко" />
+
+	<Object Name="urod3" FullName="Борг" />
+
+	<Object Name="urod4" FullName="Алаkы" />
+
+	<Object Name="urod5" FullName="Yрлыk" />
+
+	<Object Name="urod6" FullName="Gaia" />
+
+	<Object Name="urod7" FullName="Кyнкер" />
+
+	<Object Name="urod8" FullName="Хррр" />
+
+	<Object Name="urod9" FullName="Фу аfай" />
+</ObjectNames>

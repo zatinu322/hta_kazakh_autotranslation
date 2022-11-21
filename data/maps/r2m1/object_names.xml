@@ -1,0 +1,152 @@
+<?xml version='1.0' encoding='windows-1251'?>
+<ObjectNames>
+	<Object Name="TheGelvetcia" FullName="Гогецетия" />
+
+	<Object Name="TheGelvetcia_Workshop" FullName="Шеберхана" />
+
+	<Object Name="TheGelvetcia_Shop" FullName="Гол" />
+
+	<Object Name="TheGelvetcia_House" FullName="Сенат" />
+
+	<Object Name="TheGelvetcia_Bar" FullName="Рымочная" />
+
+	<Object Name="TheGelvetcia_Bar_Barman" FullName="Хатшы Блэр" />
+
+	<Object Name="Senat" FullName="Сенатор Шварц" />
+
+	<Object Name="Gulik" FullName="Крожарfыштар" />
+
+	<Object Name="TheSel" FullName="Сyраk" />
+
+	<Object Name="TheSel_Workshop" FullName="Шеберхана" />
+
+	<Object Name="TheSel_Shop" FullName="Гол" />
+
+	<Object Name="TheSel_House" FullName="Вокзал" />
+
+	<Object Name="TheSel_Bar" FullName="Бар »" />
+
+	<Object Name="TheSel_Bar_Barman" FullName="Жyмыс беруші би" />
+
+	<Object Name="SelCitizen" FullName="Электриктін тyнбасы" />
+
+	<Object Name="SelBarmen" FullName="Бармен" />
+
+	<Object Name="Estet" FullName="Кауфман" />
+
+	<Object Name="TheTuzz" FullName="Тyз" />
+
+	<Object Name="TheTuzz_Workshop" FullName="Шеберхана" />
+
+	<Object Name="TheTuzz_Shop" FullName="Гол" />
+
+	<Object Name="TheTuzz_House" FullName="Жалдау штабы" />
+
+	<Object Name="TheTuzz_Bar" FullName="Kyты" />
+
+	<Object Name="TheTuzz_Bar_Barman" FullName="Agitatorsha bo" />
+
+	<Object Name="TuzVerb" FullName="Жалдаушы Ханк" />
+
+	<Object Name="TheDoubtful" FullName="Раздольный" />
+
+	<Object Name="TheDoubtful_Workshop" FullName="Шеберхана" />
+
+	<Object Name="TheDoubtful_Shop" FullName="Гол" />
+
+	<Object Name="TheDoubtful_Bar" FullName="Тор" />
+
+	<Object Name="TheDoubtful_Bar_Barman" FullName="Берар-марара бар" />
+
+	<Object Name="AntipodEstet" FullName="Ежелгі дэуірлер" />
+
+	<Object Name="TheUnderAttaks" FullName="Петропавл" />
+
+	<Object Name="TheUnderAttaks_Workshop" FullName="Шеберхана" />
+
+	<Object Name="TheUnderAttaks_Shop" FullName="Гол" />
+
+	<Object Name="TheUnderAttaks_Bar" FullName="Тор" />
+
+	<Object Name="TheUnderAttaks_Bar_Barman" FullName="Берар-марара бар" />
+
+	<Object Name="TheVill2" FullName="»" />
+
+	<Object Name="TheVill2_Workshop" FullName="Шеберхана" />
+
+	<Object Name="TheVill2_Shop" FullName="Гол" />
+
+	<Object Name="TheVill2_Bar" FullName="Тор" />
+
+	<Object Name="TheVill2_Bar_Barman" FullName="Берар-марара бар" />
+
+	<Object Name="TheVill1" FullName="Генденбургск" />
+
+	<Object Name="TheVill1_Workshop" FullName="Шеберхана" />
+
+	<Object Name="TheVill1_Shop" FullName="Гол" />
+
+	<Object Name="TheVill1_Bar" FullName="Тор" />
+
+	<Object Name="TheVill1_Bar_Barman" FullName="Берар-марара бар" />
+
+	<Object Name="PetrolStationTown1" FullName="Жанжал kою" />
+
+	<Object Name="PetrolStationTown1_Workshop" FullName="Шеберхана" />
+
+	<Object Name="PetrolStationTown2" FullName="Жанжал kою" />
+
+	<Object Name="PetrolStationTown2_Workshop" FullName="Шеберхана" />
+
+	<Object Name="PetrolStationTown3" FullName="Жанжал kою" />
+
+	<Object Name="PetrolStationTown3_Workshop" FullName="Шеберхана" />
+
+	<Object Name="PetrolStationTown4" FullName="Жанжал kою" />
+
+	<Object Name="PetrolStationTown4_Workshop" FullName="Шеберхана" />
+
+	<Object Name="PetrolStationTown5" FullName="Жанжал kою" />
+
+	<Object Name="PetrolStationTown5_Workshop" FullName="Шеберхана" />
+
+	<Object Name="TheGelvetcia_enter" FullName="Гогецетия" />
+
+	<Object Name="TheSel_enter" FullName="Сyраk" />
+
+	<Object Name="TheTuzz_enter" FullName="Тyз" />
+
+	<Object Name="TheDoubtful_enter" FullName="Раздольный" />
+
+	<Object Name="TheUnderAttaks_enter" FullName="Петропавл" />
+
+	<Object Name="TheVill1_enter" FullName="Генденбургск" />
+
+	<Object Name="TheVill2_enter" FullName="»" />
+
+	<Object Name="ToR1M3" FullName="Туннель" />
+
+	<Object Name="ToR3M1" FullName="Су астындаfы туннель" />
+
+	<Object Name="ToR2M2" FullName="Аржанfа дейінгі жол" />
+
+	<Object Name="ToR2M2small" FullName="Аржанfа жол" />
+
+	<Object Name="u1" FullName="Кокірек" />
+
+	<Object Name="u2" FullName="Ykу" />
+
+	<Object Name="u3" FullName="Бай" />
+
+	<Object Name="u4" FullName="Джин" />
+
+	<Object Name="u5" FullName="Мира" />
+
+	<Object Name="u6" FullName="Сэуле" />
+
+	<Object Name="u7" FullName="Коленке" />
+
+	<Object Name="u8" FullName="Фосгене" />
+
+	<Object Name="u9" FullName="Дже" />
+</ObjectNames>

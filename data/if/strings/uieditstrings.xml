@@ -1,0 +1,266 @@
+<?xml version='1.0' encoding='windows-1251'?>
+<resource>
+	<string id="ok" value="ЖАРАЙДЫ МА" />
+
+	<string id="cancel" value="Кyшін жою" />
+
+	<string id="Cancel" value="Кyшін жою" />
+
+	<string id="yes" value="Иэ" />
+
+	<string id="no" value="Жоk" />
+
+	<string id="error" value="Kателік" />
+
+	<string id="save" value="Жинау" />
+
+	<string id="Default" value="Міндеттемені орындамау" />
+
+	<string id="Close" value="Жабыk" />
+
+	<string id="Control" value="Басkару" />
+
+	<string id="Exit" value="Шыfу" />
+
+	<string id="Delete" value="Жою" />
+
+	<string id="CloseWindow" value="Терезені жабу" />
+
+	<string id="Date" value="Кyні" />
+
+	<string id="SaveName" value="Есім" />
+
+	<string id="SortByName" value="Консервация атауы бойынша сyрыптау" />
+
+	<string id="SortByDate" value="Уаkытты yнемдеу" />
+
+	<string id="ServiceSymbolsUsed" value="Келесі ресми танбаларды «@FF904040%s» атауына пайдалануfа рykсат етілмеген" />
+
+	<string id="quitGame" value="Ойыннан кеткініз келе ме?" />
+
+	<string id="ChoseDifficultyLevel" value="Кyрделілік денгейін танданыз" />
+
+	<string id="New Game" value="Жана ойын" />
+
+	<string id="StartNetGame" value="Жана ойын бастаныз" />
+
+	<string id="Credits" value="Эзірлеушілер" />
+
+	<string id="Load Game" value="Ойынды жyктеп алыныз" />
+
+	<string id="Options" value="Параметрлер" />
+
+	<string id="Quit to Windows" value="Windows жyйесіне отініз" />
+
+	<string id="Profile" value="Kырынан бейнелеу" />
+
+	<string id="ProfileDontChosen" value="Тандалмайды" />
+
+	<string id="Intro" value="Кіріспе видео" />
+
+	<string id="OpenSavesList" value="Саkталfан ойындардын тізімін ашыныз" />
+
+	<string id="ShowIntro" value="Кіріспе бейнені kарау" />
+
+	<string id="HandleGameOptions" value="Ойын параметрлерін реттеніз" />
+
+	<string id="ShowCredits" value="Эзірлеушілердін тізімін kарау" />
+
+	<string id="load" value="Сайлау" />
+
+	<string id="LoadGame" value="Саkталfан ойынды жyктеп алыныз" />
+
+	<string id="SavedGameLoading" value="Саkталfан ойынды жyктеп алыныз" />
+
+	<string id="DeleteProfileWarning" value="Барлыk саkталfан ойындар жойылады. | Жалfастыру?" />
+
+	<string id="DefaultProfileName" value="Ойыншы" />
+
+	<string id="Create" value="Жарату" />
+
+	<string id="CreateProfile" value="Жана профиль жасаныз" />
+
+	<string id="NewProfile" value="Жана профиль" />
+
+	<string id="ProfileExists" value="Бyл атаумен профиль бyрыннан бар. | Таfы бір атауды енгізініз" />
+
+	<string id="EmptyProfileName" value="Сіз озініздін профилінізді аты жоk жасай алмайсыз" />
+
+	<string id="ProfileCreateError" value="Профиль жасау kателігі" />
+
+	<string id="ProfileDeleteError" value="Профильді жою kатесі" />
+
+	<string id="Chose" value="Тандау" />
+
+	<string id="DeleteProfile" value="Профильді жою" />
+
+	<string id="ChoseProfile" value="Профильді ток ретінде танданыз" />
+
+	<string id="CancelExit" value="Терезені саkтамай жабыныз" />
+
+	<string id="ChangePlayerProfile" value="Ойнатkыштын профилін озгертініз" />
+
+	<string id="ChangeProfile" value="Профильді озгерту" />
+
+	<string id="CurProfile" value="Kазіргі профиль" />
+
+	<string id="InvalidProfileName" value="Жауапсыз профиль атауы" />
+
+	<string id="Loading" value="Тиеу" />
+
+	<string id="LoadingDots" value="Жyктеу ..." />
+
+	<string id="LoadWorld" value="Жyктеу денгейі" />
+
+	<string id="InitWorld" value="Денгейді баптандыру" />
+
+	<string id="MainMenuLoading" value="Тиеу" />
+
+	<string id="AnimatedModelsServer" value="Анимациялыk нысандар" />
+
+	<string id="StaticModelsServer" value="Статикалыk заттар" />
+
+	<string id="LightsServer" value="Женіл коздер" />
+
+	<string id="SpritesServer" value="заклинание" />
+
+	<string id="ParticlesServer" value="Болшектер жyйелері" />
+
+	<string id="SoundsServer" value="Дыбыстар" />
+
+	<string id="MusicServer" value="музыка" />
+
+	<string id="ProjectorsServer" value="Жарыkтандыру" />
+
+	<string id="DecalsServer" value="Yту" />
+
+	<string id="Precaching" value="Кэшинг" />
+
+	<string id="Video" value="Графикалыk онер" />
+
+	<string id="Sound" value="Дыбыс" />
+
+	<string id="Game" value="Ойын" />
+
+	<string id="Video settings" value="Графикалыk параметрлер" />
+
+	<string id="Far dist" value="Kарау жиындары" />
+
+	<string id="Gamma" value="Марка" />
+
+	<string id="Resolution" value="Рykсат" />
+
+	<string id="GraphicQuality" value="Графиканын сапасы" />
+
+	<string id="Grass" value="Шоп" />
+
+	<string id="TextureResolution" value="Текстуралыk ажыратымдылыk" />
+
+	<string id="Antialiasing" value="Ерте шыfарылу" />
+
+	<string id="Filtration" value="Сyзу" />
+
+	<string id="BlumQuality" value="Блумнын сапасы" />
+
+	<string id="WaterQuality" value="Судын сапасы" />
+
+	<string id="Audio settings" value="Дыбыс параметрлері" />
+
+	<string id="Fx vol" value="Эффектілердін колемі" />
+
+	<string id="Music vol" value="Музыка колемі" />
+
+	<string id="Speak vol" value="Сойлеу колемі" />
+
+	<string id="Game settings" value="Ойыннын параметрлері" />
+
+	<string id="DialogPause" value="Диалогтардаfы yзіліс" />
+
+	<string id="AutoHelp" value="Автоматты кенестер" />
+
+	<string id="MouseSensitivity" value="Тінтуірдін сезімталдыfы" />
+
+	<string id="MouseYAxisFlip" value="Y осьінін инверсиясы" />
+
+	<string id="MouseXAxisFlip" value="X осінін инверсиясы" />
+
+	<string id="Keys" value="Негізгі мэндер" />
+
+	<string id="RestoreDef" value="Эдепкі мэнді артkа" />
+
+	<string id="Apply" value="Отініш беру" />
+
+	<string id="Recommended" value="Yсынылfан" />
+
+	<string id="None" value="Жоk" />
+
+	<string id="Near" value="Жабыk" />
+
+	<string id="Far" value="Yзаk" />
+
+	<string id="LowQuality" value="Аласа" />
+
+	<string id="MediumQuality" value="Орта шама" />
+
+	<string id="HighQuality" value="Биік" />
+
+	<string id="CustomQuality" value="Пайдаланушы" />
+
+	<string id="MaxQuality" value="Максимум" />
+
+	<string id="LowResolution" value="Аласа" />
+
+	<string id="HighResolution" value="Биік" />
+
+	<string id="CustomResolution" value="Пайдаланушы" />
+
+	<string id="BilinearFiltration" value="Билинир" />
+
+	<string id="TrilinearFiltration" value="Три-" />
+
+	<string id="AnisotropFiltration" value="Анизотропты" />
+
+	<string id="CustomFiltration" value="Пайдаланушы" />
+
+	<string id="Antialiasing_x2" value="KS2" />
+
+	<string id="Antialiasing_x4" value="KS4" />
+
+	<string id="Antialiasing_x8" value="KS8" />
+
+	<string id="Antialiasing_x16" value="X16" />
+
+	<string id="CustomAntialiasing" value="Пайдаланушы" />
+
+	<string id="OptionsChanged" value="Параметрлер озгертілді. Озгерістерді саkтау?" />
+
+	<string id="ShadowsQuality" value="Коленкелердін сапасы" />
+
+	<string id="NumBattleReplies" value="Yрыста репликалар саны" />
+
+	<string id="Control settings" value="Басkару параметрлері" />
+
+	<string id="BindingsChanged" value="Басkару пернелері озгертілді. Озгерістерді саkтау?" />
+
+	<string id="GameDifficulty" value="Кyрделілік денгейі" />
+
+	<string id="EasyLevel" value="Жанадан" />
+
+	<string id="MediumLevel" value="Тэжірибелі" />
+
+	<string id="HardLevel" value="Кэсіби" />
+
+	<string id="ImpossibleLevel" value="Ие" />
+
+	<string id="Targem Link Tip" value="Targem" />
+
+	<string id="Buka Link Tip" value="Бyка" />
+
+	<string id="ExMachina URL" value="http://www.targem.ru" />
+
+	<string id="Buka URL" value="http://www.buka.ru" />
+
+	<string id="Nival URL" value="http://www.nival.com" />
+
+	<string id="AutoSave" value="Автокравия" />
+</resource>

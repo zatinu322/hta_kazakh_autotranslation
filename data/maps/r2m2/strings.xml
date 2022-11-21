@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='windows-1251'?>
+<resource>
+	<string id="1" modelAutosized="true" modelName="gadget_12" modelSlot="1" sound="data\sounds\Speech\r2m2\r2m2_1_cd_officer_radio.ogg" value="Радио | Сізден алыс емес - kорfаныс ауылы. Егер сіз kазір шабуыл жасасаныз, онда жау кyштерді манызды заттардан тартып алуы керек." time="8" />
+
+	<string id="2" modelAutosized="true" modelName="gadget_12" modelSlot="1" sound="data\sounds\Speech\r2m2\r2m2_2_cd_officer_radio.ogg" value="Радио | Онда біз басkа жерде соfамыз. Есінізде болсын, сіздін міндетініз - мyмкіндігінше yзаk уаkыт yстап тyру, жэне ауылды жаfу емес. Акт." time="8" />
+
+	<string id="3" modelAutosized="true" modelName="gadget_12" modelSlot="1" sound="data\sounds\Speech\r2m2\r2m2_3_cd_officer_radio.ogg" value="Радио | Kайталау. Сіз оз жyмысынызды жасадыныз." time="4" />
+
+	<string id="4" modelName="r1_man" modelSkin="0" modelCfg="172" modelSlot="1" sound="data\sounds\Speech\r2m2\r2m2_4_felix.ogg" value="Bandit Felix | Міне, біздін жолдарымыз жэне kиылды. Мен кездесеміз дедім. Kазір мен дуэльге дайынмын, жэне сіз мyнда тірі kалуfа болмайды!" time="8" />
+
+	<string id="5" modelName="mask_hero" sound="data\sounds\Speech\r2m2\r2m2_5_hero.ogg" value="| Сен менікі мен менін маkсатымнын арасына тyрасын. Мен, ойланбастан, сені кесіп тастайды." time="4" />
+
+	<string id="6" modelName="r1_man" modelSkin="0" modelCfg="172" modelSlot="1" sound="data\sounds\Speech\r2m2\r2m2_6_felix.ogg" value="Bandit Felix | Сіз ... шынымен де кyшті ..." time="4" />
+
+	<string id="7" modelAutosized="true" modelName="gadget_12" modelSlot="1" sound="data\sounds\Speech\r2m2\r2m2_7_cd_officer_radio.ogg" value="Радио | Сіз ортаk себепке деген адалдыfынызды дэлелдедініз. Бір сатkыннын мэйіті бойынша біз ТМД агенттерімен жаkын кездесу туралы айтатын наkты ескерту таптыk." time="8" />
+
+	<string id="8" modelAutosized="true" modelName="gadget_12" modelSlot="1" sound="data\sounds\Speech\r2m2\r2m2_8_cd_officer_radio.ogg" value="Радио | Сіз оны бyлікшінін орнына кездестіресіз жэне kолыныздан келгеннін бэрін білесіз. Жаfдайларfа kатысты эрекет етініз. Жиналыс Тоскани штатында орналасkан. Пароль: «Тyннін yзындыfы», шолу: «Біраk таннын жаkыны жаkын»." time="8" />
+
+	<string id="9" modelName="mask_hero" sound="data\sounds\Speech\r2m2\r2m2_9_hero.ogg" value="| Мен бэрін тyсіндім. Біздін женісіміз жаkын." time="4" />
+
+	<string id="10" modelAutosized="true" modelName="gadget_12" modelSlot="1" sound="data\sounds\Speech\r2m2\r2m2_10_cd_officer_radio.ogg" value="Радио | Жаулар женілді! Олардын билеушілерінсіз олар бізге kарсы шыkпайды! Сіз женістін керемет саfатын жеткіздініз жэне жомарттыkпен марапатталады. Зеон сіздерді, аксельдін kyпия kаласын кyтеді." time="8" />
+
+	<string id="34" modelName="mask_hero" sound="data\sounds\Speech\r2m2\r2m2_24_hero.ogg" value="| Міне, бyл - шындыk сэті!" time="4" />
+
+	<string id="11" modelName="mask_axel" modelSlot="1" sound="data\sounds\Speech\r2m2\r2m2_11_axel.ogg" value="AXEL | Мyндай ашушы kайдан пайда болады? Мен саfан не істедім? Сіз тіпті жергілікті емессіз." time="6" />
+
+	<string id="12" modelName="mask_hero" sound="data\sounds\Speech\r2m2\r2m2_12_hero.ogg" value="| Сіз адамдарfа коршілес аймаkkа kалай жібергенінізді есінізде ме? Содан кейін сіз туfан ауылымды ортеп, экемді олтірдініз!" time="12" />
+
+	<string id="13" modelName="mask_axel" modelSlot="1" sound="data\sounds\Speech\r2m2\r2m2_13_axel.ogg" value="AXEL | Сіз кешіктіруге сендініз бе? Сізге бyл нонсенс кім берді?" time="5" />
+
+	<string id="14" modelName="mask_hero" sound="data\sounds\Speech\r2m2\r2m2_14_hero.ogg" value="| Бэрін оз коздерімен коретін адам." time="4" />
+
+	<string id="15" modelName="mask_axel" modelSlot="1" sound="data\sounds\Speech\r2m2\r2m2_15_axel.ogg" value="AXEL | Сіз айтасыз ба? Тез коліктегі жэне kауіпті байланыстардаfы сyлулыk?" time="6" />
+
+	<string id="16" modelName="mask_hero" sound="data\sounds\Speech\r2m2\r2m2_16_hero.ogg" value="| Иэ. Сіз оны дэл сипаттадыныз." time="4" />
+
+	<string id="17" modelName="mask_axel" modelSlot="1" sound="data\sounds\Speech\r2m2\r2m2_17_axel.ogg" value="Axel | Бyл тyлкі еді, мен білемін. Онын тілінін орнына, онын жыландары бар. Отірікімен ол менін омірімді жэне басkаларды уландырды. Енді сіз жемге жетесіз." time="13" />
+
+	<string id="18" modelName="mask_hero" sound="data\sounds\Speech\r2m2\r2m2_18_hero.ogg" value="| Сіз терінізді саkтау yшін kазір бірдене айтуfа дайынсыз!" time="6" />
+
+	<string id="19" modelName="mask_axel" modelSlot="1" sound="data\sounds\Speech\r2m2\r2m2_19_axel.ogg" value="Аксел | Ол маfан жаулардан kорfауды іздеуде келді, сондыkтан ол айтты. Мен оны yйіме kабылдадым, ол мені тонап, kашып кетті. Мен оfан сендім ... мен ..." time="11" />
+
+	<string id="20" modelName="mask_hero" sound="data\sounds\Speech\r2m2\r2m2_20_hero.ogg" value="| Сіз кінэсіз екенінізді айтkыныз келеді ме?" time="4" />
+
+	<string id="21" modelName="mask_axel" modelSlot="1" sound="data\sounds\Speech\r2m2\r2m2_21_axel.ogg" value="Axel | Маfан сенініз, менін елімде шыfыс коршілермен kаkтыfыс болуfа kатысты мэселелерім жеткілікті. Коптеген айлар бойы менін халkым позицияларын kалдырfан жоk жэне сіздін ауылдарынызfа ешkашан шабуыл жасамады." time="12" />
+
+	<string id="22" modelName="mask_hero" sound="data\sounds\Speech\r2m2\r2m2_22_hero.ogg" value="| Мен онын балыk аулау шелегіне тyскеніме сене алмаймын! Біраk бyл сізді кешірмейді. Сізге бір kылмыста кінэсіз болсын, біраk сіз коптеген адамдарды істедініз ..." time="13" />
+
+	<string id="23" modelName="mask_hero" sound="data\sounds\Speech\r2m2\r2m2_22_2_hero.ogg" value="| Адамдарfа азаптаfандармен не айтасын, сен оларfа жаkындарына орала аласыз ба? Сіздін омірініз сіздін создерінізге байланысты." time="11" />
+
+	<string id="24" modelName="mask_axel" modelSlot="1" sound="data\sounds\Speech\r2m2\r2m2_23_axel.ogg" value="AXEL | Мен оз халkын аштыkтан kyтkарfанын айтамын! Мен кyшті кyш - элемді толыk деградациядан саkтайды деп айтамын. Мен бyкіл елдін кyнэсін женіп алдым жэне олар yшін жауап беруге дайынмын ..." time="14" />
+
+	<string id="241" modelName="mask_axel" modelSlot="1" sound="data\sounds\Speech\r2m2\r2m2_23_2_axel.ogg" value="Axel | Мен барлыk kyлаfан жауынгерлердін есімдері есімде жэне олар туралы kайfырfаным есімде. Мен бір fана нэрсені окінемін: kазір олардын олімі маfынасыз болады." time="10" />
+
+	<string id="25" modelName="mask_axel" modelSlot="1" sound="data\sounds\Speech\r2m2\r2m2_25_axel.ogg" value="AXEL | Тоkтату, ату! Саfан менен не керек? Сіз кэдімгі ТМД сарбазына ykсамайсыз." time="7" />
+
+	<string id="26" modelName="mask_hero" sound="data\sounds\Speech\r2m2\r2m2_26_hero.ogg" value="| Тyсіну дегеніміз не. Шыны керек, мен сіздін жергілікті шоуларыныз туралы ойламаймын. Мен тек тyлкіге жеткім келеді!" time="12" />
+
+	<string id="27" modelName="mask_axel" modelSlot="1" sound="data\sounds\Speech\r2m2\r2m2_27_axel.ogg" value="Аксел | Ха ха га! Сіз kатар тyра аласыз! Сондыkтан ол сізді ашуландырды. Міне, Ібіліс!" time="9" />
+
+	<string id="28" modelName="mask_hero" sound="data\sounds\Speech\r2m2\r2m2_28_hero.ogg" value="| Сіз не туралы айтып отырсыз?" time="2" />
+
+	<string id="29" modelName="mask_axel" modelSlot="1" sound="data\sounds\Speech\r2m2\r2m2_29_axel.ogg" value="Аксел | Ол маfан жаулардан kорfауды іздеуде келді, сондыkтан ол айтты. Мен оны yйіме kабылдадым, ол мені тонап, kашып кетті. Ол менін ресурстарымды жэне халkымнын маkсаттары yшін пайдаланfан. Біраk мен оfан fашыk болдым ..." time="17" />
+
+	<string id="30" modelName="mask_hero" sound="data\sounds\Speech\r2m2\r2m2_30_hero.ogg" value="| Kарfыс! Сонымен, мен бyл жолды бекер тастадым?! Кyте тyрыныз, мен тyлкі жаkын жерде екенімді білемін! Мен оны осы аймаkтын шекараларына баfындырдым." time="15" />
+
+	<string id="31" modelName="mask_axel" modelSlot="1" sound="data\sounds\Speech\r2m2\r2m2_31_axel.ogg" value="Axel | Олар маfан ол маfан біздін аумаkkа оралfанын хабарлады ... Ол сонfы рет монастырь аймаfында корінді. Мені бір-біріне бір-біріне тапсыру yшін келмектік болдым." time="13" />
+
+	<string id="32" modelName="mask_hero" sound="data\sounds\Speech\r2m2\r2m2_32_hero.ogg" value="| Ал, kазір зyлымдыk мені жасырмайды! Монастырfа! Жэне ешкім менін жолымда тyра берсін!" time="11" />
+
+	<string id="33" modelName="mask_hero" sound="data\sounds\Speech\r2m2\r2m2_33_axel.ogg" value="| Мен сені аямаймын. Біраk сіздін ереженіз аяkталды. Адамдар kалай омір сyруді шешсін." time="8" />
+
+	<string id="35" modelName="mask_lisa" modelSlot="1" sound="data\sounds\Speech\r2m2\r2m2_35_alice.ogg" value="Тyлкі | Сіз жендініз! Мен берілемін..." time="4" />
+
+	<string id="36" modelName="mask_hero" sound="data\sounds\Speech\r2m2\r2m2_36_hero.ogg" value="| Маfан yрлап кеткенінізді kайтарыныз!" time="4" />
+
+	<string id="37" modelName="mask_lisa" modelSlot="1" sound="data\sounds\Speech\r2m2\r2m2_37_alice.ogg" value="Тyлкі | Сіз тyсінбейсіз! Сіз оны дyрыс kолдана алмайсыз ..." time="4" />
+
+	<string id="38" modelName="mask_hero" sound="data\sounds\Speech\r2m2\r2m2_38_hero.ogg" value="| Менін шыдамдылыfымды сезбеймін! Маfан донгелектер мен тyмар берініз. Дереу!" time="4" />
+
+	<string id="39" modelName="mask_lisa" modelSlot="1" sound="data\sounds\Speech\r2m2\r2m2_39_alice.ogg" value="Тyлкі | Жаkсы, оны алыныз. Енді сіз басты ... біраk мені тындыныз! Мен мyлдем зyлым емеспін, сен мені не ойлайсын! Мен тек OVED табуым керек!" time="8" />
+
+	<string id="40" modelName="mask_hero" sound="data\sounds\Speech\r2m2\r2m2_40_hero.ogg" value="| Менін экем? Неліктен сізге керек?" time="4" />
+
+	<string id="41" modelName="mask_lisa" modelSlot="1" sound="data\sounds\Speech\r2m2\r2m2_41_alice.ogg" value="Fox | Мен шынымен де манызды нэрсе жасаfым келеді, мен yшін жэне басkалар yшін де манызды нэрсе. Сіздін экеніз - бyл символ! Оны таба алатын кез-келген адам, тіпті онын денесі батыр болып, элемнін осы толыk хаостарын біріктіре алады." time="12" />
+
+	<string id="42" modelName="mask_hero" sound="data\sounds\Speech\r2m2\r2m2_42_hero.ogg" value="| Сіздердін маkсаттарfа жетудін танfажайып эдістері бар ... жэне маkсаттар, мойындау, танfаларлыk ..." time="4" />
+
+	<string id="43" modelName="mask_lisa" modelSlot="1" sound="data\sounds\Speech\r2m2\r2m2_43_alice.ogg" value="FOX | Kатты уаkыт kатты уаkытты kажет етеді. Мен омірімді осы жyмбаkтын шешіміне арнадым. Мен отірік айтуым керек еді, тіпті оны олтірдім. Сонында, коптеген жылдыk іздеуден кейін мен AVEN-дін кyнделігін таба алдым. Сосын сіз бэрін бyлдіріп, бyлдіресіз!" time="12" />
+
+	<string id="44" modelName="mask_hero" sound="data\sounds\Speech\r2m2\r2m2_44_hero.ogg" value="| Сізді тyсінуініз kиын. Мені тудырfан барлыk kиыншылыkтарды кешіру одан да kиын. Экенін кyнделігі маfан fана тиесілі!" time="8" />
+
+	<string id="45" modelName="mask_lisa" modelSlot="1" sound="data\sounds\Speech\r2m2\r2m2_45_alice.ogg" value="FOX | Мен сіздін маkсатынызfа жаkын екенінізді коріп отырмын. Отінемін, менімен сіздермен бірге лэмкелерімнін аяkталуын коруге рykсат етініз." time="8" />
+
+	<string id="46" modelName="mask_hero" sound="data\sounds\Speech\r2m2\r2m2_46_hero.ogg" value="| Мен Oracle-ге барамын. Бір. Бэлкім, біз бір-бірімізді кореміз, содан кейін мен саfан kалай ойлайтынымды айтамын." time="8" />
+
+	<string id="47" modelName="mask_lisa" modelSlot="1" sound="data\sounds\Speech\r2m2\r2m2_47_alice.ogg" value="Тyлкі | Жаkсы, рахмет, содан кейін ... kоштасу." time="4" />
+
+	<string id="50" modelName="mask_hero" sound="data\sounds\Speech\r2m2\r2m2_50_hero.ogg" value="| WOW! Конілді табиfи kyбылыс. Менін ойымша, миджардтаfы fалымдар бyл kyбылыс kызыkтырады!" time="4" />
+
+	<string id="51" modelName="mask_hero" sound="data\sounds\Speech\r2m2\r2m2_51_hero.ogg" value="| Енді сіз олесіз!" time="4" />
+
+	<string id="8800" value="Сіз Арджаннан шыfып, Вахатkа жyзгініз келе ме?" numButtons="2" />
+
+	<string id="8801" value="Сіз бyл аймаkты kалдырfыныз келе ме?" numButtons="2" />
+
+	<string id="8802" modelName="mask_hero" sound="data\sounds\Speech\r3m1\r3m1_8802_hero.ogg" value="Мен бyл жолдын kайда апаратынын білмеймін, сондыkтан мен осында kаламын." time="3" />
+
+	<string id="8803" modelName="mask_hero" sound="data\sounds\Speech\r3m1\r3m1_8803_hero.ogg" value="Кейбір оfаш орын. Бyл жерден болfан дyрыс." time="3" />
+</resource>

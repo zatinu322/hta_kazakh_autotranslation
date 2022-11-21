@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='windows-1251'?>
+<resource>
+	<string id="stat_Wares" value="Тасымалданfан тауарлар (ДК.)" />
+
+	<string id="stat_RealTime" value="Ойын уаkыты (Н: мин)" />
+
+	<string id="stat_GameTime" value="ANTRA -GAME уаkыты (кyн)" />
+
+	<string id="stat_PeoplesKilled" value="Тyрfындар kаза тапты" />
+
+	<string id="stat_PathElapsed" value="Жол жyрді (км)" />
+
+	<string id="stat_GDP" value="Аkша тапты" />
+
+	<string id="stat_DeathCounter" value="Ойыншынын олім саны" />
+
+	<string id="stat_VehiclesKilled" value="Машиналар жойылады" />
+
+	<string id="stat_ShellsEmitted" value="Шыfындар шыfарылды" />
+
+	<string id="stat_FavoriteGun" value="Сyйікті kару" />
+
+	<string id="stat_HitRatio" value="Хит дэлдігі (%)" />
+</resource>

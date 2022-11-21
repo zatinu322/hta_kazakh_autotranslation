@@ -1,0 +1,150 @@
+<?xml version='1.0' encoding='windows-1251'?>
+<ObjectNames>
+	<Object Name="TheOlme" FullName="Олма" />
+
+	<Object Name="Olme_Bar" FullName="Шашта" />
+
+	<Object Name="Olme_Shop" FullName="Гол" />
+
+	<Object Name="Olme_Workshop" FullName="Шеберхана" />
+
+	<Object Name="Olme_Bar_Customer1" FullName="Перетто" />
+
+	<Object Name="Olme_Bar_Customer2" FullName="Галден" />
+
+	<Object Name="Olme_Bar_Barman" FullName="Бармен" />
+
+	<Object Name="FVOnOcean" FullName="Салиниам" />
+
+	<Object Name="FVOnOcean_Bar" FullName="Теніз арkылы" />
+
+	<Object Name="FVOnOcean_Shop" FullName="Гол" />
+
+	<Object Name="FVOnOcean_Workshop" FullName="Шеберхана" />
+
+	<Object Name="FVOnOcean_Bar_Customer1" FullName="Далалыk" />
+
+	<Object Name="FVOnOcean_Bar_Customer3" FullName="Руль" />
+
+	<Object Name="FVOnOcean_Bar_Gomer" FullName="Гомер" />
+
+	<Object Name="FVOnOcean_Bar_Barman" FullName="Бармен" />
+
+	<Object Name="FVNearOlme" FullName="Лаука" />
+
+	<Object Name="FVNearOlme_Bar" FullName="Kабыллаушы" />
+
+	<Object Name="FVNearOlme_Shop" FullName="Гол" />
+
+	<Object Name="FVNearOlme_Workshop" FullName="Шеберхана" />
+
+	<Object Name="FVNearOlme_Bar_Customer2" FullName="Палиния" />
+
+	<Object Name="FVNearOlme_Bar_Customer3" FullName="Кристалл" />
+
+	<Object Name="FVNearOlme_Bar_Barman" FullName="Бармен" />
+
+	<Object Name="FVCalis" FullName="Шалис" />
+
+	<Object Name="FVCalis_Bar" FullName="Фильм" />
+
+	<Object Name="FVCalis_Shop" FullName="Гол" />
+
+	<Object Name="FVCalis_Workshop" FullName="Шеберхана" />
+
+	<Object Name="FVCalis_Bar_Customer3" FullName="Ирик" />
+
+	<Object Name="FVCalis_Bar_Customer2" FullName="Христиан" />
+
+	<Object Name="FVCalis_Bar_Customer1" FullName="Джам" />
+
+	<Object Name="FVCalis_Bar_Barman" FullName="Бармен" />
+
+	<Object Name="FVCalis_Bar_Fioniy" FullName="Филлимон" />
+
+	<Object Name="FVCordan" FullName="Кондань" />
+
+	<Object Name="FVCordan_Bar" FullName="Акуланын аузы" />
+
+	<Object Name="FVCordan_Shop" FullName="Гол" />
+
+	<Object Name="FVCordan_Workshop" FullName="Шеберхана" />
+
+	<Object Name="FVCordan_Bar_Customer2" FullName="Momvey" />
+
+	<Object Name="FVCordan_Bar_Barman" FullName="Нюранын аспазы" />
+
+	<Object Name="FVPerch" FullName="Бyрыш" />
+
+	<Object Name="FVPerch_Bar" FullName="Алтын" />
+
+	<Object Name="FVPerch_Shop" FullName="Гол" />
+
+	<Object Name="FVPerch_Workshop" FullName="Шеберхана" />
+
+	<Object Name="FVPerch_Bar_Customer2" FullName="Дарен" />
+
+	<Object Name="FVPerch_Bar_Barman" FullName="Бармен" />
+
+	<Object Name="FVBerko" FullName="Берко" />
+
+	<Object Name="FVBerko_Bar" FullName="Жоk" />
+
+	<Object Name="FVBerko_Shop" FullName="Гол" />
+
+	<Object Name="FVBerko_Workshop" FullName="Шеберхана" />
+
+	<Object Name="FVBerko_Bar_Customer2" FullName="Неил" />
+
+	<Object Name="FVBerko_Bar_Barman" FullName="Бармен" />
+
+	<Object Name="StorageVil" FullName="Акциялар" />
+
+	<Object Name="StorageVilBar" FullName="Kойма" />
+
+	<Object Name="StorageVil_Shop" FullName="Сатушынын стенд" />
+
+	<Object Name="r1m4_Storage_Guard1" FullName="Кyзетші" />
+
+	<Object Name="StorageVil_enter" FullName="Акциялар" />
+
+	<Object Name="TheOlme_enter" FullName="Олма" />
+
+	<Object Name="FVPerch_enter" FullName="Бyрыш" />
+
+	<Object Name="FVCalis_Bar_Husbent1" FullName="Филлимон" />
+
+	<Object Name="LookingWife" FullName="Эйелі Алашка" />
+
+	<Object Name="LookingWife1" FullName="Эйелі Алашка" />
+
+	<Object Name="Port_loc" FullName="Теніз kаkпасы" />
+
+	<Object Name="FVPerch_Houses" FullName="Кyту залы" />
+
+	<Object Name="ToR1M3" FullName="Фанатлендке кету" />
+
+	<Object Name="ToR3M1" FullName="Друидтердін тоfайдаfы порты" />
+
+	<Object Name="Olme_Bar_Traider" FullName="Сатушы" />
+
+	<Object Name="bigboss1" FullName="Бастыk" />
+
+	<Object Name="urod1" FullName="Винни" />
+
+	<Object Name="urod2" FullName="Дон" />
+
+	<Object Name="urod3" FullName="Юка" />
+
+	<Object Name="urod4" FullName="Kyлы" />
+
+	<Object Name="urod5" FullName="Kаkпалар" />
+
+	<Object Name="urod6" FullName="Фолько" />
+
+	<Object Name="urod7" FullName="Батыр" />
+
+	<Object Name="urod8" FullName="Герея" />
+
+	<Object Name="urod9" FullName="Kызыл 13" />
+</ObjectNames>

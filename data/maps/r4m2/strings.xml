@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='windows-1251'?>
+<resource>
+	<string id="101" modelName="mask_hero" value="Маkсатkа жету yшін мен осы базаны откізуім керек. Бyл kауіпті корінеді." sound="data\sounds\Speech\r4m2\r4m2_101_hero.ogg" time="1" />
+
+	<string id="102" modelName="mask_hero" value="Мен маkсатkа жете алмадым ... Біраk баkыт осылай болды, сондыkтан жаkын ..." sound="data\sounds\Speech\r4m2\r4m2_102_hero.ogg" time="1" />
+
+	<string id="201" modelName="mask_hero" value="Бyл жyк колігі маfан таныс сияkты. Бyл символ, мен оны бір жерде кордім ..." sound="data\sounds\Speech\r4m2\r4m2_201_hero.ogg" time="1" />
+
+	<string id="202" modelName="mask_hero" value="Дэл, бyл ofive Go колігі! Біз жаkыныраk болуымыз керек." sound="data\sounds\Speech\r4m2\r4m2_202_hero.ogg" time="1" />
+
+	<string id="203" modelName="mask_hero" value="Онын денесі ішкі емес, бyл онын жаяу жyретінін білдіреді." sound="data\sounds\Speech\r4m2\r4m2_203_hero.ogg" time="1" />
+
+	<string id="204" modelName="mask_hero" value="Ол kазірдін озінде оте жаkын: мен неге алда кyтіп тyрмын деп kорkамын?" sound="data\sounds\Speech\r4m2\r4m2_204_hero.ogg" time="1" />
+
+	<string id="301" modelName="mask_hero" value="О, kyдайлар! Бyл не болды?" sound="data\sounds\Speech\r4m2\r4m2_301_hero.ogg" time="1" />
+
+	<string id="302" modelName="mask_hero" value="Бyл адамдардын бэрі кім?" sound="data\sounds\Speech\r4m2\r4m2_302_hero.ogg" time="1" />
+
+	<string id="303" modelName="mask_hero" value="Kазір мен fалымнын не туралы айтkанын тyсінемін." sound="data\sounds\Speech\r4m2\r4m2_303_hero.ogg" time="1" />
+
+	<string id="304" modelName="mask_hero" value="Бyл адамдарды не kызыkтырады? Кенеттен мен оларды элі де kyтkара аламын ба?" sound="data\sounds\Speech\r4m2\r4m2_304_hero.ogg" time="1" />
+
+	<string id="401" modelName="mask_hero" value="Kарfыс, бyл бандиттер kанша тyрады! Жэне одан да коп!" sound="data\sounds\Speech\r4m2\r4m2_401_hero.ogg" time="1" />
+
+	<string id="402" modelName="r4_man" modelSkin="1" modelCfg="128" modelSlot="1" value="Лаборант | Мyнда оте kауіпті. Барайыk, біз сізді осы жерден шыfарамыз." sound="data\sounds\Speech\r4m2\r4m2_402_assistant.ogg" time="1" />
+
+	<string id="403" modelName="mask_hero" value="Сен кімсін? Kалай болfанда да, мен біреуін жене алмаймын ... Мен сенімен біргемін!" sound="data\sounds\Speech\r4m2\r4m2_403_hero.ogg" time="1" />
+
+	<string id="404" modelName="mask_hero" value="Мен ешkайда бармаймын. Олар олтірушілер! Біз олармен бірге кyресуіміз керек." sound="data\sounds\Speech\r4m2\r4m2_404_hero.ogg" time="1" />
+
+	<string id="405" modelName="r4_man" modelSkin="1" modelCfg="128" modelSlot="1" value="Зертханашы | Сіз оларды жене алмайсыз, біз де біздін комегімізбен де жене алмайсыз. Егер сіз омір сyргініз келсе, бізді kадаfаланыз." sound="data\sounds\Speech\r4m2\r4m2_405_assistant.ogg" time="1" />
+
+	<string id="406" modelName="mask_hero" value="Мен kайтып келіп, осы олтірушілерден шыfамын!" sound="data\sounds\Speech\r4m2\r4m2_406_hero.ogg" time="1" />
+
+	<string id="501" modelName="mask_hero" value="Мен kуат мені таkтайшаfа апарады деп санаймын." sound="data\sounds\Speech\r4m2\r4m2_501_hero.ogg" time="1" />
+
+	<string id="502" modelName="mask_hero" value="Тезірек! Бyл колік kаншалыkты баяу жyреді! Ал, тозаkkа!" sound="data\sounds\Speech\r4m2\r4m2_502_hero.ogg" time="1" />
+
+	<string id="503" modelName="mask_hero" value="Мен тоkтай алмаймын, біраk маfан бару kиын ..." sound="data\sounds\Speech\r4m2\r4m2_503_hero.ogg" time="1" />
+
+	<string id="504" modelName="mask_hero" value="Kарfыс айтады ... Мен ... жоk ... М-O-Th ... D ... жэне ... g ... a ... а ..." sound="data\sounds\Speech\r4m2\r4m2_504_hero.ogg" time="1" />
+
+	<string id="510" modelName="r4_man" modelSkin="1" modelCfg="128" modelSlot="1" value="Зертханашы | Эскери базаны айналып отетін жолды корсетейік." sound="data\sounds\Speech\r4m2\r4m2_510_assistant.ogg" time="1" />
+
+	<string id="511" modelName="mask_hero" value="Неліктен донгелек жолмен жyресіз? Енді мен олармен кyресуге дайынмын! Бірге біз оларды женеміз!" sound="data\sounds\Speech\r4m2\r4m2_511_hero.ogg" time="1" />
+
+	<string id="512" modelName="r4_man" modelSkin="1" modelCfg="128" modelSlot="1" value="Зертханашы | Ыстыk болманыз. Сізде миссия бар, манызды миссия бар - жэне сіз озініздін барлыk кyшінізді оfан назар аударуыныз керек." sound="data\sounds\Speech\r4m2\r4m2_512_assistant.ogg" time="1" />
+
+	<string id="513" modelName="mask_hero" value="ЖАРАЙДЫ МА. Жолды корсету." sound="data\sounds\Speech\r4m2\r4m2_513_hero.ogg" time="1" />
+
+	<string id="8801" value="Сіз бyл аймаkты kалдырfыныз келе ме?" numButtons="2" />
+
+	<string id="8901" value="Сіз козге тым жаkындадыныз жэне олардын кyшіне сінгенсіз, олардын алдындаfы коптеген адамдар сияkты. Адамдардын kанша уаkытkа дейін жана кейіпкерді кyтуі керек екенін кім біледі ..." />
+</resource>

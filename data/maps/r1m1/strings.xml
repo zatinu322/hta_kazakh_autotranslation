@@ -1,0 +1,114 @@
+<?xml version='1.0' encoding='windows-1251'?>
+<resource>
+	<string id="1" modelName="mask_father" modelSlot="1" value="Экесі | оянды, Лежебока! Бір саfат ішінде мен сіздерді оте манызды деп айтуды кyттім, жэне сіз таfы да мармот сияkты yйыkтап жатырсыз ..." sound="data\sounds\Speech\r1m1\r1m1_1_father.ogg" time="11" />
+
+	<string id="2" modelName="mask_hero" value="| Жэне сізге kайырлы тан. Неге жyйкесін?" sound="data\sounds\Speech\r1m1\r1m1_2_hero.ogg" time="3" />
+
+	<string id="3" modelName="mask_father" modelSlot="1" value="Экесі | жарайды, салkын. Бyл сияkты. Бyгін сіздін омірініздегі yлкен кyн. Сіз маfан эрkашан адал комек корсетіп, менен коп нэрсе білдініз ... Жалпы, мен сіздін жасыныздаfы уаkыт келді деп шештім." sound="data\sounds\Speech\r1m1\r1m1_3_father.ogg" time="17" />
+
+	<string id="31" modelName="mask_father" modelSlot="1" value="Экесі | Енді сіз наfыз адамсыз, сіз озініз kалаfанынызды жасай аласыз, тіпті сіз озініз kалаfанынызды жасай аласыз, тіпті отбасын бастайсын ... К., біраk бyл жаkсы, эрине, алдымен рykсат сyрайды." sound="data\sounds\Speech\r1m1\r1m1_31_father.ogg" time="12" />
+
+	<string id="4" modelName="mask_hero" value="| Шынында да бyл кyн келді?! Мен оларды осы фермадаfы kартайымfа дейін алып кетемін деп ойладым!" sound="data\sounds\Speech\r1m1\r1m1_4_hero.ogg" time="6" />
+
+	<string id="41" modelName="mask_hero" value="| Деп айтkым келді, коп рахмет, мен yшін сенім артуfа тырысамын, мырза!" sound="data\sounds\Speech\r1m1\r1m1_41_hero.ogg" time="6" />
+
+	<string id="5" modelName="mask_father" modelSlot="1" value="Экесі | Таfы да сен kатып kалсын, біраk маfан коп айтуым керек ..." sound="data\sounds\Speech\r1m1\r1m1_5_father.ogg" time="5" />
+
+	<string id="6" modelName="mask_hero" value="| Не, дэл kазір мен отыра аламын жэне мен kалаfан жерге бара аламын ба?" sound="data\sounds\Speech\r1m1\r1m1_6_hero.ogg" time="4" />
+
+	<string id="7" modelName="mask_father" modelSlot="1" value="Экесі | Жаkсы, егер сіз донfалаkты артта kалуfа асыfыныз, содан кейін онтyстікке отіп, осы пакеттен отініз. Ал сіз келгенге дейін сойлесуді кейінге kалдырамыз." sound="data\sounds\Speech\r1m1\r1m1_7_father.ogg" time="12" />
+
+	<string id="8" modelName="mask_hero" value="| Ur-ra! Мен лезде тyрмын! Бол, kарт адам бол." sound="data\sounds\Speech\r1m1\r1m1_8_hero.ogg" time="4" />
+
+	<string id="1111" modelName="mask_lisa" modelSlot="1" value="Fox | мына жерде кyтініз, ал мен оз бизнесімді аяkтаймын." sound="data\sounds\Speech\r1m1\r1m1_1111_lisa.ogg" time="3" />
+
+	<string id="1112" modelName="mask_lisa" modelSlot="1" value="FOX | Дайын. Эрі kарай жyрейік." sound="data\sounds\Speech\r1m1\r1m1_1112_lisa.ogg" time="3" />
+
+	<string id="1121" modelName="mask_lisa" modelSlot="1" value="Fox | Kарfыс, kанша уаkыт кетеді! Мен онын осында екенін білемін! Адам, біз барлыk елді мекендерде жyрдік пе?" sound="data\sounds\Speech\r1m1\r1m1_1121_lisa.ogg" time="7" />
+
+	<string id="1122" modelName="mask_hero" value="| Иэ, барлыk ауылдар, сіз айтkандай. Рас, таfы бір ауыл kалды, санырау. Біраk сіз сол жерде сіздін онімініз yшін сатып алушыларды таба алмайсыз. Сіз нені іздейсіз?" sound="data\sounds\Speech\r1m1\r1m1_1122_hero.ogg" time="10" />
+
+	<string id="1123" modelName="mask_lisa" modelSlot="1" value="Тyлкі | Сіз мені осында алдыныз ба? Ол жерге kалай жетуге болады?" sound="data\sounds\Speech\r1m1\r1m1_1123_lisa.ogg" time="4" />
+
+	<string id="1124" modelName="mask_hero" value="| Шын мэнінде, бyл жерден солтyстігінде, таулардан тыс, оте жаkын, біраk жол жоk. Бізге Онтyстікке отуіміз керек ..." sound="data\sounds\Speech\r1m1\r1m1_1124_hero.ogg" time="7" />
+
+	<string id="1125" modelName="mask_lisa" modelSlot="1" value="FOX | Мyнда біздін жолдарымыз дивержы: Мені kyлаfаннан кейін мені сyйретуден шаршадым. Сонымен kатар, сіз yшін жол жоk жерде менін колігім женілірек болады. Сіз транзакциянын бір болігін орындадыныз. Аkшанызды yстаныз." sound="data\sounds\Speech\r1m1\r1m1_1125_lisa.ogg" time="11" />
+
+	<string id="1126" modelName="mask_hero" value="| Ол не іздеді? Мен yйге kайту кезім келді. Мен экемнін неге kатты уайымдаfанын білемін." sound="data\sounds\Speech\r1m1\r1m1_1126_hero.ogg" time="7" />
+
+	<string id="1131" modelName="r1_man" modelSkin="0" modelCfg="172" modelSlot="1" value="Bandit Felix | Міне, біздін орескел тыныштыk. Менін дереккоздерім сіз тyлкіге комекшілермен жyмыс істеген жэне ол жомарт kыз ... 1000 тиынfа kосkан kарапайым yлес yшін сіз озініздін лас істерінізді жалfастыра аласыз жэне тіпті біздін kолдауымызfа сене аласыз." sound="data\sounds\Speech\r1m1\r1m1_1131_felix.ogg" time="19" />
+
+	<string id="1132" modelName="mask_hero" value="| Иэ, сен не істейсін? Мен мyндай аkшаны kайдан алдым? Ал сен кімсін?" sound="data\sounds\Speech\r1m1\r1m1_1132_hero.ogg" time="5" />
+
+	<string id="1133" modelName="r1_man" modelSkin="0" modelCfg="172" modelSlot="1" value="Bandit Felix | Сізді моральдыk заkымдану yшін бізді kосалkы болшектерге сатуfа тура келеді. Оны yр!" sound="data\sounds\Speech\r1m1\r1m1_1133_felix.ogg" time="7" />
+
+	<string id="1134" modelName="r1_man" modelSkin="0" modelCfg="172" modelSlot="1" value="Bandit Felix | Біз кездесеміз, кyшік! Менін создерімді есте саkтаныз, сіз Felix-ке хабарласkаныныз yшін окінесіз! Біз кетіп жатырмыз!" sound="data\sounds\Speech\r1m1\r1m1_1134_felix.ogg" time="8" />
+
+	<string id="1141" modelName="mask_hero" value="| Жоk! Эке! Сіз kандай kyбыжыkты жасай аласыз ... Мен сyйетін жэне білетін адамдардын бэрі олі ..." sound="data\sounds\Speech\r1m1\r1m1_1141_hero.ogg" time="11" />
+
+	<string id="1142" modelName="mask_hero" value="| ..." sound="data\sounds\Speech\r1m1\r1m1_1142_hero.ogg" time="1" />
+
+	<string id="1143" modelName="mask_hero" value="| Олар yшін бір fана нэрсені істей аламын: кек алыныз! Киллер жасырса да, мен оны жердін шетінде де табамын! Мен жоямын! Сіз естисіз, мен сізді табамын!" sound="data\sounds\Speech\r1m1\r1m1_1143_hero.ogg" time="13" />
+
+	<string id="1144" modelName="mask_hero" value="| Феликс Дружков жиналса жэне kорfансыз ауылfа шабуыл жасаса ше? Олай болса, ол омір сyрмейді! Бyл онтyстік жолаkта болады. Онда мен іздеуді бастаймын." sound="data\sounds\Speech\r1m1\r1m1_1144_hero.ogg" time="11" />
+
+	<string id="1151" modelName="mask_hero" value="| Мен экемнін оліміне кек аламын!" sound="data\sounds\Speech\r1m1\r1m1_1151_hero.ogg" time="3" />
+
+	<string id="1152" modelName="r1_man" modelSkin="0" modelCfg="172" modelSlot="1" value="Bandit Felix | Ba, барлыk тyлfаларfа таныс. Бyл емізгенді корсетініз!" sound="data\sounds\Speech\r1m1\r1m1_1152_felix.ogg" time="6" />
+
+	<string id="1153" modelName="mask_hero" value="| Бyл сізде бар ма? Адал шайkас yшін шыfыныз!" sound="data\sounds\Speech\r1m1\r1m1_1153_hero.ogg" time="5" />
+
+	<string id="11540" modelName="r1_man" modelSkin="0" modelCfg="172" modelSlot="1" value="Bandit Felix | Ал жігіт kате емес ... Ол мyндай kаруды kайдан алды? Жарайды, егер сіз жаkсы нэрсе жасаfыныз келсе - оны озініз жасаныз. Санау." sound="data\sounds\Speech\r1m1\r1m1_1154_felix.ogg" time="10" />
+
+	<string id="1155" modelName="mask_hero" value="| Енді сіз озініз yшін олесіз!" sound="data\sounds\Speech\r1m1\r1m1_1155_hero.ogg" time="3" />
+
+	<string id="1156" modelName="r1_man" modelSkin="0" modelCfg="172" modelSlot="1" value="Bandit Felix | Кyте тyрыныз, мен коптеген жылдар бойы ешкімді олтірген жоkпын. Бізде жергілікті тyрfындармен келісім бар! Сіз менін yйіме тyсіп, оз халkымды бyза бастадыныз ба!" sound="data\sounds\Speech\r1m1\r1m1_1156_felix.ogg" time="10" />
+
+	<string id="1157" modelName="mask_hero" value="| Тек сізде тек бyкіл ауылды жаfу yшін жеткілікті кyш пен менмендік болар еді!" sound="data\sounds\Speech\r1m1\r1m1_1157_hero.ogg" time="5" />
+
+	<string id="1158" modelName="r1_man" modelSkin="0" modelCfg="172" modelSlot="1" value="Bandit Felix | сіз саныраусызсыз! Маfан сенініз, бyлар біз емес, кейбір корші аудандардан келген kонаk yй!" sound="data\sounds\Speech\r1m1\r1m1_1158_felix.ogg" time="8" />
+
+	<string id="1159" modelName="mask_hero" value="| Сен отірік айтасын!" sound="data\sounds\Speech\r1m1\r1m1_1159_hero.ogg" time="1" />
+
+	<string id="11510" modelName="r1_man" modelSkin="0" modelCfg="172" modelSlot="1" value="Bandit Felix | Мен Экемнін kабірімен ант етемін! Иэ, кем дегенде, тyлкінін kызыныздан сyраныз. Ол бэрін корді." sound="data\sounds\Speech\r1m1\r1m1_11510_felix.ogg" time="7" />
+
+	<string id="11511" modelName="mask_hero" value="| Сіз kайдан білесіз?" sound="data\sounds\Speech\r1m1\r1m1_11511_hero.ogg" time="2" />
+
+	<string id="11512" modelName="r1_man" modelSkin="0" modelCfg="172" modelSlot="1" value="Bandit Felix | Ол бізге бyл туралы айтты. Сосын мен солтyстікке kарай жyгірдім. Пестеге kарай." sound="data\sounds\Speech\r1m1\r1m1_11512_felix.ogg" time="6" />
+
+	<string id="11513" modelName="mask_hero" value="| Тyлкі ... Мен онын бэрімен байланысты екенін сезінемін ... Мен оны тауып, шынымен не болfанын білемін. Жарайды, Феликс, мен сіздін омірінізді саkтаймын. Барлыk торт жаfына барыныз. Енді осы боліктерде корсетуге батылы барманыз!" sound="data\sounds\Speech\r1m1\r1m1_11513_hero.ogg" time="17" />
+
+	<string id="11514" modelName="r1_man" modelSkin="0" modelCfg="172" modelSlot="1" value="Bandit Felix | Сіз жендініз. Біраk біз кездесеміз, содан кейін мен жаkсы дайындаламын." sound="data\sounds\Speech\r1m1\r1m1_11514_felix.ogg" time="5" />
+
+	<string id="11515" modelName="mask_hero" value="| Жаkында!" sound="data\sounds\Speech\r1m1\r1m1_11515_hero.ogg" time="2" />
+
+	<string id="2222" modelName="r1_man" modelSkin="0" modelCfg="70" modelSlot="1" value="Революциялыk Эд | Оте жаkсы, біз бyл ромбаттарды корсеттік, ол кім екенін корсеттік!" sound="data\sounds\Speech\r1m1\r1m1_2222_ed.ogg" time="4" />
+
+	<string id="33330" modelName="mask_father" value="Экесі | ... yл ...!" modelSlot="1" sound="data\sounds\Speech\r1m1\r1m1_33330_father.ogg" time="3" />
+
+	<string id="33331" modelName="mask_hero" value="| О, Kyдай, Экесі! Мyнда не болды? Ол кім жасады?" sound="data\sounds\Speech\r1m1\r1m1_33331_hero.ogg" time="6" />
+
+	<string id="33332" modelName="mask_father" modelSlot="1" value="Экесі | Мykият тынданыз. Сен менін асырап алушы кyйеусын. Ал, ал бyлар сіздін наfыз экенін заттары. Бен жіптерін табыныз. Ол зерттеуші. Ол комектеседі ... yл ... жек корушілікке берменіз ... Жанды уланбаныз ..." sound="data\sounds\Speech\r1m1\r1m1_33332_father.ogg" time="30" />
+
+	<string id="33333" modelName="mask_hero" value="| Менін омірім ... Келесі мен не істеуім керек? Ойткені, менде ешкім kалды ... жэне ештене жоk ... Тек бyл хат ..." sound="data\sounds\Speech\r1m1\r1m1_33333_hero.ogg" time="10" />
+
+	<string id="33334" modelAutosized="true" modelName="quest_letter" modelSlot="1" value="Хат. .. «" sound="data\sounds\Speech\r1m1\r1m1_33334_letter.ogg" time="16" />
+
+	<string id="33335" modelAutosized="true" modelName="quest_letter" modelSlot="1" value="Хат | «...« Мен оскен кезде жаkын емеспін." sound="data\sounds\Speech\r1m1\r1m1_33335_letter.ogg" time="12" />
+
+	<string id="33336" modelAutosized="true" modelName="quest_letter" modelSlot="1" value="Хаты | ... «Жоспарды fана аяkтаfаннан кейін fана адам, егер ол болмаса, мен озімді таfы да сезінемін. эрkашан менін жyрегімде, yлым »." sound="data\sounds\Speech\r1m1\r1m1_33336_letter.ogg" time="16" />
+
+	<string id="33337" modelName="mask_hero" value="| Бyл бэрі ме? Тyсініктеме жоk ... Мен ешkашан білмейтін адамды kалай кешіруге болады? Мyнда бyдан артыk ештене жоk. Мен Бен іздеуге барамын. Кімде болса, мен ол маfан озімді табуfа комектеседі деп yміттенемін. Мyмкін, сіз ол туралы естідініз бе?" sound="data\sounds\Speech\r1m1\r1m1_33337_hero.ogg" time="16" />
+
+	<string id="8800" value="Сіз бірінші рет ойнайсыз. Сіз kалай ойнауды тyсіндіру yшін хабарламаларды kалайсыз ба?" numButtons="2" />
+
+	<string id="8801" value="Сіз бyл аймаkты kалдырfыныз келе ме?" numButtons="2" />
+
+	<string id="8802" modelName="mask_hero" sound="data\sounds\Speech\r3m1\r3m1_8802_hero.ogg" value="Мен бyл жолдын kайда апаратынын білмеймін, сондыkтан мен осында kаламын." time="3" />
+
+	<string id="8803" modelName="mask_hero" sound="data\sounds\Speech\r3m1\r3m1_8803_hero.ogg" value="Кейбір оfаш орын. Бyл жерден болfан дyрыс." time="3" />
+
+	<string id="77771" msgType="SCROLL" image="data\if\ico\CinemaPanel\foreground_movie_shade_midle.dds" upOverlay="data\if\ico\CinemaPanel\foreground_movie_shade_up.dds" downOverlay="data\if\ico\CinemaPanel\foreground_movie_shade.dds" value="@Ffffffff | Тарих апаттан кейін бірден келген kаранfы уаkыт туралы наkты аkпаратты саkтамады. Kорfаныс маскаларынын арkасында адамдар уланfан ауада аман kалfанына белгілі. Бyл белгісіз онертапkыш kyру бэрін тенестірді. Жінішке кедергі, ол жаkында олім жолында тyрfан, жана адамзаттын символына айналды. Маскалар жиналып, оларfа кyн астындаfы жер yшін кyресуге кyш берді. || Жана елді мекендер жаппай kабірге айналfан бyрынfы kалалардан алшаk болды. Біртіндеп, аман kалfандардын шашыранkы топтары арасындаfы байланыс орнатылды. Фермерлер, шахтерлер, саудагерлер - kарапайым сабаkтарfа оралу тек kайfылы адамдардан пайда корді. || Біраk адам эрдайым ер адам болып kала береді. Fасырлардын даналыfын элеммен болісу yшін fасырлар бойы саkтап kалды. Жаратылысты жоюды жон коретіндер болды." sound="data\sounds\Speech\rolik\r1m1_969_narrator.ogg" fontSize="18" scrollSpeed="0.55" time="68" />
+
+	<string id="90000" value="Exmachina || Сіз пайдаланfыныз келе ме? Интерактивті ойын жyйесі?" numButtons="2" />
+</resource>

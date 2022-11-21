@@ -1,0 +1,148 @@
+<?xml version='1.0' encoding='windows-1251'?>
+<Credits breakTime="0.7" breakSoundFile="data\sounds\Driving\shifter1.wav" showSoundFile="data\sounds\Driving\shifter1.wav" ambientSoundFile="" musicFile="data\music\credits.ogg">
+	<Pages>
+		<Page id="1" text="Targem | Ойындар компаниясы" modelName="" modelSkin="0" modelCfg="0" showTime="3" fontSize="40" />
+
+		<Page id="2" text="Жасаушы || Станислав | «Scorp» kайfы" modelName="r2_man" modelSkin="0" modelCfg="294" showTime="3" fontSize="20" />
+
+		<Page id="3" text="Жобанын техникалыk директоры || Алексей Скряябин" modelName="r2_man" modelSkin="0" modelCfg="182" showTime="3" fontSize="20" />
+
+		<Page id="4" text="Жоба менеджері || Евгений | «ХРРР» Хрунов" modelName="r2_man" modelSkin="2" modelCfg="368" showTime="3" fontSize="20" />
+
+		<Page id="5" text="Сценарий || Алексей | «Алекс Т.Г.»" modelName="r2_man" modelSkin="0" modelCfg="87" showTime="3" fontSize="20" />
+
+		<Page id="6" text="Жобанын жетекші баfдарламашысы || Антон | «Ашулану» Савин" modelName="r2_man" modelSkin="0" modelCfg="20" showTime="3" fontSize="20" />
+
+		<Page id="7" text="Жобанын бас дизайнері || Алексей | «Алекс Т.Г.» адал" modelName="r2_man" modelSkin="0" modelCfg="87" showTime="3" fontSize="20" />
+
+		<Page id="8" text="Жобанын жетекші суретшісі || Александр | «Алекс М.Л.» Маргушин" modelName="r2_man" modelSkin="2" modelCfg="8" showTime="3" fontSize="20" />
+
+		<Page id="9" text="Ойын дизайны || «MIF2000» Галанин | «Сергей» jalanin | Алексей «Юнлав | Станислав | Станислав» Станислав «Kайfылы« Норис »Борис« Борг »Смирнов Смирнов" modelName="r3_man" modelSkin="2" modelCfg="1917" showTime="5" fontSize="20" />
+
+		<Page id="10" text="Баfдарламалау | Елена «Хелькиттей» Елена | Иван Власов | Илья «Рузаков | Максим« Коленке »Сарманов | Сергей« Сергей »Ключковский« Ключковский »Игорь" modelName="r2_man" modelSkin="1" modelCfg="140" showTime="5" fontSize="18" />
+
+		<Page id="11" text="Графика | Александр «Маргушин | Иван Снигриев | Евений» Гринди «Джин» Голцов | Владимир «Селезнев | Станислав | Старислав»" modelName="r3_man" modelSkin="1" modelCfg="1529" showTime="6" fontSize="20" />
+
+		<Page id="12" text="Графика || Рустам «Рычи» Турей | Евгений Тоkарев | Сергей «Сега» Митряев | Виктор «Виктор» Корякин | Роман Латенов" modelName="r3_man" modelSkin="1" modelCfg="1529" showTime="6" fontSize="20" />
+
+		<Page id="13" text="Миссиялардын дизайны || Денис «MIF2000» | Сергей «jalanin | udyurminsky | Артем» Соло «Соло« Соловьев | Кондроев »| Кондройев« Хикиллер «Данисилер | Станислав« Старислав »" modelName="r3_man" modelSkin="2" modelCfg="1917" showTime="4" fontSize="20" />
+
+		<Page id="14" text="Интерфейстерді дамыту || Михаил | «Рай» Рай «Матвиенко || Арнайы эффекттер || Алексей |« Хал »Лобанов" modelName="r2_man" modelSkin="2" modelCfg="104" showTime="3" fontSize="20" />
+
+		<Page id="15" text="Музыка / Дыбыстар || Антон Попов | Екатерина Шуммер" modelName="r2_man" modelSkin="1" modelCfg="330" showTime="3" fontSize="20" />
+
+		<Page id="16" text="Тестілеу || Вячеслав | «LS» Avdeev" modelName="r2_man" modelSkin="2" modelCfg="84" showTime="3" fontSize="20" />
+
+		<Page id="17" text="PR Manager || Светлана | «Хрусталь» адал" modelName="r2_woman" modelSkin="0" modelCfg="20" showTime="3" fontSize="20" />
+
+		<Page id="18" text="Ойын музыка байkауынын женімпаздарынын шыfармаларын kолданды: | Александр Чекстер | Борис Веденский жэне Александр Тргер | Михайл Сидоров | Александр Лисенков | Паралактекен | Игорь Белоусов Игорь Белоусов" modelName="r2_man" modelSkin="1" modelCfg="132" showTime="4" fontSize="14" />
+
+		<Page id="19" text="Олар сондай-аk эртyрлі сатыларfа kатысты || КОНСТАНТИН СЕХАРЕВ - Баfдарламалау | Святослав Паташников - Жол корсеткіш | Алексей Андрюшенко-В.В. -Десек" modelName="r2_man" modelSkin="2" modelCfg="24" showTime="3" fontSize="16" />
+
+		<Page id="20" text="Бука компаниясы" modelName="r2_man" modelSkin="0" modelCfg="0" showTime="3" fontSize="40" />
+
+		<Page id="21" text="Ондіруші || Иван Бунаков" modelName="r3_man" modelSkin="1" modelCfg="2812" showTime="3" fontSize="20" />
+
+		<Page id="22" text="Аfа ондіруші || Иван Мороз" modelName="r2_man" modelSkin="0" modelCfg="198" showTime="3" fontSize="20" />
+
+		<Page id="23" text="Онімді жылжыту жоніндегі менеджерлер || Yuri Virich | Алексей Писклюков" modelName="r3_man" modelSkin="2" modelCfg="2298" showTime="3" fontSize="20" />
+
+		<Page id="24" text="Техникалыk сарапшы || Кирилл Бестеманов" modelName="r3_man" modelSkin="0" modelCfg="57" showTime="3" fontSize="20" />
+
+		<Page id="25" text="Дыбыстыk сарапшы || Руслан Дмитриев" modelName="r3_man" modelSkin="2" modelCfg="1745" showTime="3" fontSize="20" />
+
+		<Page id="26" text="Дизайнерлер-полиграфистер || Саннанов | Даниелла Климашевская" modelName="r2_woman" modelSkin="2" modelCfg="43" showTime="3" fontSize="20" />
+
+		<Page id="27" text="PR Manager || Алексей Пастеренко" modelName="r3_man" modelSkin="2" modelCfg="765" showTime="3" fontSize="20" />
+
+		<Page id="28" text="PR Manager | Assistant || Олег Морозов" modelName="r3_man" modelSkin="2" modelCfg="456" showTime="3" fontSize="20" />
+
+		<Page id="29" text="Ондірушінін комекшісі || Алексей Пешехонов | Николай Сафронов" modelName="r3_man" modelSkin="1" modelCfg="761" showTime="3" fontSize="20" />
+
+		<Page id="30" text="Жана командалар менеджері || Николай Сафронов" modelName="r3_man" modelSkin="2" modelCfg="635" showTime="3" fontSize="20" />
+
+		<Page id="31" text="Ондіруші ондіруші || Александр Пак" modelName="r3_man" modelSkin="0" modelCfg="253" showTime="3" fontSize="20" />
+
+		<Page id="32" text="Yлкен тестілеуші &#8203;&#8203;|| Евгений Попов | Иван Рид" modelName="r3_man" modelSkin="1" modelCfg="379" showTime="3" fontSize="20" />
+
+		<Page id="33" text="Тестілеу kызметі || Антон Эпишин | Алексей Петровин | Александр Полосин | Евгений Попов | Иван Редов | Иван Рид | Алексей Чеботарев" modelName="r3_man" modelSkin="1" modelCfg="456" showTime="5" fontSize="20" />
+
+		<Page id="34" text="Сыртkы тестілеу || Питер Беляев | Алексей Бунак | Игорь Дмитриев | Михаил Матюшов | Денис Соколов" modelName="r3_man" modelSkin="1" modelCfg="0" showTime="3" fontSize="20" />
+
+		<Page id="34_1" text="Сыртkы тестілеу || Игорь Жанхонцев | Дмитрий Чичков | Алексей Шеховцов | Илья Юсипов | Тимур Юсипов" modelName="r3_man" modelSkin="1" modelCfg="0" showTime="3" fontSize="20" />
+
+		<Page id="35" text="Сату kызметі || Максим О. Алексеев | Максим Ю. Максим А. Алексеев | Наталья Анкундинова | Елена Антонова | Илья Бробиченко | Павел Григорьев | Виктория Киселеева | Александр Кочетков" modelName="r3_man" modelSkin="0" modelCfg="123" showTime="5" fontSize="14" />
+
+		<Page id="36" text="Kызмет корсету kызметі || Павел Круглов | Александр Петринов | Ольга Сабельева | Лариа Самсонов | Евгений Самсонов | Светлана Самсонова | Валерий Тихвинский | Сергей Федосов" modelName="r2_woman" modelSkin="0" modelCfg="4" showTime="5" fontSize="14" />
+
+		<Page id="37" text="Сауда маркетингі || Татьяна Васекина" modelName="r2_woman" modelSkin="2" modelCfg="113" showTime="3" fontSize="20" />
+
+		<Page id="38" text="Kауымдастыk менеджері || Александр Ковалев" modelName="r3_man" modelSkin="2" modelCfg="97" showTime="3" fontSize="20" />
+
+		<Page id="39" text="Сараптамалыk кенес || Владимир Миньяев | Максим Н. Михалев | Иван Мороз | Сергей Руденко | Виталий Харитоненко" modelName="r3_man" modelSkin="0" modelCfg="225" showTime="5" fontSize="20" />
+
+		<Page id="40" text="Kykыkтыk kолдау || Георгий Виталиев" modelName="r3_man" modelSkin="2" modelCfg="369" showTime="3" fontSize="20" />
+
+		<Page id="41" text="Техникалыk kолдау || Евгений Дмитриев" modelName="r3_man" modelSkin="1" modelCfg="381" showTime="3" fontSize="20" />
+
+		<Page id="42" text="Бас директор || Александр Михайлов" modelName="r3_man" modelSkin="1" modelCfg="2300" showTime="3" fontSize="20" />
+
+		<Page id="43" text="Kаржы директоры || Марина Равун" modelName="r2_woman" modelSkin="2" modelCfg="108" showTime="3" fontSize="20" />
+
+		<Page id="44" text="Маркетинг болімінін бастыfы || Максим Н. Михалев" modelName="r3_man" modelSkin="1" modelCfg="635" showTime="3" fontSize="20" />
+
+		<Page id="45" text="Коммерциялыk болімінін бастыfы | Татьяна Устинова" modelName="r2_woman" modelSkin="0" modelCfg="100" showTime="3" fontSize="20" />
+
+		<Page id="46" text="Даму болімінін бастыfы || Иван Бунаков" modelName="r3_man" modelSkin="1" modelCfg="2812" showTime="3" fontSize="20" />
+
+		<Page id="47" text="Арнайы алfыс: | Сергей Бобеов | Илья Бробиченко | Дмитрий Захаров | Дмитрий Кулешов | Дмитрий Кулешов | Дмитрий Лесин | Владимир Миньяев | Иван Мороз" modelName="r3_man" modelSkin="2" modelCfg="1745" showTime="5" fontSize="14" />
+
+		<Page id="48" text="Арнайы алfыс: | Марина Равун | Иван Ред | Иван Ред | Инна Сувепина | Игорь Устинов | Ирина Царева | Виктория Anns" modelName="r3_man" modelSkin="1" modelCfg="57" showTime="5" fontSize="14" />
+		
+		<Page id="49" text="Kауымдастыk | Патч / Ремент" modelName="" modelSkin="0" modelCfg="0" showTime="3" fontSize="30" />
+
+		<Page id="50" text="Даму тобы" modelName="" modelSkin="0" modelCfg="0" showTime="3" fontSize="26" />
+		
+		<Page id="50_1" text="Александр «Фатеев» «Фейтевтін» «Фейтевтін» «Смирнов | Антонь | Владислав» «Курочкин | Дмитислав». Максим «Бердников» Марк «ApocalyMse007» белгісі «ApocalyMse007» Марк «El_bibika» компаниясы «El_bibika» Кооненко | Павел" modelName="r3_man" modelSkin="2" modelCfg="765" showTime="3" fontSize="12" />
+
+		<Page id="51" text="Александр «Сел» Парфененков || Жоба менеджері, kyралдар, дизайн" modelName="r3_man" modelSkin="1" modelCfg="761" showTime="3" fontSize="20" />
+		
+		<Page id="52" text="Александр «Фейтевтін» пастері || Kyралдар, графика, | 3D модельдеу" modelName="mask_oracul" modelSkin="0" modelCfg="0" showTime="3" fontSize="20" />
+		
+		<Page id="53" text="Алексей «__NemPobu4__» Смирнов || 3D модельдеу, сценарийлер, тапсырмалар" modelName="r3_man" modelSkin="1" modelCfg="1531" showTime="3" fontSize="18" />
+		
+		<Page id="54" text="Анна Жукова || Графикалыk дизайн" modelName="r2_woman" modelSkin="0" modelCfg="104" showTime="3" fontSize="20" />
+		
+		<Page id="55" text="Антон Попов || Музыка" modelName="r3_man" modelSkin="1" modelCfg="381" showTime="3" fontSize="20" />
+		
+		<Page id="56" text="Владислав «Курочкинді» yстемдік ете отырып, «Курочкин || Мазмyнды дизайн, карта fимараты" modelName="r3_man" modelSkin="2" modelCfg="765" showTime="3" fontSize="20" />
+		
+		<Page id="57" text="Dmititry «Dwarf» Сашченко || Сценарийлер, тапсырмалар, | 3D модельдеу" modelName="r3_man" modelSkin="2" modelCfg="1917" showTime="3" fontSize="20" />
+		
+		<Page id="58" text="Иван «ICAS-14» Черепанов || 3D модельдеу" modelName="r2_man" modelSkin="2" modelCfg="168" showTime="3" fontSize="20" />
+		
+		<Page id="59" text="Леонид «Коёт» кочетов || Kателерді тyзету" modelName="r2_woman" modelSkin="0" modelCfg="91" showTime="3" fontSize="20" />
+		
+		<Page id="60" text="Максим «Бердников» || 3D модельдеу" modelName="r1_man" modelSkin="0" modelCfg="14" showTime="3" fontSize="20" />
+		
+		<Page id="61" text="Марк «Apocalypse007» Malygin || Мэтіндік тyзетулер" modelName="r3_man" modelSkin="2" modelCfg="2169" showTime="3" fontSize="20" />
+		
+		<Page id="62" text="Nick «El_bibika» Kononenko || 3D модельдеу" modelName="r1_man" modelSkin="1" modelCfg="4" showTime="3" fontSize="20" />
+		
+		<Page id="63" text="Павел «Павенов» || Сценарийлер, тапсырмалар" modelName="r2_woman" modelSkin="1" modelCfg="91" showTime="3" fontSize="20" />
+		
+		<Page id="64" text="Серафим «Варисане» Шагин || Мазмyнды дизайн" modelName="r4_man" modelSkin="2" modelCfg="85" showTime="3" fontSize="20" />
+		
+		<Page id="65" text="Сараптамалыk кенес" modelName="" modelSkin="0" modelCfg="0" showTime="3" fontSize="26" />
+		
+		<Page id="66" text="Буба | oracle | Rusya_27 | Traygen | Леонид «Коёт» Кочетов Кочетов | Семимахтар" modelName="r3_man" modelSkin="1" modelCfg="379" showTime="5" fontSize="20" />
+		
+		<Page id="67" text="Сынау" modelName="" modelSkin="0" modelCfg="0" showTime="3" fontSize="26" />
+		
+		<Page id="68" text="Suslo Red | Иван «Омзерфен» | Семионер «Озерицкий» Озерицкийі | Озерицкий | Эперксолис | Анарксолис | orkixolis | orkarxolis | Alexander192 | Terorchat" modelName="r3_man" modelSkin="2" modelCfg="635" showTime="5" fontSize="18" />
+		
+		<Page id="69" text="Жеке рахмет: | up ex ex ex machina | Discord.gg/qkkkk2em || Community Em2ch | vk.com/em2ch || machina vkontakte | vk.com/exmachine2" modelName="r1_man" modelSkin="2" modelCfg="92" showTime="5" fontSize="14" />
+
+		<Page id="70" text="Сондай-аk: || Pavlik RPG арнасынын корермендері || Даму барысында бізге зардап шеккен эйелдер, kыздар, туыстарымыз, туыстарымыз бен мысыkтарымыз || Бyл жобаны кyткен жэне kолдайтындардын барлыfын" modelName="r1_man" modelSkin="1" modelCfg="102" showTime="7" fontSize="14" />
+	</Pages>
+</Credits>

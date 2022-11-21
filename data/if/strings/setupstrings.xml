@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='windows-1251'?>
+<resource>
+	<string id="btnSaveCfg" value="Параметрлерді саkтаныз" />
+
+	<string id="btnCancel" value="Шыfу" />
+
+	<string id="checkFullScreen" value="Толыk экран" />
+
+	<string id="staticResolution" value="Ажыратымдылыk жэне тyс терендігі" />
+
+	<string id="staticPlatform" value="Бейне карта" />
+
+	<string id="staticScreenOptions" value="Экрандыk kондырfылар" />
+
+	<string id="checkWaterReflections" value="Судаfы шаfылысу" />
+
+	<string id="checkStaticShadows" value="Статикалыk коленкелер" />
+
+	<string id="checkDynamicShadows" value="Динамикалыk коленкелер" />
+
+	<string id="staticShadowQuality" value="Коленкелердін сапасы" />
+
+	<string id="staticShadowLow" value="Аласа" />
+
+	<string id="staticShadowHigh" value="Биік" />
+
+	<string id="staticFardistNear" value="Жабыk" />
+
+	<string id="staticFardistFar" value="Yзаk" />
+
+	<string id="staticFarDist" value="Коріну диапазоны" />
+
+	<string id="staticShadowOptions" value="Коленкелер параметрлері" />
+
+	<string id="staticMiscOptions" value="Басkа параметрлер" />
+
+	<string id="staticEffects" value="Эсер" />
+
+	<string id="checkSoundEnable" value="Дыбыс kосылды" />
+
+	<string id="checkMusicEnable" value="Музыка kосулы" />
+
+	<string id="staticSoundOptions" value="Дыбыстыk kондырfылар" />
+
+	<string id="staticMusicOptions" value="Музыкалыk kондырfылар" />
+
+	<string id="staticSoundVolume" value="Дыбыс денгейі" />
+
+	<string id="staticMusicVolume" value="Музыка колемі" />
+
+	<string id="staticSoundLow" value="Аласа" />
+
+	<string id="staticSoundMedium" value="Орта шама" />
+
+	<string id="staticSoundHigh" value="Биік" />
+
+	<string id="staticMusicLow" value="Аласа" />
+
+	<string id="staticMusicMedium" value="Орта шама" />
+
+	<string id="staticMusicHigh" value="Биік" />
+
+	<string id="pageVideo" value="Вызшаk" />
+
+	<string id="pageInGame" value="Эсер" />
+
+	<string id="pageAudio" value="Дыбыс" />
+
+	<string id="dlgMainCaption" value="Параметрлер" />
+
+	<string id="dlgSaveCaption" value="Дэлелдеу" />
+
+	<string id="dlgSaveText" value="Параметрлерді саkтайсыз ба?" />
+</resource>

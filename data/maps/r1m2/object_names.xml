@@ -1,0 +1,182 @@
+<?xml version='1.0' encoding='windows-1251'?>
+<ObjectNames>
+	<Object Name="Esting" FullName="Шыfыс" />
+
+	<Object Name="Esting_Workshop" FullName="Шеберхана" />
+
+	<Object Name="Esting_Shop" FullName="Гол" />
+
+	<Object Name="Esting_Bar" FullName="PAB '' баkытты ''" />
+
+	<Object Name="Esting_Bar_Barman" FullName="Бартен Spike" />
+
+	<Object Name="Fermer" FullName="Фермер Хосе" />
+
+	<Object Name="MainSigner" FullName="Механикалыk Чакки" />
+
+	<Object Name="Kollizey1" FullName="Yйымдастырушы" />
+
+	<Object Name="Midragd" FullName="Орта мекеме" />
+
+	<Object Name="Midragd_Workshop" FullName="Шеберхана" />
+
+	<Object Name="Midragd_Shop" FullName="Гол" />
+
+	<Object Name="Midragd_Bar" FullName="Тор" />
+
+	<Object Name="Midragd_Museum" FullName="Мyражай" />
+
+	<Object Name="Midragd_Bar_Barman" FullName="Эшлидін бармені" />
+
+	<Object Name="Professor" FullName="Профессор Мал" />
+
+	<Object Name="Kollizey2" FullName="Yйымдастырушы" />
+
+	<Object Name="Citizen" FullName="Эмои тyрfыны" />
+
+	<Object Name="Zavhoz" FullName="Мидас менеджері" />
+
+	<Object Name="Umelec" FullName="Докс шебері" />
+
+	<Object Name="Porto" FullName="Порто" />
+
+	<Object Name="Porto_Workshop" FullName="Шеберхана" />
+
+	<Object Name="Porto_Shop" FullName="Гол" />
+
+	<Object Name="Porto_Bar" FullName="Бар '' олі анкор ''" />
+
+	<Object Name="Porto_Bar_Barman" FullName="Кэсіпкер Макс" />
+
+	<Object Name="Karavanshik" FullName="Керуен Шон" />
+
+	<Object Name="Anticwar" FullName="Археолог Джонс" />
+
+	<Object Name="Kollizey3" FullName="Yйымдастырушы" />
+
+	<Object Name="PortoCitizen" FullName="Азаматтар Кейн" />
+
+	<Object Name="TheArtefact" FullName="Локус" />
+
+	<Object Name="TheArtefact_Workshop" FullName="Шеберхана" />
+
+	<Object Name="TheArtefact_Shop" FullName="Гол" />
+
+	<Object Name="TheArtefact_Bar" FullName="Салон" />
+
+	<Object Name="TheArtefact_Bar_Barman" FullName="Салон ханымы" />
+
+	<Object Name="Staruha" FullName="Кэрі эйел" />
+
+	<Object Name="Ben" FullName="Kарт адам" />
+
+	<Object Name="TheSign" FullName="Итырау" />
+
+	<Object Name="TheSign_Workshop" FullName="Шеберхана" />
+
+	<Object Name="TheSign_Shop" FullName="Гол" />
+
+	<Object Name="TheSign_Bar" FullName="Бар »" />
+
+	<Object Name="TheSign_Bar_Barman" FullName="Басшы Боб" />
+
+	<Object Name="Signer" FullName="Шаруалар шиі" />
+
+	<Object Name="TheRace" FullName="Кіші жер" />
+
+	<Object Name="TheRace_Workshop" FullName="Шеберхана" />
+
+	<Object Name="TheRace_Shop" FullName="Дыk" />
+
+	<Object Name="TheRace_Bar" FullName="Bar '' nostalgia ''" />
+
+	<Object Name="TheRace_Bar_Barman" FullName="Бармен Леони" />
+
+	<Object Name="TheOlimp" FullName="Роман" />
+
+	<Object Name="TheOlimp_Workshop" FullName="Шеберхана" />
+
+	<Object Name="TheOlimp_Shop" FullName="Гол" />
+
+	<Object Name="TheOlimp_Bar" FullName="Бар '' чемпионы ''" />
+
+	<Object Name="TheOlimp_Bar_Barman" FullName="Zeus басшысы" />
+
+	<Object Name="TheTickets" FullName="Олимпиада" />
+
+	<Object Name="TheTickets_Workshop" FullName="Шеберхана" />
+
+	<Object Name="TheTickets_Shop" FullName="Гол" />
+
+	<Object Name="TheTickets_Bar" FullName="Бар '' Azart ''" />
+
+	<Object Name="TheTickets_ZAO" FullName="«Колизей» ЖАK" />
+
+	<Object Name="TheTickets_Bar_Barman" FullName="Букмекерліктер" />
+
+	<Object Name="Director" FullName="Директор Иль" />
+
+	<Object Name="Antisincer" FullName="Жyк тиегіш" />
+
+	<Object Name="Fighter1" FullName="Гладиатор Сара" />
+
+	<Object Name="Fighter2" FullName="Гладиатор Логан" />
+
+	<Object Name="PetrolStationTown1" FullName="Жанжал kою" />
+
+	<Object Name="PetrolStationTown1_Workshop" FullName="Шеберхана" />
+
+	<Object Name="PetrolStationTown2" FullName="Жанжал kою" />
+
+	<Object Name="PetrolStationTown2_Workshop" FullName="Шеберхана" />
+
+	<Object Name="PetrolStationTown3" FullName="Жанжал kою" />
+
+	<Object Name="PetrolStationTown3_Workshop" FullName="Шеберхана" />
+
+	<Object Name="PetrolStationTown4" FullName="Жанжал kою" />
+
+	<Object Name="PetrolStationTown4_Workshop" FullName="Шеберхана" />
+
+	<Object Name="PetrolStationTown5" FullName="Жанжал kою" />
+
+	<Object Name="PetrolStationTown5_Workshop" FullName="Шеберхана" />
+
+	<Object Name="Esting_enter" FullName="Шыfыс" />
+
+	<Object Name="Midragd_enter" FullName="Орта мекеме" />
+
+	<Object Name="Porto_enter" FullName="Порто" />
+
+	<Object Name="TheArtefact_enter" FullName="Локус" />
+
+	<Object Name="TheSign_enter" FullName="Итырау" />
+
+	<Object Name="TheRace_enter" FullName="Кіші жер" />
+
+	<Object Name="TheOlimp_enter" FullName="Роман" />
+
+	<Object Name="TheTickets_enter" FullName="Олимпиада" />
+
+	<Object Name="ToR1M1" FullName="Шетіне жол" />
+
+	<Object Name="ToR1M3" FullName="Ферлендке жол" />
+
+	<Object Name="u1" FullName="Бенджамин" />
+
+	<Object Name="u2" FullName="Маска" />
+
+	<Object Name="u3" FullName="Шварц" />
+
+	<Object Name="u4" FullName="Миф" />
+
+	<Object Name="u5" FullName="Хунбек" />
+
+	<Object Name="u6" FullName="Озен" />
+
+	<Object Name="u7" FullName="Сейфтен" />
+
+	<Object Name="u8" FullName="Цезарь" />
+
+	<Object Name="u9" FullName="Залы" />
+</ObjectNames>

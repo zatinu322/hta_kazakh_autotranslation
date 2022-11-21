@@ -1,0 +1,178 @@
+<?xml version='1.0' encoding='windows-1251'?>
+<ObjectNames>
+	<Object Name="Asgard" FullName="Асгар" />
+
+	<Object Name="Asgard_Workshop" FullName="Шеберхана" />
+
+	<Object Name="Asgard_Shop" FullName="Гол" />
+
+	<Object Name="Asgard_Bar" FullName="Бар '' asgard ''" />
+
+	<Object Name="Asgard_Bar_Barman" FullName="Kызметкері" />
+
+	<Object Name="NonBomber" FullName="Сатушы Томас" />
+
+	<Object Name="Bonny" FullName="Трампий конни" />
+
+	<Object Name="Bonny1" FullName="Трампий конни" />
+
+	<Object Name="AsgardBarman" FullName="Барман Павло" />
+
+	<Object Name="UnknownFromTunel" FullName="Бейтаныс" />
+
+	<Object Name="Pesht" FullName="Yсті" />
+
+	<Object Name="Pesht_Workshop" FullName="Шеберхана" />
+
+	<Object Name="Pesht_Shop" FullName="Гол" />
+
+	<Object Name="Pesht_Bar" FullName="Бар '' pesct ''" />
+
+	<Object Name="Pesht_Bar_Barman" FullName="Жyмысшы Брюс" />
+
+	<Object Name="CrazyRoadRiders" FullName="Максимді yнfыма" />
+
+	<Object Name="TheForgotten" FullName="Yмытып kалfан" />
+
+	<Object Name="TheForgotten_Workshop" FullName="Шеберхана" />
+
+	<Object Name="TheForgotten_Shop" FullName="Гол" />
+
+	<Object Name="TheForgotten_Bar" FullName="Бар '' 'Бyрынfы' '" />
+
+	<Object Name="TheForgotten_Bar_Barman" FullName="Бригадир MIS" />
+
+	<Object Name="LabirintMan" FullName="Коминсер Мичас" />
+
+	<Object Name="Minin" FullName="Минин" />
+
+	<Object Name="Minin_Workshop" FullName="Шеберхана" />
+
+	<Object Name="Minin_Shop" FullName="Гол" />
+
+	<Object Name="Minin_Bar" FullName="Бар '' kyл ''" />
+
+	<Object Name="Mer_House" FullName="Муниципалитет" />
+
+	<Object Name="Minin_Bar_Barman" FullName="Басшы Бекки" />
+
+	<Object Name="MininWorker" FullName="Жyмыс істейтін Шарки" />
+
+	<Object Name="MininMer" FullName="Мэр Минин" />
+
+	<Object Name="MininWorker2" FullName="Жyмысшы kамысы" />
+
+	<Object Name="Librarian" FullName="Kарт адам" />
+
+	<Object Name="Librarian1" FullName="Kарт адам" />
+
+	<Object Name="AboutThief" FullName="Механикалыk етік" />
+
+	<Object Name="TheShahts" FullName="Тау шахталары" />
+
+	<Object Name="TheShahts_Workshop" FullName="Шеберхана" />
+
+	<Object Name="TheShahts_Shop" FullName="Гол" />
+
+	<Object Name="TheShahts_Bar" FullName="«Тан» асханасы" />
+
+	<Object Name="TheShahts_Bar_Barman" FullName="Kызметкер" />
+
+	<Object Name="Bomber" FullName="Бригадир Эдди" />
+
+	<Object Name="TheVozleMinin" FullName="Шайпалы" />
+
+	<Object Name="TheVozleMinin_Workshop" FullName="Шеберхана" />
+
+	<Object Name="TheVozleMinin_Shop" FullName="Гол" />
+
+	<Object Name="TheVozleMinin_Bar" FullName="Тор" />
+
+	<Object Name="TheVozleMinin_Bar_Barman" FullName="Бармен диллы" />
+
+	<Object Name="WorkerForMoney" FullName="Жyмана" />
+
+	<Object Name="TheBanditOilMine" FullName="Мyнай Деррик" />
+
+	<Object Name="TheBanditOilMine_Workshop" FullName="Шеберхана" />
+
+	<Object Name="TheBanditOilMine_Shop" FullName="Гол" />
+
+	<Object Name="TheBanditOilMine_Bar" FullName="Мyнара" />
+
+	<Object Name="OilMineWorker" FullName="Мyнайшы Крис" />
+
+	<Object Name="TheBase" FullName="Негізгі 51" />
+
+	<Object Name="TheBase_Workshop" FullName="Шеберхана" />
+
+	<Object Name="TheBase_Shop" FullName="Гол" />
+
+	<Object Name="TheBase_Bar" FullName="Салун '' Жаfымсыз '' '" />
+
+	<Object Name="BaseBandit" FullName="Боб" />
+
+	<Object Name="Thief" FullName="Бандиттік Ричард" />
+
+	<Object Name="PeshtGuardian" FullName="Арнольд тyрfыны" />
+
+	<Object Name="PeshtGuardian1" FullName="Арнольд тyрfыны" />
+
+	<Object Name="BaseGuardian" FullName="Kауіпсіздік кyзетшісі yйрек" />
+
+	<Object Name="BanditPeshtGuardian" FullName="Бандит натаны" />
+
+	<Object Name="CircusMan" FullName="Погорельецтер" />
+
+	<Object Name="PetrolStationTown1" FullName="Жанжал kою" />
+
+	<Object Name="PetrolStationTown1_Workshop" FullName="Шеберхана" />
+
+	<Object Name="PetrolStationTown2" FullName="Жанжал kою" />
+
+	<Object Name="PetrolStationTown2_Workshop" FullName="Шеберхана" />
+
+	<Object Name="PetrolStationTown3" FullName="Жанжал kою" />
+
+	<Object Name="PetrolStationTown3_Workshop" FullName="Шеберхана" />
+
+	<Object Name="PetrolStationTown4" FullName="Жанжал kою" />
+
+	<Object Name="PetrolStationTown4_Workshop" FullName="Шеберхана" />
+
+	<Object Name="PetrolStationTown5" FullName="Жанжал kою" />
+
+	<Object Name="PetrolStationTown5_Workshop" FullName="Шеберхана" />
+
+	<Object Name="Asgard_enter" FullName="Асгар" />
+
+	<Object Name="TheForgotten_enter" FullName="Yмытып kалfан" />
+
+	<Object Name="TheShahts_enter" FullName="Тау шахталары" />
+
+	<Object Name="ToR1M1" FullName="Шетіне жол" />
+
+	<Object Name="ToR1M2" FullName="Риджинге апаратын жол" />
+
+	<Object Name="ToR1M4" FullName="Рельге апаратын жол" />
+
+	<Object Name="ToR2M1" FullName="Туннель" />
+
+	<Object Name="u1" FullName="Шыfыру" />
+
+	<Object Name="u2" FullName="Донна" />
+
+	<Object Name="u3" FullName="Кyнэкэр" />
+
+	<Object Name="u4" FullName="Миф" />
+
+	<Object Name="u5" FullName="Джей" />
+
+	<Object Name="u6" FullName="Yнсіз Боб" />
+
+	<Object Name="u7" FullName="Егеуkyйрыkтар" />
+
+	<Object Name="u8" FullName="Chupa" />
+
+	<Object Name="u9" FullName="Иззи" />
+</ObjectNames>
