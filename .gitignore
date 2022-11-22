@@ -19,6 +19,7 @@ r4m1.bak/
 r4m2.bak/
 r1m1_KrayCity/
 r1m1_KrayCity.bak/
+backup/
 # not used files
 datasources.txt
 devicecompatible.xml
@@ -28,6 +29,8 @@ localQuests.xml
 memlog.txt
 QuestStates.xml
 video.xml
+clear_compatch.py
+clear_steam.py
 # file extensions
 *.asm
 *.bak
@@ -117,6 +120,9 @@ video.xml
 !data/maps/r4m2/object_names.xml
 !data/maps/r4m2/strings.xml
 !data/sounds/radio/radiosamples.xml
+!data/if/frames/uischema2.xml
+!data/if/fonts/fonts.xml
+!data/if/fonts/sm_tahoma_18.750_00.dds
 # more ignoring files
 data/if/ico/splashes/les.dds
 data/if/ico/splashes/loading_screen_2.dds

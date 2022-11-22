@@ -11,7 +11,7 @@ FILES_TO_CHANGE = {
     # "data\\if\\diz\\levelinfo.xml":             ["LevelInfo", "name", "fullName", False], 
     # "data\\if\\diz\\model_names.xml":           ["Item", "id", "value", False], 
     # "data\\if\\diz\\questinfoglobal.xml":       ["QuestInfo", "questName", "briefDiz", True], 
-    "data\\if\\diz\\questinfoglobal.xml":       ["QuestInfo", "questName", "fullDiz", True], 
+    # "data\\if\\diz\\questinfoglobal.xml":       ["QuestInfo", "questName", "fullDiz", True], 
     # "data\\if\\strings\\affixesdiz.xml":        ["string", "id", "value", False], 
     # "data\\if\\strings\\bindnames.xml":         ["string", "id", "value", True], 
     # "data\\if\\strings\\clansdiz.xml":          ["string", "id", "value", False], 
@@ -27,7 +27,7 @@ FILES_TO_CHANGE = {
     # "data\\if\\strings\\uieditstrings.xml":     ["string", "id", "value", True], 
     # "data\\if\\strings\\uihistory.xml":         ["string", "id", "value", False], 
     # "data\\maps\\r1m1\\object_names.xml":       ["Object", "Name", "FullName", False], 
-    # "data\\maps\\r1m1\\strings.xml":            ["string", "id", "value", False], 
+    "data\\maps\\r1m1\\strings.xml":            ["string", "id", "value", False], 
     # "data\\maps\\r1m2\\object_names.xml":       ["Object", "Name", "FullName", False], 
     # "data\\maps\\r1m2\\strings.xml":            ["string", "id", "value", False], 
     # "data\\maps\\r1m3\\object_names.xml":       ["Object", "Name", "FullName", False], 
@@ -102,22 +102,22 @@ def write(file, path, containers, phrases):
 
 def kk_lang_fix(phrases):
     kk_letters = {
-        "Ә": "Э",
-        "ә": "э",
-        "Ғ": "F",
-        "ғ": "f",
-        "Қ": "K",
-        "қ": "k",
-        "Ң": "Н",
-        "ң": "н",
-        "Ө": "О",
-        "ө": "о",
-        "Ұ": "Y",
-        "ұ": "y",
-        "Ү": "Y",
-        "ү": "y",
-        "Һ": "h",
-        "һ": "h"
+        "Ә": "†",
+        "ә": "‡",
+        "Ғ": "‰",
+        "ғ": "Љ",
+        "Қ": "Њ",
+        "қ": "Ќ",
+        "Ң": "Ћ",
+        "ң": "Џ",
+        "Ө": "ђ",
+        "ө": "љ",
+        "Ұ": "њ",
+        "ұ": "ќ",
+        "Ү": "ћ",
+        "ү": "џ",
+        "Һ": "Ў",
+        "һ": "ў"
         }
     for id, text in phrases.items():
         for word, change in kk_letters.items():
