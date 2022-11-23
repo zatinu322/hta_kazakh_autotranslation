@@ -1,26 +1,26 @@
 <?xml version='1.0' encoding='windows-1251'?>
 <ObjectNames>
-	<Object Name="ScientiferVillage" FullName="Fалым ауылы" />
+	<Object Name="ScientiferVillage" FullName="‰алым ауылы" />
 
 	<Object Name="ScientiferVillage_Bar" FullName="Зертхана" />
 
-	<Object Name="ScientiferVillage_Shop" FullName="Ондірілген тауарлар" />
+	<Object Name="ScientiferVillage_Shop" FullName="ђндірілген тауарлар" />
 
-	<Object Name="ScientiferVillage_WorkShop" FullName="Шебер kаламдар" />
+	<Object Name="ScientiferVillage_WorkShop" FullName="Шебер Ќаламдар" />
 
-	<Object Name="ScientiferVillage_Bar_Scientif" FullName="Fалым Василий" />
+	<Object Name="ScientiferVillage_Bar_Scientif" FullName="‰алым Василий" />
 
-	<Object Name="ToR4M1" FullName="Вахатkа кету" />
+	<Object Name="ToR4M1" FullName="ВахатЌа кету" />
 
-	<Object Name="MilitaryBase_loc" FullName="Эскери база" />
+	<Object Name="MilitaryBase_loc" FullName="†скери база" />
 
 	<Object Name="PlateRadiation_loc" FullName="Шетелдік кеме" />
 
 	<Object Name="PetrolStationTown61" FullName="Ескі жанармай бекеті" />
 
-	<Object Name="CrazyBase" FullName="Эскери база" />
+	<Object Name="CrazyBase" FullName="†скери база" />
 
-	<Object Name="PetrolStationTown61_workshop" FullName="Жанжал kою" />
+	<Object Name="PetrolStationTown61_workshop" FullName="Жанжал Ќою" />
 
 	<Object Name="urod1" FullName="Торус" />
 
@@ -28,15 +28,15 @@
 
 	<Object Name="urod3" FullName="Борг" />
 
-	<Object Name="urod4" FullName="Алаkы" />
+	<Object Name="urod4" FullName="АлаЌы" />
 
-	<Object Name="urod5" FullName="Yрлыk" />
+	<Object Name="urod5" FullName="њрлыЌ" />
 
 	<Object Name="urod6" FullName="Gaia" />
 
-	<Object Name="urod7" FullName="Кyнкер" />
+	<Object Name="urod7" FullName="Кџнкер" />
 
 	<Object Name="urod8" FullName="Хррр" />
 
-	<Object Name="urod9" FullName="Фу аfай" />
+	<Object Name="urod9" FullName="Фу аЉай" />
 </ObjectNames>

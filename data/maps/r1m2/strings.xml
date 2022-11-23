@@ -1,64 +1,64 @@
 <?xml version='1.0' encoding='windows-1251'?>
 <resource>
-	<string id="1" modelName="mask_hero" value="| Біртyрлі нэрсе ... ізі сияkты ... ойткені адамдар kорkатыны танkаларлыk емес: Мен озімді озім сезінемін. Мен осы kyбылыс туралы мандайfа барfаным жон." sound="data\sounds\Speech\r1m2\r1m2_1_hero.ogg" time="12" />
+	<string id="1" modelName="mask_hero" value="| Біртџрлі н‡рсе ... ізі сияЌты ... љйткені адамдар ЌорЌатыны таЏЌаларлыЌ емес: Мен љзімді љзім сезінемін. Мен осы Ќќбылыс туралы маЏдайЉа барЉаным жљн." sound="data\sounds\Speech\r1m2\r1m2_1_hero.ogg" time="12" />
 
-	<string id="20" modelName="r1_man" modelSkin="1" modelCfg="70" modelSlot="1" value="Бандит | Иэ ... Сіз мyнда жеткіліксіз едініз ..." sound="data\sounds\Speech\r1m2\r1m2_20_bandit.ogg" time="4" />
+	<string id="20" modelName="r1_man" modelSkin="1" modelCfg="70" modelSlot="1" value="Бандит | И‡ ... Сіз мќнда жеткіліксіз едіЏіз ..." sound="data\sounds\Speech\r1m2\r1m2_20_bandit.ogg" time="4" />
 
-	<string id="21" modelName="mask_lisa" modelSlot="1" value="Тyлкі | сен? Сіз мyнда не істеп жyрсіз? Сіз бэрін бyлдірдініз ... Бyл керемет kyтkарылfаныныз yшін рахмет." sound="data\sounds\Speech\r1m2\r1m2_21_lisa.ogg" time="7" />
+	<string id="21" modelName="mask_lisa" modelSlot="1" value="Тџлкі | сен? Сіз мќнда не істеп жџрсіз? Сіз б‡рін бџлдірдіЏіз ... Бќл керемет ЌќтЌарылЉаныЏыз џшін рахмет." sound="data\sounds\Speech\r1m2\r1m2_21_lisa.ogg" time="7" />
 
-	<string id="22" modelName="mask_hero" value="| Мен сені, тyлкіні kyтkардым. Енді сіз менін сyраkтарыма жауап бересіз: Мен экемді кім олтіргенін білуім керек!" sound="data\sounds\Speech\r1m2\r1m2_22_hero.ogg" time="6" />
+	<string id="22" modelName="mask_hero" value="| Мен сені, тџлкіні ЌќтЌардым. Енді сіз меніЏ сќраЌтарыма жауап бересіз: Мен ‡кемді кім љлтіргенін білуім керек!" sound="data\sounds\Speech\r1m2\r1m2_22_hero.ogg" time="6" />
 
-	<string id="23" modelName="mask_lisa" modelSlot="1" value="Тyлкі | Не? Кім? Менде ондай ештене жоk. Мен ешкімді олтірмедім! Маfан дымkыл бизнестін іліп kоюды ойламаныз!" sound="data\sounds\Speech\r1m2\r1m2_23_lisa.ogg" time="7" />
+	<string id="23" modelName="mask_lisa" modelSlot="1" value="Тџлкі | Не? Кім? Менде ондай ештеЏе жоЌ. Мен ешкімді љлтірмедім! МаЉан дымЌыл бизнестіЏ іліп Ќоюды ойламаЏыз!" sound="data\sounds\Speech\r1m2\r1m2_23_lisa.ogg" time="7" />
 
-	<string id="24" modelName="mask_hero" value="| Иэ, мен сені кінэламаймын. Кем дегенде, барлыk мэліметтер наkтыланfанша." sound="data\sounds\Speech\r1m2\r1m2_24_hero.ogg" time="4" />
+	<string id="24" modelName="mask_hero" value="| И‡, мен сені кін‡ламаймын. Кем дегенде, барлыЌ м‡ліметтер наЌтыланЉанша." sound="data\sounds\Speech\r1m2\r1m2_24_hero.ogg" time="4" />
 
-	<string id="25" modelName="mask_lisa" modelSlot="1" value="Тyлкі | Неліктен менімен осыдан кейін осындай kашыkтыkkа тyсіп kалды?" sound="data\sounds\Speech\r1m2\r1m2_25_lisa.ogg" time="2" />
+	<string id="25" modelName="mask_lisa" modelSlot="1" value="Тџлкі | Неліктен менімен осыдан кейін осындай ЌашыЌтыЌЌа тџсіп Ќалды?" sound="data\sounds\Speech\r1m2\r1m2_25_lisa.ogg" time="2" />
 
-	<string id="26" modelName="mask_hero" value="| Мен мyнда сyраkтар kоямын! Жауап, Глуха ауылынын тyрfындарын кім олтірді? Бyл kылшыkтыkты кім жасады? Сіз ол жаkkа ажырасkанда, сол жерде не болfанын білесіз!" sound="data\sounds\Speech\r1m2\r1m2_26_hero.ogg" time="11" />
+	<string id="26" modelName="mask_hero" value="| Мен мќнда сќраЌтар Ќоямын! Жауап, Глуха ауылыныЏ тќрЉындарын кім љлтірді? Бќл ЌылшыЌтыЌты кім жасады? Сіз ол жаЌЌа ажырасЌанда, сол жерде не болЉанын білесіз!" sound="data\sounds\Speech\r1m2\r1m2_26_hero.ogg" time="11" />
 
-	<string id="27" modelName="mask_lisa" modelSlot="1" value="Fox | сіз ... бyл ... Иэ, мен бyл жерде болfан кезде, мен оны кім жасаfанын кордім." sound="data\sounds\Speech\r1m2\r1m2_27_lisa.ogg" time="6" />
+	<string id="27" modelName="mask_lisa" modelSlot="1" value="Fox | сіз ... бќл ... И‡, мен бќл жерде болЉан кезде, мен оны кім жасаЉанын кљрдім." sound="data\sounds\Speech\r1m2\r1m2_27_lisa.ogg" time="6" />
 
 	<string id="28" modelName="mask_hero" value="|" sound="data\sounds\Speech\r1m2\r1m2_28_hero.ogg" time="1" />
 
-	<string id="29" modelName="mask_lisa" modelSlot="1" value="Тyлкі | бyлар жана дyниежyзілік тэртіп yшін кyрескерлер болды. Скарлат таны - сондыkтан олар оздерін шаkырады. Батыстан kатыгез олтірушілер. Эдетте олар оз елінен шыkпайды, біраk kазір олар корші аймаkтарfа кенейтуді бастады." sound="data\sounds\Speech\r1m2\r1m2_29_lisa.ogg" time="10" />
+	<string id="29" modelName="mask_lisa" modelSlot="1" value="Тџлкі | бќлар жаЏа дџниежџзілік т‡ртіп џшін кџрескерлер болды. Скарлат таЏы - сондыЌтан олар љздерін шаЌырады. Батыстан Ќатыгез љлтірушілер. †детте олар љз елінен шыЌпайды, біраЌ Ќазір олар кљрші аймаЌтарЉа кеЏейтуді бастады." sound="data\sounds\Speech\r1m2\r1m2_29_lisa.ogg" time="10" />
 
-	<string id="210" modelName="mask_hero" value="| Сіз олар туралы коп нэрсені білесіз бе?" sound="data\sounds\Speech\r1m2\r1m2_210_hero.ogg" time="2" />
+	<string id="210" modelName="mask_hero" value="| Сіз олар туралы кљп н‡рсені білесіз бе?" sound="data\sounds\Speech\r1m2\r1m2_210_hero.ogg" time="2" />
 
-	<string id="211" modelName="mask_lisa" modelSlot="1" value="FOX | Мен бyкіл элемде коп саяхаттаймын, мен жана тэсілдерді іздеп жyрмін ... Жана технологиялар. Мені kай жерде экелмесек." sound="data\sounds\Speech\r1m2\r1m2_211_lisa.ogg" time="6" />
+	<string id="211" modelName="mask_lisa" modelSlot="1" value="FOX | Мен бџкіл ‡лемде кљп саяхаттаймын, мен жаЏа т‡сілдерді іздеп жџрмін ... ЖаЏа технологиялар. Мені Ќай жерде ‡келмесек." sound="data\sounds\Speech\r1m2\r1m2_211_lisa.ogg" time="6" />
 
-	<string id="212" modelName="mask_hero" value="| Біраk мен олардын неге кінэсіз адамдарды олтіргендерін элі де тyсінбеймін?" sound="data\sounds\Speech\r1m2\r1m2_212_hero.ogg" time="3" />
+	<string id="212" modelName="mask_hero" value="| БіраЌ мен олардыЏ неге кін‡сіз адамдарды љлтіргендерін ‡лі де тџсінбеймін?" sound="data\sounds\Speech\r1m2\r1m2_212_hero.ogg" time="3" />
 
-	<string id="213" modelName="mask_lisa" modelSlot="1" value="FOX | Бyл kарапайым тактика. Олар бірнеше кyтпеген рейдтер жасайды. Дyрбелен халыk арасында басталfан кезде, олар пайда болады жэне олардын kорfалуын yсынады. Эрине, тегін емес." sound="data\sounds\Speech\r1m2\r1m2_213_lisa.ogg" time="10" />
+	<string id="213" modelName="mask_lisa" modelSlot="1" value="FOX | Бќл Ќарапайым тактика. Олар бірнеше кџтпеген рейдтер жасайды. ДџрбелеЏ халыЌ арасында басталЉан кезде, олар пайда болады ж‡не олардыЏ ЌорЉалуын ќсынады. †рине, тегін емес." sound="data\sounds\Speech\r1m2\r1m2_213_lisa.ogg" time="10" />
 
-	<string id="214" modelName="mask_hero" value="| Kандай негіздеме! Мен олардын лас табандарын отандарыма созуына жол бермеймін! Мен оларды бэрін олтіремін!" sound="data\sounds\Speech\r1m2\r1m2_214_hero.ogg" time="6" />
+	<string id="214" modelName="mask_hero" value="| Њандай негіздеме! Мен олардыЏ лас табандарын отандарыма созуына жол бермеймін! Мен оларды б‡рін љлтіремін!" sound="data\sounds\Speech\r1m2\r1m2_214_hero.ogg" time="6" />
 
-	<string id="215" modelName="mask_lisa" modelSlot="1" value="Тyлкі | ыстыk болманыз, осы бандиттердін арасында отбасыларын аштыkтан kyтkару yшін kызмет етуге барfандар бар. Мэжбyрлеп, kорkытkандар бар." sound="data\sounds\Speech\r1m2\r1m2_215_lisa.ogg" time="9" />
+	<string id="215" modelName="mask_lisa" modelSlot="1" value="Тџлкі | ыстыЌ болмаЏыз, осы бандиттердіЏ арасында отбасыларын аштыЌтан ЌќтЌару џшін Ќызмет етуге барЉандар бар. М‡жбџрлеп, ЌорЌытЌандар бар." sound="data\sounds\Speech\r1m2\r1m2_215_lisa.ogg" time="9" />
 
-	<string id="2150" modelName="mask_lisa" modelSlot="1" value="FOX | Шын мэнінде, тек бір адам шынымен кінэлі - Лидер, AXEL. Шынайы зyлымдыk империясы онын теміріне демалады. Егер сіз оны жойсаныз, kуатты кyш карточкалар yйі сияkты kyлайды." sound="data\sounds\Speech\r1m2\r1m2_2150_lisa.ogg" time="12" />
+	<string id="2150" modelName="mask_lisa" modelSlot="1" value="FOX | Шын м‡нінде, тек бір адам шынымен кін‡лі - Лидер, AXEL. Шынайы зќлымдыЌ империясы оныЏ теміріне демалады. Егер сіз оны жойсаЏыз, Ќуатты кџш карточкалар џйі сияЌты Ќќлайды." sound="data\sounds\Speech\r1m2\r1m2_2150_lisa.ogg" time="12" />
 
-	<string id="216" modelName="mask_hero" value="| Сіз дyрыс айтасыз, тапсырыс берген адам жауап беруі керек. AXEL женіл болады!" sound="data\sounds\Speech\r1m2\r1m2_216_hero.ogg" time="4" />
+	<string id="216" modelName="mask_hero" value="| Сіз дќрыс айтасыз, тапсырыс берген адам жауап беруі керек. AXEL жеЏіл болады!" sound="data\sounds\Speech\r1m2\r1m2_216_hero.ogg" time="4" />
 
-	<string id="217" modelName="mask_lisa" modelSlot="1" value="Тyлкі | бyл оте kиын, оfан жету оте kиын екенін білініз. Жэне сіз айла-амал сияkты kатты кyшке ие болуыныз керек." sound="data\sounds\Speech\r1m2\r1m2_217_lisa.ogg" time="7" />
+	<string id="217" modelName="mask_lisa" modelSlot="1" value="Тџлкі | бќл љте Ќиын, оЉан жету љте Ќиын екенін біліЏіз. Ж‡не сіз айла-амал сияЌты Ќатты кџшке ие болуыЏыз керек." sound="data\sounds\Speech\r1m2\r1m2_217_lisa.ogg" time="7" />
 
-	<string id="218" modelName="mask_hero" value="| Мен оны жене аламын. Тек батысkа kарай жyрініз." sound="data\sounds\Speech\r1m2\r1m2_218_hero.ogg" time="3" />
+	<string id="218" modelName="mask_hero" value="| Мен оны жеЏе аламын. Тек батысЌа Ќарай жџріЏіз." sound="data\sounds\Speech\r1m2\r1m2_218_hero.ogg" time="3" />
 
-	<string id="219" modelName="mask_lisa" modelSlot="1" value="FOX | Мен тек бір жолды білемін - таудын астында жyрген туннель. Одан асгардтан сyраныз. Kош болыныз!" sound="data\sounds\Speech\r1m2\r1m2_219_lisa.ogg" time="8" />
+	<string id="219" modelName="mask_lisa" modelSlot="1" value="FOX | Мен тек бір жолды білемін - таудыЏ астында жџрген туннель. Одан асгардтан сќраЏыз. Њош болыЏыз!" sound="data\sounds\Speech\r1m2\r1m2_219_lisa.ogg" time="8" />
 
-	<string id="220" modelName="mask_hero" value="| Kоштасу. Комегінізге рахмет." sound="data\sounds\Speech\r1m2\r1m2_220_hero.ogg" time="2" />
+	<string id="220" modelName="mask_hero" value="| Њоштасу. КљмегіЏізге рахмет." sound="data\sounds\Speech\r1m2\r1m2_220_hero.ogg" time="2" />
 
-	<string id="221" modelName="r1_man" modelSkin="1" modelCfg="62" modelSlot="1" value="Шешен | Yрыс басталады!" sound="data\sounds\Speech\r1m2\r1m2_221_arbiter.ogg" time="4" />
+	<string id="221" modelName="r1_man" modelSkin="1" modelCfg="62" modelSlot="1" value="Шешен | њрыс басталады!" sound="data\sounds\Speech\r1m2\r1m2_221_arbiter.ogg" time="4" />
 
-	<string id="222" modelName="r1_man" modelSkin="1" modelCfg="62" modelSlot="1" value="Оратор | Yрысты бастайыk!" sound="data\sounds\Speech\r1m2\r1m2_222_arbiter.ogg" time="4" />
+	<string id="222" modelName="r1_man" modelSkin="1" modelCfg="62" modelSlot="1" value="Оратор | њрысты бастайыЌ!" sound="data\sounds\Speech\r1m2\r1m2_222_arbiter.ogg" time="4" />
 
-	<string id="223" modelName="mask_hero" value="| Мен жендім! Менде kорытпа бар!" sound="data\sounds\Speech\r1m2\r1m2_223_hero.ogg" time="4" />
+	<string id="223" modelName="mask_hero" value="| Мен жеЏдім! Менде Ќорытпа бар!" sound="data\sounds\Speech\r1m2\r1m2_223_hero.ogg" time="4" />
 
-	<string id="224" modelName="mask_hero" value="| Женіс!" sound="data\sounds\Speech\r1m2\r1m2_224_hero.ogg" time="4" />
+	<string id="224" modelName="mask_hero" value="| ЖеЏіс!" sound="data\sounds\Speech\r1m2\r1m2_224_hero.ogg" time="4" />
 
-	<string id="666" value="Керуен жойылды. Сіз онын kауіпсіздігін kамтамасыз ете алмадыныз." numButtons="1" />
+	<string id="666" value="Керуен жойылды. Сіз оныЏ Ќауіпсіздігін Ќамтамасыз ете алмадыЏыз." numButtons="1" />
 
-	<string id="8801" value="Сіз бyл аймаkты kалдырfыныз келе ме?" numButtons="2" />
+	<string id="8801" value="Сіз бќл аймаЌты ЌалдырЉыЏыз келе ме?" numButtons="2" />
 
-	<string id="8802" modelName="mask_hero" sound="data\sounds\Speech\r3m1\r3m1_8802_hero.ogg" value="Мен бyл жолдын kайда апаратынын білмеймін, сондыkтан мен осында kаламын." time="3" />
+	<string id="8802" modelName="mask_hero" sound="data\sounds\Speech\r3m1\r3m1_8802_hero.ogg" value="Мен бќл жолдыЏ Ќайда апаратынын білмеймін, сондыЌтан мен осында Ќаламын." time="3" />
 
-	<string id="8803" modelName="mask_hero" sound="data\sounds\Speech\r3m1\r3m1_8803_hero.ogg" value="Кейбір оfаш орын. Бyл жерден болfан дyрыс." time="3" />
+	<string id="8803" modelName="mask_hero" sound="data\sounds\Speech\r3m1\r3m1_8803_hero.ogg" value="Кейбір оЉаш орын. Бќл жерден болЉан дќрыс." time="3" />
 </resource>

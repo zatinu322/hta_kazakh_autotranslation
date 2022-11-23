@@ -1,52 +1,52 @@
 <?xml version='1.0' encoding='windows-1251'?>
 <resource>
-	<string id="btnSaveCfg" value="Параметрлерді саkтаныз" />
+	<string id="btnSaveCfg" value="Параметрлерді саЌтаЏыз" />
 
-	<string id="btnCancel" value="Шыfу" />
+	<string id="btnCancel" value="ШыЉу" />
 
-	<string id="checkFullScreen" value="Толыk экран" />
+	<string id="checkFullScreen" value="ТолыЌ экран" />
 
-	<string id="staticResolution" value="Ажыратымдылыk жэне тyс терендігі" />
+	<string id="staticResolution" value="АжыратымдылыЌ ж‡не тџс тереЏдігі" />
 
 	<string id="staticPlatform" value="Бейне карта" />
 
-	<string id="staticScreenOptions" value="Экрандыk kондырfылар" />
+	<string id="staticScreenOptions" value="ЭкрандыЌ ЌондырЉылар" />
 
-	<string id="checkWaterReflections" value="Судаfы шаfылысу" />
+	<string id="checkWaterReflections" value="СудаЉы шаЉылысу" />
 
-	<string id="checkStaticShadows" value="Статикалыk коленкелер" />
+	<string id="checkStaticShadows" value="СтатикалыЌ кљлеЏкелер" />
 
-	<string id="checkDynamicShadows" value="Динамикалыk коленкелер" />
+	<string id="checkDynamicShadows" value="ДинамикалыЌ кљлеЏкелер" />
 
-	<string id="staticShadowQuality" value="Коленкелердін сапасы" />
+	<string id="staticShadowQuality" value="КљлеЏкелердіЏ сапасы" />
 
 	<string id="staticShadowLow" value="Аласа" />
 
 	<string id="staticShadowHigh" value="Биік" />
 
-	<string id="staticFardistNear" value="Жабыk" />
+	<string id="staticFardistNear" value="ЖабыЌ" />
 
-	<string id="staticFardistFar" value="Yзаk" />
+	<string id="staticFardistFar" value="њзаЌ" />
 
-	<string id="staticFarDist" value="Коріну диапазоны" />
+	<string id="staticFarDist" value="Кљріну диапазоны" />
 
-	<string id="staticShadowOptions" value="Коленкелер параметрлері" />
+	<string id="staticShadowOptions" value="КљлеЏкелер параметрлері" />
 
-	<string id="staticMiscOptions" value="Басkа параметрлер" />
+	<string id="staticMiscOptions" value="БасЌа параметрлер" />
 
-	<string id="staticEffects" value="Эсер" />
+	<string id="staticEffects" value="†сер" />
 
-	<string id="checkSoundEnable" value="Дыбыс kосылды" />
+	<string id="checkSoundEnable" value="Дыбыс Ќосылды" />
 
-	<string id="checkMusicEnable" value="Музыка kосулы" />
+	<string id="checkMusicEnable" value="Музыка Ќосулы" />
 
-	<string id="staticSoundOptions" value="Дыбыстыk kондырfылар" />
+	<string id="staticSoundOptions" value="ДыбыстыЌ ЌондырЉылар" />
 
-	<string id="staticMusicOptions" value="Музыкалыk kондырfылар" />
+	<string id="staticMusicOptions" value="МузыкалыЌ ЌондырЉылар" />
 
-	<string id="staticSoundVolume" value="Дыбыс денгейі" />
+	<string id="staticSoundVolume" value="Дыбыс деЏгейі" />
 
-	<string id="staticMusicVolume" value="Музыка колемі" />
+	<string id="staticMusicVolume" value="Музыка кљлемі" />
 
 	<string id="staticSoundLow" value="Аласа" />
 
@@ -60,15 +60,15 @@
 
 	<string id="staticMusicHigh" value="Биік" />
 
-	<string id="pageVideo" value="Вызшаk" />
+	<string id="pageVideo" value="ВызшаЌ" />
 
-	<string id="pageInGame" value="Эсер" />
+	<string id="pageInGame" value="†сер" />
 
 	<string id="pageAudio" value="Дыбыс" />
 
 	<string id="dlgMainCaption" value="Параметрлер" />
 
-	<string id="dlgSaveCaption" value="Дэлелдеу" />
+	<string id="dlgSaveCaption" value="Д‡лелдеу" />
 
-	<string id="dlgSaveText" value="Параметрлерді саkтайсыз ба?" />
+	<string id="dlgSaveText" value="Параметрлерді саЌтайсыз ба?" />
 </resource>

@@ -18,41 +18,41 @@
 
 	<string id="useless_gun_localizedform_1" value="Пайдасыз" />
 
-	<string id="rusty_cabin" value="Таптанfан" />
+	<string id="rusty_cabin" value="ТаптанЉан" />
 
-	<string id="rusty_cabin_localizedform_0" value="Таптанfан" />
+	<string id="rusty_cabin_localizedform_0" value="ТаптанЉан" />
 
-	<string id="rusty_cabin_localizedform_1" value="Таптанfан" />
+	<string id="rusty_cabin_localizedform_1" value="ТаптанЉан" />
 
-	<string id="rusty_basket" value="Таптанfан" />
+	<string id="rusty_basket" value="ТаптанЉан" />
 
-	<string id="rusty_basket_localizedform_0" value="Таптанfан" />
+	<string id="rusty_basket_localizedform_0" value="ТаптанЉан" />
 
-	<string id="rusty_basket_localizedform_1" value="Таптанfан" />
+	<string id="rusty_basket_localizedform_1" value="ТаптанЉан" />
 
-	<string id="rusty_gun" value="Таптанfан" />
+	<string id="rusty_gun" value="ТаптанЉан" />
 
-	<string id="rusty_gun_localizedform_0" value="Таптанfан" />
+	<string id="rusty_gun_localizedform_0" value="ТаптанЉан" />
 
-	<string id="rusty_gun_localizedform_1" value="Таптанfан" />
+	<string id="rusty_gun_localizedform_1" value="ТаптанЉан" />
 
 	<string id="excellent_cabin" value="Керемет" />
 
 	<string id="excellent_cabin_localizedform_0" value="Керемет" />
 
-	<string id="excellent_cabin_localizedform_1" value="Yздік" />
+	<string id="excellent_cabin_localizedform_1" value="ћздік" />
 
 	<string id="excellent_basket" value="Керемет" />
 
 	<string id="excellent_basket_localizedform_0" value="Керемет" />
 
-	<string id="excellent_basket_localizedform_1" value="Yздік" />
+	<string id="excellent_basket_localizedform_1" value="ћздік" />
 
 	<string id="excellent_gun" value="Керемет" />
 
 	<string id="excellent_gun_localizedform_0" value="Керемет" />
 
-	<string id="excellent_gun_localizedform_1" value="Yздік" />
+	<string id="excellent_gun_localizedform_1" value="ћздік" />
 
 	<string id="advanced_cabin" value="Озат" />
 
@@ -78,11 +78,11 @@
 
 	<string id="slow_gun_localizedform_1" value="Баяу" />
 
-	<string id="assault_gun" value="Жэбірлейтін" />
+	<string id="assault_gun" value="Ж‡бірлейтін" />
 
-	<string id="assault_gun_localizedform_0" value="Жэбірлейтін" />
+	<string id="assault_gun_localizedform_0" value="Ж‡бірлейтін" />
 
-	<string id="assault_gun_localizedform_1" value="Жэбірлейтін" />
+	<string id="assault_gun_localizedform_1" value="Ж‡бірлейтін" />
 
 	<string id="rapid_firing_gun" value="Жылдам -" />
 
@@ -100,13 +100,13 @@
 
 	<string id="deadly_gun_localizedform_0" value="Жазмыш" />
 
-	<string id="deadly_gun_localizedform_1" value="Олтіретін" />
+	<string id="deadly_gun_localizedform_1" value="ђлтіретін" />
 
-	<string id="destructive_gun" value="Жойfыш" />
+	<string id="destructive_gun" value="ЖойЉыш" />
 
-	<string id="destructive_gun_localizedform_0" value="Жойfыш" />
+	<string id="destructive_gun_localizedform_0" value="ЖойЉыш" />
 
-	<string id="destructive_gun_localizedform_1" value="Жойfыш" />
+	<string id="destructive_gun_localizedform_1" value="ЖойЉыш" />
 
 	<string id="with_truncated_barrel_gun" value="Кесілген магистральмен" />
 
@@ -114,105 +114,105 @@
 
 	<string id="with_truncated_barrel_gun_localizedform_1" value="Кесілген магистральмен" />
 
-	<string id="with_enlarged_barrel_gun" value="Yлкейтілген бошкемен" />
+	<string id="with_enlarged_barrel_gun" value="ћлкейтілген бљшкемен" />
 
-	<string id="with_enlarged_barrel_gun_localizedform_0" value="Yлкейтілген бошкемен" />
+	<string id="with_enlarged_barrel_gun_localizedform_0" value="ћлкейтілген бљшкемен" />
 
-	<string id="with_enlarged_barrel_gun_localizedform_1" value="Yлкейтілген бошкемен" />
+	<string id="with_enlarged_barrel_gun_localizedform_1" value="ћлкейтілген бљшкемен" />
 
-	<string id="with_long_barrel_gun" value="Yзын бошкемен" />
+	<string id="with_long_barrel_gun" value="њзын бљшкемен" />
 
-	<string id="with_long_barrel_gun_localizedform_0" value="Yзын бошкемен" />
+	<string id="with_long_barrel_gun_localizedform_0" value="њзын бљшкемен" />
 
-	<string id="with_long_barrel_gun_localizedform_1" value="Yзын бошкемен" />
+	<string id="with_long_barrel_gun_localizedform_1" value="њзын бљшкемен" />
 
-	<string id="without_cooling_gun" value="Салkындасыз" />
+	<string id="without_cooling_gun" value="СалЌындасыз" />
 
-	<string id="without_cooling_gun_localizedform_0" value="Салkындасыз" />
+	<string id="without_cooling_gun_localizedform_0" value="СалЌындасыз" />
 
-	<string id="without_cooling_gun_localizedform_1" value="Салkындасыз" />
+	<string id="without_cooling_gun_localizedform_1" value="СалЌындасыз" />
 
-	<string id="with_water_cooling_gun" value="Суды салkындату арkылы" />
+	<string id="with_water_cooling_gun" value="Суды салЌындату арЌылы" />
 
-	<string id="with_water_cooling_gun_localizedform_0" value="Суды салkындату арkылы" />
+	<string id="with_water_cooling_gun_localizedform_0" value="Суды салЌындату арЌылы" />
 
-	<string id="with_water_cooling_gun_localizedform_1" value="Суды салkындату арkылы" />
+	<string id="with_water_cooling_gun_localizedform_1" value="Суды салЌындату арЌылы" />
 
-	<string id="with_nitro_cooling_gun" value="Азотты салkындатумен" />
+	<string id="with_nitro_cooling_gun" value="Азотты салЌындатумен" />
 
-	<string id="with_nitro_cooling_gun_localizedform_0" value="Азотты салkындатумен" />
+	<string id="with_nitro_cooling_gun_localizedform_0" value="Азотты салЌындатумен" />
 
-	<string id="with_nitro_cooling_gun_localizedform_1" value="Азотты салkындатумен" />
+	<string id="with_nitro_cooling_gun_localizedform_1" value="Азотты салЌындатумен" />
 
-	<string id="without_sight_gun" value="Козсіз" />
+	<string id="without_sight_gun" value="Кљзсіз" />
 
-	<string id="without_sight_gun_localizedform_0" value="Козсіз" />
+	<string id="without_sight_gun_localizedform_0" value="Кљзсіз" />
 
-	<string id="without_sight_gun_localizedform_1" value="Козсіз" />
+	<string id="without_sight_gun_localizedform_1" value="Кљзсіз" />
 
-	<string id="with_laser_sight_gun" value="Лазерлік козбен" />
+	<string id="with_laser_sight_gun" value="Лазерлік кљзбен" />
 
-	<string id="with_laser_sight_gun_localizedform_0" value="Лазерлік козбен" />
+	<string id="with_laser_sight_gun_localizedform_0" value="Лазерлік кљзбен" />
 
-	<string id="with_laser_sight_gun_localizedform_1" value="Лазерлік козбен" />
+	<string id="with_laser_sight_gun_localizedform_1" value="Лазерлік кљзбен" />
 
-	<string id="with_electric_sight_gun" value="Электр kуатымен" />
+	<string id="with_electric_sight_gun" value="Электр Ќуатымен" />
 
-	<string id="with_electric_sight_gun_localizedform_0" value="Электр kуатымен" />
+	<string id="with_electric_sight_gun_localizedform_0" value="Электр Ќуатымен" />
 
-	<string id="with_electric_sight_gun_localizedform_1" value="Электр kуатымен" />
+	<string id="with_electric_sight_gun_localizedform_1" value="Электр Ќуатымен" />
 
-	<string id="useless_cabin_diz" value="Таксиде суытылfан | Kару-жараk -10% -15% | Максималды жылдамдыk -10% -15% -15% | Kуат -10% -15%" />
+	<string id="useless_cabin_diz" value="Таксиде суытылЉан | Њару-жараЌ -10% -15% | Максималды жылдамдыЌ -10% -15% -15% | Њуат -10% -15%" />
 
-	<string id="rusty_cabin_diz" value="Таксиде суытылfан | Kару-жараk -5% -7% | Максималды жылдамдыk -5% -7% -7% | Kуат -5% -7%" />
+	<string id="rusty_cabin_diz" value="Таксиде суытылЉан | Њару-жараЌ -5% -7% | Максималды жылдамдыЌ -5% -7% -7% | Њуат -5% -7%" />
 
-	<string id="excellent_cabin_diz" value="Таксиде суытылfан | Kyрыш + 5% + 7% | Максималды жылдамдыk + 5% + 7% | Kуат + 5% + 7%" />
+	<string id="excellent_cabin_diz" value="Таксиде суытылЉан | Њќрыш + 5% + 7% | Максималды жылдамдыЌ + 5% + 7% | Њуат + 5% + 7%" />
 
-	<string id="advanced_cabin_diz" value="Таксиде суытылfан | Kyрыш + 10% + 15% | Максималды жылдамдыk + 10% + 15% | Kуат + 10% + 15%" />
+	<string id="advanced_cabin_diz" value="Таксиде суытылЉан | Њќрыш + 10% + 15% | Максималды жылдамдыЌ + 10% + 15% | Њуат + 10% + 15%" />
 
-	<string id="useless_basket_diz" value="Денеде суытылfан | Kару-жараk -10% -15%" />
+	<string id="useless_basket_diz" value="Денеде суытылЉан | Њару-жараЌ -10% -15%" />
 
-	<string id="rusty_basket_diz" value="Денеде суытылfан | Kару-жараk -5% -7%" />
+	<string id="rusty_basket_diz" value="Денеде суытылЉан | Њару-жараЌ -5% -7%" />
 
-	<string id="excellent_basket_diz" value="Денеде суытылfан | Kyрыш + 5% + 7%" />
+	<string id="excellent_basket_diz" value="Денеде суытылЉан | Њќрыш + 5% + 7%" />
 
-	<string id="advanced_basket_diz" value="Денеде суытылfан | Kyрыш + 10% + 15%" />
+	<string id="advanced_basket_diz" value="Денеде суытылЉан | Њќрыш + 10% + 15%" />
 
-	<string id="useless_gun_diz" value="Kару-жараkkа арналfан | Кyш -10% -15% | Заkымдану -10% -15% | Нэттілік -10% -15%" />
+	<string id="useless_gun_diz" value="Њару-жараЌЌа арналЉан | Кџш -10% -15% | ЗаЌымдану -10% -15% | Н‡ттілік -10% -15%" />
 
-	<string id="rusty_gun_diz" value="Kару-жараkkа арналfан | Кyш -5% -7% | Заkымдану -5% -7% | Дэлдік -5% -7%" />
+	<string id="rusty_gun_diz" value="Њару-жараЌЌа арналЉан | Кџш -5% -7% | ЗаЌымдану -5% -7% | Д‡лдік -5% -7%" />
 
-	<string id="excellent_gun_diz" value="Kару-жараkkа арналfан | Кyш + 5% + 7% | Заkым + 5% + 7% | Наkтылыk + 5% + 7%" />
+	<string id="excellent_gun_diz" value="Њару-жараЌЌа арналЉан | Кџш + 5% + 7% | ЗаЌым + 5% + 7% | НаЌтылыЌ + 5% + 7%" />
 
-	<string id="advanced_gun_diz" value="Kару-жараkkа арналfан | Кyш + 10% + 15% | Заkым + 10% + 15% | Наkтылыk + 10% + 15%" />
+	<string id="advanced_gun_diz" value="Њару-жараЌЌа арналЉан | Кџш + 10% + 15% | ЗаЌым + 10% + 15% | НаЌтылыЌ + 10% + 15%" />
 
-	<string id="slow_gun_diz" value="Kару-жараkkа арналfан | Орт денгейі -5% -7%" />
+	<string id="slow_gun_diz" value="Њару-жараЌЌа арналЉан | ђрт деЏгейі -5% -7%" />
 
-	<string id="assault_gun_diz" value="Kару-жараkkа арналfан | Орттін молшері + 5% + 7%" />
+	<string id="assault_gun_diz" value="Њару-жараЌЌа арналЉан | ђрттіЏ мљлшері + 5% + 7%" />
 
-	<string id="rapid_firing_gun_diz" value="Kару-жараkkа арналfан | Орттін молшері + 10% + 15%" />
+	<string id="rapid_firing_gun_diz" value="Њару-жараЌЌа арналЉан | ђрттіЏ мљлшері + 10% + 15%" />
 
-	<string id="weak_gun_diz" value="Kару-жараkkа арналfан | Заkымдау -5% -7%" />
+	<string id="weak_gun_diz" value="Њару-жараЌЌа арналЉан | ЗаЌымдау -5% -7%" />
 
-	<string id="deadly_gun_diz" value="Kару-жараkkа арналfан | Заkым + 5% + 7%" />
+	<string id="deadly_gun_diz" value="Њару-жараЌЌа арналЉан | ЗаЌым + 5% + 7%" />
 
-	<string id="destructive_gun_diz" value="Kару-жараkkа арналfан | Заkым + 10% + 15%" />
+	<string id="destructive_gun_diz" value="Њару-жараЌЌа арналЉан | ЗаЌым + 10% + 15%" />
 
-	<string id="with_truncated_barrel_gun_diz" value="Kару-жараkkа арналfан | Атыс ауkымы -5% -7%" />
+	<string id="with_truncated_barrel_gun_diz" value="Њару-жараЌЌа арналЉан | Атыс ауЌымы -5% -7%" />
 
-	<string id="with_enlarged_barrel_gun_diz" value="Kару-жараkkа арналfан | Атыс ауkымы + 5% + 7%" />
+	<string id="with_enlarged_barrel_gun_diz" value="Њару-жараЌЌа арналЉан | Атыс ауЌымы + 5% + 7%" />
 
-	<string id="with_long_barrel_gun_diz" value="Kару-жараkkа арналfан | Атыс ауkымы + 10% + 15%" />
+	<string id="with_long_barrel_gun_diz" value="Њару-жараЌЌа арналЉан | Атыс ауЌымы + 10% + 15%" />
 
-	<string id="without_cooling_gun_diz" value="Kару-жараkkа арналfан | Kайта жyктеу уаkыты + 5% + 7%" />
+	<string id="without_cooling_gun_diz" value="Њару-жараЌЌа арналЉан | Њайта жџктеу уаЌыты + 5% + 7%" />
 
-	<string id="with_water_cooling_gun_diz" value="Kару-жараkkа арналfан | Уаkытты kайта kосу -5% -7%" />
+	<string id="with_water_cooling_gun_diz" value="Њару-жараЌЌа арналЉан | УаЌытты Ќайта Ќосу -5% -7%" />
 
-	<string id="with_nitro_cooling_gun_diz" value="Kару-жараkkа арналfан | Уаkытты kайта жyктеу -10% -15%" />
+	<string id="with_nitro_cooling_gun_diz" value="Њару-жараЌЌа арналЉан | УаЌытты Ќайта жџктеу -10% -15%" />
 
-	<string id="without_sight_gun_diz" value="Kару-жараkkа арналfан | Дэлдік -5% -7%" />
+	<string id="without_sight_gun_diz" value="Њару-жараЌЌа арналЉан | Д‡лдік -5% -7%" />
 
-	<string id="with_laser_sight_gun_diz" value="Kару-жараkkа арналfан | Наkтылыk + 5% + 7%" />
+	<string id="with_laser_sight_gun_diz" value="Њару-жараЌЌа арналЉан | НаЌтылыЌ + 5% + 7%" />
 
-	<string id="with_electric_sight_gun_diz" value="Kару-жараkkа арналfан | Наkтылыk + 10% + 15%" />
+	<string id="with_electric_sight_gun_diz" value="Њару-жараЌЌа арналЉан | НаЌтылыЌ + 10% + 15%" />
 </resource>

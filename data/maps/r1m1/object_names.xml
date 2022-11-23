@@ -1,34 +1,34 @@
 <?xml version='1.0' encoding='windows-1251'?>
 <ObjectNames>
-	<Object Name="TheTown" FullName="Онтyстік" />
+	<Object Name="TheTown" FullName="ОЏтџстік" />
 
 	<Object Name="TheTown_Workshop" FullName="Гараж" />
 
 	<Object Name="TheTown_Shop" FullName="Гол" />
 
-	<Object Name="TheTown_Bar" FullName="Бар «« Yрпаk »" />
+	<Object Name="TheTown_Bar" FullName="Бар «« њрпаЌ »" />
 
-	<Object Name="TheTown_Bar_Barman" FullName="Бартеннін эйелі" />
+	<Object Name="TheTown_Bar_Barman" FullName="БартенніЏ ‡йелі" />
 
 	<Object Name="HurdTrucker" FullName="Бартен Дронн" />
 
-	<Object Name="Buyer" FullName="Копес серго" />
+	<Object Name="Buyer" FullName="Кљпес серго" />
 
 	<Object Name="WorkGiver" FullName="Фермер Дик" />
 
 	<Object Name="WorkGiver1" FullName="Фермер Дик" />
 
-	<Object Name="Lisa" FullName="Тyлкі" />
+	<Object Name="Lisa" FullName="Тџлкі" />
 
-	<Object Name="TheGloohoe" FullName="Санырау" />
+	<Object Name="TheGloohoe" FullName="СаЏырау" />
 
 	<Object Name="TheGloohoe_Workshop" FullName="Шеберхана" />
 
 	<Object Name="TheGloohoe_Shop" FullName="Супермаркет" />
 
-	<Object Name="TheGloohoe_House" FullName="yй" />
+	<Object Name="TheGloohoe_House" FullName="џй" />
 
-	<Object Name="Father" FullName="Эке" />
+	<Object Name="Father" FullName="†ке" />
 
 	<Object Name="TheOilVillage" FullName="Негіз" />
 
@@ -52,33 +52,33 @@
 
 	<Object Name="TheContraVillage_Bar_Barman" FullName="Бармен Wi" />
 
-	<Object Name="TheFreedom" FullName="Yштік" />
+	<Object Name="TheFreedom" FullName="ћштік" />
 
 	<Object Name="TheFreedom_Workshop" FullName="Шеберхана" />
 
 	<Object Name="TheFreedom_Shop" FullName="Гол" />
 
-	<Object Name="TheFreedom_Bar" FullName="Крабтын тyскі асынын ''" />
+	<Object Name="TheFreedom_Bar" FullName="КрабтыЏ тџскі асыныЏ ''" />
 
 	<Object Name="TheFreedom_Bar_Barman" FullName="Бармен Руха" />
 
-	<Object Name="CS" FullName="Революциялыk ed" />
+	<Object Name="CS" FullName="РеволюциялыЌ ed" />
 
 	<Object Name="Botanik" FullName="Ботаник Лукк" />
 
-	<Object Name="Medik" FullName="Кездейсоk вова" />
+	<Object Name="Medik" FullName="КездейсоЌ вова" />
 
 	<Object Name="Oldsolder" FullName="Ескі сарбаз" />
 
-	<Object Name="PetrolStationTown1" FullName="Жанжал kою" />
+	<Object Name="PetrolStationTown1" FullName="Жанжал Ќою" />
 
 	<Object Name="PetrolStationTown1_Workshop" FullName="Шеберхана" />
 
-	<Object Name="PetrolStationTown2" FullName="Жанжал kою" />
+	<Object Name="PetrolStationTown2" FullName="Жанжал Ќою" />
 
 	<Object Name="PetrolStationTown2_Workshop" FullName="Шеберхана" />
 
-	<Object Name="PetrolStationTown3" FullName="Жанжал kою" />
+	<Object Name="PetrolStationTown3" FullName="Жанжал Ќою" />
 
 	<Object Name="PetrolStationTown3_Workshop" FullName="Шеберхана" />
 
@@ -86,13 +86,13 @@
 
 	<Object Name="ToR1M3" FullName="Ферлендке жол" />
 
-	<Object Name="ToR4M1" FullName="Вахатkа апаратын жол" />
+	<Object Name="ToR4M1" FullName="ВахатЌа апаратын жол" />
 
 	<Object Name="TheContraVillage_defend" FullName="Гугулино" />
 
-	<Object Name="TheTown_enter" FullName="Онтyстік" />
+	<Object Name="TheTown_enter" FullName="ОЏтџстік" />
 
-	<Object Name="TheFreedom_enter" FullName="Yштік" />
+	<Object Name="TheFreedom_enter" FullName="ћштік" />
 
 	<Object Name="TheOilVillage_enter" FullName="Негіз" />
 
@@ -110,7 +110,7 @@
 
 	<Object Name="u7" FullName="Биг Бен" />
 
-	<Object Name="u8" FullName="Эзірлеу" />
+	<Object Name="u8" FullName="†зірлеу" />
 
-	<Object Name="u9" FullName="Бyлсіз" />
+	<Object Name="u9" FullName="Бџлсіз" />
 </ObjectNames>

@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='windows-1251'?>
 <resource>
-	<string id="1" modelName="mask_father" modelSlot="1" value="†кесі | оянды, Лежебока! - Бір саЉат бойы мен сіздерді љте маЏызды деп айтуды кџттім, ж‡не сіз таЉы да суарсыз ќйыЌтап жатырсыз ..." sound="data\sounds\Speech\r1m1\r1m1_1_father.ogg" time="11" />
+	<string id="1" modelName="mask_father" modelSlot="1" value="†кесі | оянды, Лежебока! Бір саЉат ішінде мен сіздерді љте маЏызды деп айтуды кџттім, ж‡не сіз таЉы да мармот сияЌты ќйыЌтап жатырсыз ..." sound="data\sounds\Speech\r1m1\r1m1_1_father.ogg" time="11" />
 
-	<string id="2" modelName="mask_hero" value="| Ж‡не сіз Ќайырлы таЏсыз. Неге жџйкесіЏ?" sound="data\sounds\Speech\r1m1\r1m1_2_hero.ogg" time="3" />
+	<string id="2" modelName="mask_hero" value="| Ж‡не сізге Ќайырлы таЏ. Неге жџйкесіЏ?" sound="data\sounds\Speech\r1m1\r1m1_2_hero.ogg" time="3" />
 
 	<string id="3" modelName="mask_father" modelSlot="1" value="†кесі | жарайды, салЌын. Бќл сияЌты. Бџгін сіздіЏ љміріЏіздегі џлкен кџн. Сіз маЉан ‡рЌашан адал кљмек кљрсетіп, менен кљп н‡рсе білдіЏіз ... Жалпы, мен сіздіЏ жасыЏыздаЉы уаЌыт келді деп шештім." sound="data\sounds\Speech\r1m1\r1m1_3_father.ogg" time="17" />
 
@@ -12,15 +12,15 @@
 
 	<string id="41" modelName="mask_hero" value="| Деп айтЌым келді, кљп рахмет, мен џшін сенім артуЉа тырысамын, мырза!" sound="data\sounds\Speech\r1m1\r1m1_41_hero.ogg" time="6" />
 
-	<string id="5" modelName="mask_father" modelSlot="1" value="†кесі | сен енді сендер, ал мен саЉан кљп н‡рсе айтуым керек ..." sound="data\sounds\Speech\r1m1\r1m1_5_father.ogg" time="5" />
+	<string id="5" modelName="mask_father" modelSlot="1" value="†кесі | ТаЉы да сен Ќатып ЌалсыЏ, біраЌ маЉан кљп айтуым керек ..." sound="data\sounds\Speech\r1m1\r1m1_5_father.ogg" time="5" />
 
 	<string id="6" modelName="mask_hero" value="| Не, д‡л Ќазір мен отыра аламын ж‡не мен ЌалаЉан жерге бара аламын ба?" sound="data\sounds\Speech\r1m1\r1m1_6_hero.ogg" time="4" />
 
 	<string id="7" modelName="mask_father" modelSlot="1" value="†кесі | ЖаЌсы, егер сіз доЏЉалаЌты артта ЌалуЉа асыЉыЏыз, содан кейін оЏтџстікке љтіп, осы пакеттен љтіЏіз. Ал сіз келгенге дейін сљйлесуді кейінге Ќалдырамыз." sound="data\sounds\Speech\r1m1\r1m1_7_father.ogg" time="12" />
 
-	<string id="8" modelName="mask_hero" value="| Урра !!! Мен лезде тќрмын! Бол, Ќарт адам бол." sound="data\sounds\Speech\r1m1\r1m1_8_hero.ogg" time="4" />
+	<string id="8" modelName="mask_hero" value="| Ur-ra! Мен лезде тќрмын! Бол, Ќарт адам бол." sound="data\sounds\Speech\r1m1\r1m1_8_hero.ogg" time="4" />
 
-	<string id="1111" modelName="mask_lisa" modelSlot="1" value="FOX | Мен љз бизнесімді бітіргенше осында кџтіЏіз." sound="data\sounds\Speech\r1m1\r1m1_1111_lisa.ogg" time="3" />
+	<string id="1111" modelName="mask_lisa" modelSlot="1" value="Fox | мына жерде кџтіЏіз, ал мен љз бизнесімді аяЌтаймын." sound="data\sounds\Speech\r1m1\r1m1_1111_lisa.ogg" time="3" />
 
 	<string id="1112" modelName="mask_lisa" modelSlot="1" value="FOX | Дайын. †рі Ќарай жџрейік." sound="data\sounds\Speech\r1m1\r1m1_1112_lisa.ogg" time="3" />
 
@@ -30,7 +30,7 @@
 
 	<string id="1123" modelName="mask_lisa" modelSlot="1" value="Тџлкі | Сіз мені осында алдыЏыз ба? Ол жерге Ќалай жетуге болады?" sound="data\sounds\Speech\r1m1\r1m1_1123_lisa.ogg" time="4" />
 
-	<string id="1124" modelName="mask_hero" value="| Шын м‡нінде, бќл бќрыштан солтџстікке Ќарай, љте жаЌын, біраЌ жол жоЌ. Бізге ОЏтџстікке љтуіміз керек ..." sound="data\sounds\Speech\r1m1\r1m1_1124_hero.ogg" time="7" />
+	<string id="1124" modelName="mask_hero" value="| Шын м‡нінде, бќл жерден солтџстікке Ќарай, жаЌын, љте жаЌын, біраЌ жол жоЌ. Бізге ОЏтџстікке љтуіміз керек ..." sound="data\sounds\Speech\r1m1\r1m1_1124_hero.ogg" time="7" />
 
 	<string id="1125" modelName="mask_lisa" modelSlot="1" value="FOX | Мќнда біздіЏ жолдарымыз дивержы: Мені ЌќлаЉаннан кейін мені сџйретуден шаршадым. Сонымен Ќатар, сіз џшін жол жоЌ жерде меніЏ кљлігім жеЏілірек болады. Сіз транзакцияныЏ бір бљлігін орындадыЏыз. АЌшаЏызды ќстаЏыз." sound="data\sounds\Speech\r1m1\r1m1_1125_lisa.ogg" time="11" />
 
@@ -40,7 +40,7 @@
 
 	<string id="1132" modelName="mask_hero" value="| И‡, сен не істейсіЏ? Мен мќндай аЌшаны Ќайдан алдым? Ал сен кімсіЏ?" sound="data\sounds\Speech\r1m1\r1m1_1132_hero.ogg" time="5" />
 
-	<string id="1133" modelName="r1_man" modelSkin="0" modelCfg="172" modelSlot="1" value="Bandit Felix | Сізді моральдыЌ заЌымдану џшін љтеу џшін автомобильді ЌосалЌы бљлшектерге сатуыЏыз керек. Оны ќр!" sound="data\sounds\Speech\r1m1\r1m1_1133_felix.ogg" time="7" />
+	<string id="1133" modelName="r1_man" modelSkin="0" modelCfg="172" modelSlot="1" value="Bandit Felix | Сізді моральдыЌ заЌымдану џшін бізді ЌосалЌы бљлшектерге сатуЉа тура келеді. Оны ќр!" sound="data\sounds\Speech\r1m1\r1m1_1133_felix.ogg" time="7" />
 
 	<string id="1134" modelName="r1_man" modelSkin="0" modelCfg="172" modelSlot="1" value="Bandit Felix | Біз кездесеміз, кџшік! МеніЏ сљздерімді есте саЌтаЏыз, сіз Felix-ке хабарласЌаныЏыз џшін љкінесіз! Біз кетіп жатырмыз!" sound="data\sounds\Speech\r1m1\r1m1_1134_felix.ogg" time="8" />
 
@@ -48,9 +48,9 @@
 
 	<string id="1142" modelName="mask_hero" value="| ..." sound="data\sounds\Speech\r1m1\r1m1_1142_hero.ogg" time="1" />
 
-	<string id="1143" modelName="mask_hero" value="| Олар џшін бір Љана н‡рсені істей аламын: кек алыЏыз! Кім љлтірушіні жасырмайды, мен оны жердіЏ шетінде де табамын! Мен жоямын! Сіз естисіз, мен сізді табамын!" sound="data\sounds\Speech\r1m1\r1m1_1143_hero.ogg" time="13" />
+	<string id="1143" modelName="mask_hero" value="| Олар џшін бір Љана н‡рсені істей аламын: кек алыЏыз! Киллер жасырса да, мен оны жердіЏ шетінде де табамын! Мен жоямын! Сіз естисіз, мен сізді табамын!" sound="data\sounds\Speech\r1m1\r1m1_1143_hero.ogg" time="13" />
 
-	<string id="1144" modelName="mask_hero" value="| Феликс Дружков жиналса ж‡не ЌорЉансыз ауылЉа шабуыл жасаса ше? Олай болса, ол љмір сџре алмайды! Бќл оЏтџстік жолаЌта болады. Онда мен іздеуді бастаймын." sound="data\sounds\Speech\r1m1\r1m1_1144_hero.ogg" time="11" />
+	<string id="1144" modelName="mask_hero" value="| Феликс Дружков жиналса ж‡не ЌорЉансыз ауылЉа шабуыл жасаса ше? Олай болса, ол љмір сџрмейді! Бќл оЏтџстік жолаЌта болады. Онда мен іздеуді бастаймын." sound="data\sounds\Speech\r1m1\r1m1_1144_hero.ogg" time="11" />
 
 	<string id="1151" modelName="mask_hero" value="| Мен ‡кемніЏ љліміне кек аламын!" sound="data\sounds\Speech\r1m1\r1m1_1151_hero.ogg" time="3" />
 
@@ -58,7 +58,7 @@
 
 	<string id="1153" modelName="mask_hero" value="| Бќл сізде бар ма? Адал шайЌас џшін шыЉыЏыз!" sound="data\sounds\Speech\r1m1\r1m1_1153_hero.ogg" time="5" />
 
-	<string id="11540" modelName="r1_man" modelSkin="0" modelCfg="172" modelSlot="1" value="Bandit Felix | Ал жігіт Ќате емес ... Ол мќндай Ќаруды Ќайдан алды? Жарайды, егер сіз жаЌсы н‡рсе жасаЉыЏыз келсе, оны љзіЏіз жасаЏыз. Санау." sound="data\sounds\Speech\r1m1\r1m1_1154_felix.ogg" time="10" />
+	<string id="11540" modelName="r1_man" modelSkin="0" modelCfg="172" modelSlot="1" value="Bandit Felix | Ал жігіт Ќате емес ... Ол мќндай Ќаруды Ќайдан алды? Жарайды, егер сіз жаЌсы н‡рсе жасаЉыЏыз келсе - оны љзіЏіз жасаЏыз. Санау." sound="data\sounds\Speech\r1m1\r1m1_1154_felix.ogg" time="10" />
 
 	<string id="1155" modelName="mask_hero" value="| Енді сіз љзіЏіз џшін љлесіз!" sound="data\sounds\Speech\r1m1\r1m1_1155_hero.ogg" time="3" />
 
@@ -66,7 +66,7 @@
 
 	<string id="1157" modelName="mask_hero" value="| Тек сізде тек бџкіл ауылды жаЉу џшін жеткілікті кџш пен менмендік болар еді!" sound="data\sounds\Speech\r1m1\r1m1_1157_hero.ogg" time="5" />
 
-	<string id="1158" modelName="r1_man" modelSkin="0" modelCfg="172" modelSlot="1" value="Bandit Felix | сіз саЏыраусызсыз! МаЉан сеніЏіз, бќлар біз емес, кљрші аудандардан Ќандай да бір гастрольдік сапар!" sound="data\sounds\Speech\r1m1\r1m1_1158_felix.ogg" time="8" />
+	<string id="1158" modelName="r1_man" modelSkin="0" modelCfg="172" modelSlot="1" value="Bandit Felix | сіз саЏыраусызсыз! МаЉан сеніЏіз, бќлар біз емес, кейбір кљрші аудандардан келген ЌонаЌ џй!" sound="data\sounds\Speech\r1m1\r1m1_1158_felix.ogg" time="8" />
 
 	<string id="1159" modelName="mask_hero" value="| Сен љтірік айтасыЏ!" sound="data\sounds\Speech\r1m1\r1m1_1159_hero.ogg" time="1" />
 
@@ -88,15 +88,15 @@
 
 	<string id="33331" modelName="mask_hero" value="| О, Њќдай, †кесі! Мќнда не болды? Ол кім жасады?" sound="data\sounds\Speech\r1m1\r1m1_33331_hero.ogg" time="6" />
 
-	<string id="33332" modelName="mask_father" modelSlot="1" value="†кесі | МќЌият тыЏдаЏыз. Сен меніЏ асырап алушы кџйеусыЏ. Алый, наЉыз ‡кеніЏ заттары. Бен жіптерін табыЏыз. Ол зерттеуші. Ол кљмектеседі ... ќл ... жеккљрушілік бермеЏіз ... СІЗДІЋ ђЗІЋІЗДІЋ ђЗІЋІЗДІЋ ђЗІЋІЗДІЋ ЖОЊ ... Шу ...!" sound="data\sounds\Speech\r1m1\r1m1_33332_father.ogg" time="30" />
+	<string id="33332" modelName="mask_father" modelSlot="1" value="†кесі | МќЌият тыЏдаЏыз. Сен меніЏ асырап алушы кџйеусыЏ. Ал, ал бќлар сіздіЏ наЉыз ‡кеніЏ заттары. Бен жіптерін табыЏыз. Ол зерттеуші. Ол кљмектеседі ... ќл ... жек кљрушілікке бермеЏіз ... Жанды уланбаЏыз ..." sound="data\sounds\Speech\r1m1\r1m1_33332_father.ogg" time="30" />
 
 	<string id="33333" modelName="mask_hero" value="| МеніЏ љмірім ... Келесі мен не істеуім керек? ђйткені, менде ешкім Ќалды ... ж‡не ештеЏе жоЌ ... Тек бќл хат ..." sound="data\sounds\Speech\r1m1\r1m1_33333_hero.ogg" time="10" />
 
-	<string id="33334" modelAutosized="true" modelName="quest_letter" modelSlot="1" value="Хат | «... ќл, егер сіз осы хатты оЌыЉан болсаЏыз, онда сіз оны Ќайтара алмасаЏыз да, мен љзіЏіз-љзіЏізді љзіЏізден шыЉара алмадым. Мен сізді осы тапсырманы љте жаЌсы Ќарсы алЉанын білемін. Мен сені, соншалыЌты жас ж‡не кџш-Ќуат беремін, жџрегім дџрбелеЏ Кљз жас ... »" sound="data\sounds\Speech\r1m1\r1m1_33334_letter.ogg" time="16" />
+	<string id="33334" modelAutosized="true" modelName="quest_letter" modelSlot="1" value="Хат |&quot;...Балам, сен осы хатты оЌып отырсаЏ, мен сені љзім љсіре алмадым деген сљз. Мен ПетрдіЏ бќл тапсырманы тамаша орындаЉанын білемін. Мен сені кљріп тќрмын, соншалыЌты жас ж‡не кџшке толы, жџрегім кљз жасын тљгіп жатыр ...&quot;" sound="data\sounds\Speech\r1m1\r1m1_33334_letter.ogg" time="16" />
 
-	<string id="33335" modelAutosized="true" modelName="quest_letter" modelSlot="1" value="Хат | «...« Мен љскен кезде жаЌын емеспін." sound="data\sounds\Speech\r1m1\r1m1_33335_letter.ogg" time="12" />
+	<string id="33335" modelAutosized="true" modelName="quest_letter" modelSlot="1" value="Хат |&quot;...Сен љскенде Ќасында болмаЉаныма љзімді кін‡лаймын. Ж‡не бќл меніЏ ЌорЌынышты жазам. БіраЌ басЌаша істей алмайтынымды біліЏіз. МеніЏ љмірлік жќмысым алда...&quot;" sound="data\sounds\Speech\r1m1\r1m1_33335_letter.ogg" time="12" />
 
-	<string id="33336" modelAutosized="true" modelName="quest_letter" modelSlot="1" value="Хаты | ... «Жоспарды Љана аяЌтаЉаннан кейін Љана адам, егер ол болмаса, мен љзімді таЉы да сезінемін. ‡рЌашан меніЏ жџрегімде, ќлым »." sound="data\sounds\Speech\r1m1\r1m1_33336_letter.ogg" time="16" />
+	<string id="33336" modelAutosized="true" modelName="quest_letter" modelSlot="1" value="Хаты |&quot;...Жоспарымды аяЌтаЉаннан кейін Љана мен љзімді Ќайтадан ер адамдай сезінемін. Олай болмаса... онда мен љмір сџруге лайыЌ емеспін. Бќл хат кешірім. ЊолыЏнан келсе кешір. Сен меніЏ жџрегімдесіЏ, балам.&quot;" sound="data\sounds\Speech\r1m1\r1m1_33336_letter.ogg" time="16" />
 
 	<string id="33337" modelName="mask_hero" value="| Бќл б‡рі ме? Тџсініктеме жоЌ ... Мен ешЌашан білмейтін адамды Ќалай кешіруге болады? Мќнда бќдан артыЌ ештеЏе жоЌ. Мен Бен іздеуге барамын. Кімде болса, мен ол маЉан љзімді табуЉа кљмектеседі деп џміттенемін. Мџмкін, сіз ол туралы естідіЏіз бе?" sound="data\sounds\Speech\r1m1\r1m1_33337_hero.ogg" time="16" />
 
@@ -108,7 +108,7 @@
 
 	<string id="8803" modelName="mask_hero" sound="data\sounds\Speech\r3m1\r3m1_8803_hero.ogg" value="Кейбір оЉаш орын. Бќл жерден болЉан дќрыс." time="3" />
 
-	<string id="77771" msgType="SCROLL" image="data\if\ico\CinemaPanel\foreground_movie_shade_midle.dds" upOverlay="data\if\ico\CinemaPanel\foreground_movie_shade_up.dds" downOverlay="data\if\ico\CinemaPanel\foreground_movie_shade.dds" value="@Ffffffff | Тарих апаттан кейін бірден орын алЉан ЌараЏЉы уаЌыт туралы наЌты аЌпаратты саЌтамады. ЊорЉаныс маскаларыныЏ арЌасында адамдар уланЉан ауада аман ЌалЉанына белгілі. Бќл белгісіз љнертапЌыш Ќќру б‡рін теЏестірді. ЖіЏішке кедергі, ол жаЌында љлім жолында тќрЉан, жаЏа адамзаттыЏ символына айналды. Маскалар жиналып, оларЉа кџн астындаЉы жер џшін кџресуге кџш берді. || ЖаЏа елді мекендер жаппай Ќабірге айналЉан бќрынЉы Ќалалардан алшаЌ болды. Біртіндеп, аман ЌалЉандардыЏ шашыраЏЌы топтары арасындаЉы байланыс орнатылды. Фермерлер, шахтерлер, саудагерлер - Ќарапайым сабаЌтарЉа оралу тек ЌайЉылы адамдардан пайда кљрді. || БіраЌ адам ‡рдайым ер адам болып Ќала береді. ‰асырлардыЏ даналыЉын ‡леммен бљлісу џшін Љасырлар бойы саЌтап Ќалды. Жоюды жљн кљретіндер болды." sound="data\sounds\Speech\rolik\r1m1_969_narrator.ogg" fontSize="18" scrollSpeed="0.5" time="68" />
+	<string id="77771" msgType="SCROLL" image="data\if\ico\CinemaPanel\foreground_movie_shade_midle.dds" upOverlay="data\if\ico\CinemaPanel\foreground_movie_shade_up.dds" downOverlay="data\if\ico\CinemaPanel\foreground_movie_shade.dds" value="@Ffffffff | Тарих апаттан кейін бірден келген ЌараЏЉы уаЌыт туралы наЌты аЌпаратты саЌтамады. ЊорЉаныс маскаларыныЏ арЌасында адамдар уланЉан ауада аман ЌалЉанына белгілі. Бќл белгісіз љнертапЌыш Ќќру б‡рін теЏестірді. ЖіЏішке кедергі, ол жаЌында љлім жолында тќрЉан, жаЏа адамзаттыЏ символына айналды. Маскалар жиналып, оларЉа кџн астындаЉы жер џшін кџресуге кџш берді. || ЖаЏа елді мекендер жаппай Ќабірге айналЉан бќрынЉы Ќалалардан алшаЌ болды. Біртіндеп, аман ЌалЉандардыЏ шашыраЏЌы топтары арасындаЉы байланыс орнатылды. Фермерлер, шахтерлер, саудагерлер - Ќарапайым сабаЌтарЉа оралу тек ЌайЉылы адамдардан пайда кљрді. || БіраЌ адам ‡рдайым ер адам болып Ќала береді. ‰асырлардыЏ даналыЉын ‡леммен бљлісу џшін Љасырлар бойы саЌтап Ќалды. Жаратылысты жоюды жљн кљретіндер болды." sound="data\sounds\Speech\rolik\r1m1_969_narrator.ogg" fontSize="18" scrollSpeed="0.55" time="68" />
 
 	<string id="90000" value="Exmachina || Сіз пайдаланЉыЏыз келе ме? Интерактивті ойын жџйесі?" numButtons="2" />
 </resource>

@@ -79,9 +79,11 @@ clear_steam.py
 *.!
 # necessary game files
 !data/if/dialogs/credits.xml
+!data/if/dialogs_16_9/credits.xml
 !data/if/diz/dialogsglobal.xml
 !data/if/diz/dynamicdialogsglobal.xml
 !data/if/diz/levelinfo.xml
+!data/if/diz/levelinfo_hd.xml
 !data/if/diz/model_names.xml
 !data/if/diz/questinfoglobal.xml
 !data/if/diz/questinfoglobal.xml
@@ -123,6 +125,12 @@ clear_steam.py
 !data/if/frames/uischema2.xml
 !data/if/fonts/fonts.xml
 !data/if/fonts/sm_tahoma_18.750_00.dds
+!data/sounds/speech/r1m1/**/*.ogg
+!data/sounds/speech/rolik/**/*.ogg
+!data/if/ico_hd/gamemenu/menu_logo_xm.dds
+!data/if/ico_hd/splashwnd/loading_up.dds
+!data/music/mainmenu.ogg
+!data/music/mainmenu_remaster.ogg
 # more ignoring files
 data/if/ico/splashes/les.dds
 data/if/ico/splashes/loading_screen_2.dds
@@ -131,7 +139,6 @@ data/if/ico/splashes/most_slon.dds
 data/if/ico/splashes/noch.dds
 data/maps/r1m1/cameramap.raw
 data/maps/r1m1/landscape.dds
-data/sounds/speech/rolik/ending1.ogg
-data/sounds/speech/rolik/ending2.ogg
-data/sounds/speech/rolik/r1m1_969_narrator.ogg
 data/maps/r1m1_KrayCity.ssl
+data/sounds/speech/r1m1/r1m1_1142_hero.ogg
+snother.py

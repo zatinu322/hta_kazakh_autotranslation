@@ -1,208 +1,208 @@
 <?xml version='1.0' encoding='windows-1251'?>
 <QuestInfoResource>
-	<QuestInfo questName="BuyKollizey_Quest" briefDiz="Колизейдін бірлескені" fullDiz="Мен колисейдін бірлескені болуfа мyмкіндігім болды. Менін kосkан yлесім yшін мен акциялар мен тyраkты пайданы аламын." isMainQuest="0">
+	<QuestInfo questName="BuyKollizey_Quest" briefDiz="КолизейдіЏ бірлескені" fullDiz="Мен колисейдіЏ бірлескені болуЉа мџмкіндігім болды. МеніЏ ЌосЌан џлесім џшін мен акциялар мен тќраЌты пайданы аламын." isMainQuest="0">
 		<Map name="r1m2" targetObjName="TheTickets" />
 	</QuestInfo>
 
-	<QuestInfo questName="Buyer_Quest1" briefDiz="Пакетті kалаfа апарыныз" fullDiz="Сіз пакетті онтyстікке апаруыныз керек. Саудагер Серго экеммен біраз бизнес бар." isMainQuest="1">
+	<QuestInfo questName="Buyer_Quest1" briefDiz="Пакетті ЌалаЉа апарыЏыз" fullDiz="Сіз пакетті оЏтџстікке апаруыЏыз керек. Саудагер Серго ‡кеммен біраз бизнес бар." isMainQuest="1">
 		<Map name="r1m1" targetObjName="TheTown" />
 	</QuestInfo>
 
-	<QuestInfo questName="CombatInKollizey_Quest" briefDiz="Корсету онімділігі" fullDiz="Аудиторияны тарту yшін колизиядаfы демонстрация шайkасын yйымдастыруым керек." isMainQuest="0" />
+	<QuestInfo questName="CombatInKollizey_Quest" briefDiz="Кљрсету љнімділігі" fullDiz="Аудиторияны тарту џшін колизиядаЉы демонстрация шайЌасын ќйымдастыруым керек." isMainQuest="0" />
 
-	<QuestInfo questName="CombatInKollizey_Quest1" briefDiz="Аренаfа жетініз" isMainQuest="0">
+	<QuestInfo questName="CombatInKollizey_Quest1" briefDiz="АренаЉа жетіЏіз" isMainQuest="0">
 		<Map name="r1m2" targetObjName="Kolizey_location" />
 	</QuestInfo>
 
-	<QuestInfo questName="CombatInKollizey_Quest2" briefDiz="Жену" isMainQuest="0">
+	<QuestInfo questName="CombatInKollizey_Quest2" briefDiz="ЖеЏу" isMainQuest="0">
 		<Map name="r1m2" targetObjName="Gladiator1" />
 	</QuestInfo>
 
-	<QuestInfo questName="DestroyRuins_Quest" briefDiz="Роб археологтары" fullDiz="Олар археологтар kызыkты бір нэрсені kазды дейді. Олар кyзет yшін yрып тастады, сондыkтан сіз одан да тиімді пайда ала аласыз." isMainQuest="0">
+	<QuestInfo questName="DestroyRuins_Quest" briefDiz="Роб археологтары" fullDiz="Олар археологтар ЌызыЌты бір н‡рсені Ќазды дейді. Олар кџзет џшін ќрып тастады, сондыЌтан сіз одан да тиімді пайда ала аласыз." isMainQuest="0">
 		<Map name="r1m2" targetObjName="CarOfSiencer" />
 	</QuestInfo>
 
-	<QuestInfo questName="Dynamic_Convoy_0" briefDiz="%2n объектіге алып жyру" fullDiz="%1n ауылы сізден %3d yшін %2n нысанын баfалы жyкпен бірге алып жyруді сyрайды." isMainQuest="0" />
+	<QuestInfo questName="Dynamic_Convoy_0" briefDiz="%2n объектіге алып жџру" fullDiz="%1n ауылы сізден %3d џшін %2n нысанын баЉалы жџкпен бірге алып жџруді сќрайды." isMainQuest="0" />
 
-	<QuestInfo questName="Dynamic_Convoy_1" briefDiz="Колік kорfау" fullDiz="%1n kаланын тyрfыны мені %2n ауылfа барар жолда kорfауды сyрады жэне %3d толеуге уэде берді." isMainQuest="0" />
+	<QuestInfo questName="Dynamic_Convoy_1" briefDiz="Кљлік ЌорЉау" fullDiz="%1n ЌаланыЏ тќрЉыны мені %2n ауылЉа барар жолда ЌорЉауды сќрады ж‡не %3d тљлеуге у‡де берді." isMainQuest="0" />
 
-	<QuestInfo questName="Dynamic_Convoy_2" briefDiz="Коліктін kауіпсіздігін kамтамасыз ету" fullDiz="City %1n Егер сізден 83456786 kондырfысына колікпен бірге алып жyруінізді сyрайды. Егер бэрі біртіндеп жyрсе, маfан %3d келеді." isMainQuest="0" />
+	<QuestInfo questName="Dynamic_Convoy_2" briefDiz="КљліктіЏ Ќауіпсіздігін Ќамтамасыз ету" fullDiz="City %1n Егер сізден 83456786 ЌондырЉысына кљлікпен бірге алып жџруіЏізді сќрайды. Егер б‡рі біртіндеп жџрсе, маЉан %3d келеді." isMainQuest="0" />
 
-	<QuestInfo questName="Dynamic_Convoy_3" briefDiz="%2n объектіге алып жyру" fullDiz="%1n kаласынан колік %2n ауылшаруашылыk баfытымен %2n номіріне жіберілді. Жаkында %2n ауылшаруашылыk жолымен жyреді." isMainQuest="0" />
+	<QuestInfo questName="Dynamic_Convoy_3" briefDiz="%2n объектіге алып жџру" fullDiz="%1n Ќаласынан кљлік %2n ауылшаруашылыЌ баЉытымен %2n нљміріне жіберілді. ЖаЌында %2n ауылшаруашылыЌ жолымен жџреді." isMainQuest="0" />
 
-	<QuestInfo questName="Dynamic_Destroy_0" briefDiz="Жауды жойыныз" fullDiz="%1n kаласы сізден жауды %3d да жоюды сyрайды." isMainQuest="0" />
+	<QuestInfo questName="Dynamic_Destroy_0" briefDiz="Жауды жойыЏыз" fullDiz="%1n Ќаласы сізден жауды %3d да жоюды сќрайды." isMainQuest="0" />
 
-	<QuestInfo questName="Dynamic_Destroy_1" briefDiz="Бандитті бейтараптандырыныз" fullDiz="%1n елді мекенінін тyрfындары айла-амалдан жасалfан бандиттін жиі шабуылдарына yшырайды. Мен оларfа %3d kауіптен kyтылуfа комектесемін." isMainQuest="0" />
+	<QuestInfo questName="Dynamic_Destroy_1" briefDiz="Бандитті бейтараптандырыЏыз" fullDiz="%1n елді мекенініЏ тќрЉындары айла-амалдан жасалЉан бандиттіЏ жиі шабуылдарына ќшырайды. Мен оларЉа %3d Ќауіптен ЌќтылуЉа кљмектесемін." isMainQuest="0" />
 
-	<QuestInfo questName="Dynamic_Destroy_2" briefDiz="Агрессорды kадаfаланыз" fullDiz="Мен %3d аламын, егер мен kаланын тонірегін %1n аламын." isMainQuest="0" />
+	<QuestInfo questName="Dynamic_Destroy_2" briefDiz="Агрессорды ЌадаЉалаЏыз" fullDiz="Мен %3d аламын, егер мен ЌаланыЏ тљЏірегін %1n аламын." isMainQuest="0" />
 
-	<QuestInfo questName="Dynamic_Hunt_0" briefDiz="Аншылыk маусымы" fullDiz="%1n kаласы мен %3d сэйкес келетін бандиттін жойылуына аkы толейді." isMainQuest="0" />
+	<QuestInfo questName="Dynamic_Hunt_0" briefDiz="АЏшылыЌ маусымы" fullDiz="%1n Ќаласы мен %3d с‡йкес келетін бандиттіЏ жойылуына аЌы тљлейді." isMainQuest="0" />
 
-	<QuestInfo questName="Dynamic_Hunt_1" briefDiz="Бандиттерді yйрету" fullDiz="Бандиттер барлыk yятkа kалды! Біз оларfа жаkсы сабаk беруіміз керек. Сонымен kатар, %1n kаласы эр бандит %3d жойылуын толейді." isMainQuest="0" />
+	<QuestInfo questName="Dynamic_Hunt_1" briefDiz="Бандиттерді џйрету" fullDiz="Бандиттер барлыЌ ќятЌа Ќалды! Біз оларЉа жаЌсы сабаЌ беруіміз керек. Сонымен Ќатар, %1n Ќаласы ‡р бандит %3d жойылуын тљлейді." isMainQuest="0" />
 
-	<QuestInfo questName="Dynamic_Hunt_2" briefDiz="Аумаkты алып тастау" fullDiz="%1n kалалыk билік жол kауіпсіздігі yшін кyрес бастады. Негізгі оkиfа ретінде - операциянын жyмысы. Эр дyшпандыk машинанын жойылуы маfан %3d экеледі." isMainQuest="0" />
+	<QuestInfo questName="Dynamic_Hunt_2" briefDiz="АумаЌты алып тастау" fullDiz="%1n ЌалалыЌ билік жол Ќауіпсіздігі џшін кџрес бастады. Негізгі оЌиЉа ретінде - операцияныЏ жќмысы. †р дќшпандыЌ машинаныЏ жойылуы маЉан %3d ‡келеді." isMainQuest="0" />
 
-	<QuestInfo questName="Dynamic_Peace_0" briefDiz="%2b тобымен тату болыныз" fullDiz="Менін аkшамнын орташа пайызы yшін %2b топтамасы менімен татуласуfа дайын." isMainQuest="0" />
+	<QuestInfo questName="Dynamic_Peace_0" briefDiz="%2b тобымен тату болыЏыз" fullDiz="МеніЏ аЌшамныЏ орташа пайызы џшін %2b топтамасы менімен татуласуЉа дайын." isMainQuest="0" />
 
-	<QuestInfo questName="Dynamic_Reach_0" briefDiz="Yлгілерді %2n ауылfа апарыныз" fullDiz="%1n kаласы сізден %2n шешуге бірнеше зерттеу yлгілерін алуды сyрайды. Келгеннен кейін маfан %3d kабылданады." isMainQuest="0" />
+	<QuestInfo questName="Dynamic_Reach_0" briefDiz="ћлгілерді %2n ауылЉа апарыЏыз" fullDiz="%1n Ќаласы сізден %2n шешуге бірнеше зерттеу џлгілерін алуды сќрайды. Келгеннен кейін маЉан %3d келемін." isMainQuest="0" />
 
-	<QuestInfo questName="Dynamic_Reach_1" briefDiz="Посылканы %2n ауылына жеткізініз" fullDiz="Мен %3d келемін, егер мен оны %2n ауылын аламын." isMainQuest="0" />
+	<QuestInfo questName="Dynamic_Reach_1" briefDiz="Посылканы %2n ауылына жеткізіЏіз" fullDiz="Мен %3d келемін, егер мен оны %2n ауылын аламын." isMainQuest="0" />
 
-	<QuestInfo questName="Dynamic_Reach_2" briefDiz="%2n ауылfа барыныз" fullDiz="%1n kаласынан шыkkан бір эксцентрик %3d толеуге дайын, егер мен %2n елді мекенінде тyратын досына сэлем берсем, %3d толеуге дайын." isMainQuest="0" />
+	<QuestInfo questName="Dynamic_Reach_2" briefDiz="%2n ауылЉа барыЏыз" fullDiz="%1n Ќаласынан шыЌЌан бір эксцентрик %3d тљлеуге дайын, егер мен %2n елді мекенінде тќратын досына с‡лем берсем, %3d тљлеуге дайын." isMainQuest="0" />
 
-	<QuestInfo questName="EastTalkKollizey_Quest" briefDiz="Восточный туралы есеп" fullDiz="Шыfыс тyрfындарына колисейдін ашылуы туралы айтыныз." isMainQuest="0">
+	<QuestInfo questName="EastTalkKollizey_Quest" briefDiz="Восточный туралы есеп" fullDiz="ШыЉыс тќрЉындарына колисейдіЏ ашылуы туралы айтыЏыз." isMainQuest="0">
 		<Map name="r1m2" targetObjName="Esting" />
 	</QuestInfo>
 
-	<QuestInfo questName="FindBen2_Quest" briefDiz="Бен табыныз" fullDiz="Менде сэттілік болды: Бен Тризель жаkын жерде тyрады. Мен онымен кездесуім керек жэне онын менімен kалай жэне сонfы оkиfаларымен байланысуым керек." isMainQuest="1">
+	<QuestInfo questName="FindBen2_Quest" briefDiz="Бен табыЏыз" fullDiz="Менде с‡ттілік болды: Бен Тризель жаЌын жерде тќрады. Мен онымен кездесуім керек ж‡не оныЏ менімен Ќалай ж‡не соЏЉы оЌиЉаларымен Ќалай байланыстырылЉанын білуім керек." isMainQuest="1">
 		<Map name="r1m2" />
 	</QuestInfo>
 
-	<QuestInfo questName="FindBen_Quest" briefDiz="Бен Тризелдін кім екенін білініз" fullDiz="Менін бyкіл омірім озгерді. Озімді табу yшін мен шынайы экемді барлыk шыfындардан табуым керек! Жалfыз мэселе - Бен Тризельдін аты." isMainQuest="1">
+	<QuestInfo questName="FindBen_Quest" briefDiz="Бен ТризелдіЏ кім екенін біліЏіз" fullDiz="МеніЏ бџкіл љмірім љзгерді. ђзімді табу џшін мен шынайы ‡кемді барлыЌ шыЉындардан табуым керек! ЖалЉыз м‡селе - Бен ТризельдіЏ аты." isMainQuest="1">
 		<Map name="r1m1" />
 
 		<Map name="r1m2" />
 	</QuestInfo>
 
-	<QuestInfo questName="FindGomerA_Quest1" briefDiz="Гомерді табыныз" fullDiz="Гомер балыk аулау ауылдарынын бірінде отырfан шыfар. Мyны табу kиын болмайды." isMainQuest="1" />
+	<QuestInfo questName="FindGomerA_Quest1" briefDiz="Гомерді табыЏыз" fullDiz="Гомер балыЌ аулау ауылдарыныЏ бірінде отырЉан шыЉар. Мќны табу Ќиын болмайды." isMainQuest="1" />
 
-	<QuestInfo questName="FindGomerB_Quest1" briefDiz="Гомерді табыныз" fullDiz="Гомер балыk аулау ауылдарынын бірінде отырfан шыfар. Мyны табу kиын болмайды." isMainQuest="1" />
+	<QuestInfo questName="FindGomerB_Quest1" briefDiz="Гомерді табыЏыз" fullDiz="Гомер балыЌ аулау ауылдарыныЏ бірінде отырЉан шыЉар. Мќны табу Ќиын болмайды." isMainQuest="1" />
 
-	<QuestInfo questName="FreeExtremistLeader_Quest1" briefDiz="Экстремистердін кошбасшысы тегін" fullDiz="Kойманы экстремистер басып алды. Егер мен оздерінін кошбасшысын тyтkындаудан босатсам, олар кетіп, копестерге сабырлы тyрде жyмыс істеуге мyмкіндік береді." isMainQuest="0">
+	<QuestInfo questName="FreeExtremistLeader_Quest1" briefDiz="ЭкстремистердіЏ кљшбасшысы тегін" fullDiz="Њойманы экстремистер басып алды. Егер мен љздерініЏ кљшбасшысын тќтЌындаудан босатсам, олар кетіп, кљпестерге сабырлы тџрде жќмыс істеуге мџмкіндік береді." isMainQuest="0">
 		<Map name="r1m4" />
 	</QuestInfo>
 
-	<QuestInfo questName="FreeExtremistLeader_Quest2" briefDiz="Кошбасшы откізілетін Олмда yйренініз" isMainQuest="0">
+	<QuestInfo questName="FreeExtremistLeader_Quest2" briefDiz="Кљшбасшы љткізілетін Олмда џйреніЏіз" isMainQuest="0">
 		<Map name="r1m4" targetObjName="TheOlme_enter" />
 	</QuestInfo>
 
-	<QuestInfo questName="FreeExtremistLeader_Quest3" briefDiz="Колікті кошбасшымен yстап алыныз" isMainQuest="0">
+	<QuestInfo questName="FreeExtremistLeader_Quest3" briefDiz="Кљлікті кљшбасшымен ќстап алыЏыз" isMainQuest="0">
 		<Map name="r1m4" coordinate="2348.362 249.000 2963.589" />
 	</QuestInfo>
 
-	<QuestInfo questName="FreeExtremistLeader_Quest3_1" briefDiz="Кyзетшіні жойыныз" isMainQuest="0">
+	<QuestInfo questName="FreeExtremistLeader_Quest3_1" briefDiz="Кџзетшіні жойыЏыз" isMainQuest="0">
 		<Map name="r1m4" targetObjName="LeaderGuardTeam" />
 	</QuestInfo>
 
-	<QuestInfo questName="FreeExtremistLeader_Quest3_2" briefDiz="Бас kyрылfыны жойыныз" isMainQuest="0">
+	<QuestInfo questName="FreeExtremistLeader_Quest3_2" briefDiz="Бас ЌќрылЉыны жойыЏыз" isMainQuest="0">
 		<Map name="r1m4" targetObjName="LeaderCar_vehicle_0" />
 	</QuestInfo>
 
-	<QuestInfo questName="FreeExtremistLeader_Quest4" briefDiz="Кошбасшыны жауынгерлерге апарыныз" isMainQuest="0">
+	<QuestInfo questName="FreeExtremistLeader_Quest4" briefDiz="Кљшбасшыны жауынгерлерге апарыЏыз" isMainQuest="0">
 		<Map name="r1m4" targetObjName="StorageVil_enter" />
 	</QuestInfo>
 
-	<QuestInfo questName="HelpRuins_Quest" briefDiz="Археологтарfа комек" fullDiz="Бандиттер fалымдар-fалымдар-археологтарды жаkын жерде безендіреді. Мен оларды kазынаны kазыналыk kазынаны жyргізуге тырысkан бандиттердін шабуылдарынан kорfауfа келістім." isMainQuest="0">
+	<QuestInfo questName="HelpRuins_Quest" briefDiz="АрхеологтарЉа кљмек" fullDiz="Бандиттер Љалымдар-Љалымдар-археологтарды жаЌын жерде безендіреді. Мен оларды Ќазынаны ЌазыналыЌ Ќазынаны жџргізуге тырысЌан бандиттердіЏ шабуылдарынан ЌорЉауЉа келістім." isMainQuest="0">
 		<Map name="r1m2" targetObjName="CarOfAntiSiencer" />
 	</QuestInfo>
 
-	<QuestInfo questName="KillExtremist_Quest1" briefDiz="Kойманы тyсірген бандиттерді олтірініз" fullDiz="Kойманы екі жолмен тазартуfа болады, олардын бірі - барлыk экстремистерді олтіру." isMainQuest="0">
+	<QuestInfo questName="KillExtremist_Quest1" briefDiz="Њойманы тџсірген бандиттерді љлтіріЏіз" fullDiz="Њойманы екі жолмен тазартуЉа болады, олардыЏ бірі - барлыЌ экстремистерді љлтіру." isMainQuest="0">
 		<Map name="r1m4" targetObjName="ExtrGuardTeam" />
 	</QuestInfo>
 
-	<QuestInfo questName="Kollizey_Quest" briefDiz="Колизе жyмысын yйымдастыруfа комектеседі" fullDiz="Кэсіпкерлер Колизумды kайтадан ашkысы келеді. Окінішке орай, олардын жарнамалыk бюджеті оте kарапайым. Ия, ал мысыk тэжірибені жылады. Біраk мен оларfа элі де осы kиын мэселеге комектесуге келістім." isMainQuest="0">
+	<QuestInfo questName="Kollizey_Quest" briefDiz="Колизе жќмысын ќйымдастыруЉа кљмектеседі" fullDiz="К‡сіпкерлер Колизумды Ќайтадан ашЌысы келеді. ђкінішке орай, олардыЏ жарнамалыЌ бюджеті љте Ќарапайым. Ия, ал мысыЌ т‡жірибені жылады. БіраЌ мен оларЉа ‡лі де осы Ќиын м‡селеге кљмектесуге келістім." isMainQuest="0">
 		<Map name="r1m2" />
 	</QuestInfo>
 
-	<QuestInfo questName="MidgardTalkKollizey_Quest" briefDiz="Ортанfыдан хабарлау" fullDiz="Міне, Колизей туралы сойлесініз. Онда олар жана ойын-сауыk орталыfынын пайда болуы туралы білуге &#8203;&#8203;kуанышты болуы мyмкін." isMainQuest="0">
+	<QuestInfo questName="MidgardTalkKollizey_Quest" briefDiz="ОртаЏЉыдан хабарлау" fullDiz="Міне, Колизей туралы сљйлесіЏіз. Онда олар жаЏа ойын-сауыЌ орталыЉыныЏ пайда болуы туралы білуге &#8203;&#8203;Ќуанышты болуы мџмкін." isMainQuest="0">
 		<Map name="r1m2" targetObjName="Midragd" />
 	</QuestInfo>
 
-	<QuestInfo questName="PortoTalkKollizey_Quest" briefDiz="Портодаfы есеп" fullDiz="Портодаfы колизей туралы сойлесініз. Коп yзамай барлыk ірі kалалардан келген адамдар ойын-сауыkты іздеуге лаkтырылады." isMainQuest="0">
+	<QuestInfo questName="PortoTalkKollizey_Quest" briefDiz="ПортодаЉы есеп" fullDiz="ПортодаЉы колизей туралы сљйлесіЏіз. Кљп ќзамай барлыЌ ірі Ќалалардан келген адамдар ойын-сауыЌты іздеуге лаЌтырылады." isMainQuest="0">
 		<Map name="r1m2" targetObjName="Porto" />
 	</QuestInfo>
 
-	<QuestInfo questName="ReturnToDirector2_Quest" briefDiz="Колизе иесіне оралыныз" fullDiz="Мен мэміленін бір болігін орындадым. Енді сізге жаkсы сыйаkы алу керек." isMainQuest="0">
+	<QuestInfo questName="ReturnToDirector2_Quest" briefDiz="Колизе иесіне оралыЏыз" fullDiz="Мен м‡міленіЏ бір бљлігін орындадым. Енді сізге жаЌсы сыйаЌы алу керек." isMainQuest="0">
 		<Map name="r1m2" targetObjName="TheTickets" />
 	</QuestInfo>
 
-	<QuestInfo questName="ReturnToDirector_Quest" briefDiz="Колизе иесіне оралыныз" fullDiz="Мен мэміленін бір болігін орындадым. Енді сізге жаkсы сыйаkы алу керек." isMainQuest="0">
+	<QuestInfo questName="ReturnToDirector_Quest" briefDiz="Колизе иесіне оралыЏыз" fullDiz="Мен м‡міленіЏ бір бљлігін орындадым. Енді сізге жаЌсы сыйаЌы алу керек." isMainQuest="0">
 		<Map name="r1m2" targetObjName="TheTickets" />
 	</QuestInfo>
 
-	<QuestInfo questName="SeeSigns_Quest" briefDiz="Белгілерді тексерініз" fullDiz="Адамдар орістердегі жyмбаk белгілердін пайда болуына шаfымданады. Біз оны тyсінуіміз керек." isMainQuest="0">
+	<QuestInfo questName="SeeSigns_Quest" briefDiz="Белгілерді тексеріЏіз" fullDiz="Адамдар љрістердегі жќмбаЌ белгілердіЏ пайда болуына шаЉымданады. Біз оны тџсінуіміз керек." isMainQuest="0">
 		<Map name="r1m2" targetObjName="Sign_location" />
 	</QuestInfo>
 
-	<QuestInfo questName="Signs_Quest" briefDiz="Орістердегі белгілер" fullDiz="Адамдар орістердегі жyмбаk белгілердін пайда болуына шаfымданады. Мyмкін олардын сыртkы келбетіне логика бар шыfар." isMainQuest="0">
+	<QuestInfo questName="Signs_Quest" briefDiz="ђрістердегі белгілер" fullDiz="Адамдар љрістердегі жќмбаЌ белгілердіЏ пайда болуына шаЉымданады. Мџмкін олардыЏ сыртЌы келбетіне логика бар шыЉар." isMainQuest="0">
 		<Map name="r1m2" />
 	</QuestInfo>
 
-	<QuestInfo questName="TRS_Quest2" briefDiz="Kоймаfа келініз" isMainQuest="0">
+	<QuestInfo questName="TRS_Quest2" briefDiz="ЊоймаЉа келіЏіз" isMainQuest="0">
 		<Map name="r1m4" targetObjName="StorageVil_enter" />
 	</QuestInfo>
 
-	<QuestInfo questName="TRS_Quest3a" briefDiz="Басkыншыларды олтірініз" isMainQuest="0">
+	<QuestInfo questName="TRS_Quest3a" briefDiz="БасЌыншыларды љлтіріЏіз" isMainQuest="0">
 		<Map name="r1m4" targetObjName="StorageVil_enter" />
 	</QuestInfo>
 
-	<QuestInfo questName="TRS_Quest3b" briefDiz="Кошбасшы тегін" isMainQuest="0">
+	<QuestInfo questName="TRS_Quest3b" briefDiz="Кљшбасшы тегін" isMainQuest="0">
 		<Map name="r1m4" />
 	</QuestInfo>
 
-	<QuestInfo questName="TRS_Quest4" briefDiz="Kойманы тазарту туралы есеп" isMainQuest="0">
+	<QuestInfo questName="TRS_Quest4" briefDiz="Њойманы тазарту туралы есеп" isMainQuest="0">
 		<Map name="r1m4" targetObjName="TheOlme_enter" />
 	</QuestInfo>
 
-	<QuestInfo questName="TalkProfessor_Quest" briefDiz="Fалымдарfа белгілер туралы айтып берініз" fullDiz="Мен бyл танfаларлыk kyбылыстын не болуы мyмкін екенін білмеймін. Ортанfы жастаfы fалымдар мyнда не болып жатkанын аныkтай алады." isMainQuest="0">
+	<QuestInfo questName="TalkProfessor_Quest" briefDiz="‰алымдарЉа белгілер туралы айтып беріЏіз" fullDiz="Мен бќл таЏЉаларлыЌ ЌќбылыстыЏ не болуы мџмкін екенін білмеймін. ОртаЏЉы жастаЉы Љалымдар мќнда не болып жатЌанын аныЌтай алады." isMainQuest="0">
 		<Map name="r1m2" targetObjName="Midragd" />
 	</QuestInfo>
 
-	<QuestInfo questName="TalkWithFather_Quest" briefDiz="Yйге оралу" fullDiz="Сэтті мэміледен кейін yйге оралу уаkыты келді." isMainQuest="1">
+	<QuestInfo questName="TalkWithFather_Quest" briefDiz="ћйге оралу" fullDiz="С‡тті м‡міледен кейін џйге оралу уаЌыты келді." isMainQuest="1">
 		<Map name="r1m1" targetObjName="TheGloohoe" />
 	</QuestInfo>
 
-	<QuestInfo questName="TraiderStorage_Quest1" briefDiz="Kойманы бандиттерден алыныз" fullDiz="Копестер kоймасын экстремистер басып алды. Оларды сол жерден шыfарудын kандай да бір тэсілі болуы керек." isMainQuest="0">
+	<QuestInfo questName="TraiderStorage_Quest1" briefDiz="Њойманы бандиттерден алыЏыз" fullDiz="Кљпестер Ќоймасын экстремистер басып алды. Оларды сол жерден шыЉарудыЏ Ќандай да бір т‡сілі болуы керек." isMainQuest="0">
 		<Map name="r1m4" />
 	</QuestInfo>
 
-	<QuestInfo questName="WhereSigns_Quest" briefDiz="Ауылды тексерініз" fullDiz="Яр ауылынын тyрfындары kорkады. Мyмкін, байсалды нэрсе болады." isMainQuest="0">
+	<QuestInfo questName="WhereSigns_Quest" briefDiz="Ауылды тексеріЏіз" fullDiz="Яр ауылыныЏ тќрЉындары ЌорЌады. Мџмкін, байсалды н‡рсе болады." isMainQuest="0">
 		<Map name="r1m2" targetObjName="TheSign" />
 	</QuestInfo>
 
-	<QuestInfo questName="WorkGiver_Quest1" briefDiz="Бай фермерді алыныз" fullDiz="Мен фермерді жандандырып алып келгенде, ол маfан жаkсы толейді. Ен бастысы - оны тез жасау жэне оны дэл межелі жерге жеткізу." isMainQuest="0">
+	<QuestInfo questName="WorkGiver_Quest1" briefDiz="Бай фермерді алыЏыз" fullDiz="Мен фермерді жандандырып алып келгенде, ол маЉан жаЌсы тљлейді. ЕЏ бастысы - оны тез жасау ж‡не оны д‡л межелі жерге жеткізу." isMainQuest="0">
 		<Map name="r1m1" targetObjName="TheOilVillageQ2" />
 	</QuestInfo>
 
-	<QuestInfo questName="d_ArriveToFelix_Quest" briefDiz="Феликс негізіне келініз" isMainQuest="1">
+	<QuestInfo questName="d_ArriveToFelix_Quest" briefDiz="Феликс негізіне келіЏіз" isMainQuest="1">
 		<Map name="r1m1" targetObjName="FelixBaseLoc" />
 	</QuestInfo>
 
-	<QuestInfo questName="d_AttackFelixBase_Quest" briefDiz="Кyзеттен kyтылыныз" isMainQuest="1">
+	<QuestInfo questName="d_AttackFelixBase_Quest" briefDiz="Кџзеттен ЌќтылыЏыз" isMainQuest="1">
 		<Map name="r1m1" targetObjName="FelixBanditCars2" />
 	</QuestInfo>
 
-	<QuestInfo questName="d_BarForTunel_Quest" briefDiz="Асгардтаfы барменмен сойлесініз" fullDiz="Шамасы, осы kаланын тyрfындары таудан батысkа kарай kалай баруfа болатынын біледі." isMainQuest="1">
+	<QuestInfo questName="d_BarForTunel_Quest" briefDiz="АсгардтаЉы барменмен сљйлесіЏіз" fullDiz="Шамасы, осы ЌаланыЏ тќрЉындары таудан батысЌа Ќарай Ќалай баруЉа болатынын біледі." isMainQuest="1">
 		<Map name="r1m3" targetObjName="Asgard" />
 	</QuestInfo>
 
-	<QuestInfo questName="d_BarInGelvetcia_Quest" briefDiz="Барfа келіп, парольді атаныз" isMainQuest="1">
+	<QuestInfo questName="d_BarInGelvetcia_Quest" briefDiz="БарЉа келіп, парольді атаЏыз" isMainQuest="1">
 		<Map name="r2m1" targetObjName="ToR2M2" />
 
 		<Map name="r2m2" targetObjName="Toskana" />
 	</QuestInfo>
 
-	<QuestInfo questName="d_BombInAsgard_Quest" briefDiz="Асгардтаfы жарылfыш заттарды сатып алыныз" isMainQuest="1">
+	<QuestInfo questName="d_BombInAsgard_Quest" briefDiz="АсгардтаЉы жарылЉыш заттарды сатып алыЏыз" isMainQuest="1">
 		<Map name="r1m3" targetObjName="Asgard" />
 	</QuestInfo>
 
-	<QuestInfo questName="d_BombInShahts_Quest" briefDiz="Шахтердегі жарылfыш заттарды сатып алыныз" isMainQuest="1">
+	<QuestInfo questName="d_BombInShahts_Quest" briefDiz="Шахтердегі жарылЉыш заттарды сатып алыЏыз" isMainQuest="1">
 		<Map name="r1m3" targetObjName="TheShahts" />
 	</QuestInfo>
 
-	<QuestInfo questName="d_BombShahtsAtakBandits_Quest" briefDiz="Бандиттердін шабуылы туралы хабарланыз" isMainQuest="1">
+	<QuestInfo questName="d_BombShahtsAtakBandits_Quest" briefDiz="БандиттердіЏ шабуылы туралы хабарлаЏыз" isMainQuest="1">
 		<Map name="r1m3" targetObjName="ShahtsBoss" />
 	</QuestInfo>
 
-	<QuestInfo questName="d_BombShahtsReturn_Quest" briefDiz="Ауылfа оралу" isMainQuest="1">
+	<QuestInfo questName="d_BombShahtsReturn_Quest" briefDiz="АуылЉа оралу" isMainQuest="1">
 		<Map name="r1m3" targetObjName="TheShahts" />
 	</QuestInfo>
 
-	<QuestInfo questName="d_CaravanFromTuzzToVillage_Quest" briefDiz="Ауылдардаfы тасымалдау" fullDiz="Менін міндетім - коліктін kауіпсіздігін kамтамасыз ету. Жyктеме барлыk шыfындар бойынша жеткізілуі керек." isMainQuest="1">
+	<QuestInfo questName="d_CaravanFromTuzzToVillage_Quest" briefDiz="АуылдардаЉы тасымалдау" fullDiz="МеніЏ міндетім - кљліктіЏ Ќауіпсіздігін Ќамтамасыз ету. Жџктеме барлыЌ шыЉындар бойынша жеткізілуі керек." isMainQuest="1">
 		<Map name="r2m1" />
 	</QuestInfo>
 
-	<QuestInfo questName="d_CaravanToMidgardBen_Quest" briefDiz="Колікпен миджардkа оралыныз" isMainQuest="1">
+	<QuestInfo questName="d_CaravanToMidgardBen_Quest" briefDiz="Кљлікпен миджардЌа оралыЏыз" isMainQuest="1">
 		<Map name="r1m2" targetObjName="KARAVANMIDGARD_vehicle_0" />
 	</QuestInfo>
 
@@ -210,7 +210,7 @@
 		<Map name="r1m2" targetObjName="KARAVANPORTO_vehicle_0" />
 	</QuestInfo>
 
-	<QuestInfo questName="d_DefeatLisasBandits" briefDiz="Тyлкіні саkтаныз" isMainQuest="1">
+	<QuestInfo questName="d_DefeatLisasBandits" briefDiz="Тџлкіні саЌтаЏыз" isMainQuest="1">
 		<Map name="r1m1" targetObjName="ToR1M2" />
 
 		<Map name="r1m2" targetObjName="LisaInBanditDen" />
@@ -218,21 +218,21 @@
 		<Map name="r1m3" targetObjName="ToR1M2" />
 	</QuestInfo>
 
-	<QuestInfo questName="d_DestroyBridge_Quest" briefDiz="Бомбаны салыныз" fullDiz="Менде жарылfыш заттар бар. Бyл тек копірді де kалады." isMainQuest="1">
+	<QuestInfo questName="d_DestroyBridge_Quest" briefDiz="Бомбаны салыЏыз" fullDiz="Менде жарылЉыш заттар бар. Бќл тек кљпірді де Ќалады." isMainQuest="1">
 		<Map name="r1m3" targetObjName="BaseGuardian_enter" />
 	</QuestInfo>
 
-	<QuestInfo questName="d_DriveBanditFromOilMine_Quest" briefDiz="Жалыkтыру" isMainQuest="1">
+	<QuestInfo questName="d_DriveBanditFromOilMine_Quest" briefDiz="ЖалыЌтыру" isMainQuest="1">
 		<Map name="r1m3" targetObjName="OilMineBoss" />
 	</QuestInfo>
 
-	<QuestInfo questName="d_FatherRoomInMinin_Quest" briefDiz="Экем yйін іздеу" isMainQuest="1">
+	<QuestInfo questName="d_FatherRoomInMinin_Quest" briefDiz="†кем џйін іздеу" isMainQuest="1">
 		<Map name="r1m2" />
 
 		<Map name="r1m3" targetObjName="HouseLoc" />
 	</QuestInfo>
 
-	<QuestInfo questName="d_FindAksel_Quest" briefDiz="Axel табыныз" fullDiz="Аксел зyлымдыkты Аржандаfы бандамен басkарады. Маfан тау-кен орындарын кесіп отудін жолын табу керек." isMainQuest="1">
+	<QuestInfo questName="d_FindAksel_Quest" briefDiz="Axel табыЏыз" fullDiz="Аксел зќлымдыЌты АржандаЉы бандамен басЌарады. МаЉан тау-кен орындарын кесіп љтудіЏ жолын табу керек." isMainQuest="1">
 		<Map name="r1m2" />
 
 		<Map name="r1m3" />
@@ -242,55 +242,55 @@
 		<Map name="r2m2" />
 	</QuestInfo>
 
-	<QuestInfo questName="d_FindBanditBaseOfOilMine_Quest" briefDiz="Бандит лагерін тауып, жойыныз" fullDiz="Сонfы kарсылас kашып кетеді. Мен оны бандиттік базаfа еріп, ормекші yясын жойып аламын." isMainQuest="0" />
+	<QuestInfo questName="d_FindBanditBaseOfOilMine_Quest" briefDiz="Бандит лагерін тауып, жойыЏыз" fullDiz="СоЏЉы Ќарсылас Ќашып кетеді. Мен оны бандиттік базаЉа еріп, љрмекші ќясын жойып аламын." isMainQuest="0" />
 
-	<QuestInfo questName="d_FindBanditBaseOfOilMine_Quest1" briefDiz="Kуkынмен жyрініз" isMainQuest="0">
+	<QuestInfo questName="d_FindBanditBaseOfOilMine_Quest1" briefDiz="ЊуЌынмен жџріЏіз" isMainQuest="0">
 		<Map name="r1m3" targetObjName="OilMineRuner_vehicle_0" />
 	</QuestInfo>
 
-	<QuestInfo questName="d_FindBanditBaseOfOilMine_Quest2" briefDiz="Негізге шабуыл жасаныз" isMainQuest="0">
+	<QuestInfo questName="d_FindBanditBaseOfOilMine_Quest2" briefDiz="Негізге шабуыл жасаЏыз" isMainQuest="0">
 		<Map name="r1m3" targetObjName="OilMineBaseBoss" />
 	</QuestInfo>
 
-	<QuestInfo questName="d_FindBenInEast_Quest" briefDiz="Шыfыста іздеуді жалfастырыныз" isMainQuest="1">
+	<QuestInfo questName="d_FindBenInEast_Quest" briefDiz="ШыЉыста іздеуді жалЉастырыЏыз" isMainQuest="1">
 		<Map name="r1m1" targetObjName="ToR1M2" />
 
 		<Map name="r1m2" targetObjName="Esting" />
 	</QuestInfo>
 
-	<QuestInfo questName="d_FindBenInMidgard_Quest" briefDiz="Сонfы рет Бена миджардта корінді" isMainQuest="1">
+	<QuestInfo questName="d_FindBenInMidgard_Quest" briefDiz="СоЏЉы рет Бена миджардта кљрінді" isMainQuest="1">
 		<Map name="r1m2" targetObjName="Midragd" />
 	</QuestInfo>
 
-	<QuestInfo questName="d_FindBenInSouth_Quest" briefDiz="Ол туралы Онтyстік барда сyраныз" isMainQuest="1">
+	<QuestInfo questName="d_FindBenInSouth_Quest" briefDiz="Ол туралы ОЏтџстік барда сќраЏыз" isMainQuest="1">
 		<Map name="r1m1" targetObjName="TheTown" />
 
 		<Map name="r1m2" />
 	</QuestInfo>
 
-	<QuestInfo questName="d_FindBenInStaruha_Quest" briefDiz="Ауылдыk сиkырмен кездесініз" isMainQuest="1">
+	<QuestInfo questName="d_FindBenInStaruha_Quest" briefDiz="АуылдыЌ сиЌырмен кездесіЏіз" isMainQuest="1">
 		<Map name="r1m1" />
 
 		<Map name="r1m2" targetObjName="TheArtefact" />
 	</QuestInfo>
 
-	<QuestInfo questName="d_FindDoorInTunel_Quest" briefDiz="Туннельге кіре берісті табыныз" fullDiz="Kазір мен туннельдін kайда екенін білемін. Онда пойызбен ешkандай kиындыk болмайды деп сенемін." isMainQuest="1">
+	<QuestInfo questName="d_FindDoorInTunel_Quest" briefDiz="Туннельге кіре берісті табыЏыз" fullDiz="Њазір мен туннельдіЏ Ќайда екенін білемін. Онда пойызбен ешЌандай ЌиындыЌ болмайды деп сенемін." isMainQuest="1">
 		<Map name="r1m3" targetObjName="ToR2M1" />
 	</QuestInfo>
 
-	<QuestInfo questName="d_FindFelix_Quest" briefDiz="Онтyстік барда Феликсті табыныз" isMainQuest="1">
+	<QuestInfo questName="d_FindFelix_Quest" briefDiz="ОЏтџстік барда Феликсті табыЏыз" isMainQuest="1">
 		<Map name="r1m1" targetObjName="TheTown" />
 	</QuestInfo>
 
-	<QuestInfo questName="d_FindHouseOfBen_Quest" briefDiz="Бенмен онын yйінде сойлесініз" fullDiz="Коп yзамай мен Бен дроссельін коремін жэне менін шыkkан туралы шындыkты білемін." isMainQuest="1">
+	<QuestInfo questName="d_FindHouseOfBen_Quest" briefDiz="Бенмен оныЏ џйінде сљйлесіЏіз" fullDiz="Кљп ќзамай мен Бен дроссельін кљремін ж‡не меніЏ шыЌЌан туралы шындыЌты білемін." isMainQuest="1">
 		<Map name="r1m2" targetObjName="TheBen_House" />
 	</QuestInfo>
 
-	<QuestInfo questName="d_FindKeyInTunel_Quest" briefDiz="Барменмен сойлесініз" fullDiz="Мyмкін, баржаны туннельдін кілті бар, сондыkтан мен нарыkтын зандарын дyрыс тyсінсем, оны сатып алуfа болады." isMainQuest="1">
+	<QuestInfo questName="d_FindKeyInTunel_Quest" briefDiz="Барменмен сљйлесіЏіз" fullDiz="Мџмкін, баржаны туннельдіЏ кілті бар, сондыЌтан мен нарыЌтыЏ заЏдарын дќрыс тџсінсем, оны сатып алуЉа болады." isMainQuest="1">
 		<Map name="r1m3" targetObjName="Asgard" />
 	</QuestInfo>
 
-	<QuestInfo questName="d_FindLisaInBandit_Quest" briefDiz="Бапшыkтын мyмкін жерін тексерініз" isMainQuest="1">
+	<QuestInfo questName="d_FindLisaInBandit_Quest" briefDiz="БапшыЌтыЏ мџмкін жерін тексеріЏіз" isMainQuest="1">
 		<Map name="r1m1" />
 
 		<Map name="r1m2" targetObjName="LisaInBanditPlen" />
@@ -298,15 +298,15 @@
 		<Map name="r1m3" />
 	</QuestInfo>
 
-	<QuestInfo questName="d_FindLisaInBase_Quest" briefDiz="51-ге негізделген тyлкі туралы сyраныз" fullDiz="Фокс сияkты kарапайым емес сияkты. Бyл бандиттермен наkты байланысты. Мен kатты тан kалмаймын ..." isMainQuest="1">
+	<QuestInfo questName="d_FindLisaInBase_Quest" briefDiz="51-ге негізделген тџлкі туралы сќраЏыз" fullDiz="Фокс сияЌты Ќарапайым емес сияЌты. Бќл бандиттермен наЌты байланысты. Мен Ќатты таЏ Ќалмаймын ..." isMainQuest="1">
 		<Map name="r1m3" targetObjName="TheBase" />
 	</QuestInfo>
 
-	<QuestInfo questName="d_FindLisaInGelvetcia_Quest" briefDiz="Гелеветиядаfы тyлкіні yстап алыныз" fullDiz="Гельветиядаfы тyлкінінді kуып жету." isMainQuest="1">
+	<QuestInfo questName="d_FindLisaInGelvetcia_Quest" briefDiz="ГелеветиядаЉы тџлкіні ќстап алыЏыз" fullDiz="ГельветиядаЉы тџлкініЏді Ќуып жету." isMainQuest="1">
 		<Map name="r2m1" targetObjName="TheGelvetcia" />
 	</QuestInfo>
 
-	<QuestInfo questName="d_FindLisaInMidragd_Quest" briefDiz="Міне, ортаfа тyлкіні ізденіз" isMainQuest="1">
+	<QuestInfo questName="d_FindLisaInMidragd_Quest" briefDiz="Міне, ортаЉа тџлкіні іздеЏіз" isMainQuest="1">
 		<Map name="r1m1" />
 
 		<Map name="r1m2" targetObjName="Midragd" />
@@ -322,7 +322,7 @@
 		<Map name="r1m3" targetObjName="Pesht" />
 	</QuestInfo>
 
-	<QuestInfo questName="d_FindLisaInPorto_Quest" briefDiz="Porto-да тyлкіні ізденіз" isMainQuest="1">
+	<QuestInfo questName="d_FindLisaInPorto_Quest" briefDiz="Porto-да тџлкіні іздеЏіз" isMainQuest="1">
 		<Map name="r1m1" />
 
 		<Map name="r1m2" targetObjName="Porto" />
@@ -330,7 +330,7 @@
 		<Map name="r1m3" />
 	</QuestInfo>
 
-	<QuestInfo questName="d_FindLisaOnSever_Quest" briefDiz="Тyлкімен сойлесініз" fullDiz="Феликс элі кyнге дейін экемнін оліміне кінэлі емес сияkты. Тyлкі kалады - жалfыз куэ. Ол солтyстіктен кетті. Мен yшін - онын артында." isMainQuest="1">
+	<QuestInfo questName="d_FindLisaOnSever_Quest" briefDiz="Тџлкімен сљйлесіЏіз" fullDiz="Феликс ‡лі кџнге дейін ‡кемніЏ љліміне кін‡лі емес сияЌты. Тџлкі Ќалады - жалЉыз ку‡. Ол солтџстіктен кетті. Мен џшін - оныЏ артында." isMainQuest="1">
 		<Map name="r1m1" />
 
 		<Map name="r1m2" />
@@ -338,7 +338,7 @@
 		<Map name="r1m3" />
 	</QuestInfo>
 
-	<QuestInfo questName="d_FindOracul_Quest" briefDiz="Oracle табыныз" fullDiz="Солтyстік аралында, kауесеттердін айтуы бойынша, Oracle тyрады. Айданын арымен кеткен ізі сол жерде жyреді." isMainQuest="1">
+	<QuestInfo questName="d_FindOracul_Quest" briefDiz="Oracle табыЏыз" fullDiz="Солтџстік аралында, ЌауесеттердіЏ айтуы бойынша, Oracle тќрады. АйданыЏ арымен кеткен ізі сол жерде жџреді." isMainQuest="1">
 		<Map name="r1m2" targetObjName="ToR1M3" />
 
 		<Map name="r1m3" />
@@ -348,89 +348,89 @@
 		<Map name="r2m1" targetObjName="ToR3M1" />
 	</QuestInfo>
 
-	<QuestInfo questName="d_FindRealFatherRoom_Quest" briefDiz="Экенін тyрfынын табыныз" fullDiz="Экем элі тірі бола алады! Мен оз омірімді онын ізденістеріне арнаймын. | Кейбіреулер Мининада онын yйінде kалуы мyмкін." isMainQuest="1">
+	<QuestInfo questName="d_FindRealFatherRoom_Quest" briefDiz="†кеніЏ тќрЉынын табыЏыз" fullDiz="†кем ‡лі тірі бола алады! Мен љз љмірімді оныЏ ізденістеріне арнаймын. | Кейбіреулер Мининада оныЏ џйінде Ќалуы мџмкін." isMainQuest="1">
 		<Map name="r1m2" />
 
 		<Map name="r1m3" />
 	</QuestInfo>
 
-	<QuestInfo questName="d_FindVerbInAR_Quest" briefDiz="Ar-даfы арктkа жалдаушыны табыныз" fullDiz="Скарлат таны жана жауынгерлерді іздейді. Олардын бірі болу - бyл Axel-ге жаkындау мyмкіндігі." isMainQuest="1">
+	<QuestInfo questName="d_FindVerbInAR_Quest" briefDiz="Ar-даЉы арктЌа жалдаушыны табыЏыз" fullDiz="Скарлат таЏы жаЏа жауынгерлерді іздейді. ОлардыЏ бірі болу - бќл Axel-ге жаЌындау мџмкіндігі." isMainQuest="1">
 		<Map name="r2m1" targetObjName="ToR2M2" />
 
 		<Map name="r2m2" targetObjName="Marezzia" />
 	</QuestInfo>
 
-	<QuestInfo questName="d_FindVerbInSNG_Quest" briefDiz="ТМД-да жалдаушыны табыныз" fullDiz="Тэуелсіз kалалар аксельмен кyресуге комектесуі керек. Бірге біз тиранды yстана аламыз." isMainQuest="1">
+	<QuestInfo questName="d_FindVerbInSNG_Quest" briefDiz="ТМД-да жалдаушыны табыЏыз" fullDiz="Т‡уелсіз Ќалалар аксельмен кџресуге кљмектесуі керек. Бірге біз тиранды ќстана аламыз." isMainQuest="1">
 		<Map name="r2m1" targetObjName="TheTuzz" />
 	</QuestInfo>
 
-	<QuestInfo questName="d_FindVrata_Quest" briefDiz="Теніз kаkпасын табыныз" fullDiz="Солтyстікте бір жерде теніз kаkпалары бар. Мининнін керуеніне дyрыс жол корсетіледі." isMainQuest="1">
+	<QuestInfo questName="d_FindVrata_Quest" briefDiz="ТеЏіз ЌаЌпасын табыЏыз" fullDiz="Солтџстікте бір жерде теЏіз ЌаЌпалары бар. МининніЏ керуеніне дќрыс жол кљрсетіледі." isMainQuest="1">
 		<Map name="r1m3" />
 
 		<Map name="r1m4" />
 	</QuestInfo>
 
-	<QuestInfo questName="d_FindWorkersToOilMine_Quest" briefDiz="Минина kызметкерлерімен келіссоздер жyргізу" fullDiz="Yнfымалардаfы kызметкерлер Мининнін барында отырады, біз олармен жyмысkа оралfанын келісуіміз керек." isMainQuest="1">
+	<QuestInfo questName="d_FindWorkersToOilMine_Quest" briefDiz="Минина Ќызметкерлерімен келіссљздер жџргізу" fullDiz="њЏЉымалардаЉы Ќызметкерлер МининніЏ барында отырады, біз олармен жќмысЌа оралЉанын келісуіміз керек." isMainQuest="1">
 		<Map name="r1m3" targetObjName="Minin" />
 	</QuestInfo>
 
-	<QuestInfo questName="d_FindZasadaInTunel_Quest" briefDiz="Жазу yшін орын табыныз" fullDiz="Эрине, ерте ме, кеш пе біреу туннельден кетеді. Менде бар жэне мен кілтпен айналысамын. Ен бастысы кyту." isMainQuest="1">
+	<QuestInfo questName="d_FindZasadaInTunel_Quest" briefDiz="Жазу џшін орын табыЏыз" fullDiz="†рине, ерте ме, кеш пе біреу туннельден кетеді. Менде бар ж‡не мен кілтпен айналысамын. ЕЏ бастысы кџту." isMainQuest="1">
 		<Map name="r1m3" targetObjName="ZasadaLocQ" />
 	</QuestInfo>
 
-	<QuestInfo questName="d_FirstVillage_Quest" briefDiz="Генденбург ауылына колікті kадаfаланыз" isMainQuest="1">
+	<QuestInfo questName="d_FirstVillage_Quest" briefDiz="Генденбург ауылына кљлікті ЌадаЉалаЏыз" isMainQuest="1">
 		<Map name="r2m1" targetObjName="KARAVANvvt_vehicle_0" />
 	</QuestInfo>
 
-	<QuestInfo questName="d_FreeTunel_Quest" briefDiz="Туннельді тегін" fullDiz="Осы уаkытkа дейін, AR ресурстар мен жалдамалы туннельдер арkылы алады. Оны басып алfаннан кейін ТМД басkыншылар yшін манызды артерияны жояды. Мyны істеу yшін сіз барлыk кyзетшілерді олтіруініз керек." isMainQuest="1" />
+	<QuestInfo questName="d_FreeTunel_Quest" briefDiz="Туннельді тегін" fullDiz="Осы уаЌытЌа дейін, AR ресурстар мен жалдамалы туннельдер арЌылы алады. Оны басып алЉаннан кейін ТМД басЌыншылар џшін маЏызды артерияны жояды. Мќны істеу џшін сіз барлыЌ кџзетшілерді љлтіруіЏіз керек." isMainQuest="1" />
 
-	<QuestInfo questName="d_FreeTunel_Quest1" briefDiz="Туннельге барыныз" isMainQuest="1">
+	<QuestInfo questName="d_FreeTunel_Quest1" briefDiz="Туннельге барыЏыз" isMainQuest="1">
 		<Map name="r2m1" targetObjName="TunnelAttackLocation" />
 	</QuestInfo>
 
-	<QuestInfo questName="d_FreeTunel_Quest2" briefDiz="Бандиттерді олтірініз" isMainQuest="1">
+	<QuestInfo questName="d_FreeTunel_Quest2" briefDiz="Бандиттерді љлтіріЏіз" isMainQuest="1">
 		<Map name="r2m1" targetObjName="TunelTeamFighters" />
 	</QuestInfo>
 
-	<QuestInfo questName="d_FromTuzzToGelvetcia_Quest" briefDiz="Гельветияfа барыныз" fullDiz="Менін іс-эрекеттерім енбегі бойынша баfаланды, жэне мені ТМД-нын жоfарfы бyйрыfымен yсынады." isMainQuest="1">
+	<QuestInfo questName="d_FromTuzzToGelvetcia_Quest" briefDiz="ГельветияЉа барыЏыз" fullDiz="МеніЏ іс-‡рекеттерім еЏбегі бойынша баЉаланды, ж‡не мені ТМД-ныЏ жоЉарЉы бќйрыЉымен ќсынады." isMainQuest="1">
 		<Map name="r2m1" targetObjName="TheGelvetcia" />
 	</QuestInfo>
 
-	<QuestInfo questName="d_GetAkselBandit_Quest" briefDiz="Акселге барыныз" fullDiz="Шындыk сэті жаkын. Коп yзамай мен козге kарай аламын." isMainQuest="1">
+	<QuestInfo questName="d_GetAkselBandit_Quest" briefDiz="Акселге барыЏыз" fullDiz="ШындыЌ с‡ті жаЌын. Кљп ќзамай мен кљзге Ќарай аламын." isMainQuest="1">
 		<Map name="r2m1" targetObjName="ToR2M2small" />
 
 		<Map name="r2m2" targetObjName="Zeon" />
 	</QuestInfo>
 
-	<QuestInfo questName="d_GetBigBoom_Quest" briefDiz="Цайккадаfы кyшті kаруды табыныз" isMainQuest="1">
+	<QuestInfo questName="d_GetBigBoom_Quest" briefDiz="ЦайккадаЉы кџшті Ќаруды табыЏыз" isMainQuest="1">
 		<Map name="r1m1" targetObjName="TheOilVillage" />
 	</QuestInfo>
 
-	<QuestInfo questName="d_GetBomb_Quest" briefDiz="Жарылfыш заттарды алыныз" fullDiz="Песте тyрfындары маfан рykсат беру yшін мен бандиттік шабуылдар kаупін жоюым керек. Мyны істеудін ен онай жолы - олардын негізіне апаратын копірді тарату." isMainQuest="1">
+	<QuestInfo questName="d_GetBomb_Quest" briefDiz="ЖарылЉыш заттарды алыЏыз" fullDiz="Песте тќрЉындары маЉан рќЌсат беру џшін мен бандиттік шабуылдар Ќаупін жоюым керек. Мќны істеудіЏ еЏ оЏай жолы - олардыЏ негізіне апаратын кљпірді тарату." isMainQuest="1">
 		<Map name="r1m3" />
 	</QuestInfo>
 
-	<QuestInfo questName="d_GetHelpWorkersInMinin_Quest" briefDiz="Жалыkтыру" fullDiz="Эрі kарай солтyстікке бару yшін маfан мyнай ондіруді kyру керек. Содан кейін мен солтyстікке kарай сауда керуенімен бара аламын." isMainQuest="1">
+	<QuestInfo questName="d_GetHelpWorkersInMinin_Quest" briefDiz="ЖалыЌтыру" fullDiz="†рі Ќарай солтџстікке бару џшін маЉан мќнай љндіруді Ќќру керек. Содан кейін мен солтџстікке Ќарай сауда керуенімен бара аламын." isMainQuest="1">
 		<Map name="r1m3" />
 	</QuestInfo>
 
-	<QuestInfo questName="d_GetSupportOneOfTheBands1_Quest" briefDiz="Yлкен топтын kолдауын kосады" fullDiz="Жаман жаналыkтар. Тyлкі - бyл жергілікті биліктін kызы. Мен оfан жалfыз kол жеткізе алатыным екіталай. Біз одаkтастарды іздеуіміз керек." isMainQuest="1">
+	<QuestInfo questName="d_GetSupportOneOfTheBands1_Quest" briefDiz="ћлкен топтыЏ Ќолдауын Ќосады" fullDiz="Жаман жаЏалыЌтар. Тџлкі - бќл жергілікті биліктіЏ Ќызы. Мен оЉан жалЉыз Ќол жеткізе алатыным екіталай. Біз одаЌтастарды іздеуіміз керек." isMainQuest="1">
 		<Map name="r2m1" />
 
 		<Map name="r2m2" />
 	</QuestInfo>
 
-	<QuestInfo questName="d_GetSupportOneOfTheBands2_Quest" briefDiz="Yлкен топтын kолдауын kосады" fullDiz="Мен тек Axel-ге жете алмайтын сияkтымын. Yлкен топтын kолдауын шаkыру керек." isMainQuest="1">
+	<QuestInfo questName="d_GetSupportOneOfTheBands2_Quest" briefDiz="ћлкен топтыЏ Ќолдауын Ќосады" fullDiz="Мен тек Axel-ге жете алмайтын сияЌтымын. ћлкен топтыЏ Ќолдауын шаЌыру керек." isMainQuest="1">
 		<Map name="r2m1" />
 
 		<Map name="r2m2" />
 	</QuestInfo>
 
-	<QuestInfo questName="d_GiveMoneyToBase_Quest" briefDiz="Саяхатkа аkша жинаныз" fullDiz="Бандиттер маfан оз елдері арkылы 10 000 адамfа рykсат беруге келіседі." isMainQuest="1">
+	<QuestInfo questName="d_GiveMoneyToBase_Quest" briefDiz="СаяхатЌа аЌша жинаЏыз" fullDiz="Бандиттер маЉан љз елдері арЌылы 10 000 адамЉа рќЌсат беруге келіседі." isMainQuest="1">
 		<Map name="r1m3" targetObjName="BaseGuardian_enter" />
 	</QuestInfo>
 
-	<QuestInfo questName="d_GiveProblemToBase_Quest" briefDiz="Олармен байланысkан бандиттерді корсетініз" fullDiz="Бyл жyлдыздар тyсінген жалfыз тіл - кадрлардын дыбысы. Мен оларfа корсетемін!" isMainQuest="1">
+	<QuestInfo questName="d_GiveProblemToBase_Quest" briefDiz="Олармен байланысЌан бандиттерді кљрсетіЏіз" fullDiz="Бќл жќлдыздар тџсінген жалЉыз тіл - кадрлардыЏ дыбысы. Мен оларЉа кљрсетемін!" isMainQuest="1">
 		<Map name="r1m3" targetObjName="Argument" />
 	</QuestInfo>
 
@@ -438,109 +438,109 @@
 		<Map name="r1m2" />
 	</QuestInfo>
 
-	<QuestInfo questName="d_HelpSideVillageSNG_Quest" briefDiz="Шекара ауылын kорfау" fullDiz="Кішкентай елді мекендер yнемі скарлеттік таннын yрпаkтарымен шабуылfа yшырайды. Мен шабуылдын алдын аламын, жэне мен оны жасаймын." isMainQuest="1" />
+	<QuestInfo questName="d_HelpSideVillageSNG_Quest" briefDiz="Шекара ауылын ЌорЉау" fullDiz="Кішкентай елді мекендер џнемі скарлеттік таЏныЏ ќрпаЌтарымен шабуылЉа ќшырайды. Мен шабуылдыЏ алдын аламын, ж‡не мен оны жасаймын." isMainQuest="1" />
 
-	<QuestInfo questName="d_HelpSideVillageSNG_Quest1" briefDiz="Ауылfа жету" isMainQuest="1">
+	<QuestInfo questName="d_HelpSideVillageSNG_Quest1" briefDiz="АуылЉа жету" isMainQuest="1">
 		<Map name="r2m1" targetObjName="TheUnderAttaks" />
 	</QuestInfo>
 
-	<QuestInfo questName="d_HelpSideVillageSNG_Quest2" briefDiz="Шабуылды kайталаныз" isMainQuest="1">
+	<QuestInfo questName="d_HelpSideVillageSNG_Quest2" briefDiz="Шабуылды ЌайталаЏыз" isMainQuest="1">
 		<Map name="r2m1" targetObjName="Razboy" />
 	</QuestInfo>
 
-	<QuestInfo questName="d_IntrigaOfMerMinin_Quest" briefDiz="Интригаларды тyсіну" fullDiz="Лас интригалардын арkасында кэсіподаkтын kызметкерлері мyнай ондіруден бас тартады. Мyмкін, экімнін сыбайлас жемkорлыk туралы kауесеті шындыkkа жаkын емес." isMainQuest="1">
+	<QuestInfo questName="d_IntrigaOfMerMinin_Quest" briefDiz="Интригаларды тџсіну" fullDiz="Лас интригалардыЏ арЌасында к‡сіподаЌтыЏ Ќызметкерлері мќнай љндіруден бас тартады. Мџмкін, ‡кімніЏ сыбайлас жемЌорлыЌ туралы Ќауесеті шындыЌЌа жаЌын емес." isMainQuest="1">
 		<Map name="r1m3" />
 	</QuestInfo>
 
-	<QuestInfo questName="d_KillFelix_Quest" briefDiz="Феликсты олтірініз" isMainQuest="1">
+	<QuestInfo questName="d_KillFelix_Quest" briefDiz="Феликсты љлтіріЏіз" isMainQuest="1">
 		<Map name="r1m1" targetObjName="FelixBanditCars3" />
 	</QuestInfo>
 
-	<QuestInfo questName="d_Lisa_Quest" briefDiz="Аумаkты корсетініз" fullDiz="Жyмбаk kыз оfан ауданды корсетуді yсынды. Мyмкін ол контрабанданы откізеді." isMainQuest="0">
+	<QuestInfo questName="d_Lisa_Quest" briefDiz="АумаЌты кљрсетіЏіз" fullDiz="ЖќмбаЌ Ќыз оЉан ауданды кљрсетуді ќсынды. Мџмкін ол контрабанданы љткізеді." isMainQuest="0">
 		<Map name="r1m1" />
 	</QuestInfo>
 
-	<QuestInfo questName="d_MeetLeaderGelvetcia_Quest" briefDiz="Kарсылыk басшысымен танысыныз" isMainQuest="1">
+	<QuestInfo questName="d_MeetLeaderGelvetcia_Quest" briefDiz="ЊарсылыЌ басшысымен танысыЏыз" isMainQuest="1">
 		<Map name="r2m1" />
 
 		<Map name="r2m2" targetObjName="Lager" />
 	</QuestInfo>
 
-	<QuestInfo questName="d_MeetWithGelvetciaSopr_Quest" briefDiz="Тосканнын kарсылыfына хабарласыныз" fullDiz="Міне, Акселге жаkындау мyмкіндігі. Мен Тосканьдаfы бyлікшілермен кездесуім керек жэне олардын хабарлауын деп санайтындардын бэрін білуге &#8203;&#8203;тура келеді." isMainQuest="1">
+	<QuestInfo questName="d_MeetWithGelvetciaSopr_Quest" briefDiz="ТосканныЏ ЌарсылыЉына хабарласыЏыз" fullDiz="Міне, Акселге жаЌындау мџмкіндігі. Мен ТосканьдаЉы бџлікшілермен кездесуім керек ж‡не олардыЏ хабарлауын деп санайтындардыЏ б‡рін білуге &#8203;&#8203;тура келеді." isMainQuest="1">
 		<Map name="r2m1" />
 
 		<Map name="r2m2" />
 	</QuestInfo>
 
-	<QuestInfo questName="d_MerIsThief_Quest" briefDiz="Экіммен сойлесу" isMainQuest="1">
+	<QuestInfo questName="d_MerIsThief_Quest" briefDiz="†кіммен сљйлесу" isMainQuest="1">
 		<Map name="r1m3" targetObjName="Minin" />
 	</QuestInfo>
 
-	<QuestInfo questName="d_MoveCanistraToMinin_Quest" briefDiz="Мyнайдын алfашkы канистрін мининге апарыныз" fullDiz="Бyл канистр - бyл жаkсы тапkан танба. Біз оны kалаfа апаруымыз керек." isMainQuest="1">
+	<QuestInfo questName="d_MoveCanistraToMinin_Quest" briefDiz="МќнайдыЏ алЉашЌы канистрін мининге апарыЏыз" fullDiz="Бќл канистр - бќл жаЌсы тапЌан таЏба. Біз оны ЌалаЉа апаруымыз керек." isMainQuest="1">
 		<Map name="r1m3" targetObjName="Minin" />
 	</QuestInfo>
 
-	<QuestInfo questName="d_MoveFreelancersToOilMine_Quest" briefDiz="Yнfымаfа kызметкерлер kабылданыз" fullDiz="Мен жyмысшыларды kyдыkkа апарfанымда, олар бірден жyмыс істей бастайды. Сонымен, менін солтyстікке сапарым жаkын арада отеді." isMainQuest="1">
+	<QuestInfo questName="d_MoveFreelancersToOilMine_Quest" briefDiz="њЏЉымаЉа Ќызметкерлер ЌабылдаЏыз" fullDiz="Мен жќмысшыларды ЌќдыЌЌа апарЉанымда, олар бірден жќмыс істей бастайды. Сонымен, меніЏ солтџстікке сапарым жаЌын арада љтеді." isMainQuest="1">
 		<Map name="r1m3" targetObjName="TheBanditOilMine" />
 	</QuestInfo>
 
-	<QuestInfo questName="d_MoveInParis_Quest" briefDiz="Жаfажайда" fullDiz="Маfан Aracle аралдарына апаратын су астындаfы туннельге кіре берісте кіруім керек." isMainQuest="1">
+	<QuestInfo questName="d_MoveInParis_Quest" briefDiz="ЖаЉажайда" fullDiz="МаЉан Aracle аралдарына апаратын су астындаЉы туннельге кіре берісте кіруім керек." isMainQuest="1">
 		<Map name="r2m1" targetObjName="ParisLocation" />
 	</QuestInfo>
 
-	<QuestInfo questName="d_MoveLeaderInGelvetcia_Quest" briefDiz="Кошбасшыны гелеветияfа жеткізініз" fullDiz="Алынfан барлыk нэрседен кейін бyлікшілердін кошбасшысы манызды аkпарат туралы хабарлауfа міндетті." isMainQuest="1">
+	<QuestInfo questName="d_MoveLeaderInGelvetcia_Quest" briefDiz="Кљшбасшыны гелеветияЉа жеткізіЏіз" fullDiz="АлынЉан барлыЌ н‡рседен кейін бџлікшілердіЏ кљшбасшысы маЏызды аЌпарат туралы хабарлауЉа міндетті." isMainQuest="1">
 		<Map name="r2m1" targetObjName="TheGelvetcia" />
 
 		<Map name="r2m2" targetObjName="ToR2M1" />
 	</QuestInfo>
 
-	<QuestInfo questName="d_MoveToMer_Quest" briefDiz="Экімнін сонынан kадаfаланыз" isMainQuest="1">
+	<QuestInfo questName="d_MoveToMer_Quest" briefDiz="†кімніЏ соЏынан ЌадаЉалаЏыз" isMainQuest="1">
 		<Map name="r1m3" targetObjName="MerCar_vehicle_0" />
 	</QuestInfo>
 
-	<QuestInfo questName="d_MoveToMinin_Quest" briefDiz="Мининге келініз" isMainQuest="1">
+	<QuestInfo questName="d_MoveToMinin_Quest" briefDiz="Мининге келіЏіз" isMainQuest="1">
 		<Map name="r1m2" />
 
 		<Map name="r1m3" targetObjName="Minin" />
 	</QuestInfo>
 
-	<QuestInfo questName="d_MoveToPesht_Quest" briefDiz="Пештеде мининге kалай жетуге болады" isMainQuest="1">
+	<QuestInfo questName="d_MoveToPesht_Quest" briefDiz="Пештеде мининге Ќалай жетуге болады" isMainQuest="1">
 		<Map name="r1m2" targetObjName="ToR1M3" />
 
 		<Map name="r1m3" targetObjName="Pesht" />
 	</QuestInfo>
 
-	<QuestInfo questName="d_MoveWithGeneralToGelvetcia_Quest" briefDiz="General Ar-ді гелеветияfа жеткізініз" fullDiz="Операция сэтті отті. Мен генерал Арkанды басып алдым. Гелеветияда ол білетін барлыk нэрсені айтуfа мэжбyр болады." isMainQuest="1">
+	<QuestInfo questName="d_MoveWithGeneralToGelvetcia_Quest" briefDiz="General Ar-ді гелеветияЉа жеткізіЏіз" fullDiz="Операция с‡тті љтті. Мен генерал АрЌанды басып алдым. Гелеветияда ол білетін барлыЌ н‡рсені айтуЉа м‡жбџр болады." isMainQuest="1">
 		<Map name="r2m1" targetObjName="TheGelvetcia" />
 	</QuestInfo>
 
-	<QuestInfo questName="d_MoveWorkersToOilMine_Quest" briefDiz="Kызметкерлерді kyдыkkа апарыныз" fullDiz="Kазір жyмысшылар оздерінін таfдырларынын иелері жэне олар жаkсы жyмыс істеуге келісті." isMainQuest="1">
+	<QuestInfo questName="d_MoveWorkersToOilMine_Quest" briefDiz="Њызметкерлерді ЌќдыЌЌа апарыЏыз" fullDiz="Њазір жќмысшылар љздерініЏ таЉдырларыныЏ иелері ж‡не олар жаЌсы жќмыс істеуге келісті." isMainQuest="1">
 		<Map name="r1m3" targetObjName="TheBanditOilMine" />
 	</QuestInfo>
 
-	<QuestInfo questName="d_OpenTunel_Quest" briefDiz="Кілтпен туннельді ашыныз" fullDiz="Менде туннельдін кілті бар. Бyл оны ашу yшін fана kалады." isMainQuest="1">
+	<QuestInfo questName="d_OpenTunel_Quest" briefDiz="Кілтпен туннельді ашыЏыз" fullDiz="Менде туннельдіЏ кілті бар. Бќл оны ашу џшін Љана Ќалады." isMainQuest="1">
 		<Map name="r1m3" targetObjName="ToR2M1" />
 	</QuestInfo>
 
-	<QuestInfo questName="d_PatrulSideSNG_Quest" briefDiz="Шекараны патрульдеу" fullDiz="Менін алfашkы міндетім - шекараны жау вагондарына патрульдеу." isMainQuest="1">
+	<QuestInfo questName="d_PatrulSideSNG_Quest" briefDiz="Шекараны патрульдеу" fullDiz="МеніЏ алЉашЌы міндетім - шекараны жау вагондарына патрульдеу." isMainQuest="1">
 		<Map name="r2m1" targetObjName="SideLine" />
 	</QuestInfo>
 
-	<QuestInfo questName="d_PayWorkersMoney_Quest" briefDiz="Жаkтан жyмысшыларды жалданыз" fullDiz="Эрине, корші ауылда сіз kызметкерлермен келісе аласыз. Кішкене котеру yшін олар шахтада жyмыс істеуге келіседі." isMainQuest="1">
+	<QuestInfo questName="d_PayWorkersMoney_Quest" briefDiz="ЖаЌтан жќмысшыларды жалдаЏыз" fullDiz="†рине, кљрші ауылда сіз Ќызметкерлермен келісе аласыз. Кішкене кљтеру џшін олар шахтада жќмыс істеуге келіседі." isMainQuest="1">
 		<Map name="r1m3" targetObjName="TheVozleMinin" />
 	</QuestInfo>
 
-	<QuestInfo questName="d_PunishBandits_Quest" briefDiz="Бандиттермен кyресуге комектесініз" fullDiz="Аудан тyрfындары бандиттерді yйретуді yйfарды. Бyл атуды kолданудын тамаша мyмкіндігі." isMainQuest="0">
+	<QuestInfo questName="d_PunishBandits_Quest" briefDiz="Бандиттермен кџресуге кљмектесіЏіз" fullDiz="Аудан тќрЉындары бандиттерді џйретуді ќйЉарды. Бќл атуды ЌолданудыЏ тамаша мџмкіндігі." isMainQuest="0">
 		<Map name="r1m1" targetObjName="RevolutionTimeEndLoc" />
 	</QuestInfo>
 
-	<QuestInfo questName="d_ReturnToBen_Quest" briefDiz="Бенге оралу" fullDiz="Бyл жалfан белгі сияkты. Бен не істеу керектігін аныkтайды деп yміттенемін." isMainQuest="1">
+	<QuestInfo questName="d_ReturnToBen_Quest" briefDiz="Бенге оралу" fullDiz="Бќл жалЉан белгі сияЌты. Бен не істеу керектігін аныЌтайды деп џміттенемін." isMainQuest="1">
 		<Map name="r1m2" targetObjName="TheBen_House" />
 
 		<Map name="r1m3" targetObjName="ToR1M2" />
 	</QuestInfo>
 
-	<QuestInfo questName="d_ReturnToTuzzAfterCaravan_Quest" briefDiz="The ACE-ге оралу жэне есеп беру" isMainQuest="1">
+	<QuestInfo questName="d_ReturnToTuzzAfterCaravan_Quest" briefDiz="The ACE-ге оралу ж‡не есеп беру" isMainQuest="1">
 		<Map name="r2m1" targetObjName="KARAVANvvt_vehicle_0" />
 	</QuestInfo>
 
@@ -552,33 +552,33 @@
 		<Map name="r2m1" targetObjName="TheTuzz" />
 	</QuestInfo>
 
-	<QuestInfo questName="d_ReturntoMerOfMinin_Quest" briefDiz="Экімге yнfыманы бандиттерден босату туралы есеп берініз" isMainQuest="1">
+	<QuestInfo questName="d_ReturntoMerOfMinin_Quest" briefDiz="†кімге ќЏЉыманы бандиттерден босату туралы есеп беріЏіз" isMainQuest="1">
 		<Map name="r1m3" targetObjName="Minin" />
 	</QuestInfo>
 
-	<QuestInfo questName="d_RideAcrossBase_Quest" briefDiz="Озеннен басkа жерде отіп корініз" fullDiz="Мен озеннін арfы жаfына жетуім керек. Мyны тек Пешта немесе бандиттер аумаfында жасауfа болады ..." isMainQuest="1">
+	<QuestInfo questName="d_RideAcrossBase_Quest" briefDiz="ђзеннен басЌа жерде љтіп кљріЏіз" fullDiz="Мен љзенніЏ арЉы жаЉына жетуім керек. Мќны тек Пешта немесе бандиттер аумаЉында жасауЉа болады ..." isMainQuest="1">
 		<Map name="r1m3" targetObjName="BaseGuardian_enter" />
 	</QuestInfo>
 
-	<QuestInfo questName="d_SecondVillage_Quest" briefDiz="Колікті Руцк ауылына kадаfаланыз" isMainQuest="1">
+	<QuestInfo questName="d_SecondVillage_Quest" briefDiz="Кљлікті Руцк ауылына ЌадаЉалаЏыз" isMainQuest="1">
 		<Map name="r2m1" targetObjName="KARAVANvvt_vehicle_0" />
 	</QuestInfo>
 
-	<QuestInfo questName="d_SerchCarTunel_Quest" briefDiz="Машинаны орынданыз" fullDiz="Мен колікті туннельден kадаfалап, жyргізуші одан шыkkан кезде кілтті алуfа тырыса аламын." isMainQuest="1">
+	<QuestInfo questName="d_SerchCarTunel_Quest" briefDiz="Машинаны орындаЏыз" fullDiz="Мен кљлікті туннельден ЌадаЉалап, жџргізуші одан шыЌЌан кезде кілтті алуЉа тырыса аламын." isMainQuest="1">
 		<Map name="r1m3" targetObjName="Pioneer_vehicle_0" />
 	</QuestInfo>
 
-	<QuestInfo questName="d_SinFather_Quest" briefDiz="Экесінін kайтыс болfанынан кек" fullDiz="Киллер kай жерде жасырса, мен оны таба аламын жэне оны kылмыстар yшін жазалаймын!" isMainQuest="1">
+	<QuestInfo questName="d_SinFather_Quest" briefDiz="†кесініЏ Ќайтыс болЉанынан кек" fullDiz="Киллер Ќай жерде жасырса, мен оны таба аламын ж‡не оны Ќылмыстар џшін жазалаймын!" isMainQuest="1">
 		<Map name="r1m1" />
 	</QuestInfo>
 
-	<QuestInfo questName="d_SkladMidgardBen_Quest" briefDiz="Міне, Kоймаfа барыныз" isMainQuest="1">
+	<QuestInfo questName="d_SkladMidgardBen_Quest" briefDiz="Міне, ЊоймаЉа барыЏыз" isMainQuest="1">
 		<Map name="r1m2" targetObjName="Midragd" />
 	</QuestInfo>
 
-	<QuestInfo questName="d_TakeGeneralOfBandits_Quest" briefDiz="Бандиттердін жалпы санын басып алу" fullDiz="ТМД-нын бірнеше машиналарымен бірге мен жалпы AR-ді тyсіруім керек." isMainQuest="1" />
+	<QuestInfo questName="d_TakeGeneralOfBandits_Quest" briefDiz="БандиттердіЏ жалпы санын басып алу" fullDiz="ТМД-ныЏ бірнеше машиналарымен бірге мен жалпы AR-ді тџсіруім керек." isMainQuest="1" />
 
-	<QuestInfo questName="d_TakeGeneralOfBandits_Quest1" briefDiz="Буктуранын орнына барыныз" isMainQuest="1">
+	<QuestInfo questName="d_TakeGeneralOfBandits_Quest1" briefDiz="БуктураныЏ орнына барыЏыз" isMainQuest="1">
 		<Map name="r2m1" targetObjName="BossARLocation" />
 	</QuestInfo>
 
@@ -586,29 +586,29 @@
 		<Map name="r2m1" targetObjName="BossARCar" />
 	</QuestInfo>
 
-	<QuestInfo questName="d_TalkAboutAksel_Quest" briefDiz="Аkсель туралы сyраныз" fullDiz="Біз омель жэне оны kайдан табатын жергілікті тyрfындардан сyрауымыз керек." isMainQuest="1">
+	<QuestInfo questName="d_TalkAboutAksel_Quest" briefDiz="АЌсель туралы сќраЏыз" fullDiz="Біз омель ж‡не оны Ќайдан табатын жергілікті тќрЉындардан сќрауымыз керек." isMainQuest="1">
 		<Map name="r2m1" coordinate="6004.000 277.000 4372.000" />
 	</QuestInfo>
 
-	<QuestInfo questName="d_TalkAboutLisa_Quest" briefDiz="Тyлкі туралы сyраныз" fullDiz="Барлыfы тyлкіні біледі. Біреуі fана сyрауfа болады, жэне мен оны онай ала аламын." isMainQuest="1">
+	<QuestInfo questName="d_TalkAboutLisa_Quest" briefDiz="Тџлкі туралы сќраЏыз" fullDiz="БарлыЉы тџлкіні біледі. Біреуі Љана сќрауЉа болады, ж‡не мен оны оЏай ала аламын." isMainQuest="1">
 		<Map name="r2m1" coordinate="6004.000 277.000 4372.000" />
 	</QuestInfo>
 
-	<QuestInfo questName="d_TalkAboutVrataInMinin_Quest" briefDiz="Теніз kаkпалары туралы білініз" fullDiz="Мининдегі біреу теніз kаkпалары туралы білетін шыfар." isMainQuest="1">
+	<QuestInfo questName="d_TalkAboutVrataInMinin_Quest" briefDiz="ТеЏіз ЌаЌпалары туралы біліЏіз" fullDiz="Мининдегі біреу теЏіз ЌаЌпалары туралы білетін шыЉар." isMainQuest="1">
 		<Map name="r1m2" targetObjName="ToR1M3" />
 
 		<Map name="r1m3" targetObjName="Minin" />
 	</QuestInfo>
 
-	<QuestInfo questName="d_TalkMerAboutOilMineAttack_Quest" briefDiz="Экіммен сойлесу" isMainQuest="1">
+	<QuestInfo questName="d_TalkMerAboutOilMineAttack_Quest" briefDiz="†кіммен сљйлесу" isMainQuest="1">
 		<Map name="r1m3" targetObjName="Minin" />
 	</QuestInfo>
 
-	<QuestInfo questName="d_TrueAboutMer_Quest" briefDiz="Экімнін kылмысы туралы есеп" isMainQuest="1">
+	<QuestInfo questName="d_TrueAboutMer_Quest" briefDiz="†кімніЏ Ќылмысы туралы есеп" isMainQuest="1">
 		<Map name="r1m3" targetObjName="Minin" />
 	</QuestInfo>
 
-	<QuestInfo questName="d_TunelInAsgard_Quest" briefDiz="Асгардтаfы туннель туралы сyраныз" fullDiz="Kаfардта туннель туралы сyраныз." isMainQuest="1">
+	<QuestInfo questName="d_TunelInAsgard_Quest" briefDiz="АсгардтаЉы туннель туралы сќраЏыз" fullDiz="ЊаЉардта туннель туралы сќраЏыз." isMainQuest="1">
 		<Map name="r1m2" targetObjName="ToR1M3" />
 
 		<Map name="r1m3" targetObjName="Asgard" />
@@ -622,11 +622,11 @@
 		<Map name="r1m1" targetObjName="TheContraVillage" />
 	</QuestInfo>
 
-	<QuestInfo questName="d_Village3_Quest" briefDiz="Yшінші ауыл" isMainQuest="0">
+	<QuestInfo questName="d_Village3_Quest" briefDiz="ћшінші ауыл" isMainQuest="0">
 		<Map name="r1m1" targetObjName="TheFreedom" />
 	</QuestInfo>
 
-	<QuestInfo questName="d_WinLisaInBattle_Quest" briefDiz="Дуэльдегі тyлкіні женініз" fullDiz="Аkыры, мен фольга тyлкімен адал дуэльмен кyресемін!" isMainQuest="1">
+	<QuestInfo questName="d_WinLisaInBattle_Quest" briefDiz="Дуэльдегі тџлкіні жеЏіЏіз" fullDiz="АЌыры, мен фольга тџлкімен адал дуэльмен кџресемін!" isMainQuest="1">
 		<Map name="r2m1" targetObjName="LisaInCar_vehicle_0" />
 	</QuestInfo>
 
@@ -634,19 +634,19 @@
 		<Map name="r1m4" />
 	</QuestInfo>
 
-	<QuestInfo questName="q_FH2" briefDiz="Fileimon yйін kайтарыныз" isMainQuest="0">
+	<QuestInfo questName="q_FH2" briefDiz="Fileimon џйін ЌайтарыЏыз" isMainQuest="0">
 		<Map name="r1m4" targetObjName="FVPerch_enter" />
 	</QuestInfo>
 
-	<QuestInfo questName="q_FindHusbent" briefDiz="Кyйеуін табыныз" fullDiz="Эйел мені кyйеуімді yйге kайтаруды отінді. Ол озінен аздап, эйнекті немесе екеуін саfынfанды &#8203;&#8203;yнатады." isMainQuest="0" />
+	<QuestInfo questName="q_FindHusbent" briefDiz="Кџйеуін табыЏыз" fullDiz="†йел мені кџйеуімді џйге Ќайтаруды љтінді. Ол љзінен аздап, ‡йнекті немесе екеуін саЉынЉанды &#8203;&#8203;ќнатады." isMainQuest="0" />
 
-	<QuestInfo questName="q_PWS1" briefDiz="Оріске келініз" isMainQuest="0">
+	<QuestInfo questName="q_PWS1" briefDiz="ђріске келіЏіз" isMainQuest="0">
 		<Map name="r3m1" targetObjName="ToR3M2" />
 
 		<Map name="r3m2" targetObjName="SignPlace_loc" />
 	</QuestInfo>
 
-	<QuestInfo questName="q_PWS2" briefDiz="Fалымдарfа орталыk мyрагерлер туралы хабарланыз" isMainQuest="0">
+	<QuestInfo questName="q_PWS2" briefDiz="‰алымдарЉа орталыЌ мќрагерлер туралы хабарлаЏыз" isMainQuest="0">
 		<Map name="r1m1" targetObjName="ToR1M2" />
 
 		<Map name="r1m2" targetObjName="Midragd" />
@@ -664,31 +664,31 @@
 		<Map name="r3m2" targetObjName="ToR3M1" />
 	</QuestInfo>
 
-	<QuestInfo questName="q_PlaceWithSign" briefDiz="Орістегі оfаш белгілер" fullDiz="Друид оfаш белгілер онын орісінде пайда болfанын айтты. Онын есіне тyскенін кору керек." isMainQuest="0" />
+	<QuestInfo questName="q_PlaceWithSign" briefDiz="ђрістегі оЉаш белгілер" fullDiz="Друид оЉаш белгілер оныЏ љрісінде пайда болЉанын айтты. ОныЏ есіне тџскенін кљру керек." isMainQuest="0" />
 
-	<QuestInfo questName="q_VisitDruid" briefDiz="Друид кyтініз" fullDiz="Жалfыз Друид, мyмкін, оздігінен саfынfан шыfар. Ол ескі досынан kонаkyйді жеткізуі керек." isMainQuest="0">
+	<QuestInfo questName="q_VisitDruid" briefDiz="Друид кџтіЏіз" fullDiz="ЖалЉыз Друид, мџмкін, љздігінен саЉынЉан шыЉар. Ол ескі досынан ЌонаЌџйді жеткізуі керек." isMainQuest="0">
 		<Map name="r3m1" targetObjName="ToR3M2" />
 
 		<Map name="r3m2" targetObjName="AloneDruidBuilding" />
 	</QuestInfo>
 
-	<QuestInfo questName="r1m1_Botanik_Quest" briefDiz="Ботанистке дэрі-дэрмектер экелініз" fullDiz="Мен дэрі-дэрмектерді kайдан алуfа болатындыfы танkаларлыk? Мyмкін, kирандыларfа kарап тyрарлыk шыfар ..." isMainQuest="0">
+	<QuestInfo questName="r1m1_Botanik_Quest" briefDiz="Ботанистке д‡рі-д‡рмектер ‡келіЏіз" fullDiz="Мен д‡рі-д‡рмектерді Ќайдан алуЉа болатындыЉы таЏЌаларлыЌ? Мџмкін, ЌирандыларЉа Ќарап тќрарлыЌ шыЉар ..." isMainQuest="0">
 		<Map name="r1m1" targetObjName="BotanicHouse" />
 	</QuestInfo>
 
-	<QuestInfo questName="r1m1_FindBotanik_Quest" briefDiz="Fылыми нердті табыныз" fullDiz="Ескі сарбаз коп сойлесті. Менін ойымша, ботаника туралы аkпарат онын іс бойынша айтkан жалfыз мэні." isMainQuest="0">
+	<QuestInfo questName="r1m1_FindBotanik_Quest" briefDiz="‰ылыми нердті табыЏыз" fullDiz="Ескі сарбаз кљп сљйлесті. МеніЏ ойымша, ботаника туралы аЌпарат оныЏ іс бойынша айтЌан жалЉыз м‡ні." isMainQuest="0">
 		<Map name="r1m1" targetObjName="BotanicHouse" />
 	</QuestInfo>
 
-	<QuestInfo questName="r1m1_Hospital_Quest" briefDiz="Тасталfан аурухананы ізденіз" fullDiz="Олар маfан жаkын жерде тасталfан аурухана бар екенін айтты. Менін ойымша, сіз онда kызыkты нэрсе таба аласыз." isMainQuest="0">
+	<QuestInfo questName="r1m1_Hospital_Quest" briefDiz="ТасталЉан аурухананы іздеЏіз" fullDiz="Олар маЉан жаЌын жерде тасталЉан аурухана бар екенін айтты. МеніЏ ойымша, сіз онда ЌызыЌты н‡рсе таба аласыз." isMainQuest="0">
 		<Map name="r1m1" targetObjName="Hospital_Loc" />
 	</QuestInfo>
 
-	<QuestInfo questName="r1m2_FindHmirInMidgard" briefDiz="Керісінше" fullDiz="Дискіні сатkан адам Бенмен сэтсіз аяkталfаннан кейін миджардkа бара алады." isMainQuest="1">
+	<QuestInfo questName="r1m2_FindHmirInMidgard" briefDiz="Керісінше" fullDiz="Дискіні сатЌан адам Бенмен с‡тсіз аяЌталЉаннан кейін миджардЌа бара алады." isMainQuest="1">
 		<Map name="r1m2" targetObjName="Midragd" />
 	</QuestInfo>
 
-	<QuestInfo questName="r1m2_Glagiators_Quest" briefDiz="Гладиаторды аренада женініз" isMainQuest="1">
+	<QuestInfo questName="r1m2_Glagiators_Quest" briefDiz="Гладиаторды аренада жеЏіЏіз" isMainQuest="1">
 		<Map name="r1m2" targetObjName="Gladiator2" />
 
 		<Map name="r1m3" />
@@ -702,7 +702,7 @@
 		<Map name="r3m2" targetObjName="ToR3M1" />
 	</QuestInfo>
 
-	<QuestInfo questName="r1m2_GoToArena_Quest" briefDiz="Аренаfа жетініз" isMainQuest="1">
+	<QuestInfo questName="r1m2_GoToArena_Quest" briefDiz="АренаЉа жетіЏіз" isMainQuest="1">
 		<Map name="r1m2" targetObjName="Kolizey_location" />
 
 		<Map name="r1m3" targetObjName="ToR1M2" />
@@ -718,7 +718,7 @@
 		<Map name="r3m2" targetObjName="ToR3M1" />
 	</QuestInfo>
 
-	<QuestInfo questName="r1m2_MovemineralToMidgard_Quest" briefDiz="Міне, 100'000-ны миджардkа апарыныз" isMainQuest="1">
+	<QuestInfo questName="r1m2_MovemineralToMidgard_Quest" briefDiz="Міне, 100'000-ны миджардЌа апарыЏыз" isMainQuest="1">
 		<Map name="r1m2" targetObjName="Midragd" />
 
 		<Map name="r1m3" targetObjName="ToR1M3" />
@@ -732,7 +732,7 @@
 		<Map name="r3m2" targetObjName="ToR3M1" />
 	</QuestInfo>
 
-	<QuestInfo questName="r1m2_RedkiyMineral_Quest" briefDiz="Сирек туралы сyраныз" isMainQuest="1">
+	<QuestInfo questName="r1m2_RedkiyMineral_Quest" briefDiz="Сирек туралы сќраЏыз" isMainQuest="1">
 		<Map name="r1m2" targetObjName="TheTickets" />
 
 		<Map name="r1m3" />
@@ -746,7 +746,7 @@
 		<Map name="r3m2" targetObjName="ToR3M1" />
 	</QuestInfo>
 
-	<QuestInfo questName="r1m2_TW_BanAboutAlien" briefDiz="Бенмен таkтайша сойлесініз" fullDiz="Шетелдік kатысуымен онын саяхаттарында Ovjive бар-жоfын білу керек. Бен - маfан мyны айта алатын жалfыз адам." isMainQuest="1">
+	<QuestInfo questName="r1m2_TW_BanAboutAlien" briefDiz="Бенмен таЌтайша сљйлесіЏіз" fullDiz="Шетелдік Ќатысуымен оныЏ саяхаттарында Ovjive бар-жоЉын білу керек. Бен - маЉан мќны айта алатын жалЉыз адам." isMainQuest="1">
 		<Map name="r1m1" targetObjName="ToR1M2" />
 
 		<Map name="r1m2" targetObjName="TheBen_House" />
@@ -756,7 +756,7 @@
 		<Map name="r4m2" targetObjName="ToR4M1" />
 	</QuestInfo>
 
-	<QuestInfo questName="r1m2_TalkAboutRedkiyMineral_Quest" briefDiz="Ортанfыfа келініз" isMainQuest="1">
+	<QuestInfo questName="r1m2_TalkAboutRedkiyMineral_Quest" briefDiz="ОртаЏЉыЉа келіЏіз" isMainQuest="1">
 		<Map name="r1m2" targetObjName="Midragd" />
 
 		<Map name="r1m3" targetObjName="ToR1M2" />
@@ -770,53 +770,53 @@
 		<Map name="r3m2" targetObjName="ToR3M1" />
 	</QuestInfo>
 
-	<QuestInfo questName="r1m3_ArchHelp" briefDiz="Kарт адамды ал" fullDiz="Kарт адам одан оны тыныштыkтарfа апаруды отінді." isMainQuest="0">
+	<QuestInfo questName="r1m3_ArchHelp" briefDiz="Њарт адамды ал" fullDiz="Њарт адам одан оны тыныштыЌтарЉа апаруды љтінді." isMainQuest="0">
 		<Map name="r1m3" targetObjName="TheLibrary" />
 	</QuestInfo>
 
-	<QuestInfo questName="r1m3_BonnyAndKlideQuest" briefDiz="Конни мен kанfа комектеседі" fullDiz="Біз біртyрлі жас отбасымызды yйге апаруымыз керек. Олар kарапайым жyмыс yшін жаkсы сыйаkы береді." isMainQuest="0">
+	<QuestInfo questName="r1m3_BonnyAndKlideQuest" briefDiz="Конни мен ЌанЉа кљмектеседі" fullDiz="Біз біртџрлі жас отбасымызды џйге апаруымыз керек. Олар Ќарапайым жќмыс џшін жаЌсы сыйаЌы береді." isMainQuest="0">
 		<Map name="r1m3" targetObjName="TheTrap" />
 	</QuestInfo>
 
-	<QuestInfo questName="r1m3_CrazyManQuest" briefDiz="Ойын-сауыk орталыfын табыныз" fullDiz="Ойын-сауыk орталыfы - бyл жай fана жyмаk, бyл баланын жарнамалыk yрандарына kараfанда, Пешта." isMainQuest="0">
+	<QuestInfo questName="r1m3_CrazyManQuest" briefDiz="Ойын-сауыЌ орталыЉын табыЏыз" fullDiz="Ойын-сауыЌ орталыЉы - бќл жай Љана жќмаЌ, бќл баланыЏ жарнамалыЌ ќрандарына ЌараЉанда, Пешта." isMainQuest="0">
 		<Map name="r1m3" targetObjName="TheCircus" />
 	</QuestInfo>
 
-	<QuestInfo questName="r1m3_DestroyOracle" briefDiz="Oracle kyрfыныз" fullDiz="Коздерім ашылды: Oracle аkылсыз. Ол дереккозді жэне онын барлыk kyпияларын жоюfа тырысады. Біраk мен бyfан жол бермеймін!" isMainQuest="1">
+	<QuestInfo questName="r1m3_DestroyOracle" briefDiz="Oracle ЌќрЉыЏыз" fullDiz="Кљздерім ашылды: Oracle аЌылсыз. Ол дереккљзді ж‡не оныЏ барлыЌ Ќќпияларын жоюЉа тырысады. БіраЌ мен бќЉан жол бермеймін!" isMainQuest="1">
 		<Map name="r1m3" />
 	</QuestInfo>
 
-	<QuestInfo questName="r1m3_DestroyRadiationSource" briefDiz="Кедергілердін козін жою" fullDiz="Сел kаласындаfы электр станциясы - бyл кедергі kайнар козі болып табылады. Мен оны кем дегенде бірнеше минутkа кесудін жолын табуым керек." isMainQuest="1">
+	<QuestInfo questName="r1m3_DestroyRadiationSource" briefDiz="КедергілердіЏ кљзін жою" fullDiz="Сел ЌаласындаЉы электр станциясы - бќл кедергі Ќайнар кљзі болып табылады. Мен оны кем дегенде бірнеше минутЌа кесудіЏ жолын табуым керек." isMainQuest="1">
 		<Map name="r1m3" targetObjName="ToR2M1" />
 
 		<Map name="r2m1" targetObjName="TheSel" />
 	</QuestInfo>
 
-	<QuestInfo questName="r1m3_FightWithThief" briefDiz="Екінші дискіні yрыдан алыныз" fullDiz="Бyл yры ол кіммен кіммен байланысkанын элі білмейді! Диск менін kyным болады. Тек біреуіміздін kайтыс болуы біз бyл мэселені шеше аламыз." isMainQuest="1">
+	<QuestInfo questName="r1m3_FightWithThief" briefDiz="Екінші дискіні ќрыдан алыЏыз" fullDiz="Бќл ќры ол кіммен кіммен байланысЌанын ‡лі білмейді! Диск меніЏ Ќќным болады. Тек біреуіміздіЏ Ќайтыс болуы біз бќл м‡селені шеше аламыз." isMainQuest="1">
 		<Map name="r1m3" targetObjName="ThiefCar" />
 	</QuestInfo>
 
-	<QuestInfo questName="r1m3_FindHmirinSever" briefDiz="Солтyстікке kарай білу" fullDiz="Жyмбаk саудагердін yмтылуы мен кyткеннен кyрделене тyсті. Енді мен солтyстікке kарай Мининнін жолын білуім керек." isMainQuest="1">
+	<QuestInfo questName="r1m3_FindHmirinSever" briefDiz="Солтџстікке Ќарай білу" fullDiz="ЖќмбаЌ саудагердіЏ ќмтылуы мен кџткеннен кџрделене тџсті. Енді мен солтџстікке Ќарай МининніЏ жолын білуім керек." isMainQuest="1">
 		<Map name="r1m2" targetObjName="ToR1M3" />
 
 		<Map name="r1m3" targetObjName="Minin" />
 	</QuestInfo>
 
-	<QuestInfo questName="r1m3_FindManyWorkers_Quest" briefDiz="Yнfымадаfы жyмысшыларды табыныз" fullDiz="Тіпті бандиттерден босатылfан шахта оздігінен жyмыс істемейді. Бізге жyмысшылар kажет." isMainQuest="0">
+	<QuestInfo questName="r1m3_FindManyWorkers_Quest" briefDiz="њЏЉымадаЉы жќмысшыларды табыЏыз" fullDiz="Тіпті бандиттерден босатылЉан шахта љздігінен жќмыс істемейді. Бізге жќмысшылар Ќажет." isMainQuest="0">
 		<Map name="r1m3" />
 	</QuestInfo>
 
-	<QuestInfo questName="r1m3_FindThiefFromFatherHouse" briefDiz="Женіліс туралы білініз" fullDiz="Экелер yйінде бэрі тонкерілген. Мyмкін, мyнда не болfанын адамдар корген шыfар. Біз бардан сyрауымыз керек." isMainQuest="1">
+	<QuestInfo questName="r1m3_FindThiefFromFatherHouse" briefDiz="ЖеЏіліс туралы біліЏіз" fullDiz="†келер џйінде б‡рі тљЏкерілген. Мџмкін, мќнда не болЉанын адамдар кљрген шыЉар. Біз бардан сќрауымыз керек." isMainQuest="1">
 		<Map name="r1m3" targetObjName="Minin" />
 	</QuestInfo>
 
-	<QuestInfo questName="r1m3_FindVrata_KnowPlace" briefDiz="Kаkпанын kай жерде орналасkанын білініз" isMainQuest="1">
+	<QuestInfo questName="r1m3_FindVrata_KnowPlace" briefDiz="ЊаЌпаныЏ Ќай жерде орналасЌанын біліЏіз" isMainQuest="1">
 		<Map name="r1m3" targetObjName="ToR1M4" />
 
 		<Map name="r1m4" />
 	</QuestInfo>
 
-	<QuestInfo questName="r1m3_LisaWithOberegAndDisk_Quest" briefDiz="Тyлкітті либерутан ізденіз" fullDiz="Тyлкі тyмана мен дискілерді yрлады. Ол мyлдем жоfалып кеткенше оны kуып жету керек." isMainQuest="1">
+	<QuestInfo questName="r1m3_LisaWithOberegAndDisk_Quest" briefDiz="Тџлкітті либерутан іздеЏіз" fullDiz="Тџлкі тќмана мен дискілерді ќрлады. Ол мџлдем жоЉалып кеткенше оны Ќуып жету керек." isMainQuest="1">
 		<Map name="r1m3" />
 
 		<Map name="r2m1" />
@@ -824,7 +824,7 @@
 		<Map name="r2m2" />
 	</QuestInfo>
 
-	<QuestInfo questName="r1m3_MoveToOraculAfterThief" briefDiz="Екінші Дискіні ошіреді" fullDiz="Енді менде екі диск бар, мен аkыры экемнін таfдыры туралы біле аламын. Кyнделіктін мазмyны маfан онын ізімен жyруге комектеседі деп сенемін. Эрине, бyл Oracle-ге еліктеуге бару керек." isMainQuest="1">
+	<QuestInfo questName="r1m3_MoveToOraculAfterThief" briefDiz="Екінші Дискіні љшіреді" fullDiz="Енді менде екі диск бар, мен аЌыры ‡кемніЏ таЉдыры туралы біле аламын. КџнделіктіЏ мазмќны маЉан оныЏ ізімен жџруге кљмектеседі деп сенемін. †рине, бќл Oracle-ге еліктеуге бару керек." isMainQuest="1">
 		<Map name="r1m3" targetObjName="ToR1M4" />
 
 		<Map name="r1m4" targetObjName="ToR3M1" />
@@ -834,11 +834,11 @@
 		<Map name="r3m2" targetObjName="Oracle_loc" />
 	</QuestInfo>
 
-	<QuestInfo questName="r1m3_OldTownOutsiderCar_Quest" briefDiz="Kалfан kалада kашkын yстаныз" fullDiz="Ауылдан алыс емес kаладан жасалfан kалада бандит жасырылfан. Ауыл тyрfындары маfан оны олтіріп, жаkсы аkша береді." isMainQuest="0">
+	<QuestInfo questName="r1m3_OldTownOutsiderCar_Quest" briefDiz="ЊалЉан Ќалада ЌашЌын ќстаЏыз" fullDiz="Ауылдан алыс емес Ќаладан жасалЉан Ќалада бандит жасырылЉан. Ауыл тќрЉындары маЉан оны љлтіріп, жаЌсы аЌша береді." isMainQuest="0">
 		<Map name="r1m3" targetObjName="OldTownOutsiderCar" />
 	</QuestInfo>
 
-	<QuestInfo questName="r1m3_TW_OralceAboutAlien" briefDiz="Oracle-мен сойлесініз" fullDiz="Oracle шетелдіктерді жою yшін жеткілікті kуатты kаруды kайдан табуfа болатынын білуі керек. Бyл kорkынышты орынды жyз шаkырымдай кyйдіру керек!" isMainQuest="1">
+	<QuestInfo questName="r1m3_TW_OralceAboutAlien" briefDiz="Oracle-мен сљйлесіЏіз" fullDiz="Oracle шетелдіктерді жою џшін жеткілікті Ќуатты Ќаруды Ќайдан табуЉа болатынын білуі керек. Бќл ЌорЌынышты орынды жџз шаЌырымдай кџйдіру керек!" isMainQuest="1">
 		<Map name="r1m1" targetObjName="ToR1M3" />
 
 		<Map name="r1m3" targetObjName="ToR1M4" />
@@ -848,67 +848,67 @@
 		<Map name="r4m2" targetObjName="ToR4M1" />
 	</QuestInfo>
 
-	<QuestInfo questName="r1m3_TalkWithThiefFromFatherHouse" briefDiz="Yры табыныз" fullDiz="Yры, yры 51-де жасырынып жатыр, ол yрланfандарды сатуfа тырысады." isMainQuest="1">
+	<QuestInfo questName="r1m3_TalkWithThiefFromFatherHouse" briefDiz="њры табыЏыз" fullDiz="њры, ќры 51-де жасырынып жатыр, ол ќрланЉандарды сатуЉа тырысады." isMainQuest="1">
 		<Map name="r1m3" targetObjName="TheBase" />
 	</QuestInfo>
 
-	<QuestInfo questName="r1m3_ToLisaToAsgard" briefDiz="Тyлкімен yстап алыныз" fullDiz="Мен асыfуым керек! Тyлкі суыfанша, біз Асгардтан шыfуымыз керек." isMainQuest="1">
+	<QuestInfo questName="r1m3_ToLisaToAsgard" briefDiz="Тџлкімен ќстап алыЏыз" fullDiz="Мен асыЉуым керек! Тџлкі суыЉанша, біз Асгардтан шыЉуымыз керек." isMainQuest="1">
 		<Map name="r1m3" targetObjName="Asgard" />
 	</QuestInfo>
 
-	<QuestInfo questName="r1m4_FindVrata_GotoToGate" briefDiz="Kаkпаfа барыныз" isMainQuest="1">
+	<QuestInfo questName="r1m4_FindVrata_GotoToGate" briefDiz="ЊаЌпаЉа барыЏыз" isMainQuest="1">
 		<Map name="r1m4" targetObjName="ToR3M1" />
 	</QuestInfo>
 
-	<QuestInfo questName="r1m4_OvercomeMirras" briefDiz="Батпаkты жену" fullDiz="Шлюздін жолы батпаkты yрады. Екінші жаfына оту yшін сіз FORD немесе жолды табуыныз керек." isMainQuest="1">
+	<QuestInfo questName="r1m4_OvercomeMirras" briefDiz="БатпаЌты жеЏу" fullDiz="ШлюздіЏ жолы батпаЌты ќрады. Екінші жаЉына љту џшін сіз FORD немесе жолды табуыЏыз керек." isMainQuest="1">
 		<Map name="r1m4" targetObjName="MorassRoad_loc" />
 	</QuestInfo>
 
-	<QuestInfo questName="r1m4_TalkWithOldTraderAboutSecondDisk" briefDiz="Копесті табыныз" fullDiz="Бенді Oracle-дін сипаттамасына сэйкес келетін дискіні сатып алуfа yсынfан адам осы жерде бір жерде тyрады. Мен бyл дэл мен іздейтінім деп yміттенемін." isMainQuest="1">
+	<QuestInfo questName="r1m4_TalkWithOldTraderAboutSecondDisk" briefDiz="Кљпесті табыЏыз" fullDiz="Бенді Oracle-діЏ сипаттамасына с‡йкес келетін дискіні сатып алуЉа ќсынЉан адам осы жерде бір жерде тќрады. Мен бќл д‡л мен іздейтінім деп џміттенемін." isMainQuest="1">
 		<Map name="r1m3" targetObjName="ToR1M4" />
 
 		<Map name="r1m4" targetObjName="TheOlme_enter" />
 	</QuestInfo>
 
-	<QuestInfo questName="r2m1_ArtAntipod_Quest" briefDiz="Ежелгі білгімен сойлесу" fullDiz="Біреу ежелгі онердін мысалында kyнды шедеврді yрлады. Жіп ежелгі дэуірдін белгілі бір білушісіне апарады." isMainQuest="0">
+	<QuestInfo questName="r2m1_ArtAntipod_Quest" briefDiz="Ежелгі білгімен сљйлесу" fullDiz="Біреу ежелгі љнердіЏ мысалында Ќќнды шедеврді ќрлады. Жіп ежелгі д‡уірдіЏ белгілі бір білушісіне апарады." isMainQuest="0">
 		<Map name="r2m1" targetObjName="TheDoubtful" />
 	</QuestInfo>
 
-	<QuestInfo questName="r2m1_ArtGulik_Quest" briefDiz="Майдврді кесуден алыныз" fullDiz="Барлыk округтін кінэлі - бyл сыkkыштын бір тyрі. Оfан жету жэне шедевр алу керек. Kажет болса, кyшпен." isMainQuest="0">
+	<QuestInfo questName="r2m1_ArtGulik_Quest" briefDiz="Майдврді кесуден алыЏыз" fullDiz="БарлыЌ округтіЏ кін‡лі - бќл сыЌЌыштыЏ бір тџрі. ОЉан жету ж‡не шедевр алу керек. Њажет болса, кџшпен." isMainQuest="0">
 		<Map name="r2m1" targetObjName="GulikCar" />
 	</QuestInfo>
 
-	<QuestInfo questName="r2m1_ArtViva_Quest" briefDiz="Шедеврді kайтарыныз" fullDiz="Сыйаkы алу yшін сіз шедеврді эстетикалыk етіп kайтаруыныз керек. Сіз ойлаfанынызбен, элі де мyдделі тараптар бар." isMainQuest="0">
+	<QuestInfo questName="r2m1_ArtViva_Quest" briefDiz="Шедеврді ЌайтарыЏыз" fullDiz="СыйаЌы алу џшін сіз шедеврді эстетикалыЌ етіп ЌайтаруыЏыз керек. Сіз ойлаЉаныЏызбен, ‡лі де мџдделі тараптар бар." isMainQuest="0">
 		<Map name="r2m1" targetObjName="TheSel" />
 	</QuestInfo>
 
-	<QuestInfo questName="r2m1_DeployBloks" briefDiz="Kyлыпты орнатыныз" fullDiz="Nieri kyрылfысы коздін олім сэулесін бyfаттай алады. Біраk егер мен оны kyлаfан кеменін жаkын жерінде kойсам fана." isMainQuest="1">
+	<QuestInfo questName="r2m1_DeployBloks" briefDiz="Њќлыпты орнатыЏыз" fullDiz="Nieri ЌќрылЉысы кљздіЏ љлім с‡улесін бќЉаттай алады. БіраЌ егер мен оны ЌќлаЉан кеменіЏ жаЌын жерінде Ќойсам Љана." isMainQuest="1">
 		<Map name="r1m3" targetObjName="OraculEndLoc" />
 
 		<Map name="r2m1" targetObjName="ToR1M3" />
 	</QuestInfo>
 
-	<QuestInfo questName="r2m1_DestroyAlienShip" briefDiz="АЛИЕНТТЕРДІН БАСЫП АЛУ" fullDiz="Жанендердін эскери кемесі еш жерде пайда болды. Ол Oracle сигналдарын бyfаттайтын толkындарды шыfаратын адам. Жау адамзаттын kyтkарылуынын атынан жойылуы керек." isMainQuest="1">
+	<QuestInfo questName="r2m1_DestroyAlienShip" briefDiz="АЛИЕНТТЕРДІЋ БАСЫП АЛУ" fullDiz="ЖанендердіЏ ‡скери кемесі еш жерде пайда болды. Ол Oracle сигналдарын бќЉаттайтын толЌындарды шыЉаратын адам. Жау адамзаттыЏ ЌќтЌарылуыныЏ атынан жойылуы керек." isMainQuest="1">
 		<Map name="r2m1" targetObjName="ALIENSLoc" />
 	</QuestInfo>
 
-	<QuestInfo questName="r2m1_KillGodFather_Quest" briefDiz="Мафиянын бастыfын жою" fullDiz="Mafia бастыfы маfан оз тауарларын yрлаfанын білсе, коптеген kиындыkтар тудыруы мyмкін. Біз оны осы болмай тyрып олтіруіміз керек." isMainQuest="0">
+	<QuestInfo questName="r2m1_KillGodFather_Quest" briefDiz="МафияныЏ бастыЉын жою" fullDiz="Mafia бастыЉы маЉан љз тауарларын ќрлаЉанын білсе, кљптеген ЌиындыЌтар тудыруы мџмкін. Біз оны осы болмай тќрып љлтіруіміз керек." isMainQuest="0">
 		<Map name="r2m1" targetObjName="BossNarcotikCar_vehicle_0" />
 	</QuestInfo>
 
-	<QuestInfo questName="r2m1_KillNarcoticsCaravan_Quest" briefDiz="Тасымалдауды жойып, жyктемені алыныз" isMainQuest="0">
+	<QuestInfo questName="r2m1_KillNarcoticsCaravan_Quest" briefDiz="Тасымалдауды жойып, жџктемені алыЏыз" isMainQuest="0">
 		<Map name="r2m1" targetObjName="CaravanWithNarcotikCars" />
 	</QuestInfo>
 
-	<QuestInfo questName="r2m1_ReturnNarcotics_Quest" briefDiz="Крикске тауарлармен оралыныз" isMainQuest="0">
+	<QuestInfo questName="r2m1_ReturnNarcotics_Quest" briefDiz="Крикске тауарлармен оралыЏыз" isMainQuest="0">
 		<Map name="r2m1" targetObjName="TheGelvetcia" />
 	</QuestInfo>
 
-	<QuestInfo questName="r2m1_TW_AlienInShip" briefDiz="Шыналармен сойлесу" fullDiz="Бyл kандай сэттілік! Станциядаfы проблемалардын арkасында шетелдіктер оздерінін базаларында шыfарылды. Енді мен олармен сойлесе аламын." isMainQuest="1">
+	<QuestInfo questName="r2m1_TW_AlienInShip" briefDiz="Шыналармен сљйлесу" fullDiz="Бќл Ќандай с‡ттілік! СтанциядаЉы проблемалардыЏ арЌасында шетелдіктер љздерініЏ базаларында шыЉарылды. Енді мен олармен сљйлесе аламын." isMainQuest="1">
 		<Map name="r2m1" targetObjName="ALIENSLoc" />
 	</QuestInfo>
 
-	<QuestInfo questName="r2m1_TW_SellsCivilian" briefDiz="Ауыл тyрfындарымен сойлесініз" fullDiz="Осы kалалыk-электростанциянын манындаfы жерде, олардын иелері бір кездері Oliens белсенділігін байkады." isMainQuest="1">
+	<QuestInfo questName="r2m1_TW_SellsCivilian" briefDiz="Ауыл тќрЉындарымен сљйлесіЏіз" fullDiz="Осы ЌалалыЌ-электростанцияныЏ маЏындаЉы жерде, олардыЏ иелері бір кездері Oliens белсенділігін байЌады." isMainQuest="1">
 		<Map name="r1m2" targetObjName="ToR1M3" />
 
 		<Map name="r1m3" targetObjName="ToR2M1" />
@@ -916,67 +916,67 @@
 		<Map name="r2m1" targetObjName="TheSel" />
 	</QuestInfo>
 
-	<QuestInfo questName="r2m1_TakeNarcotics_Quest" briefDiz="Жyктемені тyсіндірініз" fullDiz="Онтyстікке, тиынды сататын жyкпен тасымалдау жаkын арада осы жерден кетеді. Ол назардан тыс kалуfа тырысады, біраk мен yшін емес." isMainQuest="0">
+	<QuestInfo questName="r2m1_TakeNarcotics_Quest" briefDiz="Жџктемені тџсіндіріЏіз" fullDiz="ОЏтџстікке, тиынды сататын жџкпен тасымалдау жаЌын арада осы жерден кетеді. Ол назардан тыс ЌалуЉа тырысады, біраЌ мен џшін емес." isMainQuest="0">
 		<Map name="r2m1" />
 	</QuestInfo>
 
-	<QuestInfo questName="r2m2_AferaARSNG" briefDiz="Озінізді kарсылыkтан шыfарыныз" fullDiz="Менін міндетім - ТМД-нын агенті болып коріну арkылы kарсылыkтар kатарына кіру. Мен келуім мен парольді білемін. Бyл жеткілікті болуы керек." isMainQuest="1">
+	<QuestInfo questName="r2m2_AferaARSNG" briefDiz="ђзіЏізді ЌарсылыЌтан шыЉарыЏыз" fullDiz="МеніЏ міндетім - ТМД-ныЏ агенті болып кљріну арЌылы ЌарсылыЌтар Ќатарына кіру. Мен келуім мен парольді білемін. Бќл жеткілікті болуы керек." isMainQuest="1">
 		<Map name="r2m2" targetObjName="Toskana" />
 	</QuestInfo>
 
-	<QuestInfo questName="r2m2_AfterAfera" briefDiz="Матриядаfы есеп" fullDiz="Марапаттау yшін жэне жана тапсырма yшін оралу уаkыты келді." isMainQuest="1">
+	<QuestInfo questName="r2m2_AfterAfera" briefDiz="МатриядаЉы есеп" fullDiz="Марапаттау џшін ж‡не жаЏа тапсырма џшін оралу уаЌыты келді." isMainQuest="1">
 		<Map name="r2m2" targetObjName="Marezzia" />
 	</QuestInfo>
 
-	<QuestInfo questName="r2m2_DestroySNGKaravan" briefDiz="Жаудын артkы жаfын сындырыныз" fullDiz="Менін міндетім - колікті жою. Мен yрлай алатыннын бэрі менікі." isMainQuest="1">
+	<QuestInfo questName="r2m2_DestroySNGKaravan" briefDiz="ЖаудыЏ артЌы жаЉын сындырыЏыз" fullDiz="МеніЏ міндетім - кљлікті жою. Мен ќрлай алатынныЏ б‡рі менікі." isMainQuest="1">
 		<Map name="r2m1" />
 
 		<Map name="r2m2" />
 	</QuestInfo>
 
-	<QuestInfo questName="r2m2_FightFelix" briefDiz="Феликстін женуі" fullDiz="Феликс таfы да менін жолымда тyрды. Бyл жолы мен оны аямаймын!" isMainQuest="1" />
+	<QuestInfo questName="r2m2_FightFelix" briefDiz="ФеликстіЏ жеЏуі" fullDiz="Феликс таЉы да меніЏ жолымда тќрды. Бќл жолы мен оны аямаймын!" isMainQuest="1" />
 
-	<QuestInfo questName="r2m2_FightFelix_1" briefDiz="Аренаfа жетініз" isMainQuest="1">
+	<QuestInfo questName="r2m2_FightFelix_1" briefDiz="АренаЉа жетіЏіз" isMainQuest="1">
 		<Map name="r2m2" targetObjName="Arena" />
 	</QuestInfo>
 
-	<QuestInfo questName="r2m2_FightFelix_2" briefDiz="Феликстін женуі" isMainQuest="1">
+	<QuestInfo questName="r2m2_FightFelix_2" briefDiz="ФеликстіЏ жеЏуі" isMainQuest="1">
 		<Map name="r2m2" targetObjName="FelixCars_vehicle_0" />
 	</QuestInfo>
 
-	<QuestInfo questName="r2m2_FightFelix_3" briefDiz="Монастырfа оралу" isMainQuest="1">
+	<QuestInfo questName="r2m2_FightFelix_3" briefDiz="МонастырЉа оралу" isMainQuest="1">
 		<Map name="r2m2" targetObjName="Monastery" />
 	</QuestInfo>
 
-	<QuestInfo questName="r2m2_FightLisaToMonastir" briefDiz="Тyлкіні тоkтатыныз" fullDiz="Кез-келген жолмен тyлкіні тоkтату керек. Мен бyдан былай оны алдап кетпеймін!" isMainQuest="1">
+	<QuestInfo questName="r2m2_FightLisaToMonastir" briefDiz="Тџлкіні тоЌтатыЏыз" fullDiz="Кез-келген жолмен тџлкіні тоЌтату керек. Мен бќдан былай оны алдап кетпеймін!" isMainQuest="1">
 		<Map name="r2m2" targetObjName="LisaRunCar_vehicle_0" />
 	</QuestInfo>
 
-	<QuestInfo questName="r2m2_FightWithAxelInArena_Quest" briefDiz="Акселмен кyресініз" fullDiz="Мен аренадаfы AXEL-мен кyресемін жэне оны маfан айтыныз." isMainQuest="1" />
+	<QuestInfo questName="r2m2_FightWithAxelInArena_Quest" briefDiz="Акселмен кџресіЏіз" fullDiz="Мен аренадаЉы AXEL-мен кџресемін ж‡не оны маЉан айтыЏыз." isMainQuest="1" />
 
 	<QuestInfo questName="r2m2_FightWithAxelInArena_Quest1" isMainQuest="1">
 		<Map name="r2m2" coordinate="3318.000 280.000 1260.000" />
 	</QuestInfo>
 
-	<QuestInfo questName="r2m2_FightWithAxelInArena_Quest_1" briefDiz="Аренадаfы AXEL-мен кездесініз" isMainQuest="1">
+	<QuestInfo questName="r2m2_FightWithAxelInArena_Quest_1" briefDiz="АренадаЉы AXEL-мен кездесіЏіз" isMainQuest="1">
 		<Map name="r2m2" targetObjName="Arena" />
 	</QuestInfo>
 
-	<QuestInfo questName="r2m2_FightWithAxelInArena_Quest_2" briefDiz="Акселді жену" isMainQuest="1">
+	<QuestInfo questName="r2m2_FightWithAxelInArena_Quest_2" briefDiz="Акселді жеЏу" isMainQuest="1">
 		<Map name="r2m2" targetObjName="AxelCarWar_vehicle_0" />
 	</QuestInfo>
 
-	<QuestInfo questName="r2m2_FindLisAfterAxelAndFatherDie_Quest" briefDiz="Kаладаfы тyлкіні ізденіз" fullDiz="Аксел онын экесінін оліміне kатысы жоk деп ант берді. Мен осы адамдардын арасында аздап тyрдым жэне kазір оfан сенуге бейім. Сонымен, сіз тyлкі табуыныз керек жэне оны маfан шындыkты айтыныз." isMainQuest="1">
+	<QuestInfo questName="r2m2_FindLisAfterAxelAndFatherDie_Quest" briefDiz="ЊаладаЉы тџлкіні іздеЏіз" fullDiz="Аксел оныЏ ‡кесініЏ љліміне Ќатысы жоЌ деп ант берді. Мен осы адамдардыЏ арасында аздап тќрдым ж‡не Ќазір оЉан сенуге бейім. Сонымен, сіз тџлкі табуыЏыз керек ж‡не оны маЉан шындыЌты айтыЏыз." isMainQuest="1">
 		<Map name="r2m1" targetObjName="TheSel" />
 
 		<Map name="r2m2" targetObjName="ToR2M1" />
 	</QuestInfo>
 
-	<QuestInfo questName="r2m2_FindMrPresident" briefDiz="Таfайындалfан жерге келініз" isMainQuest="1">
+	<QuestInfo questName="r2m2_FindMrPresident" briefDiz="ТаЉайындалЉан жерге келіЏіз" isMainQuest="1">
 		<Map name="r2m2" coordinate="756.000 261.000 3286.000" />
 	</QuestInfo>
 
-	<QuestInfo questName="r2m2_FindROMinCastle" briefDiz="Монастырfа келініз" fullDiz="Монастырfан шарапты монастырдан алу yшін кyдікті бір нэрсе бар ..." isMainQuest="1">
+	<QuestInfo questName="r2m2_FindROMinCastle" briefDiz="МонастырЉа келіЏіз" fullDiz="МонастырЉан шарапты монастырдан алу џшін кџдікті бір н‡рсе бар ..." isMainQuest="1">
 		<Map name="r2m2" targetObjName="Monastery" />
 	</QuestInfo>
 
@@ -984,21 +984,21 @@
 		<Map name="r2m1" targetObjName="KaravanSNGTill" />
 	</QuestInfo>
 
-	<QuestInfo questName="r2m2_GiveBardakToEnemy" briefDiz="Жау жиегіне шатасу" fullDiz="Психологиялыk шабуыл бастайтын кез келді. Бастау yшін мен солтyстіктін бірнеше патрульдік машиналарын жоюым керек." isMainQuest="1">
+	<QuestInfo questName="r2m2_GiveBardakToEnemy" briefDiz="Жау жиегіне шатасу" fullDiz="ПсихологиялыЌ шабуыл бастайтын кез келді. Бастау џшін мен солтџстіктіЏ бірнеше патрульдік машиналарын жоюым керек." isMainQuest="1">
 		<Map name="r2m2" targetObjName="SNGProviantRiders" />
 	</QuestInfo>
 
-	<QuestInfo questName="r2m2_GiveBardakToSideVillage" briefDiz="Ауылfа шабуыл жасау" fullDiz="Осы ауылдын тyрfындары жаумен kарым-kатынаста байkалды. Мен оfан шабуылдын негізгі баfыты бойынша ТМД кyштерін кешіктіруге шаkырамын." isMainQuest="1" />
+	<QuestInfo questName="r2m2_GiveBardakToSideVillage" briefDiz="АуылЉа шабуыл жасау" fullDiz="Осы ауылдыЏ тќрЉындары жаумен Ќарым-Ќатынаста байЌалды. Мен оЉан шабуылдыЏ негізгі баЉыты бойынша ТМД кџштерін кешіктіруге шаЌырамын." isMainQuest="1" />
 
-	<QuestInfo questName="r2m2_GiveBardakToSideVillage_1" briefDiz="Кyзетшіні жойыныз" isMainQuest="1">
+	<QuestInfo questName="r2m2_GiveBardakToSideVillage_1" briefDiz="Кџзетшіні жойыЏыз" isMainQuest="1">
 		<Map name="r2m2" targetObjName="SNGInVill1" />
 	</QuestInfo>
 
-	<QuestInfo questName="r2m2_GiveBardakToSideVillage_2" briefDiz="Арматуралар жойыныз" isMainQuest="1">
+	<QuestInfo questName="r2m2_GiveBardakToSideVillage_2" briefDiz="Арматуралар жойыЏыз" isMainQuest="1">
 		<Map name="r2m2" targetObjName="SNGInVill2" />
 	</QuestInfo>
 
-	<QuestInfo questName="r2m2_GiveDisk2ToOrakul" briefDiz="Екінші дискіні Oracle-ге алыныз" fullDiz="Енді менде екінші диск бар, мен аkыры, мен Oiven Doy-дін кyнделігін шеше аламын. Эрине, бyл Oracle-ге еліктеуге бару керек." isMainQuest="1">
+	<QuestInfo questName="r2m2_GiveDisk2ToOrakul" briefDiz="Екінші дискіні Oracle-ге алыЏыз" fullDiz="Енді менде екінші диск бар, мен аЌыры, мен Oiven Doy-діЏ кџнделігін шеше аламын. †рине, бќл Oracle-ге еліктеуге бару керек." isMainQuest="1">
 		<Map name="r1m3" />
 
 		<Map name="r1m4" />
@@ -1012,53 +1012,53 @@
 		<Map name="r3m2" targetObjName="Oracle_loc" />
 	</QuestInfo>
 
-	<QuestInfo questName="r2m2_GoToLibrium" briefDiz="Жау территориясына кірініз" isMainQuest="1">
+	<QuestInfo questName="r2m2_GoToLibrium" briefDiz="Жау территориясына кіріЏіз" isMainQuest="1">
 		<Map name="r2m2" targetObjName="ToR2M1" />
 	</QuestInfo>
 
-	<QuestInfo questName="r2m2_Head1HunterQuest" briefDiz="Пyтkа тап" isMainQuest="0">
+	<QuestInfo questName="r2m2_Head1HunterQuest" briefDiz="ПќтЌа тап" isMainQuest="0">
 		<Map name="r2m2" targetObjName="ShamanCar1_vehicle_0" />
 	</QuestInfo>
 
-	<QuestInfo questName="r2m2_Head2HunterQuest" briefDiz="Геретикті олтірініз" isMainQuest="0">
+	<QuestInfo questName="r2m2_Head2HunterQuest" briefDiz="Геретикті љлтіріЏіз" isMainQuest="0">
 		<Map name="r2m2" targetObjName="ShamanCar2_vehicle_0" />
 	</QuestInfo>
 
-	<QuestInfo questName="r2m2_HeadsHunterQuest" briefDiz="Абсесс таfайындау" fullDiz="Монастырьнын абсес мені секталарды ан аулауfа шаkырды. Неге жоk." isMainQuest="0">
+	<QuestInfo questName="r2m2_HeadsHunterQuest" briefDiz="Абсесс таЉайындау" fullDiz="МонастырьныЏ абсес мені секталарды аЏ аулауЉа шаЌырды. Неге жоЌ." isMainQuest="0">
 		<Map name="r2m2" />
 	</QuestInfo>
 
-	<QuestInfo questName="r2m2_HelpAllSNGPeople" briefDiz="Кошбасшыны саkтаныз" fullDiz="Котерілісшілердін кошбасшысы аман kалуы керек. Ол жау жоспарлары туралы манызды аkпарат туралы хабарлай алады." isMainQuest="1">
+	<QuestInfo questName="r2m2_HelpAllSNGPeople" briefDiz="Кљшбасшыны саЌтаЏыз" fullDiz="КљтерілісшілердіЏ кљшбасшысы аман Ќалуы керек. Ол жау жоспарлары туралы маЏызды аЌпарат туралы хабарлай алады." isMainQuest="1">
 		<Map name="r2m1" targetObjName="TheGelvetcia" />
 
 		<Map name="r2m2" targetObjName="ToR2M1" />
 	</QuestInfo>
 
-	<QuestInfo questName="r2m2_KillMrPresidentAndOther" briefDiz="Келіссоздер барысында ТМД кошбасшыларын олтірініз" fullDiz="Егер мен бyл соfысты тоkтатсам, мен Axel-дін kолынан марапат алfым келеді." isMainQuest="1">
+	<QuestInfo questName="r2m2_KillMrPresidentAndOther" briefDiz="Келіссљздер барысында ТМД кљшбасшыларын љлтіріЏіз" fullDiz="Егер мен бќл соЉысты тоЌтатсам, мен Axel-діЏ Ќолынан марапат алЉым келеді." isMainQuest="1">
 		<Map name="r2m2" targetObjName="LeadersSNG" />
 	</QuestInfo>
 
-	<QuestInfo questName="r2m2_MoveToZeonToAlex" briefDiz="Акселмен кездесініз" fullDiz="Акселдін kолынан марапат алу уаkыты келді. Бyл менін оfан ату kашыkтыfында жаkындаудын жалfыз мyмкіндігі." isMainQuest="1">
+	<QuestInfo questName="r2m2_MoveToZeonToAlex" briefDiz="Акселмен кездесіЏіз" fullDiz="АкселдіЏ Ќолынан марапат алу уаЌыты келді. Бќл меніЏ оЉан ату ЌашыЌтыЉында жаЌындаудыЏ жалЉыз мџмкіндігі." isMainQuest="1">
 		<Map name="r2m2" targetObjName="Zeon" />
 	</QuestInfo>
 
-	<QuestInfo questName="r2m2_OldDvigatel1_Quest" briefDiz="Kоkысты жаkын жерде алыныз" fullDiz="Кеше емес жyмыс - жyктемені бір жерден екінші жерге тасымалдау. Бyл оте kызыkты емес, біраk бyл жаkсы аkша маfан толенеді." isMainQuest="0">
+	<QuestInfo questName="r2m2_OldDvigatel1_Quest" briefDiz="ЊоЌысты жаЌын жерде алыЏыз" fullDiz="Кеше емес жќмыс - жџктемені бір жерден екінші жерге тасымалдау. Бќл љте ЌызыЌты емес, біраЌ бќл жаЌсы аЌша маЉан тљленеді." isMainQuest="0">
 		<Map name="r2m2" targetObjName="NewVillage" />
 	</QuestInfo>
 
-	<QuestInfo questName="r2m2_OldDvigatel2_Quest" briefDiz="Kоkысты kайтадан жетілгенге апарыныз" fullDiz="Ескі kозfалтkышты тасымалдау тарихы kызыkты болады. Мен оны ауылfа беруге уаkытым болfан жоk, мен оfан kайтару туралы отінішпен оралдым, оны kайтару туралы отінішпен оралдым." isMainQuest="0">
+	<QuestInfo questName="r2m2_OldDvigatel2_Quest" briefDiz="ЊоЌысты Ќайтадан жетілгенге апарыЏыз" fullDiz="Ескі ЌозЉалтЌышты тасымалдау тарихы ЌызыЌты болады. Мен оны ауылЉа беруге уаЌытым болЉан жоЌ, мен оЉан Ќайтару туралы љтінішпен оралдым, оны Ќайтару туралы љтінішпен оралдым." isMainQuest="0">
 		<Map name="r2m2" targetObjName="Marezzia" />
 	</QuestInfo>
 
-	<QuestInfo questName="r2m2_ReturnHeadsQuest" briefDiz="Монастырfа оралу" isMainQuest="0">
+	<QuestInfo questName="r2m2_ReturnHeadsQuest" briefDiz="МонастырЉа оралу" isMainQuest="0">
 		<Map name="r2m2" targetObjName="Monastery" />
 	</QuestInfo>
 
-	<QuestInfo questName="r2m2_ReturnToMarecciaFromCastle" briefDiz="Маретсияfа оралу" fullDiz="Марапаттау yшін ертерек жэне жана тапсырма yшін оралу уаkыты келді." isMainQuest="1">
+	<QuestInfo questName="r2m2_ReturnToMarecciaFromCastle" briefDiz="МаретсияЉа оралу" fullDiz="Марапаттау џшін ертерек ж‡не жаЏа тапсырма џшін оралу уаЌыты келді." isMainQuest="1">
 		<Map name="r2m2" targetObjName="Marezzia" />
 	</QuestInfo>
 
-	<QuestInfo questName="r2m2_ReturnToMarecciaFromKaravanSNG" briefDiz="Маретсияfа оралу" isMainQuest="1">
+	<QuestInfo questName="r2m2_ReturnToMarecciaFromKaravanSNG" briefDiz="МаретсияЉа оралу" isMainQuest="1">
 		<Map name="r2m1" targetObjName="ToR2M2" />
 
 		<Map name="r2m2" targetObjName="Marezzia" />
@@ -1068,25 +1068,25 @@
 		<Map name="r2m2" coordinate="1829.361 -1.916 3300.456" />
 	</QuestInfo>
 
-	<QuestInfo questName="r2m2_ReturnToMarecciaFromVillage" briefDiz="Маретсияfа оралу" fullDiz="Марапаттау yшін жэне жана тапсырма yшін оралу уаkыты келді." isMainQuest="1">
+	<QuestInfo questName="r2m2_ReturnToMarecciaFromVillage" briefDiz="МаретсияЉа оралу" fullDiz="Марапаттау џшін ж‡не жаЏа тапсырма џшін оралу уаЌыты келді." isMainQuest="1">
 		<Map name="r2m2" targetObjName="Marezzia" />
 	</QuestInfo>
 
-	<QuestInfo questName="r2m2_ToKillAllSNGPeople" briefDiz="Лагерь лагерін kиратыныз" fullDiz="Олар маfан kорfансыз котерілісшілерді олтіру туралы бyйрыk берді. Мен кyмэнмен азап шегемін, ойткені бyл наkты kылмыс." isMainQuest="1" />
+	<QuestInfo questName="r2m2_ToKillAllSNGPeople" briefDiz="Лагерь лагерін ЌиратыЏыз" fullDiz="Олар маЉан ЌорЉансыз кљтерілісшілерді љлтіру туралы бќйрыЌ берді. Мен кџм‡нмен азап шегемін, љйткені бќл наЌты Ќылмыс." isMainQuest="1" />
 
-	<QuestInfo questName="r2m2_ToKillAllSNGPeople_1" briefDiz="Бyлікшілерді табыныз" isMainQuest="1">
+	<QuestInfo questName="r2m2_ToKillAllSNGPeople_1" briefDiz="Бџлікшілерді табыЏыз" isMainQuest="1">
 		<Map name="r2m2" targetObjName="Lager" />
 	</QuestInfo>
 
-	<QuestInfo questName="r2m2_ToKillAllSNGPeople_2" briefDiz="Бyлікшілерді жойыныз" isMainQuest="1">
+	<QuestInfo questName="r2m2_ToKillAllSNGPeople_2" briefDiz="Бџлікшілерді жойыЏыз" isMainQuest="1">
 		<Map name="r2m2" targetObjName="LagerCarrrs" />
 	</QuestInfo>
 
-	<QuestInfo questName="r2m2_ToLisaToMonastir" briefDiz="Монастырьдаfы тyлкі туралы білініз" fullDiz="Сонfы аkпарат бойынша, тyлкі монастырьfа жасырынып жатыр. Онда мен оны басып озамын!" isMainQuest="1">
+	<QuestInfo questName="r2m2_ToLisaToMonastir" briefDiz="МонастырьдаЉы тџлкі туралы біліЏіз" fullDiz="СоЏЉы аЌпарат бойынша, тџлкі монастырьЉа жасырынып жатыр. Онда мен оны басып озамын!" isMainQuest="1">
 		<Map name="r2m2" targetObjName="Monastery" />
 	</QuestInfo>
 
-	<QuestInfo questName="r2m2_Znaki2Midgard_Quest" briefDiz="Мінежадтаfы fалымдардын белгілері туралы айтып берініз" fullDiz="Міне, ортаfа fалымдар мyндай аkпаратkа kызыfушылыk танытады. Мyмкін мен бyfан kосымша аkша таба аламын." isMainQuest="0">
+	<QuestInfo questName="r2m2_Znaki2Midgard_Quest" briefDiz="МінежадтаЉы ЉалымдардыЏ белгілері туралы айтып беріЏіз" fullDiz="Міне, ортаЉа Љалымдар мќндай аЌпаратЌа ЌызыЉушылыЌ танытады. Мџмкін мен бќЉан Ќосымша аЌша таба аламын." isMainQuest="0">
 		<Map name="r1m1" targetObjName="ToR1M2" />
 
 		<Map name="r1m2" targetObjName="Midragd" />
@@ -1104,11 +1104,11 @@
 		<Map name="r3m2" targetObjName="ToR3M1" />
 	</QuestInfo>
 
-	<QuestInfo questName="r2m2_Znaki2_Quest" briefDiz="Орісті kараныз" fullDiz="Орістердегі шаруаларды kорkатынын кору керек." isMainQuest="0">
+	<QuestInfo questName="r2m2_Znaki2_Quest" briefDiz="ђрісті ЌараЏыз" fullDiz="ђрістердегі шаруаларды ЌорЌатынын кљру керек." isMainQuest="0">
 		<Map name="r2m2" targetObjName="ZnakiLoc2" />
 	</QuestInfo>
 
-	<QuestInfo questName="r3m1_ClearSanctuary" briefDiz="Kасиетті тазартыныз" fullDiz="Друидтердін сеніміне ие болу yшін мен олардын fибадатханаларын болат kyбыждарынан тазартуым керек" isMainQuest="1">
+	<QuestInfo questName="r3m1_ClearSanctuary" briefDiz="Њасиетті тазартыЏыз" fullDiz="ДруидтердіЏ сеніміне ие болу џшін мен олардыЏ Љибадатханаларын болат Ќќбыждарынан тазартуым керек" isMainQuest="1">
 		<Map name="r1m4" targetObjName="ToR3M1" />
 
 		<Map name="r2m1" targetObjName="ToR3M1" />
@@ -1116,43 +1116,43 @@
 		<Map name="r3m1" />
 	</QuestInfo>
 
-	<QuestInfo questName="r3m1_ClearSanctuary_DestroyOut" briefDiz="Шыfуды kyбыжыk жолынан толтырыныз" isMainQuest="1">
+	<QuestInfo questName="r3m1_ClearSanctuary_DestroyOut" briefDiz="ШыЉуды ЌќбыжыЌ жолынан толтырыЏыз" isMainQuest="1">
 		<Map name="r3m1" targetObjName="ExitFromDung_loc" />
 	</QuestInfo>
 
-	<QuestInfo questName="r3m1_ClearSanctuary_GotoSanctuary" briefDiz="Kасиетті yйге жету" isMainQuest="1">
+	<QuestInfo questName="r3m1_ClearSanctuary_GotoSanctuary" briefDiz="Њасиетті џйге жету" isMainQuest="1">
 		<Map name="r3m1" targetObjName="NearStoneHendj_loc" />
 	</QuestInfo>
 
-	<QuestInfo questName="r3m1_ClearSanctuary_KillMonster" briefDiz="Монстрларды жойыныз" isMainQuest="1">
+	<QuestInfo questName="r3m1_ClearSanctuary_KillMonster" briefDiz="Монстрларды жойыЏыз" isMainQuest="1">
 		<Map name="r3m1" targetObjName="TeamLoggers" />
 	</QuestInfo>
 
-	<QuestInfo questName="r3m1_ClearSanctuary_ReturnDruid" briefDiz="Жиынfа оралыныз" isMainQuest="1">
+	<QuestInfo questName="r3m1_ClearSanctuary_ReturnDruid" briefDiz="ЖиынЉа оралыЏыз" isMainQuest="1">
 		<Map name="r3m1" targetObjName="Set_enter" />
 	</QuestInfo>
 
-	<QuestInfo questName="r3m1_ClearSanctuary_ReturnDruid2" briefDiz="Жиынfа оралыныз" isMainQuest="1">
+	<QuestInfo questName="r3m1_ClearSanctuary_ReturnDruid2" briefDiz="ЖиынЉа оралыЏыз" isMainQuest="1">
 		<Map name="r3m1" targetObjName="Set_enter" />
 	</QuestInfo>
 
-	<QuestInfo questName="r3m1_FindMoreNative" briefDiz="Бейбітшілік аборигиналарын табыныз" fullDiz="Халыk кездесті. Сіз басkа ауылдарды іздеуініз керек, онда олар жаkсыраk жиналады." isMainQuest="1">
+	<QuestInfo questName="r3m1_FindMoreNative" briefDiz="Бейбітшілік аборигиналарын табыЏыз" fullDiz="ХалыЌ кездесті. Сіз басЌа ауылдарды іздеуіЏіз керек, онда олар жаЌсыраЌ жиналады." isMainQuest="1">
 		<Map name="r3m1" />
 	</QuestInfo>
 
-	<QuestInfo questName="r3m1_FindNative" briefDiz="Жергілікті тyрfындарды табыныз" fullDiz="Бyл бyл жерлерде бірінші рет. Сіз жергілікті тyрfындарды тауып, олардан Oracle іздеу керектігін білгініз келеді." isMainQuest="1">
+	<QuestInfo questName="r3m1_FindNative" briefDiz="Жергілікті тќрЉындарды табыЏыз" fullDiz="Бќл бќл жерлерде бірінші рет. Сіз жергілікті тќрЉындарды тауып, олардан Oracle іздеу керектігін білгіЏіз келеді." isMainQuest="1">
 		<Map name="r1m4" targetObjName="ToR3M1" />
 
 		<Map name="r3m1" />
 	</QuestInfo>
 
-	<QuestInfo questName="r3m1_FindNative_2" briefDiz="Жергілікті тyрfындарды табыныз" fullDiz="Бyл бyл жерлерде бірінші рет. Сіз жергілікті тyрfындарды тауып, олардан Oracle іздеу керектігін білгініз келеді." isMainQuest="1">
+	<QuestInfo questName="r3m1_FindNative_2" briefDiz="Жергілікті тќрЉындарды табыЏыз" fullDiz="Бќл бќл жерлерде бірінші рет. Сіз жергілікті тќрЉындарды тауып, олардан Oracle іздеу керектігін білгіЏіз келеді." isMainQuest="1">
 		<Map name="r2m1" targetObjName="ToR3M1" />
 
 		<Map name="r3m1" />
 	</QuestInfo>
 
-	<QuestInfo questName="r3m1_GoToOracle" briefDiz="Oracle-ді kадаfаланыз" fullDiz="Сонында мен Oracle-ге жол таба алдым." isMainQuest="1">
+	<QuestInfo questName="r3m1_GoToOracle" briefDiz="Oracle-ді ЌадаЉалаЏыз" fullDiz="СоЏында мен Oracle-ге жол таба алдым." isMainQuest="1">
 		<Map name="r1m4" targetObjName="ToR3M1" />
 
 		<Map name="r2m1" targetObjName="ToR3M1" />
@@ -1162,7 +1162,7 @@
 		<Map name="r3m2" targetObjName="Oracle_loc" />
 	</QuestInfo>
 
-	<QuestInfo questName="r3m1_KnowAboutUluk" briefDiz="Улуктын не болfанын білініз" fullDiz="Yрпаkтан yзаk уаkыт жаналыkтар болfан жоk. Друидтер маfан тyрfындармен не болfанын білуді сyрайды." isMainQuest="0">
+	<QuestInfo questName="r3m1_KnowAboutUluk" briefDiz="УлуктыЏ не болЉанын біліЏіз" fullDiz="њрпаЌтан ќзаЌ уаЌыт жаЏалыЌтар болЉан жоЌ. Друидтер маЉан тќрЉындармен не болЉанын білуді сќрайды." isMainQuest="0">
 		<Map name="r3m1" />
 	</QuestInfo>
 
@@ -1170,11 +1170,11 @@
 		<Map name="r3m1" />
 	</QuestInfo>
 
-	<QuestInfo questName="r3m1_KnowAboutUluk_GotoUluk" briefDiz="Uluk-kа келініз" isMainQuest="0">
+	<QuestInfo questName="r3m1_KnowAboutUluk_GotoUluk" briefDiz="Uluk-Ќа келіЏіз" isMainQuest="0">
 		<Map name="r3m1" targetObjName="TheUluk" />
 	</QuestInfo>
 
-	<QuestInfo questName="r3m1_LureMainDriud" briefDiz="Жоfарfы Друидті алдау" fullDiz="Машина-жорушылар дуидтерді kyлатkысы келеді жэне kуатты тартып алfысы келеді. Сондыkтан олар Жоfарfы Друдты олтіргісі келеді. Егер мен оларfа комектессем, Oracle-ге kалай жетуге болатынын білемін." isMainQuest="1">
+	<QuestInfo questName="r3m1_LureMainDriud" briefDiz="ЖоЉарЉы Друидті алдау" fullDiz="Машина-жорушылар дуидтерді ЌќлатЌысы келеді ж‡не Ќуатты тартып алЉысы келеді. СондыЌтан олар ЖоЉарЉы Друдты љлтіргісі келеді. Егер мен оларЉа кљмектессем, Oracle-ге Ќалай жетуге болатынын білемін." isMainQuest="1">
 		<Map name="r1m4" targetObjName="ToR3M1" />
 
 		<Map name="r2m1" targetObjName="ToR3M1" />
@@ -1182,35 +1182,35 @@
 		<Map name="r3m1" />
 	</QuestInfo>
 
-	<QuestInfo questName="r3m1_LureMainDriud_Ambush" briefDiz="Друидті шабуыл орнына апарыныз" isMainQuest="1">
+	<QuestInfo questName="r3m1_LureMainDriud_Ambush" briefDiz="Друидті шабуыл орнына апарыЏыз" isMainQuest="1">
 		<Map name="r3m1" targetObjName="UlukAmush_loc" />
 	</QuestInfo>
 
-	<QuestInfo questName="r3m1_LureMainDriud_Talk" briefDiz="Друидпен сойлесініз" isMainQuest="1">
+	<QuestInfo questName="r3m1_LureMainDriud_Talk" briefDiz="Друидпен сљйлесіЏіз" isMainQuest="1">
 		<Map name="r3m1" targetObjName="TheSet" />
 	</QuestInfo>
 
-	<QuestInfo questName="r3m1_LureMainDriud_Uluk" briefDiz="Uluk-kа келініз" isMainQuest="1">
+	<QuestInfo questName="r3m1_LureMainDriud_Uluk" briefDiz="Uluk-Ќа келіЏіз" isMainQuest="1">
 		<Map name="r3m1" targetObjName="TheUluk" />
 	</QuestInfo>
 
-	<QuestInfo questName="r3m1_RescueUlukCivil" briefDiz="Улуктын тyрfындарын саkтаныз" fullDiz="Барлыk Uluka тyрfындары коліктер дініне барfан жоk. Друидтердін сеніміне адал болып kалfандар kудаланады. Мен оларды олім yшін kалдыра алмаймын." isMainQuest="0">
+	<QuestInfo questName="r3m1_RescueUlukCivil" briefDiz="УлуктыЏ тќрЉындарын саЌтаЏыз" fullDiz="БарлыЌ Uluka тќрЉындары кљліктер дініне барЉан жоЌ. ДруидтердіЏ сеніміне адал болып ЌалЉандар Ќудаланады. Мен оларды љлім џшін Ќалдыра алмаймын." isMainQuest="0">
 		<Map name="r3m1" />
 	</QuestInfo>
 
-	<QuestInfo questName="r3m1_RescueUlukCivil_GotoVillage" briefDiz="Уаkытша баспана алыныз" isMainQuest="0">
+	<QuestInfo questName="r3m1_RescueUlukCivil_GotoVillage" briefDiz="УаЌытша баспана алыЏыз" isMainQuest="0">
 		<Map name="r3m1" targetObjName="RescueCiv_loc" />
 	</QuestInfo>
 
-	<QuestInfo questName="r3m1_RescueUlukCivil_RepelAttack" briefDiz="Автомобильдердін шабуылын корсетініз" isMainQuest="0">
+	<QuestInfo questName="r3m1_RescueUlukCivil_RepelAttack" briefDiz="АвтомобильдердіЏ шабуылын кљрсетіЏіз" isMainQuest="0">
 		<Map name="r3m1" targetObjName="UlukArmy" />
 	</QuestInfo>
 
-	<QuestInfo questName="r3m1_RescueUlukCivil_TakeToSet" briefDiz="Оларды жиынfа алыныз" isMainQuest="0">
+	<QuestInfo questName="r3m1_RescueUlukCivil_TakeToSet" briefDiz="Оларды жиынЉа алыЏыз" isMainQuest="0">
 		<Map name="r3m1" targetObjName="BezhenVeh2" />
 	</QuestInfo>
 
-	<QuestInfo questName="r3m1_TalkWithMainDruid" briefDiz="Жоfарfы Друидке хабарласыныз" fullDiz="Жоfарfы Друд жиынтыkта тyрады. Мyмкін, ол Oracle-ті kайдан іздеу керектігін біледі." isMainQuest="1">
+	<QuestInfo questName="r3m1_TalkWithMainDruid" briefDiz="ЖоЉарЉы Друидке хабарласыЏыз" fullDiz="ЖоЉарЉы Друд жиынтыЌта тќрады. Мџмкін, ол Oracle-ті Ќайдан іздеу керектігін біледі." isMainQuest="1">
 		<Map name="r1m4" targetObjName="ToR3M1" />
 
 		<Map name="r2m1" targetObjName="ToR3M1" />
@@ -1218,11 +1218,11 @@
 		<Map name="r3m1" targetObjName="TheSet" />
 	</QuestInfo>
 
-	<QuestInfo questName="r3m2_DestroyOracleGuard" briefDiz="Oracle kорfаушыларды жойыныз" fullDiz="Егер фанатика жаkсы тyсінбесе, онда сіз олармен оз тілдерінде сойлесуге тура келеді." isMainQuest="1">
+	<QuestInfo questName="r3m2_DestroyOracleGuard" briefDiz="Oracle ЌорЉаушыларды жойыЏыз" fullDiz="Егер фанатика жаЌсы тџсінбесе, онда сіз олармен љз тілдерінде сљйлесуге тура келеді." isMainQuest="1">
 		<Map name="r3m2" targetObjName="OracleDefenders" />
 	</QuestInfo>
 
-	<QuestInfo questName="r3m2_FindInfoAboutFather" briefDiz="Эке туралы аkпаратты табыныз" fullDiz="Кyнделікші экесінін таfдырына жарkыраfан. Енді оны олім шолінін арfы жаfынан іздеу керектігін білемін." isMainQuest="1">
+	<QuestInfo questName="r3m2_FindInfoAboutFather" briefDiz="†ке туралы аЌпаратты табыЏыз" fullDiz="Кџнделікші ‡кесініЏ таЉдырына жарЌыраЉан. Енді оны љлім шљлініЏ арЉы жаЉынан іздеу керектігін білемін." isMainQuest="1">
 		<Map name="r1m1" targetObjName="ToR4M1" />
 
 		<Map name="r1m2" targetObjName="ToR1M1" />
@@ -1240,45 +1240,45 @@
 		<Map name="r3m2" targetObjName="ToR3M1" />
 	</QuestInfo>
 
-	<QuestInfo questName="r3m2_MonterHead" briefDiz="Kyбыжыkтын басын экелініз" fullDiz="Егер монстрды олтірсе, Oracle kорfаушылар мені саfынады. Дэлелдер ретінде сіз онын басын экелуініз керек." isMainQuest="1" />
+	<QuestInfo questName="r3m2_MonterHead" briefDiz="ЊќбыжыЌтыЏ басын ‡келіЏіз" fullDiz="Егер монстрды љлтірсе, Oracle ЌорЉаушылар мені саЉынады. Д‡лелдер ретінде сіз оныЏ басын ‡келуіЏіз керек." isMainQuest="1" />
 
-	<QuestInfo questName="r3m2_MonterHead_1" briefDiz="Олгендер kаласына барыныз" isMainQuest="1">
+	<QuestInfo questName="r3m2_MonterHead_1" briefDiz="ђлгендер Ќаласына барыЏыз" isMainQuest="1">
 		<Map name="r3m1" targetObjName="ToR3M2" />
 
 		<Map name="r3m2" targetObjName="Monster_loc" />
 	</QuestInfo>
 
-	<QuestInfo questName="r3m2_MonterHead_2" briefDiz="Kyбыжыkты женініз" isMainQuest="1">
+	<QuestInfo questName="r3m2_MonterHead_2" briefDiz="ЊќбыжыЌты жеЏіЏіз" isMainQuest="1">
 		<Map name="r3m1" targetObjName="ToR3M2" />
 
 		<Map name="r3m2" targetObjName="TeamBigMonster_vehicle_0" />
 	</QuestInfo>
 
-	<QuestInfo questName="r3m2_MonterHead_3" briefDiz="Kорfаушыларfа басын берініз" isMainQuest="1">
+	<QuestInfo questName="r3m2_MonterHead_3" briefDiz="ЊорЉаушыларЉа басын беріЏіз" isMainQuest="1">
 		<Map name="r3m1" targetObjName="ToR3M2" />
 
 		<Map name="r3m2" targetObjName="OracleDefenders_loc" />
 	</QuestInfo>
 
-	<QuestInfo questName="r3m2_OracleMemory" briefDiz="Жадты Oracle-ге kайтарыныз" fullDiz="Бyл Oracle бyдан бyрынfыдай мyлдем жоk сияkты. Жадын kайтару yшін сіз жондеушілерді корсетілген орындарfа апаруыныз керек." isMainQuest="1">
+	<QuestInfo questName="r3m2_OracleMemory" briefDiz="Жадты Oracle-ге ЌайтарыЏыз" fullDiz="Бќл Oracle бќдан бќрынЉыдай мџлдем жоЌ сияЌты. Жадын Ќайтару џшін сіз жљндеушілерді кљрсетілген орындарЉа апаруыЏыз керек." isMainQuest="1">
 		<Map name="r3m1" targetObjName="ToR3M2" />
 
 		<Map name="r3m2" />
 	</QuestInfo>
 
-	<QuestInfo questName="r3m2_OracleMemory_1" briefDiz="Роботты kалпына келтіруді yнатыныз" isMainQuest="1">
+	<QuestInfo questName="r3m2_OracleMemory_1" briefDiz="Роботты Ќалпына келтіруді ќнатыЏыз" isMainQuest="1">
 		<Map name="r3m1" targetObjName="ToR3M2" />
 
 		<Map name="r3m2" targetObjName="VK1_loc" />
 	</QuestInfo>
 
-	<QuestInfo questName="r3m2_OracleMemory_2" briefDiz="Комекші робот жеткізініз" isMainQuest="1">
+	<QuestInfo questName="r3m2_OracleMemory_2" briefDiz="Кљмекші робот жеткізіЏіз" isMainQuest="1">
 		<Map name="r3m1" targetObjName="ToR3M2" />
 
 		<Map name="r3m2" targetObjName="VK2_loc" />
 	</QuestInfo>
 
-	<QuestInfo questName="r3m2_OracleMemory_3" briefDiz="Жондеу роботын жеткізініз" isMainQuest="1">
+	<QuestInfo questName="r3m2_OracleMemory_3" briefDiz="Жљндеу роботын жеткізіЏіз" isMainQuest="1">
 		<Map name="r3m1" targetObjName="ToR3M2" />
 
 		<Map name="r3m2" targetObjName="VK3_loc" />
@@ -1290,15 +1290,15 @@
 		<Map name="r3m2" targetObjName="Oracle_loc" />
 	</QuestInfo>
 
-	<QuestInfo questName="r3m2_OvercomeOracleGuard" briefDiz="Oracle kорfаушыларды жену" fullDiz="Oracle-ге барар жолда онын кyзетшілері, сіз олармен келісуініз немесе олардан kyтылуыныз керек." isMainQuest="1">
+	<QuestInfo questName="r3m2_OvercomeOracleGuard" briefDiz="Oracle ЌорЉаушыларды жеЏу" fullDiz="Oracle-ге барар жолда оныЏ кџзетшілері, сіз олармен келісуіЏіз немесе олардан ЌќтылуыЏыз керек." isMainQuest="1">
 		<Map name="r3m1" targetObjName="ToR3M2" />
 
 		<Map name="r3m2" targetObjName="OracleDefenders_loc" />
 	</QuestInfo>
 
-	<QuestInfo questName="r3m2_ReadyToTravel" briefDiz="Шолге сапарfа дайындалу" fullDiz="Колік kyралын жанарыптандыру керек, сондыkтан мен шолден отуім керек. Менде сурет бар, сондыkтан мен жyмысты орындайтын шеберді табуым керек." isMainQuest="1" />
+	<QuestInfo questName="r3m2_ReadyToTravel" briefDiz="Шљлге сапарЉа дайындалу" fullDiz="Кљлік Ќќралын жаЏарыптандыру керек, сондыЌтан мен шљлден љтуім керек. Менде сурет бар, сондыЌтан мен жќмысты орындайтын шеберді табуым керек." isMainQuest="1" />
 
-	<QuestInfo questName="r3m2_RevengeDestroyVillage" briefDiz="Ауылдын жойылуынан кек алыныз" fullDiz="Ovjive Go-нын кyнделігін шынымен олім шолін кесіп отуге болады. Kазір мен оз ауылымды kиратkандарды kадаfалап, жазалаймын!" isMainQuest="1">
+	<QuestInfo questName="r3m2_RevengeDestroyVillage" briefDiz="АуылдыЏ жойылуынан кек алыЏыз" fullDiz="Ovjive Go-ныЏ кџнделігін шынымен љлім шљлін кесіп љтуге болады. Њазір мен љз ауылымды ЌиратЌандарды ЌадаЉалап, жазалаймын!" isMainQuest="1">
 		<Map name="r1m1" targetObjName="ToR4M1" />
 
 		<Map name="r1m2" targetObjName="ToR1M1" />
@@ -1314,7 +1314,7 @@
 		<Map name="r3m2" targetObjName="ToR3M1" />
 	</QuestInfo>
 
-	<QuestInfo questName="r3m2_RideToFatherRoomAfterOracul" briefDiz="Экесінін yйіне оралыныз" fullDiz="Мyмкін екінші диск экесінін yйінде. Мен ол жерде бірінші рет болfан кезде бірдене жіберіп алар едім. Біраk kазір мен не корінетінін білемін." isMainQuest="1">
+	<QuestInfo questName="r3m2_RideToFatherRoomAfterOracul" briefDiz="†кесініЏ џйіне оралыЏыз" fullDiz="Мџмкін екінші диск ‡кесініЏ џйінде. Мен ол жерде бірінші рет болЉан кезде бірдеЏе жіберіп алар едім. БіраЌ Ќазір мен не кљрінетінін білемін." isMainQuest="1">
 		<Map name="r1m3" targetObjName="HouseLoc" />
 
 		<Map name="r1m4" targetObjName="ToR1M3" />
@@ -1328,7 +1328,7 @@
 		<Map name="r3m2" targetObjName="ToR3M1" />
 	</QuestInfo>
 
-	<QuestInfo questName="r3m2_TalkWithBenAboutCarAfterOracul" briefDiz="Бенмен екінші диск туралы сойлесініз" fullDiz="Белгілі бір дроссель, ескі зерттеуші жэне Ovdo Go-нын досы, екінші дискінін kайда екендігі туралы бір нэрсе біле алады." isMainQuest="1">
+	<QuestInfo questName="r3m2_TalkWithBenAboutCarAfterOracul" briefDiz="Бенмен екінші диск туралы сљйлесіЏіз" fullDiz="Белгілі бір дроссель, ескі зерттеуші ж‡не Ovdo Go-ныЏ досы, екінші дискініЏ Ќайда екендігі туралы бір н‡рсе біле алады." isMainQuest="1">
 		<Map name="r1m2" targetObjName="TheBen_House" />
 
 		<Map name="r1m3" targetObjName="ToR1M2" />
@@ -1344,7 +1344,7 @@
 		<Map name="r3m2" targetObjName="ToR3M1" />
 	</QuestInfo>
 
-	<QuestInfo questName="r3m2_TalkWithLisa" briefDiz="Тyлкімен сойлесініз" fullDiz="Oracle тyлкі онын айтkанынан коп нэрсені біледі деп мэлімдейді. Kалай болfанда да, сіз оны кездестіруініз керек." isMainQuest="1">
+	<QuestInfo questName="r3m2_TalkWithLisa" briefDiz="Тџлкімен сљйлесіЏіз" fullDiz="Oracle тџлкі оныЏ айтЌанынан кљп н‡рсені біледі деп м‡лімдейді. Њалай болЉанда да, сіз оны кездестіруіЏіз керек." isMainQuest="1">
 		<Map name="r2m1" targetObjName="ToR3M1" />
 
 		<Map name="r3m1" targetObjName="TheRazboynik" />
@@ -1352,23 +1352,23 @@
 		<Map name="r3m2" targetObjName="ToR3M1" />
 	</QuestInfo>
 
-	<QuestInfo questName="r3m2_TwoMagicThing" briefDiz="Oracle екі артефактілерді экелініз" fullDiz="Oracle маfан тасталfан зауыттан екі артефакт экелсе fана комектесуге келіседі." isMainQuest="1">
+	<QuestInfo questName="r3m2_TwoMagicThing" briefDiz="Oracle екі артефактілерді ‡келіЏіз" fullDiz="Oracle маЉан тасталЉан зауыттан екі артефакт ‡келсе Љана кљмектесуге келіседі." isMainQuest="1">
 		<Map name="r3m2" />
 	</QuestInfo>
 
-	<QuestInfo questName="r3m2_TwoMagicThing_Factory" briefDiz="Зауытkа келініз" isMainQuest="1">
+	<QuestInfo questName="r3m2_TwoMagicThing_Factory" briefDiz="ЗауытЌа келіЏіз" isMainQuest="1">
 		<Map name="r3m1" targetObjName="ToR3M2" />
 
 		<Map name="r3m2" targetObjName="Factory_loc" />
 	</QuestInfo>
 
-	<QuestInfo questName="r3m2_TwoMagicThing_FindThing" briefDiz="Бірінші артефактті табыныз" isMainQuest="1">
+	<QuestInfo questName="r3m2_TwoMagicThing_FindThing" briefDiz="Бірінші артефактті табыЏыз" isMainQuest="1">
 		<Map name="r3m1" targetObjName="ToR3M2" />
 
 		<Map name="r3m2" />
 	</QuestInfo>
 
-	<QuestInfo questName="r3m2_TwoMagicThing_FindThing_2" briefDiz="Екінші артефактты табыныз" isMainQuest="1">
+	<QuestInfo questName="r3m2_TwoMagicThing_FindThing_2" briefDiz="Екінші артефактты табыЏыз" isMainQuest="1">
 		<Map name="r3m1" targetObjName="ToR3M2" />
 
 		<Map name="r3m2" />
@@ -1380,19 +1380,19 @@
 		<Map name="r3m2" targetObjName="Oracle_loc" />
 	</QuestInfo>
 
-	<QuestInfo questName="r4m1_FPR_MeetWithOldMan" briefDiz="Бyхара тyрfындарымен кездесініз" isMainQuest="1">
+	<QuestInfo questName="r4m1_FPR_MeetWithOldMan" briefDiz="Бќхара тќрЉындарымен кездесіЏіз" isMainQuest="1">
 		<Map name="r4m1" targetObjName="Buhara_loc" />
 	</QuestInfo>
 
-	<QuestInfo questName="r4m1_FRP_GotoKef" briefDiz="КЕФ-ке барыныз" isMainQuest="1">
+	<QuestInfo questName="r4m1_FRP_GotoKef" briefDiz="КЕФ-ке барыЏыз" isMainQuest="1">
 		<Map name="r4m1" targetObjName="TheKef" />
 	</QuestInfo>
 
-	<QuestInfo questName="r4m1_FRP_HelpKef" briefDiz="Кеф майын kамтамасыз етініз" isMainQuest="0">
+	<QuestInfo questName="r4m1_FRP_HelpKef" briefDiz="Кеф майын Ќамтамасыз етіЏіз" isMainQuest="0">
 		<Map name="r4m1" />
 	</QuestInfo>
 
-	<QuestInfo questName="r4m1_FindMilitaryBase" briefDiz="Бандит негізін табыныз" fullDiz="Мен тек осы базанын баfытын fана білемін. Біраk мен бyл жерді онай тауып, экемнін олтірушілерін жаза алатыныма сенімдімін!" isMainQuest="1">
+	<QuestInfo questName="r4m1_FindMilitaryBase" briefDiz="Бандит негізін табыЏыз" fullDiz="Мен тек осы базаныЏ баЉытын Љана білемін. БіраЌ мен бќл жерді оЏай тауып, ‡кемніЏ љлтірушілерін жаза алатыныма сенімдімін!" isMainQuest="1">
 		<Map name="r1m1" targetObjName="ToR4M1" />
 
 		<Map name="r1m2" targetObjName="ToR1M1" />
@@ -1404,19 +1404,19 @@
 		<Map name="r4m2" />
 	</QuestInfo>
 
-	<QuestInfo questName="r4m1_FindNative" briefDiz="Семинарды табыныз" fullDiz="Мен kайтыс болfан шолді кесіп алдым! Енді семинар тапkаны жаkсы болар еді. Жергілікті тyрfындардын барлыfы агрессивті емес деп yміттену yшін fана kалады." isMainQuest="1">
+	<QuestInfo questName="r4m1_FindNative" briefDiz="Семинарды табыЏыз" fullDiz="Мен Ќайтыс болЉан шљлді кесіп алдым! Енді семинар тапЌаны жаЌсы болар еді. Жергілікті тќрЉындардыЏ барлыЉы агрессивті емес деп џміттену џшін Љана Ќалады." isMainQuest="1">
 		<Map name="r1m1" targetObjName="ToR4M1" />
 
 		<Map name="r4m1" />
 	</QuestInfo>
 
-	<QuestInfo questName="r4m1_FindResponsiblePeople" briefDiz="Саналы адамдарды табыныз" fullDiz="Осы шолде біртyрлі адамдар тyрады. Мен олардан ештене ала алмаймын. Сіз менін сyраkтарыма жауап бере алатын адамды табуыныз керек." isMainQuest="1">
+	<QuestInfo questName="r4m1_FindResponsiblePeople" briefDiz="Саналы адамдарды табыЏыз" fullDiz="Осы шљлде біртџрлі адамдар тќрады. Мен олардан ештеЏе ала алмаймын. Сіз меніЏ сќраЌтарыма жауап бере алатын адамды табуыЏыз керек." isMainQuest="1">
 		<Map name="r1m1" targetObjName="ToR4M1" />
 
 		<Map name="r4m1" />
 	</QuestInfo>
 
-	<QuestInfo questName="r4m1_GotoAivenGo" briefDiz="Oven Go жyрініз" fullDiz="Idvive осы баfытта жyрді, басkа ештене белгілі. Мен оfан еріп, оfан не болfанын білемін." isMainQuest="1">
+	<QuestInfo questName="r4m1_GotoAivenGo" briefDiz="Oven Go жџріЏіз" fullDiz="Idvive осы баЉытта жџрді, басЌа ештеЏе белгілі. Мен оЉан еріп, оЉан не болЉанын білемін." isMainQuest="1">
 		<Map name="r1m1" targetObjName="ToR4M1" />
 
 		<Map name="r1m2" targetObjName="ToR1M2" />
@@ -1428,51 +1428,51 @@
 		<Map name="r4m2" />
 	</QuestInfo>
 
-	<QuestInfo questName="r4m1_KNO_BringOil" briefDiz="Мyнайды KEF-ке экелініз" isMainQuest="1">
+	<QuestInfo questName="r4m1_KNO_BringOil" briefDiz="Мќнайды KEF-ке ‡келіЏіз" isMainQuest="1">
 		<Map name="r4m1" targetObjName="TheKef" />
 	</QuestInfo>
 
-	<QuestInfo questName="r4m1_KNO_FindSpecialist" briefDiz="Алихамдаfы мyнайшыны ізденіз" isMainQuest="1">
+	<QuestInfo questName="r4m1_KNO_FindSpecialist" briefDiz="АлихамдаЉы мќнайшыны іздеЏіз" isMainQuest="1">
 		<Map name="r4m1" targetObjName="r4_AlihamVil" />
 	</QuestInfo>
 
-	<QuestInfo questName="r4m1_KNO_FindSpecialist_1" briefDiz="Дистилляциялыk маманмен бірге болыныз" isMainQuest="1">
+	<QuestInfo questName="r4m1_KNO_FindSpecialist_1" briefDiz="ДистилляциялыЌ маманмен бірге болыЏыз" isMainQuest="1">
 		<Map name="r4m1" targetObjName="LostEngineer_loc" />
 	</QuestInfo>
 
-	<QuestInfo questName="r4m1_KNO_GotoOiler" briefDiz="Yнfымаfа майfа барыныз" isMainQuest="1">
+	<QuestInfo questName="r4m1_KNO_GotoOiler" briefDiz="њЏЉымаЉа майЉа барыЏыз" isMainQuest="1">
 		<Map name="r4m1" targetObjName="Oil_loc" />
 	</QuestInfo>
 
-	<QuestInfo questName="r4m1_KNO_ReportToKef" briefDiz="Кефтегі сэтсіздік туралы есеп" isMainQuest="1">
+	<QuestInfo questName="r4m1_KNO_ReportToKef" briefDiz="Кефтегі с‡тсіздік туралы есеп" isMainQuest="1">
 		<Map name="r4m1" targetObjName="TheKef" />
 	</QuestInfo>
 
-	<QuestInfo questName="r4m1_Kef_NeedOil" briefDiz="KEF мyнай kажет" fullDiz="Мyнайсыз, КЭФ тyрfындары, kолдарсыз. Мен оларfа оны Tan жyк колігін пайдалануfа комектесемін. Kалай болfанда да, экспедиция kайтарылfанша кyтініз." isMainQuest="1">
+	<QuestInfo questName="r4m1_Kef_NeedOil" briefDiz="KEF мќнай Ќажет" fullDiz="Мќнайсыз, КЭФ тќрЉындары, Ќолдарсыз. Мен оларЉа оны Tan жџк кљлігін пайдалануЉа кљмектесемін. Њалай болЉанда да, экспедиция ЌайтарылЉанша кџтіЏіз." isMainQuest="1">
 		<Map name="r1m1" targetObjName="ToR4M1" />
 
 		<Map name="r4m1" />
 	</QuestInfo>
 
-	<QuestInfo questName="r4m1_RBC_DefendCountry" briefDiz="Ауылды шабуылдан kорfау" isMainQuest="1">
+	<QuestInfo questName="r4m1_RBC_DefendCountry" briefDiz="Ауылды шабуылдан ЌорЉау" isMainQuest="1">
 		<Map name="r4m1" targetObjName="BuharsAttackers" />
 	</QuestInfo>
 
-	<QuestInfo questName="r4m1_RBC_Evacuate" briefDiz="Портта Бyхара халkын эвакуациялау" isMainQuest="1">
+	<QuestInfo questName="r4m1_RBC_Evacuate" briefDiz="Портта Бќхара халЌын эвакуациялау" isMainQuest="1">
 		<Map name="r4m1" targetObjName="Buharers_vehicle_0" />
 	</QuestInfo>
 
-	<QuestInfo questName="r4m1_RBC_GotoPort" briefDiz="Мен кемесін босkындармен kауіпсіз жерге жібере алатын портты табыныз" isMainQuest="1">
+	<QuestInfo questName="r4m1_RBC_GotoPort" briefDiz="Мен кемесін босЌындармен Ќауіпсіз жерге жібере алатын портты табыЏыз" isMainQuest="1">
 		<Map name="r4m1" targetObjName="Port_loc" />
 	</QuestInfo>
 
-	<QuestInfo questName="r4m1_RescueBuharsCivilian" briefDiz="Бyхаранын тyрfындарын саkтаныз" fullDiz="Егер мен бyл адамдарfа kудалаудан kyтылса, онда олардын комегіне сенуге болады." isMainQuest="1">
+	<QuestInfo questName="r4m1_RescueBuharsCivilian" briefDiz="БќхараныЏ тќрЉындарын саЌтаЏыз" fullDiz="Егер мен бќл адамдарЉа Ќудалаудан Ќќтылса, онда олардыЏ кљмегіне сенуге болады." isMainQuest="1">
 		<Map name="r1m1" targetObjName="ToR4M1" />
 
 		<Map name="r4m1" />
 	</QuestInfo>
 
-	<QuestInfo questName="r4m2_DestroyPlate" briefDiz="Табаkты жойыныз" fullDiz="Пластинада біздін элемімізді бyзfан сэулелену козі болып табылады. Мyны жою керек!" isMainQuest="1">
+	<QuestInfo questName="r4m2_DestroyPlate" briefDiz="ТабаЌты жойыЏыз" fullDiz="Пластинада біздіЏ ‡лемімізді бќзЉан с‡улелену кљзі болып табылады. Мќны жою керек!" isMainQuest="1">
 		<Map name="r1m1" />
 
 		<Map name="r1m2" />
@@ -1494,19 +1494,19 @@
 		<Map name="r4m2" />
 	</QuestInfo>
 
-	<QuestInfo questName="r4m2_FightWithCrazy" briefDiz="Рельефті аршыныз" fullDiz="Барлыk іздер эскери базаны корсетеді. Маfан бэрін жаkсы тексеру керек. Біраk бyл балалар достыk деп ойламаймын. Егер бyл жалfан жол болса да, кем дегенде, мен бyл жерді ауданды терразар еткен жекконірлерден тазартамын." isMainQuest="1">
+	<QuestInfo questName="r4m2_FightWithCrazy" briefDiz="Рельефті аршыЏыз" fullDiz="БарлыЌ іздер ‡скери базаны кљрсетеді. МаЉан б‡рін жаЌсы тексеру керек. БіраЌ бќл балалар достыЌ деп ойламаймын. Егер бќл жалЉан жол болса да, кем дегенде, мен бќл жерді ауданды терразар еткен жеккљЏірлерден тазартамын." isMainQuest="1">
 		<Map name="r4m1" targetObjName="ToR4M2" />
 
 		<Map name="r4m2" targetObjName="MilitaryBase_loc" />
 	</QuestInfo>
 
-	<QuestInfo questName="r4m2_InvestigationPlate" briefDiz="Дереккозді зерттеніз" fullDiz="Fалым шетелдік кеме туралы бірдене айтты. Бyл козді жаkыныраk kарау керек." isMainQuest="1">
+	<QuestInfo questName="r4m2_InvestigationPlate" briefDiz="Дереккљзді зерттеЏіз" fullDiz="‰алым шетелдік кеме туралы бірдеЏе айтты. Бќл кљзді жаЌыныраЌ Ќарау керек." isMainQuest="1">
 		<Map name="r4m1" targetObjName="ToR4M2" />
 
 		<Map name="r4m2" targetObjName="PlateRadiation_loc" />
 	</QuestInfo>
 
-	<QuestInfo questName="r4m2_NeutralizePlate" briefDiz="Табаkты бейтараптандырыныз" fullDiz="Альеендер кеме - бyл біздін элемді бyзfан сэулелену козі. Оны бейтараптандыру керек." isMainQuest="1">
+	<QuestInfo questName="r4m2_NeutralizePlate" briefDiz="ТабаЌты бейтараптандырыЏыз" fullDiz="Альеендер кеме - бќл біздіЏ ‡лемді бќзЉан с‡улелену кљзі. Оны бейтараптандыру керек." isMainQuest="1">
 		<Map name="r1m1" />
 
 		<Map name="r1m2" />
@@ -1528,7 +1528,7 @@
 		<Map name="r4m2" />
 	</QuestInfo>
 
-	<QuestInfo questName="r4m2_TalkWithScientific" briefDiz="Fалыммен аkпарат козі туралы сойлесініз" fullDiz="Мен бyл kорkынышты жерді коріп, аяfымнан эрен жyрдім. Kорkынышты кyш мені тікелей сэулеленудін жyрегіне аударды. Онда шалдыkтар тyрды. Бір нэрсені жасау керек! Мyмкін fалым бyл аkылсыздыkты kалай тоkтату керектігін білсін." isMainQuest="1">
+	<QuestInfo questName="r4m2_TalkWithScientific" briefDiz="‰алыммен аЌпарат кљзі туралы сљйлесіЏіз" fullDiz="Мен бќл ЌорЌынышты жерді кљріп, аяЉымнан ‡реЏ жџрдім. ЊорЌынышты кџш мені тікелей с‡улеленудіЏ жџрегіне аударды. Онда шалдыЌтар тќрды. Бір н‡рсені жасау керек! Мџмкін Љалым бќл аЌылсыздыЌты Ќалай тоЌтату керектігін білсін." isMainQuest="1">
 		<Map name="r4m1" targetObjName="ToR4M2" />
 
 		<Map name="r4m2" targetObjName="ScientiferVillage" />

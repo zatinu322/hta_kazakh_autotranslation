@@ -1,180 +1,180 @@
 <?xml version='1.0' encoding='windows-1251'?>
 <RadioSamples>
-	<Sample id="1" sound="data\sounds\radio\r_player_attack_1.ogg" text="Біз жалfыз емес сияkты." />
+	<Sample id="1" sound="data\sounds\radio\r_player_attack_1.ogg" text="Біз жалЉыз емес сияЌты." />
 
-	<Sample id="2" sound="data\sounds\radio\r_player_attack_2.ogg" text="Алfашkы kару, PLA!" />
+	<Sample id="2" sound="data\sounds\radio\r_player_attack_2.ogg" text="АлЉашЌы Ќару, PLA!" />
 
-	<Sample id="3" sound="data\sounds\radio\r_player_attack_3.ogg" text="Бандиттерге олім!" />
+	<Sample id="3" sound="data\sounds\radio\r_player_attack_3.ogg" text="Бандиттерге љлім!" />
 
-	<Sample id="4" sound="data\sounds\radio\r_player_attack_4.ogg" text="Таfы да шайkас!" />
+	<Sample id="4" sound="data\sounds\radio\r_player_attack_4.ogg" text="ТаЉы да шайЌас!" />
 
-	<Sample id="5" sound="data\sounds\radio\r_player_ishit_1.ogg" text="Тyсінесін бе!" />
+	<Sample id="5" sound="data\sounds\radio\r_player_ishit_1.ogg" text="ТџсінесіЏ бе!" />
 
-	<Sample id="6" sound="data\sounds\radio\r_player_ishit_2.ogg" text="Сондыkтан Сіз!" />
+	<Sample id="6" sound="data\sounds\radio\r_player_ishit_2.ogg" text="СондыЌтан Сіз!" />
 
-	<Sample id="7" sound="data\sounds\radio\r_player_ishit_3.ogg" text="Бyл сіз бірінші болып!" />
+	<Sample id="7" sound="data\sounds\radio\r_player_ishit_3.ogg" text="Бќл сіз бірінші болып!" />
 
-	<Sample id="8" sound="data\sounds\radio\r_player_ishit_4.ogg" text="Менін радиаторым yшін!" />
+	<Sample id="8" sound="data\sounds\radio\r_player_ishit_4.ogg" text="МеніЏ радиаторым џшін!" />
 
-	<Sample id="9" sound="data\sounds\radio\r_player_shot_1.ogg" text="Мен козге тyсіп кеттім!" />
+	<Sample id="9" sound="data\sounds\radio\r_player_shot_1.ogg" text="Мен кљзге тџсіп кеттім!" />
 
-	<Sample id="10" sound="data\sounds\radio\r_player_shot_2.ogg" text="Шайтан алfыр!" />
+	<Sample id="10" sound="data\sounds\radio\r_player_shot_2.ogg" text="Шайтан алЉыр!" />
 
 	<Sample id="11" sound="data\sounds\radio\r_player_shot_3.ogg" text="Жай тырнау." />
 
-	<Sample id="12" sound="data\sounds\radio\r_player_shot_4.ogg" text="Бірінші рет емес! Сойлейік!" />
+	<Sample id="12" sound="data\sounds\radio\r_player_shot_4.ogg" text="Бірінші рет емес! Сљйлейік!" />
 
 	<Sample id="13" sound="data\sounds\radio\r_player_kill_1.ogg" text="Тікелей, бала!" />
 
-	<Sample id="14" sound="data\sounds\radio\r_player_kill_2.ogg" text="Тек біреуі kалуы керек!" />
+	<Sample id="14" sound="data\sounds\radio\r_player_kill_2.ogg" text="Тек біреуі Ќалуы керек!" />
 
-	<Sample id="15" sound="data\sounds\radio\r_player_kill_3.ogg" text="Бyл дайын!" />
+	<Sample id="15" sound="data\sounds\radio\r_player_kill_3.ogg" text="Бќл дайын!" />
 
 	<Sample id="16" sound="data\sounds\radio\r_player_kill_4.ogg" text="Келесі!" />
 
-	<Sample id="17" sound="data\sounds\radio\r_player_kill_5.ogg" text="Сондыkтан ол эрkайсысымен болады!" />
+	<Sample id="17" sound="data\sounds\radio\r_player_kill_5.ogg" text="СондыЌтан ол ‡рЌайсысымен болады!" />
 
-	<Sample id="18" sound="data\sounds\radio\r_player_dead_1.ogg" text="Kоштасу, бауырлар!" />
+	<Sample id="18" sound="data\sounds\radio\r_player_dead_1.ogg" text="Њоштасу, бауырлар!" />
 
-	<Sample id="19" sound="data\sounds\radio\r_player_dead_2.ogg" text="Бyл соны..." />
+	<Sample id="19" sound="data\sounds\radio\r_player_dead_2.ogg" text="Бќл соЏы..." />
 
 	<Sample id="20" sound="data\sounds\radio\r_player_dead_3.ogg" text="Мен Dodge алмадым!" />
 
-	<Sample id="21" sound="data\sounds\radio\r_player_dead_4.ogg" text="Жоk! Ол ..." />
+	<Sample id="21" sound="data\sounds\radio\r_player_dead_4.ogg" text="ЖоЌ! Ол ..." />
 
-	<Sample id="22" sound="data\sounds\radio\r_player_allydead_1.ogg" text="Олтірушілер!" />
+	<Sample id="22" sound="data\sounds\radio\r_player_allydead_1.ogg" text="ђлтірушілер!" />
 
-	<Sample id="23" sound="data\sounds\radio\r_bandit_attack_1.ogg" text="Енді омір сyрініз!" />
+	<Sample id="23" sound="data\sounds\radio\r_bandit_attack_1.ogg" text="Енді љмір сџріЏіз!" />
 
 	<Sample id="24" sound="data\sounds\radio\r_bandit_attack_2.ogg" text="Мынаны ал!" />
 
-	<Sample id="25" sound="data\sounds\radio\r_bandit_attack_3.ogg" text="Олім-жэне-жэне жэне !!" />
+	<Sample id="25" sound="data\sounds\radio\r_bandit_attack_3.ogg" text="ђлім-ж‡не-ж‡не ж‡не !!" />
 
-	<Sample id="26" sound="data\sounds\radio\r_bandit_ishit_1.ogg" text="Бyл не yнамайды?" />
+	<Sample id="26" sound="data\sounds\radio\r_bandit_ishit_1.ogg" text="Бќл не ќнамайды?" />
 
-	<Sample id="27" sound="data\sounds\radio\r_bandit_ishit_2.ogg" text="Озінді сезін!" />
+	<Sample id="27" sound="data\sounds\radio\r_bandit_ishit_2.ogg" text="ђзіЏді сезін!" />
 
-	<Sample id="28" sound="data\sounds\radio\r_bandit_shot_1.ogg" text="Мын шайтан!" />
+	<Sample id="28" sound="data\sounds\radio\r_bandit_shot_1.ogg" text="МыЏ шайтан!" />
 
 	<Sample id="29" sound="data\sounds\radio\r_bandit_shot_2.ogg" text="Ілулі!" />
 
 	<Sample id="30" sound="data\sounds\radio\r_bandit_kill_1.ogg" text="А-ха ха ха" />
 
-	<Sample id="31" sound="data\sounds\radio\r_bandit_kill_2.ogg" text="Олгендер тістемейді." />
+	<Sample id="31" sound="data\sounds\radio\r_bandit_kill_2.ogg" text="ђлгендер тістемейді." />
 
 	<Sample id="32" sound="data\sounds\radio\r_bandit_dead_1.ogg" text="А--А-А-А-А-А-А-А-А-А-А-А-А-А-А-А" />
 
-	<Sample id="33" sound="data\sounds\radio\r_bandit_dead_2.ogg" text="Не yшін?" />
+	<Sample id="33" sound="data\sounds\radio\r_bandit_dead_2.ogg" text="Не џшін?" />
 
-	<Sample id="34" sound="data\sounds\radio\r_bandit_dead_3.ogg" text="Сізді тозаkта корініз!" />
+	<Sample id="34" sound="data\sounds\radio\r_bandit_dead_3.ogg" text="Сізді тозаЌта кљріЏіз!" />
 
-	<Sample id="35" sound="data\sounds\radio\r_bandit_allydead_1.ogg" text="О, бауырымен жорfалаушы!" />
+	<Sample id="35" sound="data\sounds\radio\r_bandit_allydead_1.ogg" text="О, бауырымен жорЉалаушы!" />
 
-	<Sample id="36" sound="data\sounds\radio\r_farmer_greet_1.ogg" text="Сэлеметсіз бе!" />
+	<Sample id="36" sound="data\sounds\radio\r_farmer_greet_1.ogg" text="С‡леметсіз бе!" />
 
-	<Sample id="37" sound="data\sounds\radio\r_farmer_greet_2.ogg" text="Kалайсыз?" />
+	<Sample id="37" sound="data\sounds\radio\r_farmer_greet_2.ogg" text="Њалайсыз?" />
 
-	<Sample id="38" sound="data\sounds\radio\r_farmer_ffire_1.ogg" text="Сен соkырсын ба?" />
+	<Sample id="38" sound="data\sounds\radio\r_farmer_ffire_1.ogg" text="Сен соЌырсыЏ ба?" />
 
-	<Sample id="39" sound="data\sounds\radio\r_farmer_ffire_2.ogg" text="Мылтыkпен тыfыз байланыс!" />
+	<Sample id="39" sound="data\sounds\radio\r_farmer_ffire_2.ogg" text="МылтыЌпен тыЉыз байланыс!" />
 
 	<Sample id="40" sound="data\sounds\radio\r_farmer_attack_1.ogg" text="Мен сені ескерттім!" />
 
-	<Sample id="41" sound="data\sounds\radio\r_farmer_attack_2.ogg" text="Сіз оны сyрадыныз!" />
+	<Sample id="41" sound="data\sounds\radio\r_farmer_attack_2.ogg" text="Сіз оны сќрадыЏыз!" />
 
-	<Sample id="42" sound="data\sounds\radio\r_farmer_ishit_1.ogg" text="ИЭ! Болды!" />
+	<Sample id="42" sound="data\sounds\radio\r_farmer_ishit_1.ogg" text="И‡! Болды!" />
 
-	<Sample id="43" sound="data\sounds\radio\r_farmer_ishit_2.ogg" text="Ашуланfан?" />
+	<Sample id="43" sound="data\sounds\radio\r_farmer_ishit_2.ogg" text="АшуланЉан?" />
 
-	<Sample id="44" sound="data\sounds\radio\r_farmer_shot_1.ogg" text="Сен мені ашуландырдын!" />
+	<Sample id="44" sound="data\sounds\radio\r_farmer_shot_1.ogg" text="Сен мені ашуландырдыЏ!" />
 
-	<Sample id="45" sound="data\sounds\radio\r_farmer_shot_2.ogg" text="Сізге кyрделі жондеу kажет болады." />
+	<Sample id="45" sound="data\sounds\radio\r_farmer_shot_2.ogg" text="Сізге кџрделі жљндеу Ќажет болады." />
 
-	<Sample id="46" sound="data\sounds\radio\r_farmer_kill_1.ogg" text="Сізге дyрыс kызмет етеді!" />
+	<Sample id="46" sound="data\sounds\radio\r_farmer_kill_1.ogg" text="Сізге дќрыс Ќызмет етеді!" />
 
-	<Sample id="47" sound="data\sounds\radio\r_farmer_kill_2.ogg" text="Ит ит олімі." />
+	<Sample id="47" sound="data\sounds\radio\r_farmer_kill_2.ogg" text="Ит ит љлімі." />
 
 	<Sample id="48" sound="data\sounds\radio\r_farmer_dead_1.ogg" text="Неге мен?!" />
 
-	<Sample id="49" sound="data\sounds\radio\r_farmer_dead_2.ogg" text="Олар маfан кек алады." />
+	<Sample id="49" sound="data\sounds\radio\r_farmer_dead_2.ogg" text="Олар маЉан кек алады." />
 
 	<Sample id="50" sound="data\sounds\radio\r_farmer_dead_3.ogg" text="Керек емес!" />
 
-	<Sample id="51" sound="data\sounds\radio\r_farmer_allydead_1.ogg" text="Мен онын орнында болуым керек еді!" />
+	<Sample id="51" sound="data\sounds\radio\r_farmer_allydead_1.ogg" text="Мен оныЏ орнында болуым керек еді!" />
 
-	<Sample id="52" sound="data\sounds\radio\r_farmer_allydead_2.ogg" text="Сіз ол yшін толейсіз!" />
+	<Sample id="52" sound="data\sounds\radio\r_farmer_allydead_2.ogg" text="Сіз ол џшін тљлейсіз!" />
 
-	<Sample id="53" sound="data\sounds\radio\r_scholar_greet_1.ogg" text="Сэлем бердік." />
+	<Sample id="53" sound="data\sounds\radio\r_scholar_greet_1.ogg" text="С‡лем бердік." />
 
-	<Sample id="54" sound="data\sounds\radio\r_scholar_greet_2.ogg" text="Kандай жаналыkтар?" />
+	<Sample id="54" sound="data\sounds\radio\r_scholar_greet_2.ogg" text="Њандай жаЏалыЌтар?" />
 
-	<Sample id="55" sound="data\sounds\radio\r_scholar_ffire_1.ogg" text="Сен не істеп жатырсын?" />
+	<Sample id="55" sound="data\sounds\radio\r_scholar_ffire_1.ogg" text="Сен не істеп жатырсыЏ?" />
 
-	<Sample id="56" sound="data\sounds\radio\r_scholar_ffire_2.ogg" text="Ойнауfа нервтер ме?" />
+	<Sample id="56" sound="data\sounds\radio\r_scholar_ffire_2.ogg" text="ОйнауЉа нервтер ме?" />
 
-	<Sample id="57" sound="data\sounds\radio\r_scholar_attack_1.ogg" text="Сондыkтан мен ойладым!" />
+	<Sample id="57" sound="data\sounds\radio\r_scholar_attack_1.ogg" text="СондыЌтан мен ойладым!" />
 
-	<Sample id="58" sound="data\sounds\radio\r_scholar_attack_2.ogg" text="Жау! Шабуылfа!" />
+	<Sample id="58" sound="data\sounds\radio\r_scholar_attack_2.ogg" text="Жау! ШабуылЉа!" />
 
-	<Sample id="59" sound="data\sounds\radio\r_scholar_ishit_1.ogg" text="Тікелей соkkы!" />
+	<Sample id="59" sound="data\sounds\radio\r_scholar_ishit_1.ogg" text="Тікелей соЌЌы!" />
 
-	<Sample id="60" sound="data\sounds\radio\r_scholar_ishit_2.ogg" text="Тyсінесін бе!" />
+	<Sample id="60" sound="data\sounds\radio\r_scholar_ishit_2.ogg" text="ТџсінесіЏ бе!" />
 
-	<Sample id="61" sound="data\sounds\radio\r_scholar_shot_1.ogg" text="Сіз сізден мыkты екенсіз!" />
+	<Sample id="61" sound="data\sounds\radio\r_scholar_shot_1.ogg" text="Сіз сізден мыЌты екенсіз!" />
 
-	<Sample id="62" sound="data\sounds\radio\r_scholar_shot_2.ogg" text="Ауыр заkым!" />
+	<Sample id="62" sound="data\sounds\radio\r_scholar_shot_2.ogg" text="Ауыр заЌым!" />
 
-	<Sample id="63" sound="data\sounds\radio\r_scholar_kill_1.ogg" text="Жау женілді!" />
+	<Sample id="63" sound="data\sounds\radio\r_scholar_kill_1.ogg" text="Жау жеЏілді!" />
 
 	<Sample id="64" sound="data\sounds\radio\r_scholar_kill_2.ogg" text="Минус бір!" />
 
-	<Sample id="65" sound="data\sounds\radio\r_scholar_dead_1.ogg" text="Kандай ауыр ..." />
+	<Sample id="65" sound="data\sounds\radio\r_scholar_dead_1.ogg" text="Њандай ауыр ..." />
 
-	<Sample id="66" sound="data\sounds\radio\r_scholar_dead_2.ogg" text="Болуы мyмкін емес!" />
+	<Sample id="66" sound="data\sounds\radio\r_scholar_dead_2.ogg" text="Болуы мџмкін емес!" />
 
-	<Sample id="67" sound="data\sounds\radio\r_scholar_dead_3.ogg" text="Бэрі бекер болды ..." />
+	<Sample id="67" sound="data\sounds\radio\r_scholar_dead_3.ogg" text="Б‡рі бекер болды ..." />
 
 	<Sample id="68" sound="data\sounds\radio\r_scholar_allydead_1.ogg" text="Біз кек аламыз!" />
 
-	<Sample id="69" sound="data\sounds\radio\r_cit_greet_1.ogg" text="Керемет кyн!" />
+	<Sample id="69" sound="data\sounds\radio\r_cit_greet_1.ogg" text="Керемет кџн!" />
 
-	<Sample id="70" sound="data\sounds\radio\r_cit_greet_2.ogg" text="Жаkсы денсаулыk!" />
+	<Sample id="70" sound="data\sounds\radio\r_cit_greet_2.ogg" text="ЖаЌсы денсаулыЌ!" />
 
-	<Sample id="71" sound="data\sounds\radio\r_cit_ffire_1.ogg" text="Картридждерге kамkорлыk жасаныз" />
+	<Sample id="71" sound="data\sounds\radio\r_cit_ffire_1.ogg" text="Картридждерге ЌамЌорлыЌ жасаЏыз" />
 
-	<Sample id="72" sound="data\sounds\radio\r_cit_ffire_2.ogg" text="Козді сyртініз" />
+	<Sample id="72" sound="data\sounds\radio\r_cit_ffire_2.ogg" text="Кљзді сџртіЏіз" />
 
-	<Sample id="73" sound="data\sounds\radio\r_cit_attack_1.ogg" text="Бостандыk yшін!" />
+	<Sample id="73" sound="data\sounds\radio\r_cit_attack_1.ogg" text="БостандыЌ џшін!" />
 
-	<Sample id="74" sound="data\sounds\radio\r_cit_attack_2.ogg" text="Жауларfа олім!" />
+	<Sample id="74" sound="data\sounds\radio\r_cit_attack_2.ogg" text="ЖауларЉа љлім!" />
 
-	<Sample id="75" sound="data\sounds\radio\r_cit_ishit_1.ogg" text="Kарсыласу пайдасыз!" />
+	<Sample id="75" sound="data\sounds\radio\r_cit_ishit_1.ogg" text="Њарсыласу пайдасыз!" />
 
-	<Sample id="76" sound="data\sounds\radio\r_cit_ishit_2.ogg" text="Yнады ма?!" />
+	<Sample id="76" sound="data\sounds\radio\r_cit_ishit_2.ogg" text="њнады ма?!" />
 
-	<Sample id="77" sound="data\sounds\radio\r_cit_shot_1.ogg" text="Мен тірі kаламын!" />
+	<Sample id="77" sound="data\sounds\radio\r_cit_shot_1.ogg" text="Мен тірі Ќаламын!" />
 
 	<Sample id="78" sound="data\sounds\radio\r_cit_shot_2.ogg" text="Нонсенс!" />
 
-	<Sample id="79" sound="data\sounds\radio\r_cit_kill_1.ogg" text="Пасаран жоk!" />
+	<Sample id="79" sound="data\sounds\radio\r_cit_kill_1.ogg" text="Пасаран жоЌ!" />
 
-	<Sample id="80" sound="data\sounds\radio\r_cit_kill_2.ogg" text="Жау отіп кетпейді!" />
+	<Sample id="80" sound="data\sounds\radio\r_cit_kill_2.ogg" text="Жау љтіп кетпейді!" />
 
-	<Sample id="81" sound="data\sounds\radio\r_cit_dead_1.ogg" text="Мен kорыkпаймын!" />
+	<Sample id="81" sound="data\sounds\radio\r_cit_dead_1.ogg" text="Мен ЌорыЌпаймын!" />
 
-	<Sample id="82" sound="data\sounds\radio\r_cit_dead_2.ogg" text="Біздін бизнесіміз дyрыс!" />
+	<Sample id="82" sound="data\sounds\radio\r_cit_dead_2.ogg" text="БіздіЏ бизнесіміз дќрыс!" />
 
-	<Sample id="83" sound="data\sounds\radio\r_cit_dead_3.ogg" text="Бостандыk ... женеді ..." />
+	<Sample id="83" sound="data\sounds\radio\r_cit_dead_3.ogg" text="БостандыЌ ... жеЏеді ..." />
 
-	<Sample id="84" sound="data\sounds\radio\r_cit_allydead_1.ogg" text="Біз сізді есімізде саkтаймыз!" />
+	<Sample id="84" sound="data\sounds\radio\r_cit_allydead_1.ogg" text="Біз сізді есімізде саЌтаймыз!" />
 
-	<Sample id="85" sound="data\sounds\radio\r_ar_greet_1.ogg" text="Жyру." />
+	<Sample id="85" sound="data\sounds\radio\r_ar_greet_1.ogg" text="Жџру." />
 
 	<Sample id="86" sound="data\sounds\radio\r_ar_greet_2.ogg" text="Біз осында келдік!" />
 
-	<Sample id="87" sound="data\sounds\radio\r_ar_ffire_1.ogg" text="Kандай эзілдер?!" />
+	<Sample id="87" sound="data\sounds\radio\r_ar_ffire_1.ogg" text="Њандай ‡зілдер?!" />
 
-	<Sample id="88" sound="data\sounds\radio\r_ar_ffire_2.ogg" text="Сен не болып тyрсын?" />
+	<Sample id="88" sound="data\sounds\radio\r_ar_ffire_2.ogg" text="Сен не болып тќрсыЏ?" />
 
 	<Sample id="89" sound="data\sounds\radio\r_ar_attack_1.ogg" text="Мен сенен шаршадым!" />
 
@@ -182,37 +182,37 @@
 
 	<Sample id="91" sound="data\sounds\radio\r_ar_ishit_1.ogg" text="Мен ескерттім!" />
 
-	<Sample id="92" sound="data\sounds\radio\r_ar_ishit_2.ogg" text="Оkушыны yйренініз." />
+	<Sample id="92" sound="data\sounds\radio\r_ar_ishit_2.ogg" text="ОЌушыны џйреніЏіз." />
 
-	<Sample id="93" sound="data\sounds\radio\r_ar_shot_1.ogg" text="Таfы не?" />
+	<Sample id="93" sound="data\sounds\radio\r_ar_shot_1.ogg" text="ТаЉы не?" />
 
-	<Sample id="94" sound="data\sounds\radio\r_ar_shot_2.ogg" text="Мен мені олтіре алмаймын!" />
+	<Sample id="94" sound="data\sounds\radio\r_ar_shot_2.ogg" text="Мен мені љлтіре алмаймын!" />
 
-	<Sample id="95" sound="data\sounds\radio\r_ar_kill_1.ogg" text="Таfы бір аз!" />
+	<Sample id="95" sound="data\sounds\radio\r_ar_kill_1.ogg" text="ТаЉы бір аз!" />
 
-	<Sample id="96" sound="data\sounds\radio\r_ar_kill_2.ogg" text="Ол секірді, kыныр?!" />
+	<Sample id="96" sound="data\sounds\radio\r_ar_kill_2.ogg" text="Ол секірді, ЌыЏыр?!" />
 
-	<Sample id="97" sound="data\sounds\radio\r_ar_dead_1.ogg" text="Сонымен, сіз оліп kалдыныз, бастар!" />
+	<Sample id="97" sound="data\sounds\radio\r_ar_dead_1.ogg" text="Сонымен, сіз љліп ЌалдыЏыз, бастар!" />
 
-	<Sample id="98" sound="data\sounds\radio\r_ar_dead_2.ogg" text="Менін аяfым! Менін ..." />
+	<Sample id="98" sound="data\sounds\radio\r_ar_dead_2.ogg" text="МеніЏ аяЉым! МеніЏ ..." />
 
-	<Sample id="99" sound="data\sounds\radio\r_ar_dead_3.ogg" text="Мен шайkаста kайтыс болды ..." />
+	<Sample id="99" sound="data\sounds\radio\r_ar_dead_3.ogg" text="Мен шайЌаста Ќайтыс болды ..." />
 
-	<Sample id="100" sound="data\sounds\radio\r_ar_allydead_1.ogg" text="Мэссаfан! Ол ыстыk болады!" />
+	<Sample id="100" sound="data\sounds\radio\r_ar_allydead_1.ogg" text="М‡ссаЉан! Ол ыстыЌ болады!" />
 
-	<Sample id="101" sound="data\sounds\radio\r_druid_greet_1.ogg" text="Жаkсы ан аулау!" />
+	<Sample id="101" sound="data\sounds\radio\r_druid_greet_1.ogg" text="ЖаЌсы аЏ аулау!" />
 
-	<Sample id="102" sound="data\sounds\radio\r_druid_greet_2.ogg" text="Кyш сізбен бірге болсын!" />
+	<Sample id="102" sound="data\sounds\radio\r_druid_greet_2.ogg" text="Кџш сізбен бірге болсын!" />
 
-	<Sample id="103" sound="data\sounds\radio\r_druid_ffire_1.ogg" text="Саk болыныз!" />
+	<Sample id="103" sound="data\sounds\radio\r_druid_ffire_1.ogg" text="СаЌ болыЏыз!" />
 
-	<Sample id="104" sound="data\sounds\radio\r_druid_ffire_2.ogg" text="Ашулануынызды yстаныз." />
+	<Sample id="104" sound="data\sounds\radio\r_druid_ffire_2.ogg" text="АшулануыЏызды ќстаЏыз." />
 
 	<Sample id="105" sound="data\sounds\radio\r_druid_attack_1.ogg" text="Біз сізге сендік!" />
 
-	<Sample id="106" sound="data\sounds\radio\r_druid_attack_2.ogg" text="Сатkын!" />
+	<Sample id="106" sound="data\sounds\radio\r_druid_attack_2.ogg" text="СатЌын!" />
 
-	<Sample id="107" sound="data\sounds\radio\r_druid_ishit_1.ogg" text="Жердін ашуы!" />
+	<Sample id="107" sound="data\sounds\radio\r_druid_ishit_1.ogg" text="ЖердіЏ ашуы!" />
 
 	<Sample id="108" sound="data\sounds\radio\r_druid_ishit_2.ogg" text="Алынды?!" />
 
@@ -220,25 +220,25 @@
 
 	<Sample id="110" sound="data\sounds\radio\r_druid_shot_2.ogg" text="Ойландыратын жебелер!" />
 
-	<Sample id="111" sound="data\sounds\radio\r_druid_kill_1.ogg" text="Тозаkта жану!" />
+	<Sample id="111" sound="data\sounds\radio\r_druid_kill_1.ogg" text="ТозаЌта жану!" />
 
 	<Sample id="112" sound="data\sounds\radio\r_druid_kill_2.ogg" text="Біреуі аз!" />
 
 	<Sample id="113" sound="data\sounds\radio\r_druid_dead_1.ogg" text="Мен кеттім..." />
 
-	<Sample id="114" sound="data\sounds\radio\r_druid_dead_2.ogg" text="Онын соны." />
+	<Sample id="114" sound="data\sounds\radio\r_druid_dead_2.ogg" text="ОныЏ соЏы." />
 
-	<Sample id="115" sound="data\sounds\radio\r_druid_dead_3.ogg" text="Kоштасу ..." />
+	<Sample id="115" sound="data\sounds\radio\r_druid_dead_3.ogg" text="Њоштасу ..." />
 
-	<Sample id="116" sound="data\sounds\radio\r_druid_allydead_1.ogg" text="Ол біз yшін ен жаkсысы болды." />
+	<Sample id="116" sound="data\sounds\radio\r_druid_allydead_1.ogg" text="Ол біз џшін еЏ жаЌсысы болды." />
 
-	<Sample id="117" sound="data\sounds\radio\r_iron_greet_1.ogg" text="Жарkын аспан!" />
+	<Sample id="117" sound="data\sounds\radio\r_iron_greet_1.ogg" text="ЖарЌын аспан!" />
 
 	<Sample id="118" sound="data\sounds\radio\r_iron_greet_2.ogg" text="Жылдар!" />
 
-	<Sample id="119" sound="data\sounds\radio\r_iron_ffire_1.ogg" text="Кобірек мykият!" />
+	<Sample id="119" sound="data\sounds\radio\r_iron_ffire_1.ogg" text="Кљбірек мќЌият!" />
 
-	<Sample id="120" sound="data\sounds\radio\r_iron_ffire_2.ogg" text="Оны kайдан алуfа болады!" />
+	<Sample id="120" sound="data\sounds\radio\r_iron_ffire_2.ogg" text="Оны Ќайдан алуЉа болады!" />
 
 	<Sample id="121" sound="data\sounds\radio\r_iron_attack_1.ogg" text="Мен сені аламын!" />
 
@@ -246,71 +246,71 @@
 
 	<Sample id="123" sound="data\sounds\radio\r_iron_ishit_1.ogg" text="Тікелей, инфекция !!!" />
 
-	<Sample id="124" sound="data\sounds\radio\r_iron_ishit_2.ogg" text="Сен омір сyрмейсін!" />
+	<Sample id="124" sound="data\sounds\radio\r_iron_ishit_2.ogg" text="Сен љмір сџрмейсіЏ!" />
 
-	<Sample id="125" sound="data\sounds\radio\r_iron_shot_1.ogg" text="Ештене етпейді!" />
+	<Sample id="125" sound="data\sounds\radio\r_iron_shot_1.ogg" text="ЕштеЏе етпейді!" />
 
 	<Sample id="126" sound="data\sounds\radio\r_iron_shot_2.ogg" text="Мен берілмеймін!" />
 
-	<Sample id="127" sound="data\sounds\radio\r_iron_kill_1.ogg" text="Бітірді ме? Kарапайым !!!" />
+	<Sample id="127" sound="data\sounds\radio\r_iron_kill_1.ogg" text="Бітірді ме? Њарапайым !!!" />
 
-	<Sample id="128" sound="data\sounds\radio\r_iron_kill_2.ogg" text="Тозаkkа барыныз!" />
+	<Sample id="128" sound="data\sounds\radio\r_iron_kill_2.ogg" text="ТозаЌЌа барыЏыз!" />
 
-	<Sample id="129" sound="data\sounds\radio\r_iron_dead_1.ogg" text="Бyл не пэле?!" />
+	<Sample id="129" sound="data\sounds\radio\r_iron_dead_1.ogg" text="Бќл не п‡ле?!" />
 
-	<Sample id="130" sound="data\sounds\radio\r_iron_dead_2.ogg" text="Мен жанып тyрмын! Жоk-e-ол !!!" />
+	<Sample id="130" sound="data\sounds\radio\r_iron_dead_2.ogg" text="Мен жанып тќрмын! ЖоЌ-e-ол !!!" />
 
 	<Sample id="131" sound="data\sounds\radio\r_iron_dead_3.ogg" text="Мейірімділік!" />
 
 	<Sample id="132" sound="data\sounds\radio\r_iron_allydead_1.ogg" text="Ит!" />
 
-	<Sample id="133" sound="data\sounds\radio\r_robot_attack_1.ogg" text="Маkсат табылды." />
+	<Sample id="133" sound="data\sounds\radio\r_robot_attack_1.ogg" text="МаЌсат табылды." />
 
 	<Sample id="134" sound="data\sounds\radio\r_robot_attack_2.ogg" text="Басып кіру." />
 
 	<Sample id="135" sound="data\sounds\radio\r_robot_attack_3.ogg" text="Нысанды басып алу." />
 
-	<Sample id="136" sound="data\sounds\radio\r_robot_ishit_1.ogg" text="Тікелей соkkы." />
+	<Sample id="136" sound="data\sounds\radio\r_robot_ishit_1.ogg" text="Тікелей соЌЌы." />
 
-	<Sample id="137" sound="data\sounds\radio\r_robot_ishit_2.ogg" text="Маkсат тан kалды." />
+	<Sample id="137" sound="data\sounds\radio\r_robot_ishit_2.ogg" text="МаЌсат таЏ Ќалды." />
 
-	<Sample id="138" sound="data\sounds\radio\r_robot_shot_1.ogg" text="Сыни заkым." />
+	<Sample id="138" sound="data\sounds\radio\r_robot_shot_1.ogg" text="Сыни заЌым." />
 
-	<Sample id="139" sound="data\sounds\radio\r_robot_shot_2.ogg" text="Зиянды баfалау." />
+	<Sample id="139" sound="data\sounds\radio\r_robot_shot_2.ogg" text="Зиянды баЉалау." />
 
 	<Sample id="140" sound="data\sounds\radio\r_robot_kill_1.ogg" text="Жау жойылды." />
 
-	<Sample id="141" sound="data\sounds\radio\r_robot_kill_2.ogg" text="Аймаk тазаланады." />
+	<Sample id="141" sound="data\sounds\radio\r_robot_kill_2.ogg" text="АймаЌ тазаланады." />
 
-	<Sample id="142" sound="data\sounds\radio\r_robot_dead_1.ogg" text="Артыk жyктеме." />
+	<Sample id="142" sound="data\sounds\radio\r_robot_dead_1.ogg" text="АртыЌ жџктеме." />
 
-	<Sample id="143" sound="data\sounds\radio\r_robot_dead_2.ogg" text="Мен ошіремін." />
+	<Sample id="143" sound="data\sounds\radio\r_robot_dead_2.ogg" text="Мен љшіремін." />
 
-	<Sample id="144" sound="data\sounds\radio\r_robot_dead_3.ogg" text="Ядронын kызып кетуі." />
+	<Sample id="144" sound="data\sounds\radio\r_robot_dead_3.ogg" text="ЯдроныЏ Ќызып кетуі." />
 
-	<Sample id="145" sound="data\sounds\radio\r_robot_allydead_1.ogg" text="Арматура kажет." />
+	<Sample id="145" sound="data\sounds\radio\r_robot_allydead_1.ogg" text="Арматура Ќажет." />
 
 	<Sample id="146" sound="data\sounds\radio\r_arab_greet_1.ogg" text="Захади, Дарага!" />
 
-	<Sample id="147" sound="data\sounds\radio\r_arab_greet_2.ogg" text="Yйге kонаk - yйге kуаныш!" />
+	<Sample id="147" sound="data\sounds\radio\r_arab_greet_2.ogg" text="ћйге ЌонаЌ - џйге Ќуаныш!" />
 
 	<Sample id="148" sound="data\sounds\radio\r_arab_ffire_1.ogg" text="Вах!" />
 
 	<Sample id="149" sound="data\sounds\radio\r_arab_ffire_2.ogg" text="Неге ату?" />
 
-	<Sample id="150" sound="data\sounds\radio\r_arab_attack_1.ogg" text="Ba-A-Alley kатесі!" />
+	<Sample id="150" sound="data\sounds\radio\r_arab_attack_1.ogg" text="Ba-A-Alley Ќатесі!" />
 
-	<Sample id="151" sound="data\sounds\radio\r_arab_attack_2.ogg" text="Тікелей, дyрыс емес!" />
+	<Sample id="151" sound="data\sounds\radio\r_arab_attack_2.ogg" text="Тікелей, дќрыс емес!" />
 
-	<Sample id="152" sound="data\sounds\radio\r_arab_ishit_1.ogg" text="Сізге kалай yнайды?!" />
+	<Sample id="152" sound="data\sounds\radio\r_arab_ishit_1.ogg" text="Сізге Ќалай ќнайды?!" />
 
-	<Sample id="153" sound="data\sounds\radio\r_arab_ishit_2.ogg" text="Сіз ойлайсыз, ептілік, дyрыс па?!" />
+	<Sample id="153" sound="data\sounds\radio\r_arab_ishit_2.ogg" text="Сіз ойлайсыз, ептілік, дќрыс па?!" />
 
-	<Sample id="154" sound="data\sounds\radio\r_arab_shot_1.ogg" text="Kyрыш yстамайды!" />
+	<Sample id="154" sound="data\sounds\radio\r_arab_shot_1.ogg" text="Њќрыш ќстамайды!" />
 
-	<Sample id="155" sound="data\sounds\radio\r_arab_shot_2.ogg" text="Сіз жаkсы атасыз!" />
+	<Sample id="155" sound="data\sounds\radio\r_arab_shot_2.ogg" text="Сіз жаЌсы атасыз!" />
 
-	<Sample id="156" sound="data\sounds\radio\r_arab_kill_1.ogg" text="Жерді тазаланыз!" />
+	<Sample id="156" sound="data\sounds\radio\r_arab_kill_1.ogg" text="Жерді тазалаЏыз!" />
 
 	<Sample id="157" sound="data\sounds\radio\r_arab_kill_2.ogg" text="Алла Акбар!" />
 
@@ -320,29 +320,29 @@
 
 	<Sample id="160" sound="data\sounds\radio\r_arab_dead_3.ogg" text="Шайтан!" />
 
-	<Sample id="161" sound="data\sounds\radio\r_arab_allydead_1.ogg" text="Тыныштыkта демал, бауырым." />
+	<Sample id="161" sound="data\sounds\radio\r_arab_allydead_1.ogg" text="ТыныштыЌта демал, бауырым." />
 
-	<Sample id="162" sound="data\sounds\radio\r_madman_attack_1.ogg" text="ЖАНАЛЫKТАР!" />
+	<Sample id="162" sound="data\sounds\radio\r_madman_attack_1.ogg" text="ЖАЋАЛЫЊТАР!" />
 
-	<Sample id="163" sound="data\sounds\radio\r_madman_attack_2.ogg" text="Оліп,-жэне!" />
+	<Sample id="163" sound="data\sounds\radio\r_madman_attack_2.ogg" text="ђліп,-ж‡не!" />
 
 	<Sample id="164" sound="data\sounds\radio\r_madman_attack_3.ogg" text="A-ah-ahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh apa" />
 
 	<Sample id="165" sound="data\sounds\radio\r_madman_ishit_1.ogg" text="Сіз кетпейсіз!" />
 
-	<Sample id="166" sound="data\sounds\radio\r_madman_ishit_2.ogg" text="Дэл!" />
+	<Sample id="166" sound="data\sounds\radio\r_madman_ishit_2.ogg" text="Д‡л!" />
 
-	<Sample id="167" sound="data\sounds\radio\r_madman_shot_1.ogg" text="ИЭ! Элі!" />
+	<Sample id="167" sound="data\sounds\radio\r_madman_shot_1.ogg" text="И‡! †лі!" />
 
-	<Sample id="168" sound="data\sounds\radio\r_madman_shot_2.ogg" text="Тэтті ауырсын!" />
+	<Sample id="168" sound="data\sounds\radio\r_madman_shot_2.ogg" text="Т‡тті ауырсын!" />
 
 	<Sample id="169" sound="data\sounds\radio\r_madman_kill_1.ogg" text="Yo-oh-ha!" />
 
 	<Sample id="170" sound="data\sounds\radio\r_madman_kill_2.ogg" text="Муа ха га!" />
 
-	<Sample id="171" sound="data\sounds\radio\r_madman_dead_1.ogg" text="Аkыры!" />
+	<Sample id="171" sound="data\sounds\radio\r_madman_dead_1.ogg" text="АЌыры!" />
 
-	<Sample id="172" sound="data\sounds\radio\r_madman_dead_2.ogg" text="Мен мэнгімін! Мамандыk ..." />
+	<Sample id="172" sound="data\sounds\radio\r_madman_dead_2.ogg" text="Мен м‡Џгімін! МамандыЌ ..." />
 
 	<Sample id="174" sound="data\sounds\radio\r_madman_allydead_1.ogg" text="A-ha ha ha ha!" />
 </RadioSamples>

@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='windows-1251'?>
 <ObjectNames>
-	<Object Name="LagerGuardian" FullName="Котерілісші" />
+	<Object Name="LagerGuardian" FullName="Кљтерілісші" />
 
 	<Object Name="Monastery" FullName="Монастырь" />
 
-	<Object Name="Monastery_Bar" FullName="Жyпарлыk" />
+	<Object Name="Monastery_Bar" FullName="ЖќпарлыЌ" />
 
-	<Object Name="Monastery_Bar_Barman" FullName="Кyнэкар Дария" />
+	<Object Name="Monastery_Bar_Barman" FullName="Кџн‡кар Дария" />
 
 	<Object Name="Monastery_Cell" FullName="Камера" />
 
@@ -14,11 +14,11 @@
 
 	<Object Name="Monah" FullName="Монашка Джон" />
 
-	<Object Name="SektantMain" FullName="Собелік" />
+	<Object Name="SektantMain" FullName="Сљбелік" />
 
 	<Object Name="Marezzia" FullName="Мэтсия" />
 
-	<Object Name="Marezzia_Shtab" FullName="Штаб-пэтері" />
+	<Object Name="Marezzia_Shtab" FullName="Штаб-п‡тері" />
 
 	<Object Name="Marezzia_Workshop" FullName="Шеберхана" />
 
@@ -28,7 +28,7 @@
 
 	<Object Name="Marezzia_Bar_Barman" FullName="Даяшы Антонио" />
 
-	<Object Name="RecruiterInAR" FullName="Оппозициялыk HUX" />
+	<Object Name="RecruiterInAR" FullName="ОппозициялыЌ HUX" />
 
 	<Object Name="TrashFarmer" FullName="Гарбер Сакс" />
 
@@ -56,7 +56,7 @@
 
 	<Object Name="GranicaVillage" FullName="Шекаралдары" />
 
-	<Object Name="GranicaVillage_Bar" FullName="Kyты" />
+	<Object Name="GranicaVillage_Bar" FullName="Њќты" />
 
 	<Object Name="GranicaVillage_Bar_Barman" FullName="Бармен" />
 
@@ -66,7 +66,7 @@
 
 	<Object Name="ZnakiVillage" FullName="Сараево" />
 
-	<Object Name="ZnakiVillage_Bar" FullName="Ауылдаfы yй" />
+	<Object Name="ZnakiVillage_Bar" FullName="АуылдаЉы џй" />
 
 	<Object Name="ZnakiVillage_Bar_Barman" FullName="Басшы" />
 
@@ -74,11 +74,11 @@
 
 	<Object Name="ZnakiVillage_Shop" FullName="Гол" />
 
-	<Object Name="Aborigen" FullName="Рустикалыk серж" />
+	<Object Name="Aborigen" FullName="РустикалыЌ серж" />
 
 	<Object Name="NewVillage" FullName="Astria" />
 
-	<Object Name="NewVillage_Bar" FullName="Бар '' жоfалды ''" />
+	<Object Name="NewVillage_Bar" FullName="Бар '' жоЉалды ''" />
 
 	<Object Name="NewVillage_Bar_Barman" FullName="Басшы" />
 
@@ -86,17 +86,17 @@
 
 	<Object Name="NewVillage_Shop" FullName="Гол" />
 
-	<Object Name="NewMechanik" FullName="Механикалыk диер" />
+	<Object Name="NewMechanik" FullName="МеханикалыЌ диер" />
 
-	<Object Name="PetrolStationTown1" FullName="Жанжал kою" />
+	<Object Name="PetrolStationTown1" FullName="Жанжал Ќою" />
 
 	<Object Name="PetrolStationTown1_Workshop" FullName="Шеберхана" />
 
-	<Object Name="PetrolStationTown2" FullName="Жанжал kою" />
+	<Object Name="PetrolStationTown2" FullName="Жанжал Ќою" />
 
 	<Object Name="PetrolStationTown2_Workshop" FullName="Шеберхана" />
 
-	<Object Name="PetrolStationTown3" FullName="Жанжал kою" />
+	<Object Name="PetrolStationTown3" FullName="Жанжал Ќою" />
 
 	<Object Name="PetrolStationTown3_Workshop" FullName="Шеберхана" />
 
@@ -106,19 +106,19 @@
 
 	<Object Name="NewVillage_enter" FullName="Astria" />
 
-	<Object Name="EnterToSubmarine_loc" FullName="Теніз kаkпасы" />
+	<Object Name="EnterToSubmarine_loc" FullName="ТеЏіз ЌаЌпасы" />
 
 	<Object Name="ToR2M1" FullName="Либрийге жол" />
 
-	<Object Name="ToR2M1small" FullName="Либерумfа апаратын жол" />
+	<Object Name="ToR2M1small" FullName="ЛиберумЉа апаратын жол" />
 
 	<Object Name="u1" FullName="Бап" />
 
-	<Object Name="u2" FullName="Баfа" />
+	<Object Name="u2" FullName="БаЉа" />
 
-	<Object Name="u3" FullName="Тазартkыш" />
+	<Object Name="u3" FullName="ТазартЌыш" />
 
-	<Object Name="u4" FullName="Бyркент" />
+	<Object Name="u4" FullName="Бџркент" />
 
 	<Object Name="u5" FullName="Пунту" />
 

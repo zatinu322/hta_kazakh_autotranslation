@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='windows-1251'?>
 <ObjectNames>
-	<Object Name="Esting" FullName="Шыfыс" />
+	<Object Name="Esting" FullName="ШыЉыс" />
 
 	<Object Name="Esting_Workshop" FullName="Шеберхана" />
 
 	<Object Name="Esting_Shop" FullName="Гол" />
 
-	<Object Name="Esting_Bar" FullName="PAB '' баkытты ''" />
+	<Object Name="Esting_Bar" FullName="PAB '' баЌытты ''" />
 
 	<Object Name="Esting_Bar_Barman" FullName="Бартен Spike" />
 
 	<Object Name="Fermer" FullName="Фермер Хосе" />
 
-	<Object Name="MainSigner" FullName="Механикалыk Чакки" />
+	<Object Name="MainSigner" FullName="МеханикалыЌ Чакки" />
 
-	<Object Name="Kollizey1" FullName="Yйымдастырушы" />
+	<Object Name="Kollizey1" FullName="њйымдастырушы" />
 
 	<Object Name="Midragd" FullName="Орта мекеме" />
 
@@ -22,17 +22,17 @@
 
 	<Object Name="Midragd_Shop" FullName="Гол" />
 
-	<Object Name="Midragd_Bar" FullName="Тор" />
+	<Object Name="Midragd_Bar" FullName="Тљр" />
 
-	<Object Name="Midragd_Museum" FullName="Мyражай" />
+	<Object Name="Midragd_Museum" FullName="Мќражай" />
 
-	<Object Name="Midragd_Bar_Barman" FullName="Эшлидін бармені" />
+	<Object Name="Midragd_Bar_Barman" FullName="ЭшлидіЏ бармені" />
 
 	<Object Name="Professor" FullName="Профессор Мал" />
 
-	<Object Name="Kollizey2" FullName="Yйымдастырушы" />
+	<Object Name="Kollizey2" FullName="њйымдастырушы" />
 
-	<Object Name="Citizen" FullName="Эмои тyрfыны" />
+	<Object Name="Citizen" FullName="Эмои тќрЉыны" />
 
 	<Object Name="Zavhoz" FullName="Мидас менеджері" />
 
@@ -44,15 +44,15 @@
 
 	<Object Name="Porto_Shop" FullName="Гол" />
 
-	<Object Name="Porto_Bar" FullName="Бар '' олі анкор ''" />
+	<Object Name="Porto_Bar" FullName="Бар '' љлі анкор ''" />
 
-	<Object Name="Porto_Bar_Barman" FullName="Кэсіпкер Макс" />
+	<Object Name="Porto_Bar_Barman" FullName="К‡сіпкер Макс" />
 
 	<Object Name="Karavanshik" FullName="Керуен Шон" />
 
 	<Object Name="Anticwar" FullName="Археолог Джонс" />
 
-	<Object Name="Kollizey3" FullName="Yйымдастырушы" />
+	<Object Name="Kollizey3" FullName="њйымдастырушы" />
 
 	<Object Name="PortoCitizen" FullName="Азаматтар Кейн" />
 
@@ -66,9 +66,9 @@
 
 	<Object Name="TheArtefact_Bar_Barman" FullName="Салон ханымы" />
 
-	<Object Name="Staruha" FullName="Кэрі эйел" />
+	<Object Name="Staruha" FullName="К‡рі ‡йел" />
 
-	<Object Name="Ben" FullName="Kарт адам" />
+	<Object Name="Ben" FullName="Њарт адам" />
 
 	<Object Name="TheSign" FullName="Итырау" />
 
@@ -86,7 +86,7 @@
 
 	<Object Name="TheRace_Workshop" FullName="Шеберхана" />
 
-	<Object Name="TheRace_Shop" FullName="Дыk" />
+	<Object Name="TheRace_Shop" FullName="ДыЌ" />
 
 	<Object Name="TheRace_Bar" FullName="Bar '' nostalgia ''" />
 
@@ -110,39 +110,39 @@
 
 	<Object Name="TheTickets_Bar" FullName="Бар '' Azart ''" />
 
-	<Object Name="TheTickets_ZAO" FullName="«Колизей» ЖАK" />
+	<Object Name="TheTickets_ZAO" FullName="«Колизей» ЖАЊ" />
 
 	<Object Name="TheTickets_Bar_Barman" FullName="Букмекерліктер" />
 
 	<Object Name="Director" FullName="Директор Иль" />
 
-	<Object Name="Antisincer" FullName="Жyк тиегіш" />
+	<Object Name="Antisincer" FullName="Жџк тиегіш" />
 
 	<Object Name="Fighter1" FullName="Гладиатор Сара" />
 
 	<Object Name="Fighter2" FullName="Гладиатор Логан" />
 
-	<Object Name="PetrolStationTown1" FullName="Жанжал kою" />
+	<Object Name="PetrolStationTown1" FullName="Жанжал Ќою" />
 
 	<Object Name="PetrolStationTown1_Workshop" FullName="Шеберхана" />
 
-	<Object Name="PetrolStationTown2" FullName="Жанжал kою" />
+	<Object Name="PetrolStationTown2" FullName="Жанжал Ќою" />
 
 	<Object Name="PetrolStationTown2_Workshop" FullName="Шеберхана" />
 
-	<Object Name="PetrolStationTown3" FullName="Жанжал kою" />
+	<Object Name="PetrolStationTown3" FullName="Жанжал Ќою" />
 
 	<Object Name="PetrolStationTown3_Workshop" FullName="Шеберхана" />
 
-	<Object Name="PetrolStationTown4" FullName="Жанжал kою" />
+	<Object Name="PetrolStationTown4" FullName="Жанжал Ќою" />
 
 	<Object Name="PetrolStationTown4_Workshop" FullName="Шеберхана" />
 
-	<Object Name="PetrolStationTown5" FullName="Жанжал kою" />
+	<Object Name="PetrolStationTown5" FullName="Жанжал Ќою" />
 
 	<Object Name="PetrolStationTown5_Workshop" FullName="Шеберхана" />
 
-	<Object Name="Esting_enter" FullName="Шыfыс" />
+	<Object Name="Esting_enter" FullName="ШыЉыс" />
 
 	<Object Name="Midragd_enter" FullName="Орта мекеме" />
 
@@ -172,7 +172,7 @@
 
 	<Object Name="u5" FullName="Хунбек" />
 
-	<Object Name="u6" FullName="Озен" />
+	<Object Name="u6" FullName="ђзен" />
 
 	<Object Name="u7" FullName="Сейфтен" />
 

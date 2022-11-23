@@ -1,826 +1,414 @@
-<?xml version="1.0" encoding="windows-1251" standalone="yes" ?><!-- edited with XML Spy v4.2 U (http://www.xmlspy.com) by Morgoth (Targem) -->
-<resource><!--Impulses-->
-	<string
-		id="IM_MODE_GAME_MENU"
-		value="" />
-
-	<string
-		id="IM_FWD"
-		value="Двигаться вперед" />
-
-	<string
-		id="IM_BK"
-		value="Двигаться назад" />
-
-	<string
-		id="IM_LEFT"
-		value="Двигаться влево" />
-
-	<string
-		id="IM_RIGHT"
-		value="Двигаться вправо" />
-
-	<string
-		id="IM_RUN"
-		value="Бежать" />
-
-	<string
-		id="IM_GAME_ZOOM_CAMERA"
-		value="Приближение-удаление камеры" />
-
-	<string
-		id="IM_GAME_DRAG_CAMERA"
-		value="Поворот камеры" />
-
-	<string
-		id="IM_DEBUG_0"
-		value="" />
-
-	<string
-		id="IM_DEBUG_1"
-		value="" />
-
-	<string
-		id="IM_DEBUG_2"
-		value="" />
-
-	<string
-		id="IM_DEBUG_3"
-		value="" />
-
-	<string
-		id="IM_DEBUG_4"
-		value="" />
-
-	<string
-		id="IM_DEBUG_5"
-		value="" />
-
-	<string
-		id="IM_DEBUG_6"
-		value="" />
-
-	<string
-		id="IM_DEBUG_7"
-		value="" />
-
-	<string
-		id="IM_DEBUG_8"
-		value="" />
-
-	<string
-		id="IM_DEBUG_9"
-		value="" />
-
-	<string
-		id="IM_DEBUG_WIREFRAME"
-		value="" />
-
-	<string
-		id="IM_CAR_ACC"
-		value="Газ" />
-
-	<string
-		id="IM_CAR_BREAK"
-		value="Тормоз" />
-
-	<string
-		id="IM_CAR_HAND_BREAK"
-		value="Ручной тормоз" />
-
-	<string
-		id="IM_CAR_LEFT"
-		value="Поворот влево" />
-
-	<string
-		id="IM_CAR_RIGHT"
-		value="Поворот вправо" />
-
-	<string
-		id="IM_CAR_TURNTOWHEELS"
-		value="Встать на колеса" />
-
-	<string
-		id="IM_CAR_SWITCHCAMERA"
-		value="Переключение камеры" />
-
-	<string
-		id="IM_CAR_GET_OUT_OF_DIFFICULT_PLACE"
-		value="Выбраться из сложного места" />
-
-	<string
-		id="IM_CAR_FIRE_0"
-		value="Атака из оружия группы 1" />
-
-	<string
-		id="IM_CAR_FIRE_1"
-		value="Атака из оружия группы 2" />
-
-	<string
-		id="IM_CAR_FIRE_2"
-		value="Атака из оружия группы 3" />
-
-	<string
-		id="IM_CAR_FIRE_3"
-		value="Атака из оружия группы 4" />
-
-	<string
-		id="IM_CAR_FIRE_4"
-		value="Атака из оружия группы 5" />
-
-	<string
-		id="IM_CAR_FIRE_ALL"
-		value="Атака из всех групп оружия" />
-
-	<string
-		id="IM_RELOAD_WEAPON"
-		value="Перезарядка оружия" />
-
-	<string
-		id="IM_UI_INVENTORY"
-		value="Снаряжение/Магазин" />
-
-	<string
-		id="IM_UI_MENUBOOK"
-		value="Игровое меню" />
-
-	<string
-		id="IM_UI_QUESTLOG"
-		value="Задания" />
-
-	<string
-		id="IM_UI_JOURNAL"
-		value="Журнал" />
-
-	<string
-		id="IM_UI_MAP"
-		value="Карта" />
-
-	<string
-		id="IM_CAR_LIGHTS"
-		value="Фары" />
-
-	<string
-		id="IM_UI_TOGGLE_INTERFACE"
-		value="Показать/скрыть интерфейс" />
-
-	<string
-		id="IM_CAR_HORN"
-		value="Гудок" />
-
-	<string
-		id="IM_UI_VEHICLE_INFO"
-		value="Информация о машине/Мастерская" />
-
-	<string
-		id="IM_QUICK_SAVE"
-		value="Быстрое сохранение" />
-
-	<string
-		id="IM_QUICK_LOAD"
-		value="Быстрая загрузка" />
-
-	<string
-		id="IM_PAUSE"
-		value="Пауза" />
-
-	<string
-		id="IM_UI_BAR"
-		value="Бар" />
-
-	<string
-		id="IM_UI_ADDITIONAL_BUILDING"
-		value="Опциональное здание в городе" />
-
-	<string
-		id="IM_UI_PICKUP_ALL"
-		value="Подобрать всё" />
-
-	<string
-		id="IM_UI_HELP"
-		value="Помощь" />
-<!--Keys-->
-	<string
-		id="KEY_ESCAPE"
-		value="Esc" />
-
-	<string
-		id="KEY_1"
-		value="1" />
-
-	<string
-		id="KEY_2"
-		value="2" />
-
-	<string
-		id="KEY_3"
-		value="3" />
-
-	<string
-		id="KEY_4"
-		value="4" />
-
-	<string
-		id="KEY_5"
-		value="5" />
-
-	<string
-		id="KEY_6"
-		value="6" />
-
-	<string
-		id="KEY_7"
-		value="7" />
-
-	<string
-		id="KEY_8"
-		value="8" />
-
-	<string
-		id="KEY_9"
-		value="9" />
-
-	<string
-		id="KEY_0"
-		value="0" />
-
-	<string
-		id="KEY_MINUS"
-		value="-" />
-
-	<string
-		id="KEY_EQUALS"
-		value="=" />
-
-	<string
-		id="KEY_BACKSPACE"
-		value="Backspace" />
-
-	<string
-		id="KEY_TAB"
-		value="TAB" />
-
-	<string
-		id="KEY_Q"
-		value="Q" />
-
-	<string
-		id="KEY_W"
-		value="W" />
-
-	<string
-		id="KEY_E"
-		value="E" />
-
-	<string
-		id="KEY_R"
-		value="R" />
-
-	<string
-		id="KEY_T"
-		value="T" />
-
-	<string
-		id="KEY_Y"
-		value="Y" />
-
-	<string
-		id="KEY_U"
-		value="U" />
-
-	<string
-		id="KEY_I"
-		value="I" />
-
-	<string
-		id="KEY_O"
-		value="O" />
-
-	<string
-		id="KEY_P"
-		value="P" />
-
-	<string
-		id="KEY_LBRACKET"
-		value="(" />
-
-	<string
-		id="KEY_RBRACKET"
-		value=")" />
-
-	<string
-		id="KEY_RETURN"
-		value="Enter" />
-
-	<string
-		id="KEY_LCONTROL"
-		value="Левый Ctrl" />
-
-	<string
-		id="KEY_A"
-		value="A" />
-
-	<string
-		id="KEY_S"
-		value="S" />
-
-	<string
-		id="KEY_D"
-		value="D" />
-
-	<string
-		id="KEY_F"
-		value="F" />
-
-	<string
-		id="KEY_G"
-		value="G" />
-
-	<string
-		id="KEY_H"
-		value="H" />
-
-	<string
-		id="KEY_J"
-		value="J" />
-
-	<string
-		id="KEY_K"
-		value="K" />
-
-	<string
-		id="KEY_L"
-		value="L" />
-
-	<string
-		id="KEY_SEMICOLON"
-		value=":" />
-
-	<string
-		id="KEY_APOSTROPHE"
-		value="" />
-
-	<string
-		id="KEY_GRAVE"
-		value="~" />
-
-	<string
-		id="KEY_LSHIFT"
-		value="Левый Shift" />
-
-	<string
-		id="KEY_BACKSLASH"
-		value="\" />
-
-	<string
-		id="KEY_Z"
-		value="Z" />
-
-	<string
-		id="KEY_X"
-		value="X" />
-
-	<string
-		id="KEY_C"
-		value="C" />
-
-	<string
-		id="KEY_V"
-		value="V" />
-
-	<string
-		id="KEY_B"
-		value="B" />
-
-	<string
-		id="KEY_N"
-		value="N" />
-
-	<string
-		id="KEY_M"
-		value="M" />
-
-	<string
-		id="KEY_COMMA"
-		value="," />
-
-	<string
-		id="KEY_PERIOD"
-		value="." />
-
-	<string
-		id="KEY_SLASH"
-		value="/" />
-
-	<string
-		id="KEY_RSHIFT"
-		value="Правый Shift" />
-
-	<string
-		id="KEY_NUMPADSTAR"
-		value="* (на цифр кл.)" />
-
-	<string
-		id="KEY_LALT"
-		value="Левый Alt" />
-
-	<string
-		id="KEY_SPACE"
-		value="Пробел" />
-
-	<string
-		id="KEY_CAPSLOCK"
-		value="CapsLock" />
-
-	<string
-		id="KEY_F1"
-		value="F1" />
-
-	<string
-		id="KEY_F2"
-		value="F2" />
-
-	<string
-		id="KEY_F3"
-		value="F3" />
-
-	<string
-		id="KEY_F4"
-		value="F4" />
-
-	<string
-		id="KEY_F5"
-		value="F5" />
-
-	<string
-		id="KEY_F6"
-		value="F6" />
-
-	<string
-		id="KEY_F7"
-		value="F7" />
-
-	<string
-		id="KEY_F8"
-		value="F8" />
-
-	<string
-		id="KEY_F9"
-		value="F9" />
-
-	<string
-		id="KEY_F10"
-		value="F10" />
-
-	<string
-		id="KEY_NUMLOCK"
-		value="NumLock" />
-
-	<string
-		id="KEY_SCROLL"
-		value="Scroll" />
-
-	<string
-		id="KEY_NUMPAD7"
-		value="7 (на цифр кл.)" />
-
-	<string
-		id="KEY_NUMPAD8"
-		value="8 (на цифр кл.)" />
-
-	<string
-		id="KEY_NUMPAD9"
-		value="9 (на цифр кл.)" />
-
-	<string
-		id="KEY_NUMPADMINUS"
-		value="- (на цифр кл.)" />
-
-	<string
-		id="KEY_NUMPAD4"
-		value="4 (на цифр кл.)" />
-
-	<string
-		id="KEY_NUMPAD5"
-		value="5 (на цифр кл.)" />
-
-	<string
-		id="KEY_NUMPAD6"
-		value="6(на цифр кл.)" />
-
-	<string
-		id="KEY_NUMPADPLUS"
-		value="+ (на цифр кл.)" />
-
-	<string
-		id="KEY_NUMPAD1"
-		value="1 (на цифр кл.)" />
-
-	<string
-		id="KEY_NUMPAD2"
-		value="2 (на цифр кл.)" />
-
-	<string
-		id="KEY_NUMPAD3"
-		value="3 (на цифр кл.)" />
-
-	<string
-		id="KEY_NUMPAD0"
-		value="0 (на цифр кл.)" />
-
-	<string
-		id="KEY_NUMPADPERIOD"
-		value=". (на цифр кл.)" />
-
-	<string
-		id="KEY_OEM_102"
-		value="" />
-
-	<string
-		id="KEY_F11"
-		value="F11" />
-
-	<string
-		id="KEY_F12"
-		value="F12" />
-
-	<string
-		id="KEY_F13"
-		value="F13" />
-
-	<string
-		id="KEY_F14"
-		value="F14" />
-
-	<string
-		id="KEY_F15"
-		value="F15" />
-
-	<string
-		id="KEY_KANA"
-		value="" />
-
-	<string
-		id="KEY_ABNT_C1"
-		value="" />
-
-	<string
-		id="KEY_CONVERT"
-		value="" />
-
-	<string
-		id="KEY_NOCONVERT"
-		value="" />
-
-	<string
-		id="KEY_YEN"
-		value="" />
-
-	<string
-		id="KEY_ABNT_C2"
-		value="" />
-
-	<string
-		id="KEY_NUMPADEQUALS"
-		value="" />
-
-	<string
-		id="KEY_PREVTRACK"
-		value="" />
-
-	<string
-		id="KEY_AT"
-		value="" />
-
-	<string
-		id="KEY_COLON"
-		value=":" />
-
-	<string
-		id="KEY_UNDERLINE"
-		value="_" />
-
-	<string
-		id="KEY_KANJI"
-		value="" />
-
-	<string
-		id="KEY_STOP"
-		value="" />
-
-	<string
-		id="KEY_AX"
-		value="" />
-
-	<string
-		id="KEY_UNLABELED"
-		value="" />
-
-	<string
-		id="KEY_NEXTTRACK"
-		value="" />
-
-	<string
-		id="KEY_NUMPADENTER"
-		value="Enter (на цифр кл.)" />
-
-	<string
-		id="KEY_RCONTROL"
-		value="Правый Ctrl" />
-
-	<string
-		id="KEY_MUTE"
-		value="" />
-
-	<string
-		id="KEY_CALCULATOR"
-		value="" />
-
-	<string
-		id="KEY_PLAYPAUSE"
-		value="" />
-
-	<string
-		id="KEY_MEDIASTOP"
-		value="" />
-
-	<string
-		id="KEY_VOLUMEDOWN"
-		value="" />
-
-	<string
-		id="KEY_VOLUMEUP"
-		value="" />
-
-	<string
-		id="KEY_WEBHOME"
-		value="" />
-
-	<string
-		id="KEY_NUMPADCOMMA"
-		value=", (на цифр кл.)" />
-
-	<string
-		id="KEY_NUMPADSLASH"
-		value="/ (на цифр кл.)" />
-
-	<string
-		id="KEY_SYSRQ"
-		value="" />
-
-	<string
-		id="KEY_RALT"
-		value="Правый Alt" />
-
-	<string
-		id="KEY_PAUSE"
-		value="Pause" />
-
-	<string
-		id="KEY_HOME"
-		value="Home" />
-
-	<string
-		id="KEY_UPARROW"
-		value="Стрелка вверх" />
-
-	<string
-		id="KEY_PGUP"
-		value="PgUp" />
-
-	<string
-		id="KEY_LEFTARROW"
-		value="Стрелка влево" />
-
-	<string
-		id="KEY_RIGHTARROW"
-		value="Стрелка вправо" />
-
-	<string
-		id="KEY_END"
-		value="End" />
-
-	<string
-		id="KEY_DOWNARROW"
-		value="Стрелка вниз" />
-
-	<string
-		id="KEY_PGDN"
-		value="PgDn" />
-
-	<string
-		id="KEY_INSERT"
-		value="Insert" />
-
-	<string
-		id="KEY_DELETE"
-		value="Delete" />
-
-	<string
-		id="KEY_LWIN"
-		value="" />
-
-	<string
-		id="KEY_RWIN"
-		value="" />
-
-	<string
-		id="KEY_APPS"
-		value="" />
-
-	<string
-		id="KEY_POWER"
-		value="" />
-
-	<string
-		id="KEY_SLEEP"
-		value="" />
-
-	<string
-		id="KEY_WAKE"
-		value="" />
-
-	<string
-		id="KEY_WEBSEARCH"
-		value="" />
-
-	<string
-		id="KEY_WEBFAVORITES"
-		value="" />
-
-	<string
-		id="KEY_WEBREFRESH"
-		value="" />
-
-	<string
-		id="KEY_WEBSTOP"
-		value="" />
-
-	<string
-		id="KEY_WEBFORWARD"
-		value="" />
-
-	<string
-		id="KEY_WEBBACK"
-		value="" />
-
-	<string
-		id="KEY_MYCOMPUTER"
-		value="" />
-
-	<string
-		id="KEY_MAIL"
-		value="" />
-
-	<string
-		id="KEY_MEDIASELECT"
-		value="" />
-
-	<string
-		id="KEY_LBUTTON"
-		value="Левая кн. мыши" />
-
-	<string
-		id="KEY_RBUTTON"
-		value="Правая кн. мыши" />
-
-	<string
-		id="KEY_MBUTTON"
-		value="Средняя кн. мыши" />
-
-	<string
-		id="KEY_MOUSE_MOVE"
-		value="" />
-
-	<string
-		id="KEY_MWHEEL"
-		value="Mouse wheel" />
-
-	<string
-		id="KEY_CONTROL"
-		value="Ctrl" />
-
-	<string
-		id="KEY_ALT"
-		value="Alt" />
-
-	<string
-		id="KEY_SHIFT"
-		value="Shift" />
-
-	<string
-		id="KEY_MOUSE_MOVE_ON_UI"
-		value="" />
-<!--Messages-->
-	<string
-		id="BINDKEYS_MSG_RESERVED"
-		value="Данное сочетание клавиш зарезервировано" />
-
-	<string
-		id="BINDKEYS_MSG_EXISTS"
-		value="Данное сочетание клавиш уже используется действием %s. Продолжить?" />
-
-	<string
-		id="BINDKEYS_MSG_EXISTS_ONLY"
-		value="Данное сочетание клавиш уже используется действием %s и является для него единственным" />
+<?xml version='1.0' encoding='windows-1251'?>
+<resource>
+	<string id="IM_MODE_GAME_MENU" value="" />
+
+	<string id="IM_FWD" value="АлЉа жылжу" />
+
+	<string id="IM_BK" value="АртЌа Ќарай жылжытыЏыз" />
+
+	<string id="IM_LEFT" value="СолЉа жылжытыЏыз" />
+
+	<string id="IM_RIGHT" value="ОЏЉа жылжытыЏыз" />
+
+	<string id="IM_RUN" value="Жџгіру" />
+
+	<string id="IM_GAME_ZOOM_CAMERA" value="КамераЉа жаЌындау" />
+
+	<string id="IM_GAME_DRAG_CAMERA" value="Камераны бќраЏыз" />
+
+	<string id="IM_DEBUG_0" value="" />
+
+	<string id="IM_DEBUG_1" value="" />
+
+	<string id="IM_DEBUG_2" value="" />
+
+	<string id="IM_DEBUG_3" value="" />
+
+	<string id="IM_DEBUG_4" value="" />
+
+	<string id="IM_DEBUG_5" value="" />
+
+	<string id="IM_DEBUG_6" value="" />
+
+	<string id="IM_DEBUG_7" value="" />
+
+	<string id="IM_DEBUG_8" value="" />
+
+	<string id="IM_DEBUG_9" value="" />
+
+	<string id="IM_DEBUG_WIREFRAME" value="" />
+
+	<string id="IM_CAR_ACC" value="Газ" />
+
+	<string id="IM_CAR_BREAK" value="Тежегіш" />
+
+	<string id="IM_CAR_HAND_BREAK" value="Њол тежегіші" />
+
+	<string id="IM_CAR_LEFT" value="СолЉа бќрылыЏыз" />
+
+	<string id="IM_CAR_RIGHT" value="ОЏЉа бќрылыЏыз" />
+
+	<string id="IM_CAR_TURNTOWHEELS" value="ДоЏЉалаЌтарда тќрыЏыз" />
+
+	<string id="IM_CAR_SWITCHCAMERA" value="Камераны ауыстыру" />
+
+	<string id="IM_CAR_GET_OUT_OF_DIFFICULT_PLACE" value="Кџрделі жерден шыЉыЏыз" />
+
+	<string id="IM_CAR_FIRE_0" value="1-топ Ќаруынан шабуыл" />
+
+	<string id="IM_CAR_FIRE_1" value="2-топ Ќаруынан шабуыл" />
+
+	<string id="IM_CAR_FIRE_2" value="3-топ Ќаруынан шабуыл" />
+
+	<string id="IM_CAR_FIRE_3" value="4-топтыЏ Ќару-жараЉынан шабуыл" />
+
+	<string id="IM_CAR_FIRE_4" value="5-топ Ќаруынан шабуыл" />
+
+	<string id="IM_CAR_FIRE_ALL" value="БарлыЌ Ќару-жараЌ топтарыныЏ шабуылы" />
+
+	<string id="IM_RELOAD_WEAPON" value="ЊаруЉа Ќатысты" />
+
+	<string id="IM_UI_INVENTORY" value="ЖабдыЌ / дџкен" />
+
+	<string id="IM_UI_MENUBOOK" value="Ойын м‡зірі" />
+
+	<string id="IM_UI_QUESTLOG" value="Тапсырмалар" />
+
+	<string id="IM_UI_JOURNAL" value="Журнал" />
+
+	<string id="IM_UI_MAP" value="Карта" />
+
+	<string id="IM_CAR_LIGHTS" value="Фаралар" />
+
+	<string id="IM_UI_TOGGLE_INTERFACE" value="Интерфейсті кљрсету / жасыру" />
+
+	<string id="IM_CAR_HORN" value="Хоук" />
+
+	<string id="IM_UI_VEHICLE_INFO" value="Автокљлік / семинар туралы аЌпарат" />
+
+	<string id="IM_QUICK_SAVE" value="Жылдам саЌтау" />
+
+	<string id="IM_QUICK_LOAD" value="Жылдам жџктеме" />
+
+	<string id="IM_PAUSE" value="њзіліс" />
+
+	<string id="IM_UI_BAR" value="Тљр" />
+
+	<string id="IM_UI_ADDITIONAL_BUILDING" value="ЊаладаЉы Ќосымша Љимарат" />
+
+	<string id="IM_UI_PICKUP_ALL" value="БарлыЉын таЏдаЏыз" />
+
+	<string id="IM_UI_HELP" value="КљмектесіЏдер" />
+
+	<string id="KEY_ESCAPE" value="ШЫ‰У" />
+
+	<string id="KEY_1" value="бір" />
+
+	<string id="KEY_2" value="2" />
+
+	<string id="KEY_3" value="3." />
+
+	<string id="KEY_4" value="тљрт" />
+
+	<string id="KEY_5" value="5" />
+
+	<string id="KEY_6" value="6" />
+
+	<string id="KEY_7" value="7" />
+
+	<string id="KEY_8" value="сегіз" />
+
+	<string id="KEY_9" value="Мен" />
+
+	<string id="KEY_0" value="0" />
+
+	<string id="KEY_MINUS" value="-" />
+
+	<string id="KEY_EQUALS" value="=" />
+
+	<string id="KEY_BACKSPACE" value="АртЌа бљртпе" />
+
+	<string id="KEY_TAB" value="Белгі" />
+
+	<string id="KEY_Q" value="Њарай" />
+
+	<string id="KEY_W" value="-Та" />
+
+	<string id="KEY_E" value="Е е" />
+
+	<string id="KEY_R" value="ПатрондылыЌ" />
+
+	<string id="KEY_T" value="Т" />
+
+	<string id="KEY_Y" value="Ж‡не" />
+
+	<string id="KEY_U" value="У" />
+
+	<string id="KEY_I" value="Ж‡не" />
+
+	<string id="KEY_O" value="-" />
+
+	<string id="KEY_P" value="Б" />
+
+	<string id="KEY_LBRACKET" value="(" />
+
+	<string id="KEY_RBRACKET" value=")" />
+
+	<string id="KEY_RETURN" value="Кіру" />
+
+	<string id="KEY_LCONTROL" value="Сол жаЌ Ctrl" />
+
+	<string id="KEY_A" value="БіраЌ" />
+
+	<string id="KEY_S" value="-Ден" />
+
+	<string id="KEY_D" value="D." />
+
+	<string id="KEY_F" value="F" />
+
+	<string id="KEY_G" value="Ж" />
+
+	<string id="KEY_H" value="Х" />
+
+	<string id="KEY_J" value="Ж†НЕ" />
+
+	<string id="KEY_K" value="Њарай" />
+
+	<string id="KEY_L" value="ђшпін" />
+
+	<string id="KEY_SEMICOLON" value=":" />
+
+	<string id="KEY_APOSTROPHE" value="" />
+
+	<string id="KEY_GRAVE" value="~" />
+
+	<string id="KEY_LSHIFT" value="Сол жаЌ Shift" />
+
+	<string id="KEY_BACKSLASH" value="е е" />
+
+	<string id="KEY_Z" value="Н" />
+
+	<string id="KEY_X" value="-Ден" />
+
+	<string id="KEY_C" value="-Ден" />
+
+	<string id="KEY_V" value="-Та" />
+
+	<string id="KEY_B" value="-Та" />
+
+	<string id="KEY_N" value="N" />
+
+	<string id="KEY_M" value="М" />
+
+	<string id="KEY_COMMA" value="," />
+
+	<string id="KEY_PERIOD" value="." />
+
+	<string id="KEY_SLASH" value="/" />
+
+	<string id="KEY_RSHIFT" value="ОЏ жылжу" />
+
+	<string id="KEY_NUMPADSTAR" value="* (сандар класы џшін)" />
+
+	<string id="KEY_LALT" value="Сол жаЌ" />
+
+	<string id="KEY_SPACE" value="‰арыш" />
+
+	<string id="KEY_CAPSLOCK" value="ЖоЉарЉы Бас ‡ріп регистрі" />
+
+	<string id="KEY_F1" value="F1" />
+
+	<string id="KEY_F2" value="Зат" />
+
+	<string id="KEY_F3" value="Фз" />
+
+	<string id="KEY_F4" value="Сырба" />
+
+	<string id="KEY_F5" value="F5" />
+
+	<string id="KEY_F6" value="FSH" />
+
+	<string id="KEY_F7" value="F7" />
+
+	<string id="KEY_F8" value="F8" />
+
+	<string id="KEY_F9" value="Зат" />
+
+	<string id="KEY_F10" value="F10" />
+
+	<string id="KEY_NUMLOCK" value="Numblock" />
+
+	<string id="KEY_SCROLL" value="ЖылжыЏыз" />
+
+	<string id="KEY_NUMPAD7" value="7 (сандар класы џшін)" />
+
+	<string id="KEY_NUMPAD8" value="8 (сандар класы џшін)" />
+
+	<string id="KEY_NUMPAD9" value="9 (сандар класы џшін)" />
+
+	<string id="KEY_NUMPADMINUS" value="- (сандар сыныптары џшін)" />
+
+	<string id="KEY_NUMPAD4" value="4 (сандар класы џшін)" />
+
+	<string id="KEY_NUMPAD5" value="5 (сандар класы џшін)" />
+
+	<string id="KEY_NUMPAD6" value="6 (сандар класы џшін)" />
+
+	<string id="KEY_NUMPADPLUS" value="+ (сандар класы џшін)" />
+
+	<string id="KEY_NUMPAD1" value="1 (сандар класы џшін)" />
+
+	<string id="KEY_NUMPAD2" value="2 (сандар класы џшін)" />
+
+	<string id="KEY_NUMPAD3" value="3 (сандар класы џшін)" />
+
+	<string id="KEY_NUMPAD0" value="0 (сандар сыныптары џшін)" />
+
+	<string id="KEY_NUMPADPERIOD" value=". (сандар сыныптары џшін)" />
+
+	<string id="KEY_OEM_102" value="" />
+
+	<string id="KEY_F11" value="F11" />
+
+	<string id="KEY_F12" value="F12" />
+
+	<string id="KEY_F13" value="F13" />
+
+	<string id="KEY_F14" value="F14" />
+
+	<string id="KEY_F15" value="F15" />
+
+	<string id="KEY_KANA" value="" />
+
+	<string id="KEY_ABNT_C1" value="" />
+
+	<string id="KEY_CONVERT" value="" />
+
+	<string id="KEY_NOCONVERT" value="" />
+
+	<string id="KEY_YEN" value="" />
+
+	<string id="KEY_ABNT_C2" value="" />
+
+	<string id="KEY_NUMPADEQUALS" value="" />
+
+	<string id="KEY_PREVTRACK" value="" />
+
+	<string id="KEY_AT" value="" />
+
+	<string id="KEY_COLON" value=":" />
+
+	<string id="KEY_UNDERLINE" value="_" />
+
+	<string id="KEY_KANJI" value="" />
+
+	<string id="KEY_STOP" value="" />
+
+	<string id="KEY_AX" value="" />
+
+	<string id="KEY_UNLABELED" value="" />
+
+	<string id="KEY_NEXTTRACK" value="" />
+
+	<string id="KEY_NUMPADENTER" value="ENTER (Сынып нљмірлері џшін)" />
+
+	<string id="KEY_RCONTROL" value="Дќрыс Ctrl" />
+
+	<string id="KEY_MUTE" value="" />
+
+	<string id="KEY_CALCULATOR" value="" />
+
+	<string id="KEY_PLAYPAUSE" value="" />
+
+	<string id="KEY_MEDIASTOP" value="" />
+
+	<string id="KEY_VOLUMEDOWN" value="" />
+
+	<string id="KEY_VOLUMEUP" value="" />
+
+	<string id="KEY_WEBHOME" value="" />
+
+	<string id="KEY_NUMPADCOMMA" value=", (cl сандары џшін)" />
+
+	<string id="KEY_NUMPADSLASH" value="/ (сандар сыныптары џшін)" />
+
+	<string id="KEY_SYSRQ" value="" />
+
+	<string id="KEY_RALT" value="ОЏ жаЌ" />
+
+	<string id="KEY_PAUSE" value="њзіліс" />
+
+	<string id="KEY_HOME" value="ћй" />
+
+	<string id="KEY_UPARROW" value="ЖоЉары кљрсеткі" />
+
+	<string id="KEY_PGUP" value="Пќх" />
+
+	<string id="KEY_LEFTARROW" value="Сол жаЌтаЉы кљрсеткі" />
+
+	<string id="KEY_RIGHTARROW" value="ОЏ жаЌтаЉы кљрсеткі" />
+
+	<string id="KEY_END" value="СоЏы" />
+
+	<string id="KEY_DOWNARROW" value="Тљменге" />
+
+	<string id="KEY_PGDN" value="Pgdn" />
+
+	<string id="KEY_INSERT" value="Њосу" />
+
+	<string id="KEY_DELETE" value="Жою" />
+
+	<string id="KEY_LWIN" value="" />
+
+	<string id="KEY_RWIN" value="" />
+
+	<string id="KEY_APPS" value="" />
+
+	<string id="KEY_POWER" value="" />
+
+	<string id="KEY_SLEEP" value="" />
+
+	<string id="KEY_WAKE" value="" />
+
+	<string id="KEY_WEBSEARCH" value="" />
+
+	<string id="KEY_WEBFAVORITES" value="" />
+
+	<string id="KEY_WEBREFRESH" value="" />
+
+	<string id="KEY_WEBSTOP" value="" />
+
+	<string id="KEY_WEBFORWARD" value="" />
+
+	<string id="KEY_WEBBACK" value="" />
+
+	<string id="KEY_MYCOMPUTER" value="" />
+
+	<string id="KEY_MAIL" value="" />
+
+	<string id="KEY_MEDIASELECT" value="" />
+
+	<string id="KEY_LBUTTON" value="Сол жаЌ Pr. тышЌандар" />
+
+	<string id="KEY_RBUTTON" value="Дќрыс ханзада. тышЌандар" />
+
+	<string id="KEY_MBUTTON" value="Орта ханзада. тышЌандар" />
+
+	<string id="KEY_MOUSE_MOVE" value="" />
+
+	<string id="KEY_MWHEEL" value="ТышЌан дљЏгелегі" />
+
+	<string id="KEY_CONTROL" value=")" />
+
+	<string id="KEY_ALT" value="Alt" />
+
+	<string id="KEY_SHIFT" value="Ауыстыру" />
+
+	<string id="KEY_MOUSE_MOVE_ON_UI" value="" />
+
+	<string id="BINDKEYS_MSG_RESERVED" value="КілттердіЏ бќл комбинациясы саЌталЉан" />
+
+	<string id="BINDKEYS_MSG_EXISTS" value="Бќл пернелердіЏ комбинациясы %s акциясы арЌылы ЌолданылЉан. ЖалЉастыру?" />
+
+	<string id="BINDKEYS_MSG_EXISTS_ONLY" value="КілттердіЏ бќл комбинациясы %s ‡рекетімен Ќолданылады ж‡не жалЉыз" />
 </resource>

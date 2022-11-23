@@ -1,48 +1,48 @@
 <?xml version='1.0' encoding='windows-1251'?>
 <resource>
-	<string id="1001" modelName="mask_hero" value="| Бyл kиын шайkас болды. Жэне бyл бастын оларfа берілді. Олар онымен не істемекші?" sound="data\sounds\Speech\r3m2\r3m2_1001_hero.ogg" time="4" />
+	<string id="1001" modelName="mask_hero" value="| Бќл Ќиын шайЌас болды. Ж‡не бќл бастыЏ оларЉа берілді. Олар онымен не істемекші?" sound="data\sounds\Speech\r3m2\r3m2_1001_hero.ogg" time="4" />
 
-	<string id="1002" modelName="mask_hero" value="| Алдымен, оны денеден болу керек. Ептілікті корсету керек." sound="data\sounds\Speech\r3m2\r3m2_1002_hero.ogg" time="3" />
+	<string id="1002" modelName="mask_hero" value="| Алдымен, оны денеден бљлу керек. Ептілікті кљрсету керек." sound="data\sounds\Speech\r3m2\r3m2_1002_hero.ogg" time="3" />
 
-	<string id="1003" modelName="mask_hero" value="| Орындалды. Сіз kайтара аласыз, менін басым." sound="data\sounds\Speech\r3m2\r3m2_1003_hero.ogg" time="3" />
+	<string id="1003" modelName="mask_hero" value="| Орындалды. Сіз Ќайтара аласыз, меніЏ басым." sound="data\sounds\Speech\r3m2\r3m2_1003_hero.ogg" time="3" />
 
-	<string id="1004" modelName="mask_hero" value="| Ол не жарkырайды? Бyл Oracle туралы айтkан нэрселердін бірі!" sound="data\sounds\Speech\r3m2\r3m2_1004_hero.ogg" time="1" />
+	<string id="1004" modelName="mask_hero" value="| Ол не жарЌырайды? Бќл Oracle туралы айтЌан н‡рселердіЏ бірі!" sound="data\sounds\Speech\r3m2\r3m2_1004_hero.ogg" time="1" />
 
-	<string id="1005" modelName="mask_hero" value="| Байланыс бар! Екіншісін табу kалады." sound="data\sounds\Speech\r3m2\r3m2_1005_hero.ogg" time="1" />
+	<string id="1005" modelName="mask_hero" value="| Байланыс бар! Екіншісін табу Ќалады." sound="data\sounds\Speech\r3m2\r3m2_1005_hero.ogg" time="1" />
 
-	<string id="1006" modelName="mask_hero" value="| Kазір менде бэрі керек. Oracle-ге оралу уаkыты келді." sound="data\sounds\Speech\r3m2\r3m2_1006_hero.ogg" time="1" />
+	<string id="1006" modelName="mask_hero" value="| Њазір менде б‡рі керек. Oracle-ге оралу уаЌыты келді." sound="data\sounds\Speech\r3m2\r3m2_1006_hero.ogg" time="1" />
 
-	<string id="1" modelName="mask_hero" value="| Сырттаfы алfашkы жондеуші. Ол kалай тез жyмыс істеуге дайын болды!" sound="data\sounds\Speech\r3m2\r3m2_1_hero.ogg" time="1" />
+	<string id="1" modelName="mask_hero" value="| СырттаЉы алЉашЌы жљндеуші. Ол Ќалай тез жќмыс істеуге дайын болды!" sound="data\sounds\Speech\r3m2\r3m2_1_hero.ogg" time="1" />
 
-	<string id="2" modelName="mask_hero" value="| Екінші жондеуші жyмысkа кіріседі. Ол сонfы жеткізуді kалады." sound="data\sounds\Speech\r3m2\r3m2_2_hero.ogg" time="1" />
+	<string id="2" modelName="mask_hero" value="| Екінші жљндеуші жќмысЌа кіріседі. Ол соЏЉы жеткізуді Ќалады." sound="data\sounds\Speech\r3m2\r3m2_2_hero.ogg" time="1" />
 
-	<string id="3" modelName="mask_hero" value="| Yшінші жондеуші дайын! Бyл Oracle-ге жадты kайтаруfа комектеседі деп сенемін." sound="data\sounds\Speech\r3m2\r3m2_3_hero.ogg" time="1" />
+	<string id="3" modelName="mask_hero" value="| ћшінші жљндеуші дайын! Бќл Oracle-ге жадты ЌайтаруЉа кљмектеседі деп сенемін." sound="data\sounds\Speech\r3m2\r3m2_3_hero.ogg" time="1" />
 
-	<string id="4" modelName="mask_hero" value="| Менін саяхаттарымда не кормедім. Сондай-аk, орістердегі бyл іздер. Оларды кім kалдырады?" sound="data\sounds\Speech\r3m2\r3m2_4_hero.ogg" time="1" />
+	<string id="4" modelName="mask_hero" value="| МеніЏ саяхаттарымда не кљрмедім. Сондай-аЌ, љрістердегі бќл іздер. Оларды кім Ќалдырады?" sound="data\sounds\Speech\r3m2\r3m2_4_hero.ogg" time="1" />
 
-	<string id="5" modelName="mask_hero" value="| Бyл жyмбаk маfан орталыk fалымдарды шешуге комектеседі." sound="data\sounds\Speech\r3m2\r3m2_5_hero.ogg" time="1" />
+	<string id="5" modelName="mask_hero" value="| Бќл жќмбаЌ маЉан орталыЌ Љалымдарды шешуге кљмектеседі." sound="data\sounds\Speech\r3m2\r3m2_5_hero.ogg" time="1" />
 
-	<string id="6" modelName="mask_hero" value="| Тым тар оту. Менін жyк колігі мyнда отпейді, ал жyру оте kауіпті." sound="data\sounds\Speech\r3m2\r3m2_6_hero.ogg" time="1" />
+	<string id="6" modelName="mask_hero" value="| Тым тар љту. МеніЏ жџк кљлігі мќнда љтпейді, ал жџру љте Ќауіпті." sound="data\sounds\Speech\r3m2\r3m2_6_hero.ogg" time="1" />
 
-	<string id="7" modelName="mask_hero" value="| Біз кішігірім колікті іздеуіміз керек. Менінше, мен мyнда озім мykият болfан сияkтымын." sound="data\sounds\Speech\r3m2\r3m2_7_hero.ogg" time="1" />
+	<string id="7" modelName="mask_hero" value="| Біз кішігірім кљлікті іздеуіміз керек. МеніЏше, мен мќнда љзім мќЌият болЉан сияЌтымын." sound="data\sounds\Speech\r3m2\r3m2_7_hero.ogg" time="1" />
 
-	<string id="8" modelName="mask_hero" value="| Бyл машинаны осы жерде yмытып кеткен адамнын арkасында. Онда мен осімдікке ене аламын." sound="data\sounds\Speech\r3m2\r3m2_8_hero.ogg" time="1" />
+	<string id="8" modelName="mask_hero" value="| Бќл машинаны осы жерде ќмытып кеткен адамныЏ арЌасында. Онда мен љсімдікке ене аламын." sound="data\sounds\Speech\r3m2\r3m2_8_hero.ogg" time="1" />
 
-	<string id="9" modelName="mask_hero" value="| Егер мен оны біраз уаkытkа ала алмасам, ешкім ренжімейді деп ойлаймын. Kазір мен рефлексия, жанасу, мотор!" sound="data\sounds\Speech\r3m2\r3m2_9_hero.ogg" time="1" />
+	<string id="9" modelName="mask_hero" value="| Егер мен оны біраз уаЌытЌа ала алмасам, ешкім ренжімейді деп ойлаймын. Њазір мен рефлексия, жанасу, мотор!" sound="data\sounds\Speech\r3m2\r3m2_9_hero.ogg" time="1" />
 
-	<string id="10" modelName="mask_hero" value="| Жэне колік оте kызыkты, инфекция!" sound="data\sounds\Speech\r3m2\r3m2_10_hero.ogg" time="1" />
+	<string id="10" modelName="mask_hero" value="| Ж‡не кљлік љте ЌызыЌты, инфекция!" sound="data\sounds\Speech\r3m2\r3m2_10_hero.ogg" time="1" />
 
-	<string id="11" modelName="mask_hero" value="| Онда ештене жоk." sound="data\sounds\Speech\r3m2\r3m2_11_hero.ogg" time="1" />
+	<string id="11" modelName="mask_hero" value="| Онда ештеЏе жоЌ." sound="data\sounds\Speech\r3m2\r3m2_11_hero.ogg" time="1" />
 
-	<string id="12" modelName="mask_hero" value="| Міне, kyбыжыk. Онын басын оз еркімен болетіні екіталай, сондыkтан ол кyресуге мэжбyр болады." sound="data\sounds\Speech\r3m2\r3m2_12_hero.ogg" time="1" />
+	<string id="12" modelName="mask_hero" value="| Міне, ЌќбыжыЌ. ОныЏ басын љз еркімен бљлетіні екіталай, сондыЌтан ол кџресуге м‡жбџр болады." sound="data\sounds\Speech\r3m2\r3m2_12_hero.ogg" time="1" />
 
-	<string id="13" modelName="mask_hero" value="| Kауіпті жау, біраk мен оны жене аламын!" sound="data\sounds\Speech\r3m2\r3m2_13_hero.ogg" time="1" />
+	<string id="13" modelName="mask_hero" value="| Њауіпті жау, біраЌ мен оны жеЏе аламын!" sound="data\sounds\Speech\r3m2\r3m2_13_hero.ogg" time="1" />
 
-	<string id="14" modelName="mask_hero" value="| Мен мyндай yлкен kирандыларды элі корген жоkпын ... Мен апатkа дейін не болfанын білдім бе?" sound="data\sounds\Speech\r3m2\r3m2_14_hero.ogg" time="1" />
+	<string id="14" modelName="mask_hero" value="| Мен мќндай џлкен Ќирандыларды ‡лі кљрген жоЌпын ... Мен апатЌа дейін не болЉанын білдім бе?" sound="data\sounds\Speech\r3m2\r3m2_14_hero.ogg" time="1" />
 
-	<string id="15" modelName="mask_hero" value="| Негізгі кіреберіс kоkыстар, мен теміржол бойымен жyруге тырысамын." sound="data\sounds\Speech\r3m2\r3m2_15_hero.ogg" time="1" />
+	<string id="15" modelName="mask_hero" value="| Негізгі кіреберіс ЌоЌыстар, мен теміржол бойымен жџруге тырысамын." sound="data\sounds\Speech\r3m2\r3m2_15_hero.ogg" time="1" />
 
-	<string id="17" value="Сіз зауыттын аумаfын yрланfан колікке kалдыра алмайсыз." numButtons="1" />
+	<string id="17" value="Сіз зауыттыЏ аумаЉын ќрланЉан кљлікке Ќалдыра алмайсыз." numButtons="1" />
 
-	<string id="8801" value="Сіз бyл аймаkты kалдырfыныз келе ме?" numButtons="2" />
+	<string id="8801" value="Сіз бќл аймаЌты ЌалдырЉыЏыз келе ме?" numButtons="2" />
 </resource>

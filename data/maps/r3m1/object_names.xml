@@ -6,7 +6,7 @@
 
 	<Object Name="Set_Bar_Barman" FullName="Ферен" />
 
-	<Object Name="Set_Bar_MainDruid" FullName="Жоfарfы Друид" />
+	<Object Name="Set_Bar_MainDruid" FullName="ЖоЉарЉы Друид" />
 
 	<Object Name="Set_Bar_Customer1" FullName="Фиония" />
 
@@ -14,7 +14,7 @@
 
 	<Object Name="Set_Workshop" FullName="Шеберхана" />
 
-	<Object Name="TheFist" FullName="Жyдырыk" />
+	<Object Name="TheFist" FullName="ЖќдырыЌ" />
 
 	<Object Name="Fist_Bar" FullName="Бар '' рок ''" />
 
@@ -28,37 +28,37 @@
 
 	<Object Name="Uluk_Bar" FullName="Бар ''" />
 
-	<Object Name="Uluk_Bar_Barman" FullName="Жyк тасымалдары" />
+	<Object Name="Uluk_Bar_Barman" FullName="Жџк тасымалдары" />
 
 	<Object Name="Uluk_Bar_Leader" FullName="Металл" />
 
-	<Object Name="Uluk_Bar_Customer1" FullName="Комір" />
+	<Object Name="Uluk_Bar_Customer1" FullName="Кљмір" />
 
-	<Object Name="Uluk_Workshop" FullName="«Озінді» семинары" />
+	<Object Name="Uluk_Workshop" FullName="«ђзіЏді» семинары" />
 
-	<Object Name="Uluk_Shop" FullName="Боб дyкені ''" />
+	<Object Name="Uluk_Shop" FullName="Боб дџкені ''" />
 
-	<Object Name="r3m1_NearFist_Guard1" FullName="Жyдырыk kорfаныш" />
+	<Object Name="r3m1_NearFist_Guard1" FullName="ЖќдырыЌ ЌорЉаныш" />
 
-	<Object Name="r3m1_NearFist_Guard2" FullName="Жyдырыk kорfаныш" />
+	<Object Name="r3m1_NearFist_Guard2" FullName="ЖќдырыЌ ЌорЉаныш" />
 
 	<Object Name="r3m1_NearUluk_RescueMan1" FullName="Жыныс" />
 
 	<Object Name="TheRazboynik" FullName="Haidaut" />
 
-	<Object Name="TheRazboynik_Bar" FullName="Кок мyрын" />
+	<Object Name="TheRazboynik_Bar" FullName="Кљк мќрын" />
 
 	<Object Name="TheRazboynik_Workshop" FullName="Андар" />
 
-	<Object Name="Razboynik_Bar_Barman" FullName="Kyйыныз" />
+	<Object Name="Razboynik_Bar_Barman" FullName="ЊќйыЏыз" />
 
 	<Object Name="TheRazboynik_Shop" FullName="Декибелде" />
 
-	<Object Name="Raz_Bar_Lisa" FullName="Тyлкі" />
+	<Object Name="Raz_Bar_Lisa" FullName="Тџлкі" />
 
 	<Object Name="ToR2M1" FullName="Либрийге жол" />
 
-	<Object Name="ToR3M2" FullName="Иготтkа жол" />
+	<Object Name="ToR3M2" FullName="ИготтЌа жол" />
 
 	<Object Name="UlukAmush_loc" FullName="Жазу орны" />
 
@@ -68,75 +68,75 @@
 
 	<Object Name="Razboynic_Bar_Customer1" FullName="Желванто" />
 
-	<Object Name="Uluk_Hram" FullName="Fибадат fибадатханасы" />
+	<Object Name="Uluk_Hram" FullName="‰ибадат Љибадатханасы" />
 
-	<Object Name="Uluk_Hram_Zrec1" FullName="Дін kызметкері" />
+	<Object Name="Uluk_Hram_Zrec1" FullName="Дін Ќызметкері" />
 
-	<Object Name="Set_HouseMainDruid" FullName="Жалfыздыk yйі" />
+	<Object Name="Set_HouseMainDruid" FullName="ЖалЉыздыЌ џйі" />
 
 	<Object Name="r3_FarVillage_Workshop" FullName="Шеберхана" />
 
 	<Object Name="r3_FarVillage_Shop" FullName="Гол" />
 
-	<Object Name="heavy_dot2_vector1" FullName="Нyкерту" />
+	<Object Name="heavy_dot2_vector1" FullName="Нџкерту" />
 
-	<Object Name="heavy_dot2_vulcan2" FullName="Нyкерту" />
+	<Object Name="heavy_dot2_vulcan2" FullName="Нџкерту" />
 
-	<Object Name="heavy_dot2_vulcan3" FullName="Нyкерту" />
+	<Object Name="heavy_dot2_vulcan3" FullName="Нџкерту" />
 
-	<Object Name="heavy_dot2_vulcan4" FullName="Нyкерту" />
+	<Object Name="heavy_dot2_vulcan4" FullName="Нџкерту" />
 
-	<Object Name="sack_dot2_vulcan5" FullName="Нyкерту" />
+	<Object Name="sack_dot2_vulcan5" FullName="Нџкерту" />
 
-	<Object Name="sack_dot2_vulcan6" FullName="Нyкерту" />
+	<Object Name="sack_dot2_vulcan6" FullName="Нџкерту" />
 
-	<Object Name="heavy_dot4_octopus7" FullName="Нyкерту" />
+	<Object Name="heavy_dot4_octopus7" FullName="Нџкерту" />
 
-	<Object Name="heavy_dot4_octopus8" FullName="Нyкерту" />
+	<Object Name="heavy_dot4_octopus8" FullName="Нџкерту" />
 
-	<Object Name="heavy_dot3_vulcan9" FullName="Нyкерту" />
+	<Object Name="heavy_dot3_vulcan9" FullName="Нџкерту" />
 
-	<Object Name="heavy_dot2_vector10" FullName="Нyкерту" />
+	<Object Name="heavy_dot2_vector10" FullName="Нџкерту" />
 
-	<Object Name="sack_dot1_vulcan11" FullName="Нyкерту" />
+	<Object Name="sack_dot1_vulcan11" FullName="Нџкерту" />
 
-	<Object Name="sack_dot2_vulcan12" FullName="Нyкерту" />
+	<Object Name="sack_dot2_vulcan12" FullName="Нџкерту" />
 
-	<Object Name="sack_dot2_kord13" FullName="Нyкерту" />
+	<Object Name="sack_dot2_kord13" FullName="Нџкерту" />
 
-	<Object Name="sack_dot2_kord14" FullName="Нyкерту" />
+	<Object Name="sack_dot2_kord14" FullName="Нџкерту" />
 
-	<Object Name="sack_dot2_flag15" FullName="Нyкерту" />
+	<Object Name="sack_dot2_flag15" FullName="Нџкерту" />
 
-	<Object Name="heavy_dot4_big_kpvt16" FullName="Нyкерту" />
+	<Object Name="heavy_dot4_big_kpvt16" FullName="Нџкерту" />
 
-	<Object Name="heavy_dot4_big_kpvt17" FullName="Нyкерту" />
+	<Object Name="heavy_dot4_big_kpvt17" FullName="Нџкерту" />
 
-	<Object Name="heavy_dot4_vulcan18" FullName="Нyкерту" />
+	<Object Name="heavy_dot4_vulcan18" FullName="Нџкерту" />
 
-	<Object Name="sack_dot2_omega19" FullName="Нyкерту" />
+	<Object Name="sack_dot2_omega19" FullName="Нџкерту" />
 
-	<Object Name="heavy_dot4_big_kpvt20" FullName="Нyкерту" />
+	<Object Name="heavy_dot4_big_kpvt20" FullName="Нџкерту" />
 
-	<Object Name="sack_dot2_vulcan21" FullName="Нyкерту" />
+	<Object Name="sack_dot2_vulcan21" FullName="Нџкерту" />
 
-	<Object Name="sack_dot2_kord22" FullName="Нyкерту" />
+	<Object Name="sack_dot2_kord22" FullName="Нџкерту" />
 
-	<Object Name="urod1" FullName="Yдет" />
+	<Object Name="urod1" FullName="ћдет" />
 
 	<Object Name="urod2" FullName="Шиыз" />
 
 	<Object Name="urod3" FullName="Борг" />
 
-	<Object Name="urod4" FullName="Мyхлик" />
+	<Object Name="urod4" FullName="Мќхлик" />
 
-	<Object Name="urod5" FullName="Кyдей" />
+	<Object Name="urod5" FullName="Кџдей" />
 
 	<Object Name="urod6" FullName="Gaia" />
 
-	<Object Name="urod7" FullName="Кyнкер" />
+	<Object Name="urod7" FullName="Кџнкер" />
 
 	<Object Name="urod8" FullName="Хррр" />
 
-	<Object Name="urod9" FullName="Фу аfай" />
+	<Object Name="urod9" FullName="Фу аЉай" />
 </ObjectNames>

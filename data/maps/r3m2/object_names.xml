@@ -2,19 +2,19 @@
 <ObjectNames>
 	<Object Name="OracleDefendersVil" FullName="Апулко" />
 
-	<Object Name="OracleDefendersVil_Shop" FullName="Yры дyкені" />
+	<Object Name="OracleDefendersVil_Shop" FullName="њры дџкені" />
 
-	<Object Name="OracleDefendersVil_WorkShop" FullName="Мyгедек - жондеуші" />
+	<Object Name="OracleDefendersVil_WorkShop" FullName="Мџгедек - жљндеуші" />
 
-	<Object Name="AloneDruid" FullName="Жалfыз драйд" />
+	<Object Name="AloneDruid" FullName="ЖалЉыз драйд" />
 
 	<Object Name="AloneDruidBuilding" FullName="Друид Хут" />
 
-	<Object Name="OracleDefenders_loc" FullName="Oracle kамkоршылары" />
+	<Object Name="OracleDefenders_loc" FullName="Oracle ЌамЌоршылары" />
 
-	<Object Name="ToR3M1" FullName="Друидтердін тоfайына кету" />
+	<Object Name="ToR3M1" FullName="ДруидтердіЏ тоЉайына кету" />
 
-	<Object Name="Monster_loc" FullName="Kорkынышты kyбыжыk" />
+	<Object Name="Monster_loc" FullName="ЊорЌынышты ЌќбыжыЌ" />
 
 	<Object Name="VK1_loc" FullName="Есептеу кешені 1" />
 
@@ -22,19 +22,19 @@
 
 	<Object Name="VK3_loc" FullName="Есептеу кешені 3" />
 
-	<Object Name="Factory_loc" FullName="Тасталfан зауытта" />
+	<Object Name="Factory_loc" FullName="ТасталЉан зауытта" />
 
 	<Object Name="Oracle_loc" FullName="Oracle" />
 
 	<Object Name="OracleNPC" FullName="Oracle" />
 
-	<Object Name="OracleGuardian_1" FullName="Oracle-дін kорfаушысы" />
+	<Object Name="OracleGuardian_1" FullName="Oracle-діЏ ЌорЉаушысы" />
 
-	<Object Name="AloneDruid_Workshop" FullName="Друидтін шеберханасы" />
+	<Object Name="AloneDruid_Workshop" FullName="ДруидтіЏ шеберханасы" />
 
-	<Object Name="heavy_dot3_vulcan1" FullName="Нyкерту" />
+	<Object Name="heavy_dot3_vulcan1" FullName="Нџкерту" />
 
-	<Object Name="sack_dot2_kord2" FullName="Нyкерту" />
+	<Object Name="sack_dot2_kord2" FullName="Нџкерту" />
 
 	<Object Name="urod1" FullName="Торус" />
 
@@ -42,15 +42,15 @@
 
 	<Object Name="urod3" FullName="Борг" />
 
-	<Object Name="urod4" FullName="Алаkы" />
+	<Object Name="urod4" FullName="АлаЌы" />
 
-	<Object Name="urod5" FullName="Yрлыk" />
+	<Object Name="urod5" FullName="њрлыЌ" />
 
 	<Object Name="urod6" FullName="Gaia" />
 
-	<Object Name="urod7" FullName="Кyнкер" />
+	<Object Name="urod7" FullName="Кџнкер" />
 
 	<Object Name="urod8" FullName="Хррр" />
 
-	<Object Name="urod9" FullName="Фу аfай" />
+	<Object Name="urod9" FullName="Фу аЉай" />
 </ObjectNames>

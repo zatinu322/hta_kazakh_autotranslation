@@ -16,13 +16,13 @@
 
 	<Object Name="FVOnOcean" FullName="Салиниам" />
 
-	<Object Name="FVOnOcean_Bar" FullName="Теніз арkылы" />
+	<Object Name="FVOnOcean_Bar" FullName="ТеЏіз арЌылы" />
 
 	<Object Name="FVOnOcean_Shop" FullName="Гол" />
 
 	<Object Name="FVOnOcean_Workshop" FullName="Шеберхана" />
 
-	<Object Name="FVOnOcean_Bar_Customer1" FullName="Далалыk" />
+	<Object Name="FVOnOcean_Bar_Customer1" FullName="ДалалыЌ" />
 
 	<Object Name="FVOnOcean_Bar_Customer3" FullName="Руль" />
 
@@ -32,7 +32,7 @@
 
 	<Object Name="FVNearOlme" FullName="Лаука" />
 
-	<Object Name="FVNearOlme_Bar" FullName="Kабыллаушы" />
+	<Object Name="FVNearOlme_Bar" FullName="Њабыллаушы" />
 
 	<Object Name="FVNearOlme_Shop" FullName="Гол" />
 
@@ -64,7 +64,7 @@
 
 	<Object Name="FVCordan" FullName="Кондань" />
 
-	<Object Name="FVCordan_Bar" FullName="Акуланын аузы" />
+	<Object Name="FVCordan_Bar" FullName="АкуланыЏ аузы" />
 
 	<Object Name="FVCordan_Shop" FullName="Гол" />
 
@@ -72,9 +72,9 @@
 
 	<Object Name="FVCordan_Bar_Customer2" FullName="Momvey" />
 
-	<Object Name="FVCordan_Bar_Barman" FullName="Нюранын аспазы" />
+	<Object Name="FVCordan_Bar_Barman" FullName="НюраныЏ аспазы" />
 
-	<Object Name="FVPerch" FullName="Бyрыш" />
+	<Object Name="FVPerch" FullName="Бќрыш" />
 
 	<Object Name="FVPerch_Bar" FullName="Алтын" />
 
@@ -88,7 +88,7 @@
 
 	<Object Name="FVBerko" FullName="Берко" />
 
-	<Object Name="FVBerko_Bar" FullName="Жоk" />
+	<Object Name="FVBerko_Bar" FullName="ЖоЌ" />
 
 	<Object Name="FVBerko_Shop" FullName="Гол" />
 
@@ -100,35 +100,35 @@
 
 	<Object Name="StorageVil" FullName="Акциялар" />
 
-	<Object Name="StorageVilBar" FullName="Kойма" />
+	<Object Name="StorageVilBar" FullName="Њойма" />
 
-	<Object Name="StorageVil_Shop" FullName="Сатушынын стенд" />
+	<Object Name="StorageVil_Shop" FullName="СатушыныЏ стенд" />
 
-	<Object Name="r1m4_Storage_Guard1" FullName="Кyзетші" />
+	<Object Name="r1m4_Storage_Guard1" FullName="Кџзетші" />
 
 	<Object Name="StorageVil_enter" FullName="Акциялар" />
 
 	<Object Name="TheOlme_enter" FullName="Олма" />
 
-	<Object Name="FVPerch_enter" FullName="Бyрыш" />
+	<Object Name="FVPerch_enter" FullName="Бќрыш" />
 
 	<Object Name="FVCalis_Bar_Husbent1" FullName="Филлимон" />
 
-	<Object Name="LookingWife" FullName="Эйелі Алашка" />
+	<Object Name="LookingWife" FullName="†йелі Алашка" />
 
-	<Object Name="LookingWife1" FullName="Эйелі Алашка" />
+	<Object Name="LookingWife1" FullName="†йелі Алашка" />
 
-	<Object Name="Port_loc" FullName="Теніз kаkпасы" />
+	<Object Name="Port_loc" FullName="ТеЏіз ЌаЌпасы" />
 
-	<Object Name="FVPerch_Houses" FullName="Кyту залы" />
+	<Object Name="FVPerch_Houses" FullName="Кџту залы" />
 
 	<Object Name="ToR1M3" FullName="Фанатлендке кету" />
 
-	<Object Name="ToR3M1" FullName="Друидтердін тоfайдаfы порты" />
+	<Object Name="ToR3M1" FullName="ДруидтердіЏ тоЉайдаЉы порты" />
 
 	<Object Name="Olme_Bar_Traider" FullName="Сатушы" />
 
-	<Object Name="bigboss1" FullName="Бастыk" />
+	<Object Name="bigboss1" FullName="БастыЌ" />
 
 	<Object Name="urod1" FullName="Винни" />
 
@@ -136,9 +136,9 @@
 
 	<Object Name="urod3" FullName="Юка" />
 
-	<Object Name="urod4" FullName="Kyлы" />
+	<Object Name="urod4" FullName="Њќлы" />
 
-	<Object Name="urod5" FullName="Kаkпалар" />
+	<Object Name="urod5" FullName="ЊаЌпалар" />
 
 	<Object Name="urod6" FullName="Фолько" />
 
@@ -146,5 +146,5 @@
 
 	<Object Name="urod8" FullName="Герея" />
 
-	<Object Name="urod9" FullName="Kызыл 13" />
+	<Object Name="urod9" FullName="Њызыл 13" />
 </ObjectNames>

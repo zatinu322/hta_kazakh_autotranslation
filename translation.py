@@ -1,53 +1,9 @@
 import os
+import yaml
 import translators as ts
 import xml.etree.ElementTree as ET
 
 GAME_PATH = os.getcwd()
-
-FILES_TO_CHANGE = {
-    # "data\\if\\dialogs\\credits.xml":           ["Page", "id", "text", False], 
-    # "data\\if\\diz\\dialogsglobal.xml":         ["Reply", "name", "text", False], 
-    # "data\\if\\diz\\dynamicdialogsglobal.xml":  ["Reply", "name", "text", True], 
-    # "data\\if\\diz\\levelinfo.xml":             ["LevelInfo", "name", "fullName", False], 
-    # "data\\if\\diz\\model_names.xml":           ["Item", "id", "value", False], 
-    # "data\\if\\diz\\questinfoglobal.xml":       ["QuestInfo", "questName", "briefDiz", True], 
-    # "data\\if\\diz\\questinfoglobal.xml":       ["QuestInfo", "questName", "fullDiz", True], 
-    # "data\\if\\strings\\affixesdiz.xml":        ["string", "id", "value", False], 
-    # "data\\if\\strings\\bindnames.xml":         ["string", "id", "value", True], 
-    # "data\\if\\strings\\clansdiz.xml":          ["string", "id", "value", False], 
-    # "data\\if\\strings\\fadingmsgs.xml":        ["string", "id", "value", True], 
-    # "data\\if\\strings\\gamestrings.xml":       ["string", "id", "value", True], 
-    # "data\\if\\strings\\help.xml":              ["string", "id", "value", False], 
-    # "data\\if\\strings\\objectdiz.xml":         ["string", "id", "value", False], 
-    # "data\\if\\strings\\setupstrings.xml":      ["string", "id", "value", False], 
-    # "data\\if\\strings\\statistics.xml":        ["string", "id", "value", False], 
-    # "data\\if\\strings\\uibooks.xml":           ["string", "id", "value", False], 
-    # "data\\if\\strings\\uidescription.xml":     ["string", "id", "value", False], 
-    # "data\\if\\strings\\uieditorstrings.xml":   ["string", "id", "value", False], 
-    # "data\\if\\strings\\uieditstrings.xml":     ["string", "id", "value", True], 
-    # "data\\if\\strings\\uihistory.xml":         ["string", "id", "value", False], 
-    # "data\\maps\\r1m1\\object_names.xml":       ["Object", "Name", "FullName", False], 
-    "data\\maps\\r1m1\\strings.xml":            ["string", "id", "value", False], 
-    # "data\\maps\\r1m2\\object_names.xml":       ["Object", "Name", "FullName", False], 
-    # "data\\maps\\r1m2\\strings.xml":            ["string", "id", "value", False], 
-    # "data\\maps\\r1m3\\object_names.xml":       ["Object", "Name", "FullName", False], 
-    # "data\\maps\\r1m3\\strings.xml":            ["string", "id", "value", False], 
-    # "data\\maps\\r1m4\\object_names.xml":       ["Object", "Name", "FullName", False], 
-    # "data\\maps\\r1m4\\strings.xml":            ["string", "id", "value", False], 
-    # "data\\maps\\r3m1\\object_names.xml":       ["Object", "Name", "FullName", False], 
-    # "data\\maps\\r3m1\\strings.xml":            ["string", "id", "value", False], 
-    # "data\\maps\\r3m2\\object_names.xml":       ["Object", "Name", "FullName", False], 
-    # "data\\maps\\r3m2\\strings.xml":            ["string", "id", "value", False], 
-    # "data\\maps\\r2m1\\object_names.xml":       ["Object", "Name", "FullName", False], 
-    # "data\\maps\\r2m1\\strings.xml":            ["string", "id", "value", False], 
-    # "data\\maps\\r2m2\\object_names.xml":       ["Object", "Name", "FullName", False], 
-    # "data\\maps\\r2m2\\strings.xml":            ["string", "id", "value", False], 
-    # "data\\maps\\r4m1\\object_names.xml":       ["Object", "Name", "FullName", False], 
-    # "data\\maps\\r4m1\\strings.xml":            ["string", "id", "value", False], 
-    # "data\\maps\\r4m2\\object_names.xml":       ["Object", "Name", "FullName", False], 
-    # "data\\maps\\r4m2\\strings.xml":            ["string", "id", "value", False], 
-    # "data\\sounds\\radio\\radiosamples.xml":    ["Sample", "id", "text", False]
-}
 
 SYMBOLS_TO_AVOID = {
     "%1n": "123456781", 
@@ -78,7 +34,7 @@ def get_text(file_root, containers):
         if id_attr and text_attr in data.attrib.keys():
             strs_to_translate.update({data.attrib[id_attr]: data.attrib[text_attr]})
         else:
-            print(f"NONONO! {text_attr} or {id_attr} is not in data.attrib")
+            print(f"WARNING! {text_attr} or {id_attr} is not in {data.attrib}")
     
     return strs_to_translate
 
@@ -94,7 +50,7 @@ def write(file, path, containers, phrases):
             try:
                 data.set(text_attr, phrases[data.attrib[id_attr]])
             except KeyError as error:
-                print(error)
+                print(f"Unable to translate via KeyError: {error} in {data.attrib}")
     
     file.write(os.path.join(GAME_PATH, path), encoding="windows-1251")
     
@@ -171,6 +127,10 @@ def translate(path, containers, from_lang="ru", to_lang="en"):
 
 def main():
     print(f"working in {GAME_PATH}")
+
+    with open("manifest.yaml") as manifest:
+        FILES_TO_CHANGE = yaml.safe_load(manifest)
+
     for file, cont in FILES_TO_CHANGE.items():
         # try:
         translate(file, cont, to_lang="kk")

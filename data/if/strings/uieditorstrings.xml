@@ -1,40 +1,40 @@
 <?xml version='1.0' encoding='windows-1251'?>
 <resource>
-	<string id="ok" value="Онан эрі" />
+	<string id="ok" value="Онан ‡рі" />
 
-	<string id="cancel" value="Кyшін жою" />
+	<string id="cancel" value="Кџшін жою" />
 
-	<string id="yes" value="Иэ" />
+	<string id="yes" value="И‡" />
 
-	<string id="no" value="Жоk" />
+	<string id="no" value="ЖоЌ" />
 
-	<string id="error" value="Kателік" />
+	<string id="error" value="Њателік" />
 
 	<string id="sure" value="Сіз сенімдісіз бе?" />
 
-	<string id="main" value="Басты мэзір" />
+	<string id="main" value="Басты м‡зір" />
 
 	<string id="file" value="Файл ..." />
 
-	<string id="newdialog" value="Диалог жасаныз" />
+	<string id="newdialog" value="Диалог жасаЏыз" />
 
-	<string id="loaddlg" value="Жyктеу диалогы" />
+	<string id="loaddlg" value="Жџктеу диалогы" />
 
-	<string id="savedlg" value="Диалог жазыныз" />
+	<string id="savedlg" value="Диалог жазыЏыз" />
 
-	<string id="loadscheme" value="Схеманы жyктеп алыныз" />
+	<string id="loadscheme" value="Схеманы жџктеп алыЏыз" />
 
 	<string id="test" value="Тест ..." />
 
-	<string id="quit" value="Шыfу" />
+	<string id="quit" value="ШыЉу" />
 
 	<string id="bg" value="Фонды ..." />
 
-	<string id="bgload" value="Фонды жyктеніз" />
+	<string id="bgload" value="Фонды жџктеЏіз" />
 
 	<string id="bgyesno" value="Фонмен / фонмен" />
 
-	<string id="dim" value="Жyмыс кеністігі" />
+	<string id="dim" value="Жќмыс кеЏістігі" />
 
 	<string id="dim640x480" value="640 x 480" />
 
@@ -42,109 +42,109 @@
 
 	<string id="dim1024x768" value="1024 x 768" />
 
-	<string id="newdlgname" value="Диалогтын атын енгізініз" />
+	<string id="newdlgname" value="ДиалогтыЏ атын енгізіЏіз" />
 
-	<string id="abouttoclose" value="Сіз неше кеткініз келетініне сенімдісіз бе?" />
+	<string id="abouttoclose" value="Сіз неше кеткіЏіз келетініне сенімдісіз бе?" />
 
-	<string id="loadtexture" value="Текстураны жyктеніз" />
+	<string id="loadtexture" value="Текстураны жџктеЏіз" />
 
-	<string id="testenter" value="Тест режимін енгізініз" />
+	<string id="testenter" value="Тест режимін енгізіЏіз" />
 
-	<string id="testexit" value="Сынаk режимінен шыfу" />
+	<string id="testexit" value="СынаЌ режимінен шыЉу" />
 
-	<string id="flagnodraw" value="Терезенін сызбасына тыйым сал" />
+	<string id="flagnodraw" value="ТерезеніЏ сызбасына тыйым сал" />
 
-	<string id="flaginside" value="Терезе ата-анадан тыс жyре алмайды" />
+	<string id="flaginside" value="Терезе ата-анадан тыс жџре алмайды" />
 
-	<string id="flagmovable" value="Терезені жылжытуfа болады" />
+	<string id="flagmovable" value="Терезені жылжытуЉа болады" />
 
-	<string id="flagresizable" value="Сіз терезенін олшемін озгерте аласыз" />
+	<string id="flagresizable" value="Сіз терезеніЏ љлшемін љзгерте аласыз" />
 
-	<string id="flagnoframe" value="Терезе сызбасын ажыратыныз" />
+	<string id="flagnoframe" value="Терезе сызбасын ажыратыЏыз" />
 
-	<string id="flagtransparent" value="Терезе оkиfаларды ата-аналарfа береді" />
+	<string id="flagtransparent" value="Терезе оЌиЉаларды ата-аналарЉа береді" />
 
-	<string id="flagnumeric" value="Тек редакторларда номірлерге рykсат етініз" />
+	<string id="flagnumeric" value="Тек редакторларда нљмірлерге рќЌсат етіЏіз" />
 
 	<string id="flagvisible" value="Терезе" />
 
-	<string id="flagcenterxy" value="Мэтін екі оське баfытталfан" />
+	<string id="flagcenterxy" value="М‡тін екі оське баЉытталЉан" />
 
-	<string id="flagcenterx" value="Мэтін x осі бойынша ортасында орналасkан" />
+	<string id="flagcenterx" value="М‡тін x осі бойынша ортасында орналасЌан" />
 
-	<string id="flagcentery" value="Мэтін Y осімен ортасында орналасkан" />
+	<string id="flagcentery" value="М‡тін Y осімен ортасында орналасЌан" />
 
-	<string id="flagcfocus" value="Іске kосу кезінде кіріс фокусы yсталады" />
+	<string id="flagcfocus" value="Іске Ќосу кезінде кіріс фокусы ќсталады" />
 
-	<string id="flagactivatable" value="Терезені іске kосуfа болады" />
+	<string id="flagactivatable" value="Терезені іске ЌосуЉа болады" />
 
-	<string id="flagareflect" value="Ата-анаfа активтендіруді корсетеді" />
+	<string id="flagareflect" value="Ата-анаЉа активтендіруді кљрсетеді" />
 
-	<string id="flagdisabled" value="Терезе хабарламаны kабылдамайды" />
+	<string id="flagdisabled" value="Терезе хабарламаны Ќабылдамайды" />
 
-	<string id="flagdefault" value="Эдепкі батырма" />
+	<string id="flagdefault" value="†депкі батырма" />
 
-	<string id="flagshadow" value="Терезе коленке лаkтырады" />
+	<string id="flagshadow" value="Терезе кљлеЏке лаЌтырады" />
 
-	<string id="flagempty" value="Эдепкі мэнерді kолданыныз" />
+	<string id="flagempty" value="†депкі м‡нерді ЌолданыЏыз" />
 
-	<string id="flagusedefault" value="Эдепкі мэнерді kолданыныз" />
+	<string id="flagusedefault" value="†депкі м‡нерді ЌолданыЏыз" />
 
-	<string id="flagmkreflect" value="Оkиfаларды м-ден жэне ата-аналарfа корсетеді" />
+	<string id="flagmkreflect" value="ОЌиЉаларды м-ден ж‡не ата-аналарЉа кљрсетеді" />
 
-	<string id="flagid" value="Фонды тартпаныз" />
+	<string id="flagid" value="Фонды тартпаЏыз" />
 
-	<string id="ctrlname" value="Терезенін атауы" />
+	<string id="ctrlname" value="ТерезеніЏ атауы" />
 
 	<string id="ctrlid" value="Терезе идентификаторы" />
 
-	<string id="ctrlcaption" value="Терезенін атауы" />
+	<string id="ctrlcaption" value="ТерезеніЏ атауы" />
 
-	<string id="ctrlapplysizes" value="Колемді терезеге жаfыныз" />
+	<string id="ctrlapplysizes" value="Кљлемді терезеге жаЉыЏыз" />
 
 	<string id="ctrlwidth" value="Терезе ені" />
 
 	<string id="ctrlheight" value="Терезе биіктігі" />
 
-	<string id="ctrlapplyorigin" value="Координаттарды терезеге жаfыныз" />
+	<string id="ctrlapplyorigin" value="Координаттарды терезеге жаЉыЏыз" />
 
-	<string id="ctrlleft" value="Сол жаk бyрыш" />
+	<string id="ctrlleft" value="Сол жаЌ бќрыш" />
 
-	<string id="ctrltop" value="Жоfарfы бyрыш" />
+	<string id="ctrltop" value="ЖоЉарЉы бќрыш" />
 
-	<string id="ctrlbg" value="Bakgraund kyрылымын жyктеп алыныз" />
+	<string id="ctrlbg" value="Bakgraund Ќќрылымын жџктеп алыЏыз" />
 
-	<string id="ctrltooltip" value="Поп-тэрбиеші" />
+	<string id="ctrltooltip" value="Поп-т‡рбиеші" />
 
-	<string id="gridshow" value="Торды корсету" />
+	<string id="gridshow" value="Торды кљрсету" />
 
-	<string id="gridsnap" value="Торfа байланыстыру" />
+	<string id="gridsnap" value="ТорЉа байланыстыру" />
 
-	<string id="gridstep" value="Тордын kадамы" />
+	<string id="gridstep" value="ТордыЏ Ќадамы" />
 
-	<string id="activationorder" value="Іске kосу тэртібін корсету" />
+	<string id="activationorder" value="Іске Ќосу т‡ртібін кљрсету" />
 
-	<string id="btnisimaged" value="Суретсыз немесе сызбасыз тyймесін басыныз" />
+	<string id="btnisimaged" value="Суретсыз немесе сызбасыз тџймесін басыЏыз" />
 
-	<string id="btninsidetex" value="Тінтуірдін астындаfы тyймеге арналfан kyрылым" />
+	<string id="btninsidetex" value="ТінтуірдіЏ астындаЉы тџймеге арналЉан Ќќрылым" />
 
-	<string id="btndowntex" value="Басылfан батырманын kyрылымы" />
+	<string id="btndowntex" value="БасылЉан батырманыЏ Ќќрылымы" />
 
-	<string id="btnregtex" value="Басылfан батырманын kyрылымы" />
+	<string id="btnregtex" value="БасылЉан батырманыЏ Ќќрылымы" />
 
-	<string id="btnisin" value="Батырмадаfы тышkан" />
+	<string id="btnisin" value="БатырмадаЉы тышЌан" />
 
-	<string id="btnisdown" value="Тyйме басылады" />
+	<string id="btnisdown" value="Тџйме басылады" />
 
-	<string id="framelist" value="Жаkтау тізімі" />
+	<string id="framelist" value="ЖаЌтау тізімі" />
 
-	<string id="linehorz" value="Колдененінен" />
+	<string id="linehorz" value="КљлденеЏінен" />
 
 	<string id="linevert" value="Дегалды" />
 
-	<string id="drawBg" value="Kара фон" />
+	<string id="drawBg" value="Њара фон" />
 
-	<string id="drawCorners" value="Бyрыштарfа міну" />
+	<string id="drawCorners" value="БќрыштарЉа міну" />
 
-	<string id="drawBars" value="Лип-сызыkтар" />
+	<string id="drawBars" value="Лип-сызыЌтар" />
 </resource>
