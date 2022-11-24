@@ -84,7 +84,7 @@
 
 	<string id="366" modelName="mask_hero" sound="data\sounds\Speech\r1m3\r1m3_366_hero.ogg" value="| Неге ойланасыЏ?!" time="4" />
 
-	<string id="367" modelName="mask_oracul" modelSlot="1" sound="data\sounds\Speech\r1m3\r1m3_367_oracle.ogg" value="Oracle | oracle | КедергілердіЏ кџшті кљзі, меніЏ кљптеген сигналдарым бќЉатталЉан, лигриумда. МеніЏше, оныЏ электр станциясы љз Ќаласы бар. Оны ЌорЉаЏыз, ж‡не меніЏ ежелгі адамдардыЏ бџкіл техникам бойынша меніЏ баЌылауым аяЌталады." time="12" />
+	<string id="367" modelName="mask_oracul" modelSlot="1" sound="data\sounds\Speech\r1m3\r1m3_367_oracle.ogg" value="Oracle | КедергілердіЏ кџшті кљзі, меніЏ кљптеген сигналдарым бќЉатталЉан, лигриумда. МеніЏше, оныЏ электр станциясы љз Ќаласы бар. Оны ЌорЉаЏыз, ж‡не меніЏ ежелгі адамдардыЏ бџкіл техникам бойынша меніЏ баЌылауым аяЌталады." time="12" />
 
 	<string id="368" modelName="mask_hero" sound="data\sounds\Speech\r1m3\r1m3_368_hero.ogg" value="| Сізге, Oracle сияЌты осындай одаЌтасЌаныма Ќуаныштымын." time="4" />
 

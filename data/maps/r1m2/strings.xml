@@ -18,7 +18,7 @@
 
 	<string id="27" modelName="mask_lisa" modelSlot="1" value="Fox | сіз ... бќл ... И‡, мен бќл жерде болЉан кезде, мен оны кім жасаЉанын кљрдім." sound="data\sounds\Speech\r1m2\r1m2_27_lisa.ogg" time="6" />
 
-	<string id="28" modelName="mask_hero" value="|" sound="data\sounds\Speech\r1m2\r1m2_28_hero.ogg" time="1" />
+	<string id="28" modelName="mask_hero" value="|Њазір СљйлеЏіз!" sound="data\sounds\Speech\r1m2\r1m2_28_hero.ogg" time="1" />
 
 	<string id="29" modelName="mask_lisa" modelSlot="1" value="Тџлкі | бќлар жаЏа дџниежџзілік т‡ртіп џшін кџрескерлер болды. Скарлат таЏы - сондыЌтан олар љздерін шаЌырады. Батыстан Ќатыгез љлтірушілер. †детте олар љз елінен шыЌпайды, біраЌ Ќазір олар кљрші аймаЌтарЉа кеЏейтуді бастады." sound="data\sounds\Speech\r1m2\r1m2_29_lisa.ogg" time="10" />
 
