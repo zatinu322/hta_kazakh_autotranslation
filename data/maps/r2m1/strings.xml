@@ -48,7 +48,7 @@
 
 	<string id="22" modelName="mask_hero" sound="data\sounds\Speech\r2m1\r2m1_22_hero.ogg" value="| Жалпы біздіЏ Ќолымызда! Гельветияда ол Aackly туралы білетін барлыЌ н‡рсені шыЉаруЉа м‡жбџр болады!" time="4" />
 
-	<string id="23" modelName="mask_hero" sound="data\sounds\Speech\r2m1\r2m1_23_hero.ogg" value="| Њазір тџлкі менен Ќашып кетпейді! Ол тек жергілікті тќрЉындардан білуге &#8203;&#8203;болады." time="4" />
+	<string id="23" modelName="mask_hero" sound="data\sounds\Speech\r2m1\r2m1_23_hero.ogg" value="| Њазір тџлкі менен Ќашып кетпейді! Ол тек жергілікті тќрЉындардан білуге болады." time="4" />
 
 	<string id="24" modelName="mask_hero" sound="data\sounds\Speech\r2m1\r2m1_24_hero.ogg" value="| С‡лем! Сіз тџлкі есімді Ќызбен таныс емессіз бе? Сіз маЉан оны Ќайда іздеу керектігін айта аласыз ба?" time="4" />
 

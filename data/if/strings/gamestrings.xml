@@ -54,9 +54,9 @@
 
 	<string id="AutoSave" value="Àâòîêðàâèÿ" />
 
-	<string id="GameWasSaved" value="Îéûí ñàòàëäû: @fffd86e%1s" />
+	<string id="GameWasSaved" value="Îéûí ñàòàëäû: @fffed11b%1s" />
 
-	<string id="GameWasLoaded" value="Îéûí æŸêòåëä³: @fffd86e%1s" />
+	<string id="GameWasLoaded" value="Îéûí æŸêòåëä³: @fffed11b%1s" />
 
 	<string id="GameSaving" value="Ñàòàó" />
 

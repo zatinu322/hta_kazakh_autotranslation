@@ -78,9 +78,9 @@
 
 	<string id="fm_player_add_thing" value="Сіз %1p тармаЉын алдыЏыз!" />
 
-	<string id="fm_cheat_is_not_allowed" value="@Ff22ff2222222222222222222222222222222222222222222222222222222222" />
+	<string id="fm_cheat_is_not_allowed" value="@ff22ff22Читтерді Ќолдану @FF2222FFтыйым салынЉан@FFFFFFFF" />
 
-	<string id="fm_cheat_is_allowed" value="@Ff22ff22 ойынын сынау арЌылы @ff2222ff. Алдау Ќателерге ‡келуі мџмкін! @Ffffff" />
+	<string id="fm_cheat_is_allowed" value="@ff22ff22ойынын сынау арЌылы @ff2222ff. Алдау Ќателерге ‡келуі мџмкін!@ffffffff" />
 
 	<string id="fm_items_remained_on_ground" value="АртЌы жаЉында орын жеткіліксіз. ЖабдыЌ терезесіне ЌоЏырау шалу џшін %1m тџймесін басыЏыз." />
 </resource>

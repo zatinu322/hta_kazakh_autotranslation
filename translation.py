@@ -126,16 +126,19 @@ def translate(path, containers, from_lang="ru", to_lang="en"):
         return True
 
 def main():
-    print(f"working in {GAME_PATH}")
+    # print(f"working in {GAME_PATH}")
 
-    with open("manifest.yaml") as manifest:
-        FILES_TO_CHANGE = yaml.safe_load(manifest)
+    # with open("manifest.yaml") as manifest:
+    #     FILES_TO_CHANGE = yaml.safe_load(manifest)
 
-    for file, cont in FILES_TO_CHANGE.items():
-        # try:
-        translate(file, cont, to_lang="kk")
-        # except Exception as err:
-        #     print(err)
+    # for file, cont in FILES_TO_CHANGE.items():
+    #     # try:
+    #     translate(file, cont, to_lang="kk")
+    #     # except Exception as err:
+    #     #     print(err)
+
+    translation = ts.google("ЗАПРЕЩЕНО", from_language="ru", to_language="kk")
+    print(kk_lang_fix({"id": translation}))
     
 if __name__ == "__main__":
     main()

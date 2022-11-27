@@ -48,7 +48,7 @@
 
 	<QuestInfo questName="Dynamic_Reach_1" briefDiz="Посылканы %2n ауылына жеткізіЏіз" fullDiz="Мен %3d келемін, егер мен оны %2n ауылын аламын." isMainQuest="0" />
 
-	<QuestInfo questName="Dynamic_Reach_2" briefDiz="%2n ауылЉа барыЏыз" fullDiz="%1n Ќаласынан шыЌЌан бір эксцентрик %3d тљлеуге дайын, егер мен %2n елді мекенінде тќратын досына с‡лем берсем, %3d тљлеуге дайын." isMainQuest="0" />
+	<QuestInfo questName="Dynamic_Reach_2" briefDiz="%2n ауылЉа барыЏыз" fullDiz="%1n Ќаласынан шыЌЌан бір эксцентрик %3d тљлеуге дайын, егер мен %2n елді мекенінде тќратын досына с‡лем берсем, тљлеуге дайын." isMainQuest="0" />
 
 	<QuestInfo questName="EastTalkKollizey_Quest" briefDiz="Восточный туралы есеп" fullDiz="ШыЉыс тќрЉындарына колисейдіЏ ашылуы туралы айтыЏыз." isMainQuest="0">
 		<Map name="r1m2" targetObjName="Esting" />
@@ -104,7 +104,7 @@
 		<Map name="r1m2" />
 	</QuestInfo>
 
-	<QuestInfo questName="MidgardTalkKollizey_Quest" briefDiz="ОртаЏЉыдан хабарлау" fullDiz="Міне, Колизей туралы сљйлесіЏіз. Онда олар жаЏа ойын-сауыЌ орталыЉыныЏ пайда болуы туралы білуге &#8203;&#8203;Ќуанышты болуы мџмкін." isMainQuest="0">
+	<QuestInfo questName="MidgardTalkKollizey_Quest" briefDiz="ОртаЏЉыдан хабарлау" fullDiz="Міне, Колизей туралы сљйлесіЏіз. Онда олар жаЏа ойын-сауыЌ орталыЉыныЏ пайда болуы туралы білуге Ќуанышты болуы мџмкін." isMainQuest="0">
 		<Map name="r1m2" targetObjName="Midragd" />
 	</QuestInfo>
 
@@ -466,7 +466,7 @@
 		<Map name="r2m2" targetObjName="Lager" />
 	</QuestInfo>
 
-	<QuestInfo questName="d_MeetWithGelvetciaSopr_Quest" briefDiz="ТосканныЏ ЌарсылыЉына хабарласыЏыз" fullDiz="Міне, Акселге жаЌындау мџмкіндігі. Мен ТосканьдаЉы бџлікшілермен кездесуім керек ж‡не олардыЏ хабарлауын деп санайтындардыЏ б‡рін білуге &#8203;&#8203;тура келеді." isMainQuest="1">
+	<QuestInfo questName="d_MeetWithGelvetciaSopr_Quest" briefDiz="ТосканныЏ ЌарсылыЉына хабарласыЏыз" fullDiz="Міне, Акселге жаЌындау мџмкіндігі. Мен ТосканьдаЉы бџлікшілермен кездесуім керек ж‡не олардыЏ хабарлауын деп санайтындардыЏ б‡рін білуге тура келеді." isMainQuest="1">
 		<Map name="r2m1" />
 
 		<Map name="r2m2" />
@@ -638,7 +638,7 @@
 		<Map name="r1m4" targetObjName="FVPerch_enter" />
 	</QuestInfo>
 
-	<QuestInfo questName="q_FindHusbent" briefDiz="Кџйеуін табыЏыз" fullDiz="†йел мені кџйеуімді џйге Ќайтаруды љтінді. Ол љзінен аздап, ‡йнекті немесе екеуін саЉынЉанды &#8203;&#8203;ќнатады." isMainQuest="0" />
+	<QuestInfo questName="q_FindHusbent" briefDiz="Кџйеуін табыЏыз" fullDiz="†йел мені кџйеуімді џйге Ќайтаруды љтінді. Ол љзінен аздап, ‡йнекті немесе екеуін саЉынЉанды ќнатады." isMainQuest="0" />
 
 	<QuestInfo questName="q_PWS1" briefDiz="ђріске келіЏіз" isMainQuest="0">
 		<Map name="r3m1" targetObjName="ToR3M2" />

@@ -710,11 +710,11 @@
 
 	<Reply name="Uluc_Bar_Customer1_1_P02" text="МаЉан Oracle-мен кездесу керек." role="PLAYER" nextReplies="Uluc_Bar_Customer1_1_N03" />
 
-	<Reply name="Uluc_Bar_Customer1_1_N03" text="Бізге оныЏ џйі туралы білуге &#8203;&#8203;рќЌсат жоЌ. Тек жолдан жасалЉан друдидер бќл білімге ие ж‡не оны пайдасы џшін пайдаланады." role="NPC" nextReplies="Uluc_Bar_Customer1_1_P04" />
+	<Reply name="Uluc_Bar_Customer1_1_N03" text="Бізге оныЏ џйі туралы білуге рќЌсат жоЌ. Тек жолдан жасалЉан друдидер бќл білімге ие ж‡не оны пайдасы џшін пайдаланады." role="NPC" nextReplies="Uluc_Bar_Customer1_1_P04" />
 
 	<Reply name="Uluc_Bar_Customer1_1_P04" text="СондыЌтан мен оларЉа баруым керек." role="PLAYER" nextReplies="Uluc_Bar_Customer1_1_N05" />
 
-	<Reply name="Uluc_Bar_Customer1_1_N05" text="Кџте тќр! Олар жынды баЉаны бќзады! Олар, бізден айырмашылыЉы, бейтаныс адамдарЉа љте агрессивті. Бізге олардыЏ жоЉарЉы друдтарын ќстап, Ќажет н‡рсеніЏ б‡рін білуге &#8203;&#8203;кљмектесіЏіз. Оны жай Ќаладан люк, ал біз ассистенттерді басЌарамыз. Солай ма? Біз де тљлейміз!" role="NPC" nextReplies="Uluc_Bar_Customer1_1_P061 Uluc_Bar_Customer1_1_P062" />
+	<Reply name="Uluc_Bar_Customer1_1_N05" text="Кџте тќр! Олар жынды баЉаны бќзады! Олар, бізден айырмашылыЉы, бейтаныс адамдарЉа љте агрессивті. Бізге олардыЏ жоЉарЉы друдтарын ќстап, Ќажет н‡рсеніЏ б‡рін білуге кљмектесіЏіз. Оны жай Ќаладан люк, ал біз ассистенттерді басЌарамыз. Солай ма? Біз де тљлейміз!" role="NPC" nextReplies="Uluc_Bar_Customer1_1_P061 Uluc_Bar_Customer1_1_P062" />
 
 	<Reply name="Uluc_Bar_Customer1_1_P062" text="Мен не істеуге болатынын кљремін. БіраЌ егер бірдеЏе дќрыс болмаса - мен сені білмеймін, сен мені білмейсіЏ." role="PLAYER" scriptResult="TakeQuest('r3m1_LureMainDriud'); TActivate('trCreateUlukAmbush'); EndConversation();" />
 
@@ -746,7 +746,7 @@
 
 	<Reply name="Set_Bar_MainDruid_5_P041" text="МеніЏ артымнан ер." role="PLAYER" scriptResult="EndConversation()" />
 
-	<Reply name="Set_Bar_Customer1_1_N01" text="Улук тќрЉындарынан ешЌандай аЌпарат ќзаЌ уаЌыт бойы ‡рекет етпеді. ђтінемін, бізге не болЉанын білуге &#8203;&#8203;кљмектесіЏізші!" role="NPC" scriptCondition="(not IsQuestTaken('r3m1_FindMoreNative')) and (not(IsQuestTaken('r3m1_KnowAboutUluk'))) and not(IsQuestComplete('r3m1_ClearSanctuary_ReturnDruid2')) and not(IsQuestTaken('r3m1_LureMainDriud'))" nextReplies="Set_Bar_Customer2_1_P02" />
+	<Reply name="Set_Bar_Customer1_1_N01" text="Улук тќрЉындарынан ешЌандай аЌпарат ќзаЌ уаЌыт бойы ‡рекет етпеді. ђтінемін, бізге не болЉанын білуге кљмектесіЏізші!" role="NPC" scriptCondition="(not IsQuestTaken('r3m1_FindMoreNative')) and (not(IsQuestTaken('r3m1_KnowAboutUluk'))) and not(IsQuestComplete('r3m1_ClearSanctuary_ReturnDruid2')) and not(IsQuestTaken('r3m1_LureMainDriud'))" nextReplies="Set_Bar_Customer2_1_P02" />
 
 	<Reply name="Set_Bar_Customer2_1_P02" text="Неге љзіЏіз бармайсыз?" role="PLAYER" nextReplies="Set_Bar_Customer2_1_N03" />
 
@@ -1282,7 +1282,7 @@
 
 	<Reply name="TuzVerb_hellodlg3" text="СіздердіЏ арЌасында біз таЉы да кљп уаЌытты љткізе аламыз. Шешуші Ќайтару ‡рекеті уаЌыты жаЌындап келеді." role="NPC" scriptCondition="(IsQuestTaken('d_ReturnToTuzzAfterCaravan_Quest'))  and  not(IsQuestComplete('d_ReturnToTuzzAfterCaravan_Quest'))  and  (GetVar('globalCaravanToTuzz').AsInt == 1)" nextReplies="Dlg_pl_xyz510" />
 
-	<Reply name="Dlg_pl_xyz510" text="†рине, мен игі істер жасаЉанды &#8203;&#8203;ќнатамын, біраЌ басты маЌсат туралы ќмытпаЏыз!" role="PLAYER" nextReplies="Dlg_npc_xyz511" />
+	<Reply name="Dlg_pl_xyz510" text="†рине, мен игі істер жасаЉанды ќнатамын, біраЌ басты маЌсат туралы ќмытпаЏыз!" role="PLAYER" nextReplies="Dlg_npc_xyz511" />
 
 	<Reply name="Dlg_npc_xyz511" text="БіздіЏ жауларымыз таулардыЏ артында Ќолдау алады. Егер біз туннельді бќЉаттаЉымыз келсе, бќл жауЉа айтарлыЌтай зиян келтіреді." role="NPC" nextReplies="Dlg_pl_xyz512" />
 
@@ -1520,7 +1520,7 @@
 
 	<Reply name="r1m4_Storage_Guard1_1_N11" text="Олар білетін еді, олардыЏ љздері босатылды. Бќл сіздіЏ басты міндетіЏіз - оныЏ Ќайда екенін білу." role="NPC" nextReplies="r1m4_Storage_Guard1_1_N12" />
 
-	<Reply name="r1m4_Storage_Guard1_1_N12" text="Жарайды, мен б‡рін білуге &#8203;&#8203;тырысамын." role="PLAYER" scriptResult="EndConversation();" />
+	<Reply name="r1m4_Storage_Guard1_1_N12" text="Жарайды, мен б‡рін білуге тырысамын." role="PLAYER" scriptResult="EndConversation();" />
 
 	<Reply name="r1m4_Storage_Guard1_2_N01" text="Кљшбасшымызды Ќалай ЌќтЌарады ??" role="NPC" scriptCondition="QuestStatus('TRS_Quest2')==Q_COMPLETED and QuestStatus('FreeExtremistLeader_Quest4')~=Q_TAKEN and not(IsQuestTaken('TRS_Quest4')) and not(IsQuestTaken('KillExtremist_Quest1')) and not(IsQuestComplete('FreeExtremistLeader_Quest1')) " nextReplies="r1m4_Storage_Guard1_2_P02 r1m4_Storage_Guard1_2_P03" />
 

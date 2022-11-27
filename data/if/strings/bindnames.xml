@@ -100,15 +100,15 @@
 
 	<string id="IM_UI_HELP" value="КљмектесіЏдер" />
 
-	<string id="KEY_ESCAPE" value="ШЫ‰У" />
+	<string id="KEY_ESCAPE" value="Esc" />
 
-	<string id="KEY_1" value="бір" />
+	<string id="KEY_1" value="1" />
 
 	<string id="KEY_2" value="2" />
 
-	<string id="KEY_3" value="3." />
+	<string id="KEY_3" value="3" />
 
-	<string id="KEY_4" value="тљрт" />
+	<string id="KEY_4" value="4" />
 
 	<string id="KEY_5" value="5" />
 
@@ -116,9 +116,9 @@
 
 	<string id="KEY_7" value="7" />
 
-	<string id="KEY_8" value="сегіз" />
+	<string id="KEY_8" value="8" />
 
-	<string id="KEY_9" value="Мен" />
+	<string id="KEY_9" value="9" />
 
 	<string id="KEY_0" value="0" />
 
@@ -126,55 +126,55 @@
 
 	<string id="KEY_EQUALS" value="=" />
 
-	<string id="KEY_BACKSPACE" value="АртЌа бљртпе" />
+	<string id="KEY_BACKSPACE" value="Backspace" />
 
-	<string id="KEY_TAB" value="Белгі" />
+	<string id="KEY_TAB" value="TAB" />
 
-	<string id="KEY_Q" value="Њарай" />
+	<string id="KEY_Q" value="Q" />
 
-	<string id="KEY_W" value="-Та" />
+	<string id="KEY_W" value="W" />
 
-	<string id="KEY_E" value="Е е" />
+	<string id="KEY_E" value="E" />
 
-	<string id="KEY_R" value="ПатрондылыЌ" />
+	<string id="KEY_R" value="R" />
 
 	<string id="KEY_T" value="Т" />
 
-	<string id="KEY_Y" value="Ж‡не" />
+	<string id="KEY_Y" value="Y" />
 
-	<string id="KEY_U" value="У" />
+	<string id="KEY_U" value="U" />
 
-	<string id="KEY_I" value="Ж‡не" />
+	<string id="KEY_I" value="I" />
 
-	<string id="KEY_O" value="-" />
+	<string id="KEY_O" value="O" />
 
-	<string id="KEY_P" value="Б" />
+	<string id="KEY_P" value="P" />
 
 	<string id="KEY_LBRACKET" value="(" />
 
 	<string id="KEY_RBRACKET" value=")" />
 
-	<string id="KEY_RETURN" value="Кіру" />
+	<string id="KEY_RETURN" value="Enter" />
 
-	<string id="KEY_LCONTROL" value="Сол жаЌ Ctrl" />
+	<string id="KEY_LCONTROL" value="Left Ctrl" />
 
-	<string id="KEY_A" value="БіраЌ" />
+	<string id="KEY_A" value="A" />
 
-	<string id="KEY_S" value="-Ден" />
+	<string id="KEY_S" value="S" />
 
-	<string id="KEY_D" value="D." />
+	<string id="KEY_D" value="D" />
 
 	<string id="KEY_F" value="F" />
 
-	<string id="KEY_G" value="Ж" />
+	<string id="KEY_G" value="G" />
 
-	<string id="KEY_H" value="Х" />
+	<string id="KEY_H" value="H" />
 
-	<string id="KEY_J" value="Ж†НЕ" />
+	<string id="KEY_J" value="J" />
 
-	<string id="KEY_K" value="Њарай" />
+	<string id="KEY_K" value="K" />
 
-	<string id="KEY_L" value="ђшпін" />
+	<string id="KEY_L" value="L" />
 
 	<string id="KEY_SEMICOLON" value=":" />
 
@@ -182,19 +182,19 @@
 
 	<string id="KEY_GRAVE" value="~" />
 
-	<string id="KEY_LSHIFT" value="Сол жаЌ Shift" />
+	<string id="KEY_LSHIFT" value="Left Shift" />
 
-	<string id="KEY_BACKSLASH" value="е е" />
+	<string id="KEY_BACKSLASH" value="\" />
 
-	<string id="KEY_Z" value="Н" />
+	<string id="KEY_Z" value="Z" />
 
-	<string id="KEY_X" value="-Ден" />
+	<string id="KEY_X" value="X" />
 
-	<string id="KEY_C" value="-Ден" />
+	<string id="KEY_C" value="C" />
 
-	<string id="KEY_V" value="-Та" />
+	<string id="KEY_V" value="V" />
 
-	<string id="KEY_B" value="-Та" />
+	<string id="KEY_B" value="B" />
 
 	<string id="KEY_N" value="N" />
 
@@ -206,65 +206,65 @@
 
 	<string id="KEY_SLASH" value="/" />
 
-	<string id="KEY_RSHIFT" value="ОЏ жылжу" />
+	<string id="KEY_RSHIFT" value="Right Shift" />
 
-	<string id="KEY_NUMPADSTAR" value="* (сандар класы џшін)" />
+	<string id="KEY_NUMPADSTAR" value="* (NumPad)" />
 
-	<string id="KEY_LALT" value="Сол жаЌ" />
+	<string id="KEY_LALT" value="Сол жаЌ Alt" />
 
-	<string id="KEY_SPACE" value="‰арыш" />
+	<string id="KEY_SPACE" value="Space" />
 
-	<string id="KEY_CAPSLOCK" value="ЖоЉарЉы Бас ‡ріп регистрі" />
+	<string id="KEY_CAPSLOCK" value="CapsLock" />
 
 	<string id="KEY_F1" value="F1" />
 
-	<string id="KEY_F2" value="Зат" />
+	<string id="KEY_F2" value="F2" />
 
-	<string id="KEY_F3" value="Фз" />
+	<string id="KEY_F3" value="F3" />
 
-	<string id="KEY_F4" value="Сырба" />
+	<string id="KEY_F4" value="F4" />
 
 	<string id="KEY_F5" value="F5" />
 
-	<string id="KEY_F6" value="FSH" />
+	<string id="KEY_F6" value="F6" />
 
 	<string id="KEY_F7" value="F7" />
 
 	<string id="KEY_F8" value="F8" />
 
-	<string id="KEY_F9" value="Зат" />
+	<string id="KEY_F9" value="F9" />
 
 	<string id="KEY_F10" value="F10" />
 
-	<string id="KEY_NUMLOCK" value="Numblock" />
+	<string id="KEY_NUMLOCK" value="Numlock" />
 
-	<string id="KEY_SCROLL" value="ЖылжыЏыз" />
+	<string id="KEY_SCROLL" value="Scroll" />
 
-	<string id="KEY_NUMPAD7" value="7 (сандар класы џшін)" />
+	<string id="KEY_NUMPAD7" value="7 (NumPad)" />
 
-	<string id="KEY_NUMPAD8" value="8 (сандар класы џшін)" />
+	<string id="KEY_NUMPAD8" value="8 (NumPad)" />
 
-	<string id="KEY_NUMPAD9" value="9 (сандар класы џшін)" />
+	<string id="KEY_NUMPAD9" value="9 (NumPad)" />
 
-	<string id="KEY_NUMPADMINUS" value="- (сандар сыныптары џшін)" />
+	<string id="KEY_NUMPADMINUS" value="- (NumPad)" />
 
-	<string id="KEY_NUMPAD4" value="4 (сандар класы џшін)" />
+	<string id="KEY_NUMPAD4" value="4 (NumPad)" />
 
-	<string id="KEY_NUMPAD5" value="5 (сандар класы џшін)" />
+	<string id="KEY_NUMPAD5" value="5 (NumPad)" />
 
-	<string id="KEY_NUMPAD6" value="6 (сандар класы џшін)" />
+	<string id="KEY_NUMPAD6" value="6 (NumPad)" />
 
-	<string id="KEY_NUMPADPLUS" value="+ (сандар класы џшін)" />
+	<string id="KEY_NUMPADPLUS" value="+ (NumPad)" />
 
-	<string id="KEY_NUMPAD1" value="1 (сандар класы џшін)" />
+	<string id="KEY_NUMPAD1" value="1 (NumPad)" />
 
-	<string id="KEY_NUMPAD2" value="2 (сандар класы џшін)" />
+	<string id="KEY_NUMPAD2" value="2 (NumPad)" />
 
-	<string id="KEY_NUMPAD3" value="3 (сандар класы џшін)" />
+	<string id="KEY_NUMPAD3" value="3 (NumPad)" />
 
-	<string id="KEY_NUMPAD0" value="0 (сандар сыныптары џшін)" />
+	<string id="KEY_NUMPAD0" value="0 (NumPad)" />
 
-	<string id="KEY_NUMPADPERIOD" value=". (сандар сыныптары џшін)" />
+	<string id="KEY_NUMPADPERIOD" value=". (NumPad)" />
 
 	<string id="KEY_OEM_102" value="" />
 
@@ -310,9 +310,9 @@
 
 	<string id="KEY_NEXTTRACK" value="" />
 
-	<string id="KEY_NUMPADENTER" value="ENTER (Сынып нљмірлері џшін)" />
+	<string id="KEY_NUMPADENTER" value="ENTER (NumPad)" />
 
-	<string id="KEY_RCONTROL" value="Дќрыс Ctrl" />
+	<string id="KEY_RCONTROL" value="Right Ctrl" />
 
 	<string id="KEY_MUTE" value="" />
 
@@ -328,35 +328,35 @@
 
 	<string id="KEY_WEBHOME" value="" />
 
-	<string id="KEY_NUMPADCOMMA" value=", (cl сандары џшін)" />
+	<string id="KEY_NUMPADCOMMA" value=", (NumPad)" />
 
-	<string id="KEY_NUMPADSLASH" value="/ (сандар сыныптары џшін)" />
+	<string id="KEY_NUMPADSLASH" value="/ (NumPad)" />
 
 	<string id="KEY_SYSRQ" value="" />
 
-	<string id="KEY_RALT" value="ОЏ жаЌ" />
+	<string id="KEY_RALT" value="Дќрыс Ctrl" />
 
-	<string id="KEY_PAUSE" value="њзіліс" />
+	<string id="KEY_PAUSE" value="Pause" />
 
-	<string id="KEY_HOME" value="ћй" />
+	<string id="KEY_HOME" value="Home" />
 
-	<string id="KEY_UPARROW" value="ЖоЉары кљрсеткі" />
+	<string id="KEY_UPARROW" value="Up Arrow" />
 
-	<string id="KEY_PGUP" value="Пќх" />
+	<string id="KEY_PGUP" value="PgUp" />
 
-	<string id="KEY_LEFTARROW" value="Сол жаЌтаЉы кљрсеткі" />
+	<string id="KEY_LEFTARROW" value="Left Arrow" />
 
-	<string id="KEY_RIGHTARROW" value="ОЏ жаЌтаЉы кљрсеткі" />
+	<string id="KEY_RIGHTARROW" value="Right Arrow" />
 
-	<string id="KEY_END" value="СоЏы" />
+	<string id="KEY_END" value="End" />
 
-	<string id="KEY_DOWNARROW" value="Тљменге" />
+	<string id="KEY_DOWNARROW" value="Down Arrow" />
 
 	<string id="KEY_PGDN" value="Pgdn" />
 
-	<string id="KEY_INSERT" value="Њосу" />
+	<string id="KEY_INSERT" value="Insert" />
 
-	<string id="KEY_DELETE" value="Жою" />
+	<string id="KEY_DELETE" value="Delete" />
 
 	<string id="KEY_LWIN" value="" />
 
@@ -388,21 +388,21 @@
 
 	<string id="KEY_MEDIASELECT" value="" />
 
-	<string id="KEY_LBUTTON" value="Сол жаЌ Pr. тышЌандар" />
+	<string id="KEY_LBUTTON" value="LMB" />
 
-	<string id="KEY_RBUTTON" value="Дќрыс ханзада. тышЌандар" />
+	<string id="KEY_RBUTTON" value="RMB" />
 
-	<string id="KEY_MBUTTON" value="Орта ханзада. тышЌандар" />
+	<string id="KEY_MBUTTON" value="MMB" />
 
 	<string id="KEY_MOUSE_MOVE" value="" />
 
-	<string id="KEY_MWHEEL" value="ТышЌан дљЏгелегі" />
+	<string id="KEY_MWHEEL" value="Mouse wheel" />
 
-	<string id="KEY_CONTROL" value=")" />
+	<string id="KEY_CONTROL" value="Ctrl" />
 
 	<string id="KEY_ALT" value="Alt" />
 
-	<string id="KEY_SHIFT" value="Ауыстыру" />
+	<string id="KEY_SHIFT" value="Shift" />
 
 	<string id="KEY_MOUSE_MOVE_ON_UI" value="" />
 
