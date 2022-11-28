@@ -156,6 +156,8 @@ clear_steam.py
 !data/sounds/speech/r1m2/**/*.ogg
 !data/sounds/speech/r1m3/**/*.ogg
 !data/sounds/speech/r1m4/**/*.ogg
+!data/sounds/speech/r2m1/**/*.ogg
+!data/sounds/speech/r2m2/**/*.ogg
 !data/sounds/speech/r3m1/**/*.ogg
 !data/sounds/speech/r3m2/**/*.ogg
 !data/sounds/speech/rolik/**/*.ogg
