@@ -1,0 +1,25 @@
+# unique service name
+name: KatynZhukAvocalypse
+
+# required human readable info
+display_name: Қатын Жүк Авокалипси
+version: "1.0"
+build: "221207"
+description: |
+  Автоматический перевод всего русского текста на казахский язык и замена всей русской озвучки на казахскую, сгенерированную через Silero TTS.
+authors: pavlikrpg
+
+# optional human readable info
+release_date: 08 dec 2022
+language: kz
+link: https://github.com/zatinu322/hta_kazakh_autotranslation/releases
+
+# installation confguration
+prerequisites: 
+  - name: [community_remaster, community_patch]
+    versions:
+      - "1.12"
+    optional_content: []
+patcher_version_requirement: "1.12"
+no_base_content: false
+optional_content: []
