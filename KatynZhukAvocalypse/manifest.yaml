@@ -10,16 +10,16 @@ description: |
 authors: pavlikrpg
 
 # optional human readable info
-release_date: 08 dec 2022
+release_date: 01 apr 2023
 language: kz
-link: https://github.com/zatinu322/hta_kazakh_autotranslation/releases
+link: https://github.com/zatinu322/hta_kazakh_autotranslation
 
 # installation confguration
 prerequisites: 
-  - name: [community_remaster, community_patch]
+  - name: community_remaster
     versions:
-      - "1.12"
+      - "1.13"
     optional_content: []
-patcher_version_requirement: "1.12"
+patcher_version_requirement: "1.13"
 no_base_content: false
 optional_content: []
