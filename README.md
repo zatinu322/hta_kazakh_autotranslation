@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="" alt="Katyn Zhuk Avocalipsee logo" width="600">
-
+  <img src="https://github.com/zatinu322/hta_kazakh_autotranslation/assets/68562524/b73f160b-6ebb-4395-94d3-51a5a4012610" alt="Katyn Zhuk Avocalipsee logo" width="600">
+  <br>
   <table>
     <thead>
       <tr>
@@ -70,7 +70,7 @@ _Қатын Жүк Авокалипси_ - модификация, перево�
 
 # Установка
 
-### Подробный гайд по установке может быть найден [здесь]().
+### Подробный гайд по установке может быть найден [здесь](https://github.com/zatinu322/hta_kazakh_autotranslation/wiki/%D0%A3%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0).
 
 <a id="previous_versions_rus"></a>
 
@@ -145,7 +145,7 @@ Produced as a translation of the text (automatic translation), and revoicing the
 
 # Installation guide
 
-### Detailed installation guide can be found [here]().
+### Detailed installation guide can be found [here](https://github.com/zatinu322/hta_kazakh_autotranslation/wiki/Installation-guide).
 
 <a id="previous_versions_eng"></a>
 
