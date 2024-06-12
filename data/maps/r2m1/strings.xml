@@ -138,7 +138,7 @@
 
 	<string id="113" modelAutosized="true" modelName="boss04dronegun" modelSlot="1" sound="data\sounds\Speech\r2m1\r2m1_113_njeri.ogg" value="Nieri | Біз сіздіЏ кљмегіЏізге џміттендік. Сіз адамзаттыЏ соЏЉы џмітісісіз." time="4" />
 
-	<string id="120" modelName="mask_hero" sound="data\sounds\Speech\r2m1\r2m1_120_hero.ogg" value="| ... ... Ќате ... есептеулер. Кедергі кљзі - бќл ... екінші база ..." time="4" />
+	<string id="120" modelName="mask_oracul" sound="data\sounds\Speech\r2m1\r2m1_120_hero.ogg" value="| ... ... Ќате ... есептеулер. Кедергі кљзі - бќл ... екінші база ..." time="4" />
 
 	<string id="121" modelName="mask_hero" sound="data\sounds\Speech\r2m1\r2m1_121_hero.ogg" value="| Бќл љлшем!" time="4" />
 
@@ -156,7 +156,7 @@
 
 	<string id="8801" value="Сіз бќл аймаЌты ЌалдырЉыЏыз келе ме?" numButtons="2" />
 
-	<string id="8802" modelName="mask_hero" sound="data\sounds\Speech\r3m1\r3m1_8802_hero.ogg" value="Мен бќл жолдыЏ Ќайда апаратынын білмеймін, сондыЌтан мен осында Ќаламын." time="3" />
+	<string id="8802" modelName="mask_hero" sound="data\sounds\Speech\r3m1\r3m1_8802_hero.ogg" value="Мен бќл жолдыЏ Ќайда апаратынын білмеймін, сондыЌтан мен осында Ќаламын." time="5" />
 
 	<string id="8803" modelName="mask_hero" sound="data\sounds\Speech\r3m1\r3m1_8803_hero.ogg" value="Кейбір оЉаш орын. Бќл жерден болЉан дќрыс." time="3" />
 

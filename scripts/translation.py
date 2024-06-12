@@ -1,27 +1,29 @@
 import os
-import yaml
-import translators as ts
 import xml.etree.ElementTree as ET
+
+import translators as ts
 
 GAME_PATH = os.getcwd()
 
 SYMBOLS_TO_AVOID = {
-    "%1n": "123456781", 
-    "%1s": "123456782", 
-    "%1d": "123456783", 
-    "%1m": "123456784", 
-    "%1p": "123456785", 
-    "%2n": "123456786", 
-    "%2b": "123456787", 
-    "%2d": "123456788", 
-    "%3d": "123456789", 
+    "%1n": "123456781",
+    "%1s": "123456782",
+    "%1d": "123456783",
+    "%1m": "123456784",
+    "%1p": "123456785",
+    "%2n": "123456786",
+    "%2b": "123456787",
+    "%2d": "123456788",
+    "%3d": "123456789",
     "%s": "123456780"
 }
+
 
 def parse(path):
     file = ET.parse(os.path.join(GAME_PATH, path))
 
     return file
+
 
 def get_text(file_root, containers):
     strs_to_translate = {}
@@ -32,11 +34,14 @@ def get_text(file_root, containers):
 
     for data in file_root.iter(tag):
         if id_attr and text_attr in data.attrib.keys():
-            strs_to_translate.update({data.attrib[id_attr]: data.attrib[text_attr]})
+            strs_to_translate.update(
+                {data.attrib[id_attr]: data.attrib[text_attr]}
+            )
         else:
             print(f"WARNING! {text_attr} or {id_attr} is not in {data.attrib}")
-    
+
     return strs_to_translate
+
 
 def write(file, path, containers, phrases):
     file_root = file.getroot()
@@ -50,11 +55,13 @@ def write(file, path, containers, phrases):
             try:
                 data.set(text_attr, phrases[data.attrib[id_attr]])
             except KeyError as error:
-                print(f"Unable to translate via KeyError: {error} in {data.attrib}")
-    
+                print(f"Unable to translate via KeyError: "
+                      f"{error} in {data.attrib}")
+
     file.write(os.path.join(GAME_PATH, path), encoding="windows-1251")
-    
+
     return True
+
 
 def kk_lang_fix(phrases):
     kk_letters = {
@@ -80,8 +87,9 @@ def kk_lang_fix(phrases):
             if word in text:
                 text = text.replace(word, change)
             phrases.update({id: text})
-    
+
     return phrases
+
 
 def translate(path, containers, from_lang="ru", to_lang="en"):
     print(f"parsing {path}...")
@@ -98,8 +106,8 @@ def translate(path, containers, from_lang="ru", to_lang="en"):
             phrases.pop("ExMachina URL")
             phrases.pop("Buka URL")
             phrases.pop("Nival URL")
-        
-        for k,v in SYMBOLS_TO_AVOID.items():
+
+        for k, v in SYMBOLS_TO_AVOID.items():
             for id, phrase in phrases.items():
                 if k in phrase:
                     phrase = phrase.replace(k, v)
@@ -107,14 +115,19 @@ def translate(path, containers, from_lang="ru", to_lang="en"):
 
     print(f"translating text data from {from_lang} to {to_lang}...")
     for id, phrase in phrases.items():
-        translation = ts.google(phrase, from_language=from_lang, to_language=to_lang)
+        translation = ts.translate_text(
+            phrase,
+            translator="google",
+            from_language=from_lang,
+            to_language=to_lang
+        )
         phrases.update({id: translation})
 
     if to_lang == "kk":
         phrases = kk_lang_fix(phrases)
 
     if need_validation:
-        for k,v in SYMBOLS_TO_AVOID.items():
+        for k, v in SYMBOLS_TO_AVOID.items():
             for id, phrase in phrases.items():
                 if v in phrase:
                     phrase = phrase.replace(v, k)
@@ -125,6 +138,7 @@ def translate(path, containers, from_lang="ru", to_lang="en"):
         print("DONE\n")
         return True
 
+
 def main():
     # print(f"working in {GAME_PATH}")
 
@@ -132,13 +146,16 @@ def main():
     #     FILES_TO_CHANGE = yaml.safe_load(manifest)
 
     # for file, cont in FILES_TO_CHANGE.items():
-    #     # try:
     #     translate(file, cont, to_lang="kk")
-    #     # except Exception as err:
-    #     #     print(err)
 
-    translation = ts.google("ЗАПРЕЩЕНО", from_language="ru", to_language="kk")
+    translation = ts.translate_text(
+        "Привет, мир!",
+        translator="google",
+        from_language="ru",
+        to_language="kk"
+    )
     print(kk_lang_fix({"id": translation}))
-    
+
+
 if __name__ == "__main__":
     main()

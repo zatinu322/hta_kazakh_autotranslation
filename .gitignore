@@ -145,6 +145,7 @@ clear_steam.py
 !scripts/manifest_hd.yaml
 !scripts/translation.py
 !KatynZhukAvocalypse/manifest.yaml
+!requirements.txt
 # more ignoring files
 KatynZhukAvocalypse/data/if/ico/splashes/les.dds
 KatynZhukAvocalypse/data/if/ico/splashes/loading_screen_2.dds
@@ -168,3 +169,5 @@ KatynZhukAvocalypse/data/sounds/radio/r_madman_dead_3.ogg
 snother.py
 renaming.py
 remaster/manifest.yaml
+
+venv/

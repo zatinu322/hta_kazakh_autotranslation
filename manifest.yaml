@@ -1,8 +1,14 @@
-# unique service name
-name: KatynZhukAvocalypse
+# common info
+name: katyn_zhuk_avocalypsee
+language: kz
+installment: exmachina
+
+# main human readable info
+display_name: Қатын Жүк Авокалипси
+version: "1.1"
 
 # required human readable info
-display_name: Қатын Жүк Авокалипси
+display_name: 
 version: "1.0"
 build: "221207"
 description: |

@@ -302,7 +302,7 @@
 		<Map name="r1m3" targetObjName="TheBase" />
 	</QuestInfo>
 
-	<QuestInfo questName="d_FindLisaInGelvetcia_Quest" briefDiz="ГелеветиядаЉы тџлкіні ќстап алыЏыз" fullDiz="ГельветиядаЉы тџлкініЏді Ќуып жету." isMainQuest="1">
+	<QuestInfo questName="d_FindLisaInGelvetcia_Quest" briefDiz="ГелеветиядаЉы тџлкіні ќстап алыЏыз" fullDiz="Кљп ќзамай тџлкі ол жасаЉан барлыЌ н‡рселер џшін тљлейді! Енді мен оныЏ Ќайда екенін д‡л білемін!" isMainQuest="1">
 		<Map name="r2m1" targetObjName="TheGelvetcia" />
 	</QuestInfo>
 
@@ -434,10 +434,6 @@
 		<Map name="r1m3" targetObjName="Argument" />
 	</QuestInfo>
 
-	<QuestInfo questName="d_Glagiators_Quest" isMainQuest="0">
-		<Map name="r1m2" />
-	</QuestInfo>
-
 	<QuestInfo questName="d_HelpSideVillageSNG_Quest" briefDiz="Шекара ауылын ЌорЉау" fullDiz="Кішкентай елді мекендер џнемі скарлеттік таЏныЏ ќрпаЌтарымен шабуылЉа ќшырайды. Мен шабуылдыЏ алдын аламын, ж‡не мен оны жасаймын." isMainQuest="1" />
 
 	<QuestInfo questName="d_HelpSideVillageSNG_Quest1" briefDiz="АуылЉа жету" isMainQuest="1">
@@ -470,10 +466,6 @@
 		<Map name="r2m1" />
 
 		<Map name="r2m2" />
-	</QuestInfo>
-
-	<QuestInfo questName="d_MerIsThief_Quest" briefDiz="†кіммен сљйлесу" isMainQuest="1">
-		<Map name="r1m3" targetObjName="Minin" />
 	</QuestInfo>
 
 	<QuestInfo questName="d_MoveCanistraToMinin_Quest" briefDiz="МќнайдыЏ алЉашЌы канистрін мининге апарыЏыз" fullDiz="Бќл канистр - бќл жаЌсы тапЌан таЏба. Біз оны ЌалаЉа апаруымыз керек." isMainQuest="1">
@@ -534,18 +526,8 @@
 		<Map name="r1m1" targetObjName="RevolutionTimeEndLoc" />
 	</QuestInfo>
 
-	<QuestInfo questName="d_ReturnToBen_Quest" briefDiz="Бенге оралу" fullDiz="Бќл жалЉан белгі сияЌты. Бен не істеу керектігін аныЌтайды деп џміттенемін." isMainQuest="1">
-		<Map name="r1m2" targetObjName="TheBen_House" />
-
-		<Map name="r1m3" targetObjName="ToR1M2" />
-	</QuestInfo>
-
 	<QuestInfo questName="d_ReturnToTuzzAfterCaravan_Quest" briefDiz="The ACE-ге оралу ж‡не есеп беру" isMainQuest="1">
 		<Map name="r2m1" targetObjName="KARAVANvvt_vehicle_0" />
-	</QuestInfo>
-
-	<QuestInfo questName="d_ReturnTuzzAfterTunel_Quest" briefDiz="ACE-ге оралу" fullDiz="ACE-ге оралу" isMainQuest="1">
-		<Map name="r2m1" targetObjName="TheTuzz" />
 	</QuestInfo>
 
 	<QuestInfo questName="d_ReturnTuzz_Quest" briefDiz="ACE-ге оралу" fullDiz="ACE-ге оралу" isMainQuest="1">
@@ -586,14 +568,6 @@
 		<Map name="r2m1" targetObjName="BossARCar" />
 	</QuestInfo>
 
-	<QuestInfo questName="d_TalkAboutAksel_Quest" briefDiz="АЌсель туралы сќраЏыз" fullDiz="Біз омель ж‡не оны Ќайдан табатын жергілікті тќрЉындардан сќрауымыз керек." isMainQuest="1">
-		<Map name="r2m1" coordinate="6004.000 277.000 4372.000" />
-	</QuestInfo>
-
-	<QuestInfo questName="d_TalkAboutLisa_Quest" briefDiz="Тџлкі туралы сќраЏыз" fullDiz="БарлыЉы тџлкіні біледі. Біреуі Љана сќрауЉа болады, ж‡не мен оны оЏай ала аламын." isMainQuest="1">
-		<Map name="r2m1" coordinate="6004.000 277.000 4372.000" />
-	</QuestInfo>
-
 	<QuestInfo questName="d_TalkAboutVrataInMinin_Quest" briefDiz="ТеЏіз ЌаЌпалары туралы біліЏіз" fullDiz="Мининдегі біреу теЏіз ЌаЌпалары туралы білетін шыЉар." isMainQuest="1">
 		<Map name="r1m2" targetObjName="ToR1M3" />
 
@@ -608,7 +582,7 @@
 		<Map name="r1m3" targetObjName="Minin" />
 	</QuestInfo>
 
-	<QuestInfo questName="d_TunelInAsgard_Quest" briefDiz="АсгардтаЉы туннель туралы сќраЏыз" fullDiz="ЊаЉардта туннель туралы сќраЏыз." isMainQuest="1">
+	<QuestInfo questName="d_TunelInAsgard_Quest" briefDiz="Онда біреу тауларды Ќалай ж‡не Ќай жерде кесіп љтуге болатынын білуі керек." fullDiz="ЊаЉардта туннель туралы сќраЏыз." isMainQuest="1">
 		<Map name="r1m2" targetObjName="ToR1M3" />
 
 		<Map name="r1m3" targetObjName="Asgard" />
@@ -802,10 +776,6 @@
 		<Map name="r1m3" targetObjName="Minin" />
 	</QuestInfo>
 
-	<QuestInfo questName="r1m3_FindManyWorkers_Quest" briefDiz="њЏЉымадаЉы жќмысшыларды табыЏыз" fullDiz="Тіпті бандиттерден босатылЉан шахта љздігінен жќмыс істемейді. Бізге жќмысшылар Ќажет." isMainQuest="0">
-		<Map name="r1m3" />
-	</QuestInfo>
-
 	<QuestInfo questName="r1m3_FindThiefFromFatherHouse" briefDiz="ЖеЏіліс туралы біліЏіз" fullDiz="†келер џйінде б‡рі тљЏкерілген. Мџмкін, мќнда не болЉанын адамдар кљрген шыЉар. Біз бардан сќрауымыз керек." isMainQuest="1">
 		<Map name="r1m3" targetObjName="Minin" />
 	</QuestInfo>
@@ -954,10 +924,6 @@
 
 	<QuestInfo questName="r2m2_FightWithAxelInArena_Quest" briefDiz="Акселмен кџресіЏіз" fullDiz="Мен аренадаЉы AXEL-мен кџресемін ж‡не оны маЉан айтыЏыз." isMainQuest="1" />
 
-	<QuestInfo questName="r2m2_FightWithAxelInArena_Quest1" isMainQuest="1">
-		<Map name="r2m2" coordinate="3318.000 280.000 1260.000" />
-	</QuestInfo>
-
 	<QuestInfo questName="r2m2_FightWithAxelInArena_Quest_1" briefDiz="АренадаЉы AXEL-мен кездесіЏіз" isMainQuest="1">
 		<Map name="r2m2" targetObjName="Arena" />
 	</QuestInfo>
@@ -970,10 +936,6 @@
 		<Map name="r2m1" targetObjName="TheSel" />
 
 		<Map name="r2m2" targetObjName="ToR2M1" />
-	</QuestInfo>
-
-	<QuestInfo questName="r2m2_FindMrPresident" briefDiz="ТаЉайындалЉан жерге келіЏіз" isMainQuest="1">
-		<Map name="r2m2" coordinate="756.000 261.000 3286.000" />
 	</QuestInfo>
 
 	<QuestInfo questName="r2m2_FindROMinCastle" briefDiz="МонастырЉа келіЏіз" fullDiz="МонастырЉан шарапты монастырдан алу џшін кџдікті бір н‡рсе бар ..." isMainQuest="1">
@@ -1062,10 +1024,6 @@
 		<Map name="r2m1" targetObjName="ToR2M2" />
 
 		<Map name="r2m2" targetObjName="Marezzia" />
-	</QuestInfo>
-
-	<QuestInfo questName="r2m2_ReturnToMarecciaFromMrPresident" briefDiz="Есеппен оралу" isMainQuest="1">
-		<Map name="r2m2" coordinate="1829.361 -1.916 3300.456" />
 	</QuestInfo>
 
 	<QuestInfo questName="r2m2_ReturnToMarecciaFromVillage" briefDiz="МаретсияЉа оралу" fullDiz="Марапаттау џшін ж‡не жаЏа тапсырма џшін оралу уаЌыты келді." isMainQuest="1">
