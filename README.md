@@ -132,7 +132,7 @@ Produced as a translation of the text (automatic translation), and revoicing the
 # Download link
 
 * ## For Community Patch/Remaster v1.14.1
-  * [Katyn Zhuk Avokalipsi v1.1]() [KZ]
+  * [Katyn Zhuk Avokalipsi v1.1](https://github.com/zatinu322/hta_kazakh_autotranslation/releases/tag/v1.1-build-240612a) [KZ]
 
 <a id="installation_eng"></a>
 
