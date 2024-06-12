@@ -5,8 +5,6 @@ installment: exmachina
 
 # main human readable info
 display_name: Қатын Жүк Авокалипси
-version: "1.1"
-build: "240612a"
 description: |
   Silero TTS көмегімен жасалған барлық орыс тіліндегі мәтінді автоматты түрде қазақ тіліне аудару және орыс тіліне әрекет ететін барлық орыс дауысын ауыстыру.
 authors: pavlikrpg
@@ -18,7 +16,6 @@ link: https://github.com/zatinu322/hta_kazakh_autotranslation
 trailer_url: https://www.youtube.com/watch?v=zIv-zWTllN0
 tags: [humor, audio, ui]
 # change_log:
-# other_info:
 
 screenshots:
   - img: assets/screen_0.jpg
@@ -30,8 +27,6 @@ screenshots:
   - img: assets/screen_3.jpg
     text: Южный маңында Клоппен шайқас.
 
-variants: [patch]
-
 # installation confguration
 no_base_content: false
 strict_requirements: true
@@ -40,13 +35,14 @@ compatible_patch_versions: false
 
 date_dirs:
   - data
+  - patch_font_fix
 
 # installator compatibility
 patcher_version_requirement: "2.2"
 
 # compatch requirements
 prerequisites: 
-  - name: [community_remaster]
+  - name: [community_patch]
     versions:
       - "1.14.1"
     optional_content: []

@@ -146,6 +146,9 @@ clear_steam.py
 !scripts/translation.py
 !KatynZhukAvocalypse/manifest.yaml
 !requirements.txt
+!uischema2.xml
+!manifest_patch_kz.yaml
+!assets/*.*
 # more ignoring files
 KatynZhukAvocalypse/data/if/ico/splashes/les.dds
 KatynZhukAvocalypse/data/if/ico/splashes/loading_screen_2.dds
