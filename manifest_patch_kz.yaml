@@ -1,21 +1,23 @@
 # common info
-name: katyn_zhuk_avocalypsee
+name: katyn_zhuk_avocalypsee_sd
 language: kz
 installment: exmachina
 
 # main human readable info
-display_name: Қатын Жүк Авокалипси
+display_name: Қатын Жүк Авокалипси [ComPatch]
 description: |
   Silero TTS көмегімен жасалған барлық орыс тіліндегі мәтінді автоматты түрде қазақ тіліне аудару және орыс тіліне әрекет ететін барлық орыс дауысын ауыстыру.
 authors: pavlikrpg
 
 # optional human readable info
 logo: assets/logo.png
+install_banner: assets/logo.png
+
 release_date: "12.06.2024"
 link: https://github.com/zatinu322/hta_kazakh_autotranslation
 trailer_url: https://www.youtube.com/watch?v=zIv-zWTllN0
 tags: [humor, audio, ui]
-# change_log:
+change_log: assets/change_list.md
 
 screenshots:
   - img: assets/screen_0.jpg
@@ -33,7 +35,7 @@ strict_requirements: true
 compatible_minor_versions: false
 compatible_patch_versions: false
 
-date_dirs:
+data_dirs:
   - data
   - patch_font_fix
 
