@@ -11,10 +11,10 @@
     <a href="https://discord.gg/qKK2Efx">
         <img src="https://github.com/zatinu322/Var-Mod-Trash-Machina/assets/68562524/3d63e8f9-653c-4b4d-8ad2-6aa2d079fd2e", width="50", height="50", alt="Community Discord">
     </a><br/><br/>
-    <a href="">
+    <a href="https://github.com/zatinu322/hta_kazakh_autotranslation/releases/tag/v1.1-build-240612a">
         <img src="https://img.shields.io/badge/Қатын_Жүк_Авокалипси-v.1.1_build_240612a-0c7307" alt="Latest release"/>
     </a><br/>
-    <img src="https://img.shields.io/badge/Community_Patch/Remaster_support-v1.14.1, v1.13-blue" alt="Development status"/><br/>
+    <img src="https://img.shields.io/badge/Community_Patch/Remaster_support-v1.14.1-blue" alt="Development status"/><br/>
     <img src="https://img.shields.io/badge/Release_date-12/06/2024-0c7307" alt="Release date"/>
   </p>
   <table>
@@ -76,13 +76,13 @@ _Қатын Жүк Авокалипси_ - модификация, перево�
 # Скачать
 
 * ## Для Community Patch/Remaster v1.14.1
-  * [Қатын Жүк Авокалипси v1.1]() [KZ]
+  * [Қатын Жүк Авокалипси v1.1](https://github.com/zatinu322/hta_kazakh_autotranslation/releases/tag/v1.1-build-240612a) [KZ]
 
 <a id="installation_rus"></a>
 
 # Установка
 
-### Подробный гайд по установке может быть найден [здесь](https://github.com/zatinu322/hta_kazakh_autotranslation/wiki/%D0%A3%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0).
+### Подробный гайд по установке находится [здесь](https://github.com/zatinu322/hta_kazakh_autotranslation/wiki/%D0%A3%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0).
 
 <a id="previous_versions_rus"></a>
 
